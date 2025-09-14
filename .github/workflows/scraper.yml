@@ -35,7 +35,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python Daily_Commissary_Sales_multiple.py
+          python Daily_Commissary_Sales_multiple_stores.py
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
