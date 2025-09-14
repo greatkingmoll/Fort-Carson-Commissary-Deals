@@ -219,20 +219,20 @@ def main():
         with open(SEEN_FILE, 'w', encoding='utf-8') as f:
             json.dump(seen, f, indent=2)
 
-        # Write text file (existing logic)
         with open(txt, 'w', encoding='utf-8') as tf:
             print(f"{date_str}\nItems discounted by 45% or more:", file=tf)
             for it in disc_items:
                 marker = "***" if it in new_items else ""
-                print(f"{it['name'][:84]:<84}"
-                      f"{f'${it['original_price']:.2f}':^15}"
-                      f"{f'${it['sale_price']:.2f}':^15}"
-                      f"{f'{it['discount']:.1f}% {marker}':^15}",
-                      file=tf)
-            print(f"\nElapsed Time: N/A", file=tf)  # Optionally track elapsed
-
+                name_col = f"{it['name'][:84]:<84}"
+                orig_col = f"${it['original_price']:.2f}".center(15)
+                sale_col = f"${it['sale_price']:.2f}".center(15)
+                disc_col = f"{it['discount']:.1f}% {marker}".center(15)
+                tf.write(name_col + orig_col + sale_col + disc_col + "\n")
+            tf.write(f"\nElapsed Time: N/A\n")    
+    
         # Write enhanced HTML
         write_html(html, store, disc_items, new_items, date_str)
 
 if __name__ == '__main__':
     main()
+
