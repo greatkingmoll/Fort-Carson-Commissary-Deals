@@ -21,8 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install selenium requests
-          pip install webdriver-manager
+          pip install selenium requests webdriver-manager
 
       - name: Install Chrome and Chromedriver
         run: |
