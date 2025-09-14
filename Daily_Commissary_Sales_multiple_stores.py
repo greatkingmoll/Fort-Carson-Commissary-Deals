@@ -5,6 +5,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
+from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 from datetime import datetime, timedelta
@@ -40,10 +41,13 @@ def setup_driver():
     opts = Options()
     opts.add_argument("--headless")
     opts.add_argument("--disable-gpu")
-    opts.add_argument("--no-sandbox")  # Required for GitHub Actions
-    opts.add_argument("--disable-dev-shm-usage")  # Required for GitHub Actions
+    opts.add_argument("--no-sandbox")
+    opts.add_argument("--disable-dev-shm-usage")
+
+    # Use webdriver-manager to install and wrap in Service
     driver_path = ChromeDriverManager().install()
-    return webdriver.Chrome(driver_path, options=opts)
+    service = Service(driver_path)
+    return webdriver.Chrome(service=service, options=opts)
 
 def extract_items(driver, url, COOKIES):
     MAX_RETRIES = 3
@@ -237,6 +241,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
 
 
