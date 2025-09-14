@@ -43,7 +43,7 @@ def setup_driver():
     opts.add_argument("--no-sandbox")  # Required for GitHub Actions
     opts.add_argument("--disable-dev-shm-usage")  # Required for GitHub Actions
     driver_path = ChromeDriverManager().install()
-    return webdriver.Chrome(options=opts)
+    return webdriver.Chrome(driver_path, options=opts)
 
 def extract_items(driver, url, COOKIES):
     MAX_RETRIES = 3
@@ -237,5 +237,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
 
