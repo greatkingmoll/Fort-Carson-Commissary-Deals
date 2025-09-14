@@ -5,6 +5,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
+from webdriver_manager.chrome import ChromeDriverManager
 import time
 from datetime import datetime, timedelta
 import shutil
@@ -41,6 +42,7 @@ def setup_driver():
     opts.add_argument("--disable-gpu")
     opts.add_argument("--no-sandbox")  # Required for GitHub Actions
     opts.add_argument("--disable-dev-shm-usage")  # Required for GitHub Actions
+    driver_path = ChromeDriverManager().install()
     return webdriver.Chrome(options=opts)
 
 def extract_items(driver, url, COOKIES):
@@ -235,4 +237,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
