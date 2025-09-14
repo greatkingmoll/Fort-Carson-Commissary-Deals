@@ -13,33 +13,35 @@ import os
 import base64
 import requests
 
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
 REPO_OWNER = "greatkingmoll"
 REPO_NAME = "Fort-Carson-Commissary-Deals"
 TARGET_PATH = "index.html"
 BRANCH = "main"
 API_URL = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{TARGET_PATH}"
 
-powershell_path = r"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
-script_path = r"C:\Users\robin\Commissary\Send_attachment_multiple.ps1"
+# powershell_path = r"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+# script_path = r"C:\Users\robin\Commissary\Send_attachment_multiple.ps1"
 
 ALL_COOKIES = [
-    { 'pref': '%7B%22store_id%22%3A%225827%22%7D', 'fp-pref': '%7B%22store_id%22%3A%225827%22%7D', 'fp_user_allowed_save_cookie': 'true' },
+#    { 'pref': '%7B%22store_id%22%3A%225827%22%7D', 'fp-pref': '%7B%22store_id%22%3A%225827%22%7D', 'fp_user_allowed_save_cookie': 'true' },
     { 'pref': '%7B%22store_id%22%3A%225825%22%7D', 'fp-pref': '%7B%22store_id%22%3A%225825%22%7D', 'fp_user_allowed_save_cookie': 'true' },
-    { 'pref': '%7B%22store_id%22%3A%225824%22%7D', 'fp-pref': '%7B%22store_id%22%3A%225824%22%7D', 'fp_user_allowed_save_cookie': 'true' },
+#    { 'pref': '%7B%22store_id%22%3A%225824%22%7D', 'fp-pref': '%7B%22store_id%22%3A%225824%22%7D', 'fp_user_allowed_save_cookie': 'true' },
 ]
 
 URLS = {
     'ALL Departments': 'https://shop.commissaries.com/shop#!/?limit=96&sort=price&filter=is_on_sale',
 }
 
-CHROME_DRIVER_PATH = '/WINDOWS/SYSTEM32/chromedriver.exe'
+# CHROME_DRIVER_PATH = '/WINDOWS/SYSTEM32/chromedriver.exe'
 
 def setup_driver():
     opts = Options()
     opts.add_argument("--headless")
     opts.add_argument("--disable-gpu")
-    return webdriver.Chrome(service=Service(CHROME_DRIVER_PATH), options=opts)
+    opts.add_argument("--no-sandbox")
+    opts.add_argument("--disable-dev-shm-usage")
+    return webdriver.Chrome(options=opts)
 
 def extract_items(driver, url, COOKIES):
     MAX_RETRIES = 3
@@ -272,11 +274,15 @@ def main():
         with open(txt, 'a', encoding='utf-8') as f:
             print(f"\nElapsed Time: {elapsed_time:.0f} seconds", file=f)
 
-    subprocess.run([powershell_path, "-File", script_path])
+#    subprocess.run([powershell_path, "-File", script_path])
 	
-    with open ("Daily_Commissary_Sales_Fort_Carson.html", "r", encoding="utf-8") as f:
+    try:
+	    with open ("Daily_Commissary_Sales_Fort_Carson.html", "r", encoding="utf-8") as f:
 	    html_data = f.read()
     github_update_index(html_data, commit_message = "Automated update of Fort Carson deals")
+    except FileNotFoundError:
+	    print("Fort Carson HTML file not found, skipping GitHub update")
 	
 if __name__ == '__main__':
+
     main()
