@@ -51,13 +51,13 @@ jobs:
           git diff
 
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Automated update of Commissary deals
-          file_pattern: |
-            Daily_Commissary_Sales_*.html
-            Daily_Commissary_Sales_*.txt
-            seen_items.json
-          add_options: '--all'
-          branch: main
-
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add seen_items.json Daily_Commissary_Sales_*.html Daily_Commissary_Sales_*.txt
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated update of Commissary deals"
+            git push
+          else
+            echo "No changes to commit"
+          fi
