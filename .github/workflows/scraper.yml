@@ -39,6 +39,17 @@ jobs:
         run: |
           python Daily_Commissary_Sales_multiple_stores.py
 
+      - name: Debug file status
+        run: |
+          echo "=== Files in directory ==="
+          ls -la
+          echo "=== Git status ==="
+          git status
+          echo "=== Contents of seen_items.json ==="
+          cat seen_items.json
+          echo "=== Git diff ==="
+          git diff
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
