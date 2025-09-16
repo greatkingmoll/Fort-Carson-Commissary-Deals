@@ -5,7 +5,6 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
-from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 from datetime import datetime, timedelta
@@ -24,18 +23,18 @@ TARGET_PATH = "index.html"
 BRANCH = "main"
 API_URL = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{TARGET_PATH}"
 
-
 # Configuration
 ALL_COOKIES = [
-#    { 'pref': '%7B%22store_id%22%3A%225827%22%7D', 'fp-pref': '%7B%22store_id%22%3A%225827%22%7D', 'fp_user_allowed_save_cookie': 'true' },
+    # { 'pref': '%7B%22store_id%22%3A%225827%22%7D', 'fp-pref': '%7B%22store_id%22%3A%225827%22%7D', 'fp_user_allowed_save_cookie': 'true' },
     { 'pref': '%7B%22store_id%22%3A%225825%22%7D', 'fp-pref': '%7B%22store_id%22%3A%225825%22%7D', 'fp_user_allowed_save_cookie': 'true' },
-#    { 'pref': '%7B%22store_id%22%3A%225824%22%7D', 'fp-pref': '%7B%22store_id%22%3A%225824%22%7D', 'fp_user_allowed_save_cookie': 'true' },
+    # { 'pref': '%7B%22store_id%22%3A%225824%22%7D', 'fp-pref': '%7B%22store_id%22%3A%225824%22%7D', 'fp_user_allowed_save_cookie': 'true' },
 ]
+
 URLS = {
     'ALL Departments': 'https://shop.commissaries.com/shop#!/?limit=96&sort=price&filter=is_on_sale',
 }
+
 SEEN_FILE = "seen_items.json"
-# CHROME_DRIVER_PATH = '/WINDOWS/SYSTEM32/chromedriver.exe'
 
 def setup_driver():
     opts = Options()
@@ -43,8 +42,7 @@ def setup_driver():
     opts.add_argument("--disable-gpu")
     opts.add_argument("--no-sandbox")
     opts.add_argument("--disable-dev-shm-usage")
-
-    # Use webdriver-manager to install and wrap in Service
+    
     driver_path = ChromeDriverManager().install()
     service = Service(driver_path)
     return webdriver.Chrome(service=service, options=opts)
@@ -218,15 +216,13 @@ def main():
             if not first_seen:
                 seen[name] = today_str
                 first_seen = today_str
+            # Item is "new" if first seen today or yesterday
             if first_seen in (today_str, yesterday_str):
                 new_items.append(it)
 
-        # Persist seen mapping
-        with open(SEEN_FILE, 'w', encoding='utf-8') as f:
-            json.dump(seen, f, indent=2)
-
+        # Write text file (existing logic)
         with open(txt, 'w', encoding='utf-8') as tf:
-            print(f"{date_str}\nItems discounted by 45% or more:", file=tf)
+            tf.write(f"{date_str}\nItems discounted by 45% or more:\n")
             for it in disc_items:
                 marker = "***" if it in new_items else ""
                 name_col = f"{it['name'][:84]:<84}"
@@ -234,14 +230,14 @@ def main():
                 sale_col = f"${it['sale_price']:.2f}".center(15)
                 disc_col = f"{it['discount']:.1f}% {marker}".center(15)
                 tf.write(name_col + orig_col + sale_col + disc_col + "\n")
-            tf.write(f"\nElapsed Time: N/A\n")    
-    
+            tf.write(f"\nElapsed Time: N/A\n")
+
         # Write enhanced HTML
         write_html(html, store, disc_items, new_items, date_str)
 
+    # Persist seen mapping after processing all stores
+    with open(SEEN_FILE, 'w', encoding='utf-8') as f:
+        json.dump(seen, f, indent=2)
+
 if __name__ == '__main__':
     main()
-
-
-
-
