@@ -11,24 +11,24 @@ Freedom's Choice Diced Beets 15 oz can                                          
 Freedom's Choice Chili Powder 4.5 oz jar                                                 $2.90          $0.50          82.8%     
 Freedoms Choice Spice Salt And Pepper Sakers 5 Oz                                        $1.59          $0.50          68.6%     
 Gerber Non-GMO Banana Baby Food 3.5 oz pouch                                             $1.32          $0.57          56.8%     
-Gerber Non-GMO Pear Baby Food 2 oz container 2 ct                                        $1.26          $0.64          49.2%     
-Gerber Non-GMO Apple Baby Food 2 oz container 2 ct                                       $1.26          $0.64          49.2%     
 Gerber Non-GMO Sweet Potato Baby Food 2 oz container 2 ct                                $1.26          $0.64          49.2%     
+Gerber Non-GMO Apple Baby Food 2 oz container 2 ct                                       $1.26          $0.64          49.2%     
 Gerber organic mango peach carrot sweet potato oatmeal puree 3.5 oz                      $1.46          $0.64          56.2%     
-Progresso Rich & Hearty Chicken & Homestyle Noodles Soup 19 oz can                       $2.35          $0.74          68.5%     
-Progresso Rich & Hearty Chicken Pot Pie Style with Dumplings 18.5 oz can                 $2.35          $0.74          68.5%     
-Progresso Creamy Chicken Homestyle Chicken Noodle Soup 18.5 OZ                           $2.35          $0.74          68.5%     
+Gerber Non-GMO Pear Baby Food 2 oz container 2 ct                                        $1.26          $0.64          49.2%     
 Progresso Rich & Hearty Broccoli Cheese with Bacon Soup 18 oz can                        $2.35          $0.74          68.5%     
 Progresso Rich & Hearty Lasagna Style with Italian Sausage Soup 18.5 oz can              $2.35          $0.74          68.5%     
+Progresso Creamy Chicken Homestyle Chicken Noodle Soup 18.5 OZ                           $2.35          $0.74          68.5%     
 Progresso Rich & Hearty Loaded Potato with Bacon Soup 18.5 can                           $2.35          $0.74          68.5%     
+Progresso Rich & Hearty Chicken Pot Pie Style with Dumplings 18.5 oz can                 $2.35          $0.74          68.5%     
+Progresso Rich & Hearty Chicken & Homestyle Noodles Soup 19 oz can                       $2.35          $0.74          68.5%     
 Progresso Rich & Hearty Beef Pot Roast with Country Vegetables Soup 18.5 oz can          $2.35          $0.74          68.5%     
 Progresso Rich & Hearty Savory Beef Barley Vegetable Soup 18.6 oz can                    $2.35          $0.74          68.5%     
 Progresso Rich & Hearty New England Clam Chowder Soup 18.5 can                           $2.35          $0.74          68.5%     
 Freedom's Choice Seasoning Salt 16 oz jar                                                $3.30          $0.75          77.3%     
 TopCare Gentle Overnight Relief Laxative Bisacodyl 5 mg 25 tablets                       $1.56          $0.78          50.0%     
-Gerber Non-GMO Apple Banana & Oatmeal Cereal Baby Food 4 oz container 2 ct               $1.69          $0.84          50.3%     
 Gerber Non-GMO Butternut Squash Baby Food 4 oz container 2 ct                            $1.69          $0.84          50.3%     
 Gerber Non-GMO Pumpkin Baby Food 4 oz container 2 ct                                     $1.69          $0.84          50.3%     
+Gerber Non-GMO Apple Banana & Oatmeal Cereal Baby Food 4 oz container 2 ct               $1.69          $0.84          50.3%     
 Gerber snacks for baby strawberry yogurt 2 ea                                            $1.72          $0.87          49.4%     
 Tippy Toes hypoallergenic mild and moisturizing baby lotion 13.6 fl oz                   $3.04          $1.00          67.1%     
 TopCare Double Action Effervescent Denture Cleanser tablets 40 ct box                    $2.08          $1.00          51.9%     
@@ -43,11 +43,11 @@ Gerber Chicken & Vegetables Pasta Stars Baby Food 6 oz package                  
 Progresso Green Split Pea Soup 19 oz can                                                 $2.25          $1.06          52.9%     
 Progresso Vegetable Classics Minestrone Soup 19 oz can                                   $2.25          $1.06          52.9%     
 Progresso Lentil Soup 19 oz can                                                          $2.25          $1.06          52.9%     
-Progresso Vegetable Classics Tomato Basil Soup 19 oz can                                 $2.25          $1.06          52.9%     
 Progresso Vegetable Classics Vegetable Soup 19 oz can                                    $2.25          $1.06          52.9%     
 Progresso Vegetable Classics Lentil with Roasted Vegetables Soup 19 oz can               $2.25          $1.06          52.9%     
 Progresso Vegetable Classics Garden Vegetable Soup 18 oz can                             $2.25          $1.06          52.9%     
 Progresso Vegetable Classics Hearty Tomato Soup 19 oz can                                $2.25          $1.06          52.9%     
+Progresso Vegetable Classics Tomato Basil Soup 19 oz can                                 $2.25          $1.06          52.9%     
 Pillsbury Original Icing Cinnamon Rolls 5 ct can                                         $2.03          $1.09          46.3%     
 Gerber Non-GMO Vanilla Puffs Baby Food 1.48 oz package                                   $2.44          $1.16          52.5%     
 Nature Valley Fruit and Nut Chewy Trail Mix Granola Bars 6 ct 1.2 oz box                 $2.72          $1.39          48.9%     
@@ -115,6 +115,7 @@ Topcare Cold/Flu Severe Daytime Liquid 12 Oz                                    
 TopCare Multivitamin Century Ultimate Women's Complete 100 tablets                       $6.52          $3.00          54.0%     
 FAJITA CHICKEN STRIPS                                                                    $6.14          $3.07          50.0%     
 FIZZCHW CGH&SORE THROAT RSPBRY                                                           $9.79          $3.18          67.5%     
+FIZZY CHEWS COLD & FLU ORANGE                                                            $9.79          $3.18        67.5% ***   
 GE Light Soft white LED 13w Bulbs 2 ct                                                   $6.49          $3.25          50.0%     
 GE Light Daylight LED 13w Bulbs 2 ct                                                     $6.49          $3.25          50.0%     
 TOPPING PIE SHELL GLUTEN FREE 9 inch 2PK                                                 $6.42          $3.30          48.6%     
@@ -131,8 +132,8 @@ TopCare Calcium 600 mg with Vitamin D3 800 IU 300 tablets                       
 BOND REPAIR CD LEAVE-IN 11OZ                                                             $8.99          $4.54          49.5%     
 Impossible Burger Patties 8 Oz                                                           $4.79          $2.29          52.2%     
 Gerber snacks for baby yogurt melts variety pack 4 ea                                    $11.64         $4.92          57.7%     
-Gerber favorite fruit and veggie pouches value pack 9 ea                                 $11.82         $5.03          57.4%     
 Gerber toddler yogurt pouches variety pack 9 ea                                          $11.82         $5.03          57.4%     
+Gerber favorite fruit and veggie pouches value pack 9 ea                                 $11.82         $5.03          57.4%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $5.22          49.1%     
 CAT FOOD DRY PLUS CARE TUNA                                                              $10.75         $5.45          49.3%     
 Huggies natural care sensitive & fragrance free 288 ea                                   $10.70         $5.00          53.3%     
