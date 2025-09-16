@@ -238,6 +238,8 @@ def main():
     # Persist seen mapping after processing all stores
     with open(SEEN_FILE, 'w', encoding='utf-8') as f:
         json.dump(seen, f, indent=2)
+    print("Wrote seen file at:", os.path.abspath(SEEN_FILE))
 
 if __name__ == '__main__':
     main()
+
