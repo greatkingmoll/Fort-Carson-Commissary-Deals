@@ -56,6 +56,8 @@ jobs:
           commit_message: Automated update of Commissary deals
           file_pattern: |
             Daily_Commissary_Sales_*.html
-            index.html
+            Daily_Commissary_Sales_*.txt
             seen_items.json
+          add_options: '--all'
           branch: main
+
