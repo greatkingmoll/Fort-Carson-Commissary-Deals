@@ -56,6 +56,10 @@ CONES ICE CREAM WAFFLE CONES                                                    
 TopCare Extra Strength Gas Relief Cherry Creme Chewable 125 mg 18 tablets                $2.84          $1.42          50.0%     
 Betty Crocker SpongeBob Fruit Flavored Snacks 8 oz package                               $2.72          $1.45          46.7%     
 Betty Crocker Scooby Doo Fruit Flavored Snacks 8 oz box                                  $2.72          $1.45          46.7%     
+Betty Crocker Jolly Rancher Fruit Roll-Ups 5 oz package                                  $2.97          $1.48        50.2% ***   
+Betty Crocker Fruit Roll-Ups Variety Pack 5 oz box                                       $2.97          $1.48        50.2% ***   
+Betty Crocker Sour Fruit Roll-Ups 5 oz                                                   $2.97          $1.48        50.2% ***   
+Betty Crocker Fruit Roll-Ups Strawberry Sensation Fruit Flavored Snacks 5 oz box         $2.97          $1.48        50.2% ***   
 Polaner Sugar Free with Fiber Blueberry Preserves 13 oz                                  $2.82          $1.49          47.2%     
 Polaner No Sugar Added Fiber Seedless Blackberry Preserves 13.5 oz jar                   $2.82          $1.49          47.2%     
 TopCare Regular Unscented Pantiliners 64 ct box                                          $3.38          $1.50          55.6%     
@@ -63,18 +67,18 @@ TopCare Extra Strength Pain Relief Acetaminophen 500 mg 100 caplets             
 Mott's Gluten-free Veggie Juice Assorted Fruit Flavored Snacks 0.8 oz pouch 10 ct        $2.82          $1.55          45.0%     
 Topco Top Care Astringent Witch Hazel 16 fl oz bottle                                    $3.17          $1.58          50.2%     
 JELLY VERRY BERRY CONCORD GRAPE                                                          $3.19          $1.63          48.9%     
-General Mills Fiber One Chocolate Fudge Brownies 5.34 oz box                             $3.48          $1.73          50.3%     
-General Mills Fiber One Soft-Baked Cinnamon Coffee Cake Bars 5.34 oz box                 $3.48          $1.73          50.3%     
+General Mills Fiber One Chocolate Fudge Brownies 5.34 oz box                             $3.62          $1.73          52.2%     
+General Mills Fiber One Soft-Baked Cinnamon Coffee Cake Bars 5.34 oz box                 $3.62          $1.73          52.2%     
 Gerber organic banana strawberry yogurt melts 1 oz                                       $3.59          $1.76          51.0%     
 So Delicious Dairy-free Light CocoWhip Coconut Whipped Topping 9 oz tub                  $3.42          $1.77          48.2%     
 Silk Non-GMO Gluten-free Soy-free Original Coconutmilk 0.5 gal carton                    $3.57          $1.84          48.5%     
-Peter Pan Honey Roast Creamy Peanut & Natural Honey Spread 28 oz jar                     $3.69          $1.85          49.9%     
 Pb2 The Original Peanut with Cocoa Powder 6.5 oz jar                                     $3.68          $1.93          47.6%     
 SH ARGAN OIL REPAIR                                                                      $3.87          $1.95          49.6%     
 CD ARGAN OIL REPAIR                                                                      $3.87          $1.95          49.6%     
 TopCare Cold & Flu Relief Day Time 24 softgels                                           $6.13          $2.00          67.4%     
 Crav'n Flavor Fudge Bars 12 ct                                                           $4.78          $2.00          58.2%     
 NOVELTY ICE CREAM SANDWICH VANILLA MINI                                                  $4.78          $2.00          58.2%     
+SODA CREAMY COCONUT FE                                                                   $2.00          $0.79        60.5% ***   
 PMG COLD AND COUGH                                                                       $7.56          $2.02          73.3%     
 Alka-Seltzer Plus Maximum Strength Sinus & Cold Power Max Day & Night Liquid Gels Ac     $7.56          $2.02          73.3%     
 Ball Park Angus Original 14 oz package                                                   $3.90          $2.04          47.7%     
@@ -90,6 +94,8 @@ PORK STRIPS FAJITA                                                              
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $2.50          51.8%     
 STEAKHOUSE CHCKN BREAST FILETS                                                           $5.04          $2.52          50.0%     
 GARLIC HRB CHCKN BREAST FILETS                                                           $5.04          $2.52          50.0%     
+MARGARINE GARLIC SPRAY                                                                   $2.68          $1.39        48.1% ***   
+I Can't Belive It's Not Butter! Original Vegetable Oil Spray 8 fl oz bottle              $2.68          $1.39        48.1% ***   
 Sue Bee Lemon Naturally Flavored Honey 16 oz squeeze bottle                              $5.18          $2.72          47.5%     
 Suebee Infusions Hot Honey 12 oz                                                         $5.18          $2.72          47.5%     
 Colesons Catch Whole Tilapia                                                             $5.28          $2.78          47.3%     
