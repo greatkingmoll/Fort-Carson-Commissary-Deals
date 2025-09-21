@@ -75,7 +75,6 @@ Crav'n Flavor Fudge Bars 12 ct                                                  
 SODA CREAMY COCONUT FE                                                                   $2.00          $0.79          60.5%     
 PMG COLD AND COUGH                                                                       $7.56          $2.02          73.3%     
 Alka-Seltzer Plus Maximum Strength Sinus & Cold Power Max Day & Night Liquid Gels Ac     $7.56          $2.02          73.3%     
-PORK TENDERLOIN TERIYAKI                                                                 $4.49          $2.17          51.7%     
 COLD AND FLU STRWBRY HNY PWR                                                             $8.47          $2.22          73.8%     
 COLD SPARLING ORIG POWER FIZZ                                                            $8.47          $2.22          73.8%     
 COLD DAY AND NIGHT POWER FIZZ                                                            $8.47          $2.22          73.8%     
@@ -83,10 +82,7 @@ PIZZA MS CLASSIC CRUST PEPPERONI                                                
 ACNE SHAVE FOAM                                                                          $6.04          $2.26          62.6%     
 CREAMER COCO OAT                                                                         $4.58          $2.34          48.9%     
 TopCare Hemorrhoidal Ointment 2 oz                                                       $4.88          $2.44          50.0%     
-PORK STRIPS FAJITA                                                                       $5.29          $2.44          53.9%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $2.50          51.8%     
-STEAKHOUSE CHCKN BREAST FILETS                                                           $5.04          $2.52          50.0%     
-GARLIC HRB CHCKN BREAST FILETS                                                           $5.04          $2.52          50.0%     
 MARGARINE GARLIC SPRAY                                                                   $2.68          $1.39          48.1%     
 I Can't Belive It's Not Butter! Original Vegetable Oil Spray 8 fl oz bottle              $2.68          $1.39          48.1%     
 Colesons Catch Whole Tilapia                                                             $5.28          $2.78          47.3%     
@@ -103,15 +99,14 @@ GE Light Daylight LED 8.5w Bulbs 4 ct                                           
 GE Light Daylight LED 5.5w Bulbs 4 ct                                                    $5.99          $3.00          50.0%     
 Topcare Cold/Flu Severe Daytime Liquid 12 Oz                                             $6.92          $3.00          56.6%     
 TopCare Multivitamin Century Ultimate Women's Complete 100 tablets                       $6.52          $3.00          54.0%     
-FAJITA CHICKEN STRIPS                                                                    $6.14          $3.07          50.0%     
 FIZZCHW CGH&SORE THROAT RSPBRY                                                           $9.79          $3.18          67.5%     
 FIZZY CHEWS COLD & FLU ORANGE                                                            $9.79          $3.18          67.5%     
 GE Light Soft white LED 13w Bulbs 2 ct                                                   $6.49          $3.25          50.0%     
 GE Light Daylight LED 13w Bulbs 2 ct                                                     $6.49          $3.25          50.0%     
 TOPPING PIE SHELL GLUTEN FREE 9 inch 2PK                                                 $6.42          $3.30          48.6%     
 Nature Valley Biscuits with Cinnamon Almond Butter Value Pack 1.35 oz pouch 10 ct        $6.39          $3.30          48.4%     
-BEEF STEAKS SW RANCHERO                                                                  $6.99          $3.34          52.2%     
 FABRIC LIQUID RINSE SPRING MEADOW 70LD (D STOCK)                                         $9.39          $3.61          61.6%     
+CREAMER OATMILK VANILLA ESL                                                              $3.68          $1.86        49.5% ***   
 La Mexicana Gluten-free Authentic Farm Fresh Hot Salsa Dip 16 oz tub                     $3.75          $1.87          50.1%     
 La Mexicana Gluten-free Authentic Farm Fresh Mango Peach Salsa Dip 16 oz tub             $3.75          $1.87          50.1%     
 La Mexicana Authentic Farm Fresh Mild Cantina Salsa Dip 14 oz tub                        $3.75          $1.87          50.1%     
