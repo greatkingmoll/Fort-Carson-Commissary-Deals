@@ -47,8 +47,8 @@ Violife Cheese Sub With Shredded Cheddar Vegan 8 Oz                             
 Violife Cheese Substitute Cheddar Slices 7.05 Oz                                         $3.69          $1.84        50.0% ***   
 Violife Cheese Sub Sandwich With Shredded Mozzarella Vegan 8 Oz                          $3.69          $1.84        50.0% ***   
 Violife Cheese Substitute Cream Original 7.05 Oz                                         $3.79          $1.90        50.0% ***   
-SH ARGAN OIL REPAIR                                                                      $3.87          $1.95          49.6%     
 CD ARGAN OIL REPAIR                                                                      $3.87          $1.95          49.6%     
+Dove Damage Therapy Argan Oil & Repair Shampoo 12 Oz                                     $3.87          $1.95        49.6% ***   
 TopCare Cold & Flu Relief Day Time 24 softgels                                           $6.13          $2.00          67.4%     
 Crav'n Flavor Fudge Bars 12 ct                                                           $4.78          $2.00          58.2%     
 SODA CREAMY COCONUT FE                                                                   $2.00          $0.79          60.5%     
@@ -62,6 +62,7 @@ ACNE SHAVE FOAM                                                                 
 CREAMER COCO OAT                                                                         $4.58          $2.34          48.9%     
 TopCare Hemorrhoidal Ointment 2 oz                                                       $4.88          $2.44          50.0%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $2.50          51.8%     
+Billie Bounce Hydrating Body Wash 18Oz                                                   $5.10          $2.58        49.4% ***   
 MARGARINE GARLIC SPRAY                                                                   $2.68          $1.39          48.1%     
 I Can't Belive It's Not Butter! Original Vegetable Oil Spray 8 fl oz bottle              $2.68          $1.39          48.1%     
 Colesons Catch Whole Tilapia                                                             $5.28          $2.78          47.3%     
@@ -88,7 +89,6 @@ FIZZY CHEWS COLD & FLU ORANGE                                                   
 GE Light Soft white LED 13w Bulbs 2 ct                                                   $6.49          $3.25          50.0%     
 GE Light Daylight LED 13w Bulbs 2 ct                                                     $6.49          $3.25          50.0%     
 TOPPING PIE SHELL GLUTEN FREE 9 inch 2PK                                                 $6.42          $3.30          48.6%     
-Procter & Gamble Old Spice Swagger 2 in 1 Shampoo & Conditioner 21.9 fl oz bottle        $7.10          $3.59        49.4% ***   
 FABRIC LIQUID RINSE SPRING MEADOW 70LD (D STOCK)                                         $9.39          $3.61          61.6%     
 CREAMER OATMILK VANILLA ESL                                                              $3.68          $1.86          49.5%     
 Violife Cheese Substitute Vegan Smoked Provolone Slice 7.05 Oz                           $3.69          $1.84        50.0% ***   
@@ -110,7 +110,6 @@ Impossible Burger Patties 8 Oz                                                  
 Gerber snacks for baby yogurt melts variety pack 4 ea                                    $11.64         $4.92          57.7%     
 Gerber toddler yogurt pouches variety pack 9 ea                                          $11.82         $5.03          57.4%     
 Gerber favorite fruit and veggie pouches value pack 9 ea                                 $11.82         $5.03          57.4%     
-BODYWASH BOUNCE 18OZ                                                                     $5.10          $2.58        49.4% ***   
 BODYWASH SOOTHE 18OZ                                                                     $5.10          $2.58        49.4% ***   
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $5.22          49.1%     
 CAT FOOD DRY PLUS CARE TUNA                                                              $10.75         $5.45          49.3%     
@@ -130,16 +129,5 @@ Billie Malibu Razor Starter Kit 1 ct                                            
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55        49.6% ***   
 VITAMIN C 250 MG SUPPLEMENT,VEGATABLE                                                    $8.28          $4.30        48.1% ***   
 SVR COLD&FLU PWR FZ EFF TABS                                                             $8.47          $2.22        73.8% ***   
-Playtex Tampon Sport Multi-Pack Regular/Super 48 Ct                                      $9.17          $4.59        49.9% ***   
-Schick Intuition Pure Nourishment Coconut Milk & Almond Milk Razor 1 ea                  $9.47          $4.72        50.2% ***   
-Schick Intuition Naturals Sensitive Care Aloe And Vitamin E Women's Razor box            $9.47          $4.72        50.2% ***   
-Schick Hydro Sensitive Cartridges 6 ct                                                   $11.23         $5.80        48.4% ***   
-Schick Hydro Dry Skin Cartridges 6 ct                                                    $11.23         $5.80        48.4% ***   
-Schick Intuition Sensitive Care Lather & Shave Women's Razor Blades Refill Cartridge     $11.23         $5.80        48.4% ***   
-Schick Intuition Pure Nourishment Skin Moisturizing Solid 3-0.35 oz Packs                $11.23         $5.80        48.4% ***   
-Schick Hydro Silk Women's Razor Blades Refill 4 ct box                                   $11.23         $5.80        48.4% ***   
-Tippy Toes Super Pack Diapers, 5 27+ lb 78 ct                                            $27.29         $13.00       52.4% ***   
-Tippy Toes Super Pack 6 (35+ lb) Diapers, 64 ct                                          $27.29         $13.00       52.4% ***   
-Schick Hydro Silk 5 Trim Style Women's Razor & Bikini Trimmer box                        $13.17         $6.74        48.8% ***   
 
 Elapsed Time: N/A
