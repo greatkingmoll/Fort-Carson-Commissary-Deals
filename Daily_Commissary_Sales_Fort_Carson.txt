@@ -36,6 +36,7 @@ CONES ICE CREAM KCO CAKE                                                        
 CONES ICE CREAM WAFFLE CONES                                                             $2.68          $1.40          47.8%     
 TopCare Extra Strength Gas Relief Cherry Creme Chewable 125 mg 18 tablets                $2.84          $1.42          50.0%     
 Polaner Sugar Free with Fiber Blueberry Preserves 13 oz                                  $2.82          $1.49          47.2%     
+Dr Pepper Diet Soda 7.5 fl oz can 6 pack                                                 $3.95          $1.49          62.3%     
 TopCare Regular Unscented Pantiliners 64 ct box                                          $3.38          $1.50          55.6%     
 TopCare Extra Strength Pain Relief Acetaminophen 500 mg 100 caplets                      $3.94          $1.50          61.9%     
 Topco Top Care Astringent Witch Hazel 16 fl oz bottle                                    $3.17          $1.58          50.2%     
@@ -52,12 +53,7 @@ Dove Damage Therapy Argan Oil & Repair Shampoo 12 Oz                            
 TopCare Cold & Flu Relief Day Time 24 softgels                                           $6.13          $2.00          67.4%     
 Crav'n Flavor Fudge Bars 12 ct                                                           $4.78          $2.00          58.2%     
 SODA CREAMY COCONUT FE                                                                   $2.00          $0.79          60.5%     
-PMG COLD AND COUGH                                                                       $7.56          $2.02          73.3%     
-Alka-Seltzer Plus Maximum Strength Sinus & Cold Power Max Day & Night Liquid Gels Ac     $7.56          $2.02          73.3%     
 Pillsbury Original Icing Cinnamon Rolls 5 ct can                                         $2.03          $1.09          46.3%     
-COLD AND FLU STRWBRY HNY PWR                                                             $8.47          $2.22          73.8%     
-COLD SPARLING ORIG POWER FIZZ                                                            $8.47          $2.22          73.8%     
-COLD DAY AND NIGHT POWER FIZZ                                                            $8.47          $2.22          73.8%     
 ACNE SHAVE FOAM                                                                          $6.04          $2.26          62.6%     
 CREAMER COCO OAT                                                                         $4.58          $2.34          48.9%     
 TopCare Hemorrhoidal Ointment 2 oz                                                       $4.88          $2.44          50.0%     
@@ -84,8 +80,6 @@ GE Light Daylight LED 8.5w Bulbs 4 ct                                           
 GE Light Daylight LED 5.5w Bulbs 4 ct                                                    $5.99          $3.00          50.0%     
 Topcare Cold/Flu Severe Daytime Liquid 12 Oz                                             $6.92          $3.00          56.6%     
 TopCare Multivitamin Century Ultimate Women's Complete 100 tablets                       $6.52          $3.00          54.0%     
-FIZZCHW CGH&SORE THROAT RSPBRY                                                           $9.79          $3.18          67.5%     
-FIZZY CHEWS COLD & FLU ORANGE                                                            $9.79          $3.18          67.5%     
 GE Light Soft white LED 13w Bulbs 2 ct                                                   $6.49          $3.25          50.0%     
 GE Light Daylight LED 13w Bulbs 2 ct                                                     $6.49          $3.25          50.0%     
 TOPPING PIE SHELL GLUTEN FREE 9 inch 2PK                                                 $6.42          $3.30          48.6%     
@@ -96,13 +90,11 @@ La Mexicana Gluten-free Authentic Farm Fresh Hot Salsa Dip 16 oz tub            
 La Mexicana Gluten-free Authentic Farm Fresh Mango Peach Salsa Dip 16 oz tub             $3.75          $1.87          50.1%     
 La Mexicana Authentic Farm Fresh Mild Cantina Salsa Dip 14 oz tub                        $3.75          $1.87          50.1%     
 Sprite Zero Sugar Caffeine-free Lemon-Lime Soda 7.5 fl oz can 6 pack                     $3.95          $1.49          62.3%     
-Dr Pepper Diet Soda 7.5 fl oz can 6 pack                                                 $3.95          $1.49          62.3%     
 PN CN ROSEWATER                                                                          $7.38          $4.00        45.8% ***   
 Pantene Pro-V Sulfate Free Miracle Moisture Boost Shampoo With Rose Water 9.6 fl oz      $7.38          $4.00        45.8% ***   
 TopCare Cold & Flu Multi Symptom Relief Day Time Night Time 48 softgels                  $10.58         $4.00          62.2%     
 Gerber organic puree pouches value pack 9 ea                                             $11.86         $4.44          62.6%     
 2ND FOODS IMMUNITY VARIETY PK                                                            $11.86         $4.44          62.6%     
-Tyson Rotisserie Seasoned Boneless Skinless Chicken Breasts 40 oz bag                    $8.33          $4.44          46.7%     
 TopCare Fast Acting Dairy Relief Lactase Enzyme Dietary Supplement 60 tablets            $9.22          $4.50          51.2%     
 TopCare Calcium 600 mg with Vitamin D3 800 IU 300 tablets                                $9.28          $4.50          51.5%     
 BOND REPAIR CD LEAVE-IN 11OZ                                                             $8.99          $4.54          49.5%     
@@ -128,6 +120,5 @@ TopCare Clearlax Polyethylene Glycol Osmotic Laxative 17.9 oz                   
 Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55        49.6% ***   
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55        49.6% ***   
 VITAMIN C 250 MG SUPPLEMENT,VEGATABLE                                                    $8.28          $4.30        48.1% ***   
-SVR COLD&FLU PWR FZ EFF TABS                                                             $8.47          $2.22        73.8% ***   
 
 Elapsed Time: N/A
