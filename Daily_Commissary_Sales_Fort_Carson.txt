@@ -1,4 +1,4 @@
-2025-09-23
+2025-09-24
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                                  $0.84          $0.35          58.3%     
@@ -30,7 +30,7 @@ Freedom's Choice Ground Black Pepper 6 oz can                                   
 Home Base Orange Ultra Dish Liquid                                                       $2.50          $1.00          60.0%     
 Gerber Chicken & Vegetables Pasta Stars Baby Food 6 oz package                           $2.06          $1.02          50.5%     
 Gerber Non-GMO Vanilla Puffs Baby Food 1.48 oz package                                   $2.44          $1.16          52.5%     
-Carefree Acti-Fresh Body Shape Regular to Go Unscented Pantiliners 20 ct package         $1.18          $0.51        56.8% ***   
+Carefree Acti-Fresh Body Shape Regular to Go Unscented Pantiliners 20 ct package         $1.18          $0.51          56.8%     
 CONES ICE CREAM KCO SUGAR                                                                $2.68          $1.40          47.8%     
 CONES ICE CREAM KCO CAKE                                                                 $2.68          $1.40          47.8%     
 CONES ICE CREAM WAFFLE CONES                                                             $2.68          $1.40          47.8%     
@@ -44,10 +44,10 @@ JELLY VERRY BERRY CONCORD GRAPE                                                 
 Gerber organic banana strawberry yogurt melts 1 oz                                       $3.59          $1.76          51.0%     
 So Delicious Dairy-free Light CocoWhip Coconut Whipped Topping 9 oz tub                  $3.42          $1.77          48.2%     
 Silk Non-GMO Gluten-free Soy-free Original Coconutmilk 0.5 gal carton                    $3.57          $1.84          48.5%     
-Violife Cheese Sub With Shredded Cheddar Vegan 8 Oz                                      $3.69          $1.84        50.0% ***   
-Violife Cheese Substitute Cheddar Slices 7.05 Oz                                         $3.69          $1.84        50.0% ***   
-Violife Cheese Sub Sandwich With Shredded Mozzarella Vegan 8 Oz                          $3.69          $1.84        50.0% ***   
-Violife Cheese Substitute Cream Original 7.05 Oz                                         $3.79          $1.90        50.0% ***   
+Violife Cheese Sub With Shredded Cheddar Vegan 8 Oz                                      $3.69          $1.84          50.0%     
+Violife Cheese Substitute Cheddar Slices 7.05 Oz                                         $3.69          $1.84          50.0%     
+Violife Cheese Sub Sandwich With Shredded Mozzarella Vegan 8 Oz                          $3.69          $1.84          50.0%     
+Violife Cheese Substitute Cream Original 7.05 Oz                                         $3.79          $1.90          50.0%     
 CD ARGAN OIL REPAIR                                                                      $3.87          $1.95          49.6%     
 Dove Damage Therapy Argan Oil & Repair Shampoo 12 Oz                                     $3.87          $1.95        49.6% ***   
 TopCare Cold & Flu Relief Day Time 24 softgels                                           $6.13          $2.00          67.4%     
@@ -66,11 +66,11 @@ GE Light Daylight LED 10.5w 2 ct                                                
 GE Light Soft white LED 10.5w Bulbs 2 ct                                                 $5.69          $2.85          50.0%     
 TopCare Antioxidant Vitamin E 400 IU 100 tablets                                         $5.79          $2.90          49.9%     
 TopCare No Drip Severe Congestion Nasal Decongestant Oxymetazoline Hcl 0.05 % Nasal      $5.79          $2.90          49.9%     
-Carefree Acti-Fresh Perfectly Thin to Go Unscented Pantiliners 60 ct package             $2.99          $1.38        53.8% ***   
-Carefree Acti-Fresh Body Shape Extra Long to Go Unscented Pantiliners 36 ct package      $2.99          $1.38        53.8% ***   
-Carefree Acti-Fresh Body Shape Long to Go Unscented Pantiliners 42 ct package            $2.99          $1.38        53.8% ***   
-Carefree Acti-Fresh Body Shape Regular to Go Unscented Pantiliners 54 ct package         $2.99          $1.38        53.8% ***   
-Carefree Thong Regular Unscented Liners with Stay Put Wings 49 ea                        $2.99          $1.38        53.8% ***   
+Carefree Acti-Fresh Perfectly Thin to Go Unscented Pantiliners 60 ct package             $2.99          $1.38          53.8%     
+Carefree Acti-Fresh Body Shape Extra Long to Go Unscented Pantiliners 36 ct package      $2.99          $1.38          53.8%     
+Carefree Acti-Fresh Body Shape Long to Go Unscented Pantiliners 42 ct package            $2.99          $1.38          53.8%     
+Carefree Acti-Fresh Body Shape Regular to Go Unscented Pantiliners 54 ct package         $2.99          $1.38          53.8%     
+Carefree Thong Regular Unscented Liners with Stay Put Wings 49 ea                        $2.99          $1.38          53.8%     
 TopCare Multi Symptom Original Flavor Relief Day Time Cold & Flu Relief Syrup 12 oz      $6.48          $3.00          53.7%     
 Topcare Cold/Flu Severe Nighttime Liquid Berry 12 Oz                                     $6.92          $3.00          56.6%     
 TopCare Cherry Flavor Cold & Flu Relief Night Time 12 fl oz                              $6.48          $3.00          53.7%     
@@ -85,13 +85,13 @@ GE Light Daylight LED 13w Bulbs 2 ct                                            
 TOPPING PIE SHELL GLUTEN FREE 9 inch 2PK                                                 $6.42          $3.30          48.6%     
 FABRIC LIQUID RINSE SPRING MEADOW 70LD (D STOCK)                                         $9.39          $3.61          61.6%     
 CREAMER OATMILK VANILLA ESL                                                              $3.68          $1.86          49.5%     
-Violife Cheese Substitute Vegan Smoked Provolone Slice 7.05 Oz                           $3.69          $1.84        50.0% ***   
+Violife Cheese Substitute Vegan Smoked Provolone Slice 7.05 Oz                           $3.69          $1.84          50.0%     
 La Mexicana Gluten-free Authentic Farm Fresh Hot Salsa Dip 16 oz tub                     $3.75          $1.87          50.1%     
 La Mexicana Gluten-free Authentic Farm Fresh Mango Peach Salsa Dip 16 oz tub             $3.75          $1.87          50.1%     
 La Mexicana Authentic Farm Fresh Mild Cantina Salsa Dip 14 oz tub                        $3.75          $1.87          50.1%     
 Sprite Zero Sugar Caffeine-free Lemon-Lime Soda 7.5 fl oz can 6 pack                     $3.95          $1.49          62.3%     
-PN CN ROSEWATER                                                                          $7.38          $4.00        45.8% ***   
-Pantene Pro-V Sulfate Free Miracle Moisture Boost Shampoo With Rose Water 9.6 fl oz      $7.38          $4.00        45.8% ***   
+PN CN ROSEWATER                                                                          $7.38          $4.00          45.8%     
+Pantene Pro-V Sulfate Free Miracle Moisture Boost Shampoo With Rose Water 9.6 fl oz      $7.38          $4.00          45.8%     
 TopCare Cold & Flu Multi Symptom Relief Day Time Night Time 48 softgels                  $10.58         $4.00          62.2%     
 Gerber organic puree pouches value pack 9 ea                                             $11.86         $4.44          62.6%     
 2ND FOODS IMMUNITY VARIETY PK                                                            $11.86         $4.44          62.6%     
@@ -102,23 +102,23 @@ Impossible Burger Patties 8 Oz                                                  
 Gerber snacks for baby yogurt melts variety pack 4 ea                                    $11.64         $4.92          57.7%     
 Gerber toddler yogurt pouches variety pack 9 ea                                          $11.82         $5.03          57.4%     
 Gerber favorite fruit and veggie pouches value pack 9 ea                                 $11.82         $5.03          57.4%     
-BODYWASH SOOTHE 18OZ                                                                     $5.10          $2.58        49.4% ***   
+BODYWASH SOOTHE 18OZ                                                                     $5.10          $2.58          49.4%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $5.22          49.1%     
 CAT FOOD DRY PLUS CARE TUNA                                                              $10.75         $5.45          49.3%     
-Billie Whipped Shave Cream 8 oz                                                          $5.66          $2.86        49.5% ***   
-Billie Deodorant Lavender Scent 2.6 oz                                                   $5.73          $2.89        49.6% ***   
-Billie Deodorant Coconut Scent 2.6 oz                                                    $5.73          $2.89        49.6% ***   
-Cremo Original Formula Concentrated Classic Shave Cream 6 oz                             $5.92          $3.04        48.6% ***   
-Cremo Coconut Mango Moisturizing Shave Cream 6 fl oz                                     $5.92          $3.04        48.6% ***   
+Billie Whipped Shave Cream 8 oz                                                          $5.66          $2.86          49.5%     
+Billie Deodorant Lavender Scent 2.6 oz                                                   $5.73          $2.89          49.6%     
+Billie Deodorant Coconut Scent 2.6 oz                                                    $5.73          $2.89          49.6%     
+Cremo Original Formula Concentrated Classic Shave Cream 6 oz                             $5.92          $3.04          48.6%     
+Cremo Coconut Mango Moisturizing Shave Cream 6 fl oz                                     $5.92          $3.04          48.6%     
 GOODSENSE B-COMPLEX WITH VITAMIN-C TABLETS                                               $5.98          $3.21          46.3%     
-Cremo Body Wash Vintage Suede 16 OZ                                                      $6.17          $3.12        49.4% ***   
-Cremo Body Wash, Palo Santo 16 FL OZ                                                     $6.17          $3.12        49.4% ***   
-Carefree Acti-Fresh Long Unscented Daily Liners 92 ct                                    $6.44          $3.31        48.6% ***   
-Johnson & Johnson Carefree Acti-Fresh Extra Long to Go Unscented Body Shape Pantilin     $6.62          $3.40        48.6% ***   
+Cremo Body Wash Vintage Suede 16 OZ                                                      $6.17          $3.12          49.4%     
+Cremo Body Wash, Palo Santo 16 FL OZ                                                     $6.17          $3.12          49.4%     
+Carefree Acti-Fresh Long Unscented Daily Liners 92 ct                                    $6.44          $3.31          48.6%     
+Johnson & Johnson Carefree Acti-Fresh Extra Long to Go Unscented Body Shape Pantilin     $6.62          $3.40          48.6%     
 E VITAMIN 180 MG (400 IU) SOFTGELS                                                       $6.76          $3.52          47.9%     
 TopCare Clearlax Polyethylene Glycol Osmotic Laxative 17.9 oz                            $16.14         $7.00          56.6%     
-Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55        49.6% ***   
-Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55        49.6% ***   
-VITAMIN C 250 MG SUPPLEMENT,VEGATABLE                                                    $8.28          $4.30        48.1% ***   
+Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55          49.6%     
+Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55          49.6%     
+VITAMIN C 250 MG SUPPLEMENT,VEGATABLE                                                    $8.28          $4.30          48.1%     
 
 Elapsed Time: N/A
