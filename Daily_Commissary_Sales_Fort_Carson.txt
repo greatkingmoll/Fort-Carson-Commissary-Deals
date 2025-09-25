@@ -13,7 +13,6 @@ Gerber Non-GMO Banana Baby Food 3.5 oz pouch                                    
 Gerber Non-GMO Sweet Potato Baby Food 2 oz container 2 ct                                $1.26          $0.64          49.2%     
 Gerber Non-GMO Apple Baby Food 2 oz container 2 ct                                       $1.26          $0.64          49.2%     
 Gerber Non-GMO Pear Baby Food 2 oz container 2 ct                                        $1.26          $0.64          49.2%     
-Gerber organic mango peach carrot sweet potato oatmeal puree 3.5 oz                      $1.46          $0.64          56.2%     
 Freedom's Choice Seasoning Salt 16 oz jar                                                $3.30          $0.75          77.3%     
 TopCare Gentle Overnight Relief Laxative Bisacodyl 5 mg 25 tablets                       $1.56          $0.78          50.0%     
 Gerber Non-GMO Butternut Squash Baby Food 4 oz container 2 ct                            $1.69          $0.84          50.3%     
@@ -27,6 +26,7 @@ ANTACID CALCIUM EX STR BERRY TAB                                                
 Full Circle Organic Premium Cotton Rounds 80 ct package                                  $2.23          $1.00          55.2%     
 Freedom's Choice Ground Black Pepper 6 oz can                                            $4.98          $1.00          79.9%     
 Home Base Orange Ultra Dish Liquid                                                       $2.50          $1.00          60.0%     
+Freedom's Choice Traditional Pasta Sauce                                                 $2.98          $1.00        66.4% ***   
 Gerber Chicken & Vegetables Pasta Stars Baby Food 6 oz package                           $2.06          $1.02          50.5%     
 Gerber Non-GMO Vanilla Puffs Baby Food 1.48 oz package                                   $2.44          $1.16          52.5%     
 Carefree Acti-Fresh Body Shape Regular to Go Unscented Pantiliners 20 ct package         $1.18          $0.51          56.8%     
@@ -40,7 +40,6 @@ TopCare Extra Strength Pain Relief Acetaminophen 500 mg 100 caplets             
 Topco Top Care Astringent Witch Hazel 16 fl oz bottle                                    $3.17          $1.58          50.2%     
 JELLY VERRY BERRY CONCORD GRAPE                                                          $3.19          $1.63          48.9%     
 Gerber organic banana strawberry yogurt melts 1 oz                                       $3.59          $1.76          51.0%     
-So Delicious Dairy-free Light CocoWhip Coconut Whipped Topping 9 oz tub                  $3.42          $1.77          48.2%     
 Violife Cheese Sub With Shredded Cheddar Vegan 8 Oz                                      $3.69          $1.84          50.0%     
 Violife Cheese Substitute Cheddar Slices 7.05 Oz                                         $3.69          $1.84          50.0%     
 Violife Cheese Sub Sandwich With Shredded Mozzarella Vegan 8 Oz                          $3.69          $1.84          50.0%     
@@ -51,7 +50,6 @@ TopCare Cold & Flu Relief Day Time 24 softgels                                  
 Crav'n Flavor Fudge Bars 12 ct                                                           $4.78          $2.00          58.2%     
 SODA CREAMY COCONUT FE                                                                   $2.00          $0.79          60.5%     
 Pillsbury Original Icing Cinnamon Rolls 5 ct can                                         $2.03          $1.09          46.3%     
-ACNE SHAVE FOAM                                                                          $6.04          $2.26          62.6%     
 CREAMER COCO OAT                                                                         $4.58          $2.34          48.9%     
 TopCare Hemorrhoidal Ointment 2 oz                                                       $4.88          $2.44          50.0%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $2.50          51.8%     
@@ -78,16 +76,13 @@ Topcare Cold/Flu Severe Daytime Liquid 12 Oz                                    
 TopCare Multivitamin Century Ultimate Women's Complete 100 tablets                       $6.52          $3.00          54.0%     
 GE Light Soft white LED 13w Bulbs 2 ct                                                   $6.49          $3.25          50.0%     
 GE Light Daylight LED 13w Bulbs 2 ct                                                     $6.49          $3.25          50.0%     
-TOPPING PIE SHELL GLUTEN FREE 9 inch 2PK                                                 $6.42          $3.30          48.6%     
 CREAMER OATMILK VANILLA ESL                                                              $3.68          $1.86          49.5%     
 Violife Cheese Substitute Vegan Smoked Provolone Slice 7.05 Oz                           $3.69          $1.84          50.0%     
-La Mexicana Gluten-free Authentic Farm Fresh Hot Salsa Dip 16 oz tub                     $3.75          $1.87          50.1%     
-La Mexicana Gluten-free Authentic Farm Fresh Mango Peach Salsa Dip 16 oz tub             $3.75          $1.87          50.1%     
-La Mexicana Authentic Farm Fresh Mild Cantina Salsa Dip 14 oz tub                        $3.75          $1.87          50.1%     
 Sprite Zero Sugar Caffeine-free Lemon-Lime Soda 7.5 fl oz can 6 pack                     $3.95          $1.49          62.3%     
 PN CN ROSEWATER                                                                          $7.38          $4.00          45.8%     
 Pantene Pro-V Sulfate Free Miracle Moisture Boost Shampoo With Rose Water 9.6 fl oz      $7.38          $4.00          45.8%     
 TopCare Cold & Flu Multi Symptom Relief Day Time Night Time 48 softgels                  $10.58         $4.00          62.2%     
+Jennieo Turkey Breast                                                                    $4.09          $2.04        50.1% ***   
 Gerber organic puree pouches value pack 9 ea                                             $11.86         $4.44          62.6%     
 TopCare Fast Acting Dairy Relief Lactase Enzyme Dietary Supplement 60 tablets            $9.22          $4.50          51.2%     
 TopCare Calcium 600 mg with Vitamin D3 800 IU 300 tablets                                $9.28          $4.50          51.5%     
@@ -105,6 +100,7 @@ Billie Deodorant Coconut Scent 2.6 oz                                           
 Cremo Original Formula Concentrated Classic Shave Cream 6 oz                             $5.92          $3.04          48.6%     
 Cremo Coconut Mango Moisturizing Shave Cream 6 fl oz                                     $5.92          $3.04          48.6%     
 GOODSENSE B-COMPLEX WITH VITAMIN-C TABLETS                                               $5.98          $3.21          46.3%     
+Jennieo Ground Turkey Breast                                                             $6.08          $3.04        50.0% ***   
 Cremo Body Wash Vintage Suede 16 OZ                                                      $6.17          $3.12          49.4%     
 Cremo Body Wash, Palo Santo 16 FL OZ                                                     $6.17          $3.12          49.4%     
 Carefree Acti-Fresh Long Unscented Daily Liners 92 ct                                    $6.44          $3.31          48.6%     
