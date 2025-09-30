@@ -15,6 +15,7 @@ Gerber Non-GMO Apple Baby Food 2 oz container 2 ct                              
 Gerber Non-GMO Pear Baby Food 2 oz container 2 ct                                        $1.26          $0.64          49.2%     
 Freedom's Choice Seasoning Salt 16 oz jar                                                $3.30          $0.75          77.3%     
 TopCare Gentle Overnight Relief Laxative Bisacodyl 5 mg 25 tablets                       $1.56          $0.78          50.0%     
+SODA CREAMY COCONUT FE                                                                   $2.00          $0.79          60.5%     
 Gerber Non-GMO Butternut Squash Baby Food 4 oz container 2 ct                            $1.69          $0.84          50.3%     
 Gerber Non-GMO Pumpkin Baby Food 4 oz container 2 ct                                     $1.69          $0.84          50.3%     
 Gerber Non-GMO Apple Banana & Oatmeal Cereal Baby Food 4 oz container 2 ct               $1.69          $0.84          50.3%     
@@ -29,8 +30,10 @@ Home Base Orange Ultra Dish Liquid                                              
 Freedom's Choice Traditional Pasta Sauce                                                 $2.98          $1.00          66.4%     
 Gerber Chicken & Vegetables Pasta Stars Baby Food 6 oz package                           $2.06          $1.02          50.5%     
 Carefree Acti-Fresh Body Shape Regular to Go Unscented Pantiliners 20 ct package         $1.18          $0.51          56.8%     
+I Can't Belive It's Not Butter! Original Vegetable Oil Spray 8 fl oz bottle              $2.68          $1.39          48.1%     
 TopCare Extra Strength Gas Relief Cherry Creme Chewable 125 mg 18 tablets                $2.84          $1.42          50.0%     
 Dr Pepper Diet Soda 7.5 fl oz can 6 pack                                                 $3.95          $1.49          62.3%     
+Sprite Zero Sugar Caffeine-free Lemon-Lime Soda 7.5 fl oz can 6 pack                     $3.95          $1.49          62.3%     
 TopCare Regular Unscented Pantiliners 64 ct box                                          $3.38          $1.50          55.6%     
 TopCare Extra Strength Pain Relief Acetaminophen 500 mg 100 caplets                      $3.94          $1.50          61.9%     
 Topco Top Care Astringent Witch Hazel 16 fl oz bottle                                    $3.17          $1.58          50.2%     
@@ -46,13 +49,11 @@ Dove Damage Therapy Argan Oil & Repair Shampoo 12 Oz                            
 TopCare Cold & Flu Relief Day Time 24 softgels                                           $6.13          $2.00          67.4%     
 SODA BLACKBERRY FE                                                                       $2.00          $0.79          60.5%     
 Crav'n Flavor Fudge Bars 12 ct                                                           $4.78          $2.00          58.2%     
-SODA CREAMY COCONUT FE                                                                   $2.00          $0.79          60.5%     
 Pillsbury Original Icing Cinnamon Rolls 5 ct can                                         $2.03          $1.09          46.3%     
 TopCare Hemorrhoidal Ointment 2 oz                                                       $4.88          $2.44          50.0%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $2.50          51.8%     
 Billie Bounce Hydrating Body Wash 18Oz                                                   $5.10          $2.58          49.4%     
 MARGARINE GARLIC SPRAY                                                                   $2.68          $1.39          48.1%     
-I Can't Belive It's Not Butter! Original Vegetable Oil Spray 8 fl oz bottle              $2.68          $1.39          48.1%     
 Colesons Catch Whole Tilapia                                                             $5.28          $2.78          47.3%     
 GE Light Daylight LED 10.5w 2 ct                                                         $5.59          $2.79          50.0%     
 GE Light Soft white LED 10.5w Bulbs 2 ct                                                 $5.69          $2.85          50.0%     
@@ -65,25 +66,23 @@ Carefree Acti-Fresh Body Shape Regular to Go Unscented Pantiliners 54 ct package
 Carefree Thong Regular Unscented Liners with Stay Put Wings 49 ea                        $2.99          $1.38          53.8%     
 TopCare Multi Symptom Original Flavor Relief Day Time Cold & Flu Relief Syrup 12 oz      $6.48          $3.00          53.7%     
 Topcare Cold/Flu Severe Nighttime Liquid Berry 12 Oz                                     $6.92          $3.00          56.6%     
-TopCare Cherry Flavor Cold & Flu Relief Night Time 12 fl oz                              $6.48          $3.00          53.7%     
 GE Light Soft white LED 5.5w Bulbs 4 ct                                                  $5.99          $3.00          50.0%     
 GE Light Daylight LED 8.5w Bulbs 4 ct                                                    $5.99          $3.00          50.0%     
 GE Light Daylight LED 5.5w Bulbs 4 ct                                                    $5.99          $3.00          50.0%     
 Topcare Cold/Flu Severe Daytime Liquid 12 Oz                                             $6.92          $3.00          56.6%     
 TopCare Multivitamin Century Ultimate Women's Complete 100 tablets                       $6.52          $3.00          54.0%     
+TopCare Cherry Flavor Cold & Flu Relief Night Time 12 fl oz                              $6.48          $3.00          53.7%     
 GE Light Soft white LED 13w Bulbs 2 ct                                                   $6.49          $3.25          50.0%     
 GE Light Daylight LED 13w Bulbs 2 ct                                                     $6.49          $3.25          50.0%     
 Violife Cheese Substitute Vegan Smoked Provolone Slice 7.05 Oz                           $3.69          $1.84          50.0%     
 Wonderful Salt & Pepper Pistachios 14 oz bag                                             $7.44          $3.72          50.0%     
 Wonderful Sweet Chili Pistachios 14 oz bag                                               $7.44          $3.72          50.0%     
-Sprite Zero Sugar Caffeine-free Lemon-Lime Soda 7.5 fl oz can 6 pack                     $3.95          $1.49          62.3%     
 PN CN ROSEWATER                                                                          $7.38          $4.00          45.8%     
 Pantene Pro-V Sulfate Free Miracle Moisture Boost Shampoo With Rose Water 9.6 fl oz      $7.38          $4.00          45.8%     
 TopCare Cold & Flu Multi Symptom Relief Day Time Night Time 48 softgels                  $10.58         $4.00          62.2%     
 TopCare Fast Acting Dairy Relief Lactase Enzyme Dietary Supplement 60 tablets            $9.22          $4.50          51.2%     
 TopCare Calcium 600 mg with Vitamin D3 800 IU 300 tablets                                $9.28          $4.50          51.5%     
 BOND REPAIR CD LEAVE-IN 11OZ                                                             $8.99          $4.54          49.5%     
-Impossible Burger Patties 8 Oz                                                           $4.79          $2.29          52.2%     
 Gerber snacks for baby yogurt melts variety pack 4 ea                                    $11.64         $4.92          57.7%     
 Gerber toddler yogurt pouches variety pack 9 ea                                          $11.82         $5.03          57.4%     
 Gerber favorite fruit and veggie pouches value pack 9 ea                                 $11.82         $5.03          57.4%     
