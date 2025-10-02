@@ -40,7 +40,6 @@ Crav'n Flavor Fudge Bars 12 ct                                                  
 TopCare Hemorrhoidal Ointment 2 oz                                                       $4.88          $2.44          50.0%     
 Billie Bounce Hydrating Body Wash 18Oz                                                   $5.10          $2.58          49.4%     
 MARGARINE GARLIC SPRAY                                                                   $2.68          $1.39          48.1%     
-Suebee Infusions Hot Honey 12 oz                                                         $5.18          $2.72          47.5%     
 Sue Bee Lemon Naturally Flavored Honey 16 oz squeeze bottle                              $5.18          $2.72          47.5%     
 GE Light Daylight LED 10.5w 2 ct                                                         $5.59          $2.79          50.0%     
 GE Light Soft white LED 10.5w Bulbs 2 ct                                                 $5.69          $2.85          50.0%     
@@ -65,12 +64,17 @@ TopCare Calcium 600 mg with Vitamin D3 800 IU 300 tablets                       
 Gerber snacks for baby yogurt melts variety pack 4 ea                                    $11.64         $4.92          57.7%     
 Gerber toddler yogurt pouches variety pack 9 ea                                          $11.82         $5.03          57.4%     
 Gerber favorite fruit and veggie pouches value pack 9 ea                                 $11.82         $5.03          57.4%     
+TERIYAKI CHICKEN BREAST FILETS                                                           $5.04          $2.52        50.0% ***   
 BODYWASH SOOTHE 18OZ                                                                     $5.10          $2.58          49.4%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $5.22          49.1%     
 REPLENISHING SHEA LTN 13.5OZ SM                                                          $5.44          $1.24        77.2% ***   
 Billie Whipped Shave Cream 8 oz                                                          $5.66          $2.86          49.5%     
 Billie Deodorant Lavender Scent 2.6 oz                                                   $5.73          $2.89          49.6%     
 Billie Deodorant Coconut Scent 2.6 oz                                                    $5.73          $2.89          49.6%     
+Schick Hydro Sensitive Cartridges 6 ct                                                   $11.99         $5.80          51.6%     
+Schick Hydro Dry Skin Cartridges 6 ct                                                    $11.99         $5.80          51.6%     
+Schick Intuition Pure Nourishment Skin Moisturizing Solid 3-0.35 oz Packs                $11.99         $5.80          51.6%     
+Schick Hydro Silk Women's Razor Blades Refill 4 ct box                                   $11.99         $5.80          51.6%     
 Cremo Original Formula Concentrated Classic Shave Cream 6 oz                             $5.92          $3.04          48.6%     
 Cremo Coconut Mango Moisturizing Shave Cream 6 fl oz                                     $5.92          $3.04          48.6%     
 GOODSENSE B-COMPLEX WITH VITAMIN-C TABLETS                                               $5.98          $3.21          46.3%     
@@ -84,7 +88,5 @@ Billie Malibu Razor Starter Kit 1 ct                                            
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55          49.6%     
 VITAMIN C 250 MG SUPPLEMENT,VEGATABLE                                                    $8.28          $4.30          48.1%     
 Playtex Tampon Sport Multi-Pack Regular/Super 48 Ct                                      $9.17          $4.59          49.9%     
-Schick Intuition Pure Nourishment Coconut Milk & Almond Milk Razor 1 ea                  $9.47          $4.72          50.2%     
-Schick Intuition Naturals Sensitive Care Aloe And Vitamin E Women's Razor box            $9.47          $4.72          50.2%     
 
 Elapsed Time: N/A
