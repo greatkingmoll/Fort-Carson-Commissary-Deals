@@ -20,6 +20,9 @@ Gerber Non-GMO Apple Banana & Oatmeal Cereal Baby Food 4 oz container 2 ct      
 Combos Baked Snacks Cheddar Cheese Pretzel 6.3 oz bag                                    $1.79          $0.84          53.1%     
 Combos Baked Snacks Pizzeria Pretzel 6.3 oz bag                                          $1.79          $0.84          53.1%     
 Gerber snacks for baby strawberry yogurt 2 ea                                            $1.72          $0.87          49.4%     
+CHILL FROZEN ORANGE                                                                      $2.08          $0.89        57.2% ***   
+CHILL FROZEN CHERRY                                                                      $2.08          $0.89        57.2% ***   
+CHILL FROZEN BERRY                                                                       $2.08          $0.89        57.2% ***   
 ANTACID CALCIUM EX STR BERRY TAB                                                         $2.88          $1.00          65.3%     
 Freedom's Choice Italian Dressing 16 oz bottle                                           $1.88          $1.00          46.8%     
 Freedom's Choice Thousand Island Dressing 16 oz bottle                                   $1.88          $1.00          46.8%     
@@ -27,6 +30,8 @@ Freedom's Choice Ground Black Pepper 6 oz can                                   
 Home Base Orange Ultra Dish Liquid                                                       $2.50          $1.00          60.0%     
 Gerber Chicken & Vegetables Pasta Stars Baby Food 6 oz package                           $2.06          $1.02          50.5%     
 Pillsbury Original Icing Cinnamon Rolls 5 ct can                                         $2.03          $1.09          46.3%     
+MELTAMORS DOUBLE CHOCOLATE MP                                                            $2.95          $1.20        59.3% ***   
+MELTAMORS CHOC CRMY CRML MP                                                              $2.95          $1.20        59.3% ***   
 Carefree Acti-Fresh Body Shape Regular to Go Unscented Pantiliners 54 ct package         $2.99          $1.38          53.8%     
 Carefree Acti-Fresh Perfectly Thin to Go Unscented Pantiliners 60 ct package             $2.99          $1.38          53.8%     
 Carefree Acti-Fresh Body Shape Long to Go Unscented Pantiliners 42 ct package            $2.99          $1.38          53.8%     
@@ -63,10 +68,11 @@ Carefree Acti-Fresh Long Unscented Daily Liners 92 ct                           
 Johnson & Johnson Carefree Acti-Fresh Extra Long to Go Unscented Body Shape Pantilin     $6.62          $3.40          48.6%     
 Violife Cheese Substitute Vegan Smoked Provolone Slice 7.05 Oz                           $3.69          $1.84          50.0%     
 Wonderful Salt & Pepper Pistachios 14 oz bag                                             $7.44          $3.72          50.0%     
-Wonderful Sweet Chili Pistachios 14 oz bag                                               $7.44          $3.72          50.0%     
 PN CN ROSEWATER                                                                          $7.38          $4.00          45.8%     
 TopCare Fast Acting Dairy Relief Lactase Enzyme Dietary Supplement 60 tablets            $9.22          $4.50          51.2%     
 TopCare Calcium 600 mg with Vitamin D3 800 IU 300 tablets                                $9.28          $4.50          51.5%     
+Schick Intuition Pure Nourishment Coconut Milk & Almond Milk Razor 1 ea                  $9.47          $4.72          50.2%     
+Schick Intuition Naturals Sensitive Care Aloe And Vitamin E Women's Razor box            $9.47          $4.72          50.2%     
 Gerber snacks for baby yogurt melts variety pack 4 ea                                    $11.64         $4.92          57.7%     
 Gerber toddler yogurt pouches variety pack 9 ea                                          $11.82         $5.03          57.4%     
 Gerber favorite fruit and veggie pouches value pack 9 ea                                 $11.82         $5.03          57.4%     
@@ -74,6 +80,8 @@ TERIYAKI CHICKEN BREAST FILETS                                                  
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $5.22          49.1%     
 REPLENISHING SHEA LTN 13.5OZ SM                                                          $5.44          $1.24          77.2%     
 Billie Whipped Shave Cream 8 oz                                                          $5.66          $2.86          49.5%     
+ADVNCD VIT D3 + MAGNESIUM CITRATE                                                        $14.12         $5.72        59.5% ***   
+Schick Intuition Sensitive Care Lather & Shave Women's Razor Blades Refill Cartridge     $11.23         $5.80          48.4%     
 Schick Hydro Sensitive Cartridges 6 ct                                                   $11.99         $5.80          51.6%     
 Schick Hydro Dry Skin Cartridges 6 ct                                                    $11.99         $5.80          51.6%     
 Schick Intuition Pure Nourishment Skin Moisturizing Solid 3-0.35 oz Packs                $11.99         $5.80          51.6%     
@@ -82,10 +90,12 @@ Cremo Original Formula Concentrated Classic Shave Cream 6 oz                    
 Cremo Coconut Mango Moisturizing Shave Cream 6 fl oz                                     $5.92          $3.04          48.6%     
 GOODSENSE B-COMPLEX WITH VITAMIN-C TABLETS                                               $5.98          $3.21          46.3%     
 Cremo Body Wash, Palo Santo 16 FL OZ                                                     $6.17          $3.12          49.4%     
+Schick Hydro Silk 5 Trim Style Women's Razor & Bikini Trimmer box                        $13.17         $6.74          48.8%     
 E VITAMIN 180 MG (400 IU) SOFTGELS                                                       $6.76          $3.52          47.9%     
 TopCare Clearlax Polyethylene Glycol Osmotic Laxative 17.9 oz                            $16.14         $7.00          56.6%     
 Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55          49.6%     
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55          49.6%     
+Schick Hydro Silk Cartridges 6 ct                                                        $15.96         $8.06        49.5% ***   
 VITAMIN C 250 MG SUPPLEMENT,VEGATABLE                                                    $8.28          $4.30          48.1%     
 
 Elapsed Time: N/A
