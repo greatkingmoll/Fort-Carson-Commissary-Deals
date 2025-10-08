@@ -129,7 +129,7 @@ def find_discounted_items(items, threshold=45):
 
 def write_html(html_file, store, items, new_items, date_str):
     with open(html_file, 'w', encoding='utf-8') as f:
-        f.write(f"<html><head><title>{store} Sales {date_str}</title></head><body>\n")
+        f.write(f"<html><head><title>{store} Sales {date_str}</title><link rel="icon" type="image/png" href="/Fort-Carson-Commissary-Deals/favicon-96x96.png" sizes="96x96" /><link rel="icon" type="image/svg+xml" href="/Fort-Carson-Commissary-Deals/favicon.svg" /><link rel="shortcut icon" href="/Fort-Carson-Commissary-Deals/favicon.ico" /><link rel="apple-touch-icon" sizes="180x180" href="/Fort-Carson-Commissary-Deals/apple-touch-icon.png" /><meta name="apple-mobile-web-app-title" content="Commissary Deals - Fort Carson" /><link rel="manifest" href="/Fort-Carson-Commissary-Deals/site.webmanifest" /></head><body>\n")
         f.write(f"<h2>{store} — Items ≥45% Off ({date_str})</h2>\n")
 
         if new_items:
@@ -242,4 +242,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
