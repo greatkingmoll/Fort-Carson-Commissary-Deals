@@ -1,4 +1,4 @@
-2025-10-10
+2025-10-11
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                                  $0.84          $0.35          58.3%     
@@ -31,20 +31,20 @@ CHILL FROZEN BERRY                                                              
 ANTACID CALCIUM EX STR BERRY TAB                                                         $2.88          $1.00          65.3%     
 Freedom's Choice Ground Black Pepper 6 oz can                                            $4.98          $1.00          79.9%     
 Pillsbury Original Icing Cinnamon Rolls 5 ct can                                         $2.03          $1.09          46.3%     
-Bolthouse Farms Vanilla Bean Protein Plus Shake 15.2 fl oz bottle                        $2.75          $1.12        59.3% ***   
+Bolthouse Farms Vanilla Bean Protein Plus Shake 15.2 fl oz bottle                        $2.75          $1.12          59.3%     
 MELTAMORS DOUBLE CHOCOLATE MP                                                            $2.95          $1.20          59.3%     
 MELTAMORS CHOC CRMY CRML MP                                                              $2.95          $1.20          59.3%     
 KRAFT COLBY JACK SHRED 7OZ                                                               $2.58          $1.29          50.0%     
-Kraft Natural Cheese Colby Jack Finely Shredded Colby & Monterey Jack Cheeses 8 oz b     $2.58          $1.29          50.0%     
-Kraft Natural Cheese Expertly Paired Traditional Cut Mozzarella & Fine Cut Parmesan      $2.58          $1.29          50.0%     
 Kraft Natural Cheese Shredded Low-Moisture Mozzarella Cheese 8 oz bag                    $2.58          $1.29          50.0%     
+Kraft Three Cheese Shredded Cheese Mix with a Touch of Philadelphia Cream Cheese 8 o     $2.58          $1.29          50.0%     
 Kraft Natural Cheese Mild Shredded Cheddar Cheese 8 oz bag                               $2.58          $1.29          50.0%     
 Kraft Natural Cheese Sharp Shredded Cheddar Cheese 8 oz bag                              $2.58          $1.29          50.0%     
 Kraft Triple Cheddar Creamy Melt Shredded Cheese with a Touch of Philadelphia Cream      $2.58          $1.29          50.0%     
 Kraft Natural Cheese Finely Shredded Mild Cheddar Cheese 8 oz bag                        $2.58          $1.29          50.0%     
-Kraft Natural Cheese Mexican Style Cheddar Jack Finely Shredded Cheese 8 oz bag          $2.58          $1.29          50.0%     
 Kraft Mozzarella Creamy Melt Shredded Cheese with a Touch of Philadelphia Cream Chee     $2.58          $1.29          50.0%     
-Kraft Three Cheese Shredded Cheese Mix with a Touch of Philadelphia Cream Cheese 8 o     $2.58          $1.29          50.0%     
+Kraft Natural Cheese Mexican Style Cheddar Jack Finely Shredded Cheese 8 oz bag          $2.58          $1.29          50.0%     
+Kraft Natural Cheese Expertly Paired Traditional Cut Mozzarella & Fine Cut Parmesan      $2.58          $1.29          50.0%     
+Kraft Natural Cheese Colby Jack Finely Shredded Colby & Monterey Jack Cheeses 8 oz b     $2.58          $1.29          50.0%     
 Carefree Acti-Fresh Body Shape Regular to Go Unscented Pantiliners 54 ct package         $2.99          $1.38          53.8%     
 Carefree Acti-Fresh Perfectly Thin to Go Unscented Pantiliners 60 ct package             $2.99          $1.38          53.8%     
 Carefree Acti-Fresh Body Shape Long to Go Unscented Pantiliners 42 ct package            $2.99          $1.38          53.8%     
@@ -86,11 +86,11 @@ Cremo Body Wash, Palo Santo 16 FL OZ                                            
 Cremo Body Wash Vintage Suede 16 OZ                                                      $6.17          $3.12          49.4%     
 Carefree Acti-Fresh Long Unscented Daily Liners 92 ct                                    $6.44          $3.31          48.6%     
 Johnson & Johnson Carefree Acti-Fresh Extra Long to Go Unscented Body Shape Pantilin     $6.62          $3.40          48.6%     
-Pepsi Cola 12 oz bottle 8 pack                                                           $6.44          $3.50        45.7% ***   
-Mountain Dew Citrus Soda 24 fl oz bottle 8 pack                                          $6.44          $3.50        45.7% ***   
-Mountain Dew Diet Soda 12 fl oz bottle 8 pack                                            $6.44          $3.50        45.7% ***   
-Pepsi Diet Soda 12 fl oz bottle 8 pack                                                   $6.44          $3.50        45.7% ***   
-Pepsi Soda 12 fl oz bottle 8 pack                                                        $6.44          $3.50        45.7% ***   
+Pepsi Cola 12 oz bottle 8 pack                                                           $6.44          $3.50          45.7%     
+Mountain Dew Citrus Soda 24 fl oz bottle 8 pack                                          $6.44          $3.50          45.7%     
+Mountain Dew Diet Soda 12 fl oz bottle 8 pack                                            $6.44          $3.50          45.7%     
+Pepsi Diet Soda 12 fl oz bottle 8 pack                                                   $6.44          $3.50          45.7%     
+Pepsi Soda 12 fl oz bottle 8 pack                                                        $6.44          $3.50          45.7%     
 Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55          49.6%     
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55          49.6%     
 GE Lighting Halogen Spotlight MR16 Indoor/Outdoor Light Bulb package                     $3.59          $1.79          50.0%     
