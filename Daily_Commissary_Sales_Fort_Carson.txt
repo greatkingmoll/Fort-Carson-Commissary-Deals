@@ -15,9 +15,9 @@ Del Monte Fresh Cut Blue Lake Green Beans 14.5 oz can                           
 Gerber Non-GMO Banana Baby Food 3.5 oz pouch                                             $1.32          $0.57          56.8%     
 Gerber Non-GMO Sweet Potato Baby Food 2 oz container 2 ct                                $1.26          $0.64          49.2%     
 Gerber Non-GMO Apple Baby Food 2 oz container 2 ct                                       $1.26          $0.64          49.2%     
-Freedom's Choice Italian Dressing 16 oz bottle                                           $1.88          $0.75          60.1%     
-Freedom's Choice Thousand Island Dressing 16 oz bottle                                   $1.88          $0.75          60.1%     
 Freedom's Choice Seasoning Salt 16 oz jar                                                $3.30          $0.75          77.3%     
+Freedom's Choice Italian Dressing 16 oz bottle                                           $1.92          $0.75          60.9%     
+Freedom's Choice Thousand Island Dressing 16 oz bottle                                   $1.92          $0.75          60.9%     
 TopCare Gentle Overnight Relief Laxative Bisacodyl 5 mg 25 tablets                       $1.56          $0.78          50.0%     
 Arm N Hammer Baking Soda Shaker 12 Oz                                                    $1.59          $0.80          50.0%     
 Gerber Non-GMO Butternut Squash Baby Food 4 oz container 2 ct                            $1.69          $0.84          50.3%     
@@ -30,32 +30,16 @@ MELTAMORS DOUBLE CHOCOLATE MP                                                   
 MELTAMORS CHOC CRMY CRML MP                                                              $2.95          $0.90          69.5%     
 ANTACID CALCIUM EX STR BERRY TAB                                                         $2.88          $1.00          65.3%     
 Freedom's Choice Ground Black Pepper 6 oz can                                            $4.98          $1.00          79.9%     
-Bolthouse Farms Vanilla Bean Protein Plus Shake 15.2 fl oz bottle                        $2.75          $1.12          59.3%     
 Betty Crocker Fruit Gushers Tropical Fruit Flavored Snacks 5.4 oz box                    $2.97          $1.23          58.6%     
-Kraft Natural Cheese Shredded Low-Moisture Mozzarella Cheese 8 oz bag                    $2.58          $1.29          50.0%     
-Kraft Three Cheese Shredded Cheese Mix with a Touch of Philadelphia Cream Cheese 8 o     $2.58          $1.29          50.0%     
-Kraft Natural Cheese Mild Shredded Cheddar Cheese 8 oz bag                               $2.58          $1.29          50.0%     
-Kraft Natural Cheese Sharp Shredded Cheddar Cheese 8 oz bag                              $2.58          $1.29          50.0%     
-Kraft Triple Cheddar Creamy Melt Shredded Cheese with a Touch of Philadelphia Cream      $2.58          $1.29          50.0%     
-Kraft Natural Cheese Finely Shredded Mild Cheddar Cheese 8 oz bag                        $2.58          $1.29          50.0%     
-Kraft Natural Cheese Mexican Style Cheddar Jack Finely Shredded Cheese 8 oz bag          $2.58          $1.29          50.0%     
-Kraft Natural Cheese Colby Jack Finely Shredded Colby & Monterey Jack Cheeses 8 oz b     $2.58          $1.29          50.0%     
-Kraft Mozzarella Creamy Melt Shredded Cheese with a Touch of Philadelphia Cream Chee     $2.58          $1.29          50.0%     
-Kraft Natural Cheese Expertly Paired Traditional Cut Mozzarella & Fine Cut Parmesan      $2.58          $1.29          50.0%     
-Kraft colby jack shredded 7 oz                                                           $2.58          $1.29        50.0% ***   
 I Can't Belive It's Not Butter! Original Vegetable Oil Spray 8 fl oz bottle              $2.68          $1.39          48.1%     
-Seventh Generation Free and Clear Baby Wipes 64 ct package                               $2.73          $1.40        48.7% ***   
 Arm & Hammer Pure Baking Soda 4 lb box                                                   $2.79          $1.40          50.0%     
 TopCare Extra Strength Gas Relief Cherry Creme Chewable 125 mg 18 tablets                $2.84          $1.42          50.0%     
 Sprite Zero Sugar Caffeine-free Lemon-Lime Soda 7.5 fl oz can 6 pack                     $3.95          $1.49          62.3%     
-Cracker Barrel Extra Sharp Cheddar Cheese 8 oz package                                   $2.98          $1.49          50.0%     
 Dr Pepper Soda 7.5 fl oz can 6 pack                                                      $3.95          $1.49          62.3%     
 TopCare Regular Unscented Pantiliners 64 ct box                                          $3.38          $1.50          55.6%     
 Topco Top Care Astringent Witch Hazel 16 fl oz bottle                                    $3.17          $1.58          50.2%     
 Betty Crocker Oreo Brownie Mix 13.6 oz                                                   $4.12          $1.60          61.2%     
 Gerber organic banana strawberry yogurt melts 1 oz                                       $3.59          $1.76          51.0%     
-La Mexicana Gluten-free Authentic Farm Fresh Mango Peach Salsa Dip 16 oz tub             $3.75          $1.87          50.1%     
-La Mexicana Authentic Farm Fresh Mild Cantina Salsa Dip 14 oz tub                        $3.75          $1.87          50.1%     
 Crav'n Flavor Fudge Bars 12 ct                                                           $4.78          $2.00          58.2%     
 JALAPENO PEPPER PASTE                                                                    $4.09          $2.04          50.1%     
 CHOPPED CHIVES LT DRIED BWL                                                              $4.09          $2.04          50.1%     
@@ -64,22 +48,21 @@ MEAL MS PORTOBELLO MUSHROOM RAVIOLI                                             
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.09          $1.04          50.0%     
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.29          $1.15          50.0%     
 TopCare Hemorrhoidal Ointment 2 oz                                                       $4.88          $2.44          50.0%     
-Kraft Natural Cheese Extra Sharp Cheddar Cheese Block 16 oz vacuum pack                  $4.94          $2.47          50.0%     
-Kraft Natural Cheese Mild Cheddar Cheese Block 16 oz vacuum pack                         $4.94          $2.47          50.0%     
-Kraft Natural Cheese Colby Jack Cheese Block 16 oz package                               $4.94          $2.47          50.0%     
-Kraft Natural Cheese Sharp Cheddar Cheese Block 16 oz vacuum pack                        $4.94          $2.47          50.0%     
 SODA ZS PLUS TEA 12PK                                                                    $6.98          $2.58          63.0%     
 MARGARINE GARLIC SPRAY                                                                   $2.68          $1.39          48.1%     
 TopCare Antioxidant Vitamin E 400 IU 100 tablets                                         $5.79          $2.90          49.9%     
 GE Lighting Halogen Spotlight MR16 Indoor/Outdoor Light Bulb package                     $3.59          $1.79          50.0%     
-Velveeta Original Shells & Cheese 2.39 oz cup 8 ct                                       $7.29          $3.64          50.1%     
+PORK TENDERLOIN TERIYAKI                                                                 $4.49          $2.17          51.7%     
 TopCare Fast Acting Dairy Relief Lactase Enzyme Dietary Supplement 60 tablets            $9.22          $4.50          51.2%     
 TopCare Calcium 600 mg with Vitamin D3 800 IU 300 tablets                                $9.28          $4.50          51.5%     
 Gerber snacks for baby yogurt melts variety pack 4 ea                                    $11.64         $4.92          57.7%     
 Gerber favorite fruit and veggie pouches value pack 9 ea                                 $11.82         $5.03          57.4%     
+GARLIC HRB CHCKN BREAST FILETS                                                           $5.04          $2.52          50.0%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $5.22          49.1%     
 GE Lighting LED Soft White Floodlight 85 W BR40 Light Bulb package                       $5.79          $2.90          50.0%     
+FAJITA CHICKEN STRIPS                                                                    $6.14          $3.07          50.0%     
 DOG FOOD BEEF CLASSI                                                                     $12.05         $6.20        48.5% ***   
+TERIYAKI BNLS CHICKEN THIGHS                                                             $6.35          $2.85        55.1% ***   
 TopCare Clearlax Polyethylene Glycol Osmotic Laxative 17.9 oz                            $16.14         $7.00          56.6%     
 DOG FOOD BACON STK 16LB                                                                  $14.15         $7.21        49.0% ***   
 DOG FOOD ORIGINAL 16LB                                                                   $14.15         $7.21        49.0% ***   
