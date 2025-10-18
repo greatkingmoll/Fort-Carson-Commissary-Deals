@@ -1,4 +1,4 @@
-2025-10-17
+2025-10-18
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                                  $0.84          $0.35          58.3%     
@@ -10,7 +10,7 @@ Arm & Hammer Fridge-n-Freezer Odor Absorber Baking Soda 14 oz box               
 Arm & Hammer Pure Baking Soda 1 lb box                                                   $0.99          $0.49          50.0%     
 Freedom's Choice Diced Beets 15 oz can                                                   $1.07          $0.50          53.3%     
 Del Monte Fresh Cut Blue Lake French Style Green Beans 14.5 oz can                       $1.39          $0.55          60.4%     
-Del Monte Non-GMO Fresh Cut Golden Sweet Whole Kernel Corn 15.25 oz can                  $1.39          $0.55        60.4% ***   
+Del Monte Non-GMO Fresh Cut Golden Sweet Whole Kernel Corn 15.25 oz can                  $1.39          $0.55          60.4%     
 Del Monte Fresh Cut Blue Lake Green Beans 14.5 oz can                                    $1.39          $0.55          60.4%     
 Gerber Non-GMO Banana Baby Food 3.5 oz pouch                                             $1.32          $0.57          56.8%     
 Gerber Non-GMO Sweet Potato Baby Food 2 oz container 2 ct                                $1.26          $0.64          49.2%     
@@ -61,12 +61,12 @@ GARLIC HRB CHCKN BREAST FILETS                                                  
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $5.22          49.1%     
 GE Lighting LED Soft White Floodlight 85 W BR40 Light Bulb package                       $5.79          $2.90          50.0%     
 FAJITA CHICKEN STRIPS                                                                    $6.14          $3.07          50.0%     
-DOG FOOD BEEF CLASSI                                                                     $12.05         $6.20        48.5% ***   
+DOG FOOD BEEF CLASSI                                                                     $12.05         $6.20          48.5%     
 TERIYAKI BNLS CHICKEN THIGHS                                                             $6.35          $2.85        55.1% ***   
 TopCare Clearlax Polyethylene Glycol Osmotic Laxative 17.9 oz                            $16.14         $7.00          56.6%     
-DOG FOOD BACON STK 16LB                                                                  $14.15         $7.21        49.0% ***   
-DOG FOOD ORIGINAL 16LB                                                                   $14.15         $7.21        49.0% ***   
-Gravy Train Beefy Classic Adult Dry Dog Food 35 lb bag                                   $21.44         $8.34        61.1% ***   
+DOG FOOD BACON STK 16LB                                                                  $14.15         $7.21          49.0%     
+DOG FOOD ORIGINAL 16LB                                                                   $14.15         $7.21          49.0%     
+Gravy Train Beefy Classic Adult Dry Dog Food 35 lb bag                                   $21.44         $8.34          61.1%     
 BULBS 8W INDOOR FLOOD MB SW                                                              $9.99          $5.00          50.0%     
 BULBS 15W LED PAR38 FLOOD DIMNG                                                          $10.19         $5.09          50.0%     
 BULBS LED 9W RELAX BR30 FLOOD SW 2PK                                                     $12.49         $6.25          50.0%     
