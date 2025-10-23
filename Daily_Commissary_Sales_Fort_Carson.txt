@@ -4,6 +4,7 @@ Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                         
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Diced Beets 15 oz can                                                   $1.07          $0.25          76.6%     
 Freedom's Choice Roasted Garlic and Onion Diced Tomatoes 14.5 oz can                     $0.84          $0.25          70.2%     
+RRN PURRFECT ENTREES WET CAT 2                                                           $0.85          $0.38          55.3%     
 Freedom's Choice Italian Dressing 16 oz bottle                                           $1.92          $0.50          74.0%     
 CHILL FROZEN CHERRY                                                                      $2.08          $0.50          76.0%     
 CHILL FROZEN BERRY                                                                       $2.08          $0.50          76.0%     
@@ -23,7 +24,6 @@ Gerber Non-GMO Pumpkin Baby Food 4 oz container 2 ct                            
 Gerber Non-GMO Apple Banana & Oatmeal Cereal Baby Food 4 oz container 2 ct               $1.69          $0.84          50.3%     
 Combos Baked Snacks Pizzeria Pretzel 6.3 oz bag                                          $1.79          $0.84          53.1%     
 Combos Baked Snacks Cheddar Cheese Pretzel 6.3 oz bag                                    $1.79          $0.84          53.1%     
-MELTAMORS DOUBLE CHOCOLATE MP                                                            $2.95          $0.90          69.5%     
 ANTACID CALCIUM EX STR BERRY TAB                                                         $2.88          $1.00          65.3%     
 Freedom's Choice Ground Black Pepper 6 oz can                                            $4.98          $1.00          79.9%     
 Crav'n Flavor Fudge Bars 12 ct                                                           $4.78          $1.00          79.1%     
@@ -31,7 +31,7 @@ REPLENISHING SHEA LTN 13.5OZ SM                                                 
 I Can't Belive It's Not Butter! Original Vegetable Oil Spray 8 fl oz bottle              $2.68          $1.39          48.1%     
 TopCare Extra Strength Gas Relief Cherry Creme Chewable 125 mg 18 tablets                $2.84          $1.42          50.0%     
 Sprite Zero Sugar Caffeine-free Lemon-Lime Soda 7.5 fl oz can 6 pack                     $3.95          $1.49          62.3%     
-TopCare Regular Unscented Pantiliners 64 ct box                                          $3.38          $1.50          55.6%     
+Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.89          $1.50        48.1% ***   
 Topco Top Care Astringent Witch Hazel 16 fl oz bottle                                    $3.17          $1.58          50.2%     
 Gerber organic banana strawberry yogurt melts 1 oz                                       $3.59          $1.76          51.0%     
 Mars Temptations Blissful Catnip Flavor Cat Treats 3 oz bag                              $1.78          $0.94          47.2%     
