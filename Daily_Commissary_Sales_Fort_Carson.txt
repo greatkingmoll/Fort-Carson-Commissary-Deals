@@ -1,4 +1,4 @@
-2025-10-25
+2025-10-26
 Items discounted by 45% or more:
 Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                                  $0.84          $0.25          70.2%     
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
@@ -31,7 +31,7 @@ TopCare Extra Strength Gas Relief Cherry Creme Chewable 125 mg 18 tablets       
 Sprite Zero Sugar Caffeine-free Lemon-Lime Soda 7.5 fl oz can 6 pack                     $3.95          $1.49          62.3%     
 Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.89          $1.50          48.1%     
 Topco Top Care Astringent Witch Hazel 16 fl oz bottle                                    $3.17          $1.58          50.2%     
-DIP CLASSIC GUACAMOLE 7OZ                                                                $3.25          $1.64        49.5% ***   
+DIP CLASSIC GUACAMOLE 7OZ                                                                $3.25          $1.64          49.5%     
 Gerber Non-GMO Butternut Squash Baby Food 4 oz container 2 ct                            $1.69          $0.86          49.1%     
 Gerber Non-GMO Pumpkin Baby Food 4 oz container 2 ct                                     $1.69          $0.86          49.1%     
 Gerber Non-GMO Apple Banana & Oatmeal Cereal Baby Food 4 oz container 2 ct               $1.69          $0.86          49.1%     
@@ -58,9 +58,9 @@ DOG FOOD BEEF CLASSI                                                            
 BULBS LED 9W RELAX BR30 FLOOD SW 2PK                                                     $12.49         $6.25          50.0%     
 BULBS 8WNLED REFRESH DL BR30 2 PK                                                        $12.99         $6.50          50.0%     
 Dr Pepper Diet Soda 7.5 fl oz can 10 pack                                                $6.55          $2.55        61.1% ***   
-Fresca Black Cherry Soda Sparkling Flavored Soft Drink Zero Calorie and Sugar Free,      $6.98          $3.69        47.1% ***   
-Sprite winter spiced cranberry fridge pack cans, 12 fl oz, 12 pk                         $6.98          $3.69        47.1% ***   
-Sprite winter spiced cranberry zero sugar fridge pack cans, 12 fl oz, 12 pk              $6.98          $3.69        47.1% ***   
+Fresca Black Cherry Soda Sparkling Flavored Soft Drink Zero Calorie and Sugar Free,      $6.98          $3.69          47.1%     
+Sprite winter spiced cranberry fridge pack cans, 12 fl oz, 12 pk                         $6.98          $3.69          47.1%     
+Sprite winter spiced cranberry zero sugar fridge pack cans, 12 fl oz, 12 pk              $6.98          $3.69          47.1%     
 TopCare Clearlax Polyethylene Glycol Osmotic Laxative 17.9 oz                            $16.14         $7.00          56.6%     
 DOG FOOD BACON STK 16LB                                                                  $14.15         $7.21          49.0%     
 DOG FOOD ORIGINAL 16LB                                                                   $14.15         $7.21          49.0%     
