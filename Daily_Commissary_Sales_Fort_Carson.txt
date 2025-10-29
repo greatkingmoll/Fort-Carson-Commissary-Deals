@@ -11,9 +11,6 @@ Powerade xtra sour grape shocker bottle 28 fl oz                                
 CHILL FROZEN CHERRY                                                                      $2.08          $0.50          76.0%     
 CHILL FROZEN BERRY                                                                       $2.08          $0.50          76.0%     
 CHILL FROZEN ORANGE                                                                      $2.08          $0.50          76.0%     
-Del Monte Fresh Cut Blue Lake French Style Green Beans 14.5 oz can                       $1.39          $0.55          60.4%     
-Del Monte Fresh Cut Blue Lake Green Beans 14.5 oz can                                    $1.39          $0.55          60.4%     
-Del Monte Non-GMO Fresh Cut Golden Sweet Whole Kernel Corn 15.25 oz can                  $1.39          $0.55          60.4%     
 The J.M. Smucker Co. Gravy Train Beef Chunks Dog Food 13.2 oz can                        $1.07          $0.58        45.8% ***   
 The J.M. Smucker Co. Gravy Train Chunks Dog Wet Food 13.2 oz                             $1.07          $0.58        45.8% ***   
 The J.M. Smucker Co. Gravy Train Beef & Bacon Meaty Ground Dinner Dog Food 13.2 oz c     $1.07          $0.58        45.8% ***   
@@ -24,7 +21,6 @@ Combos Baked Snacks Cheddar Cheese Pretzel 6.3 oz bag                           
 RRN PURRFECT ENTREES WET CAT 2                                                           $0.85          $0.46          45.9%     
 RRN CAT FD PURRFECT TUNA VEG 2                                                           $0.85          $0.46          45.9%     
 RRN PURRFECT ENTREES WET CAT 2                                                           $0.85          $0.46          45.9%     
-ANTACID CALCIUM EX STR BERRY TAB                                                         $2.88          $1.00          65.3%     
 Crav'n Flavor Fudge Bars 12 ct                                                           $4.78          $1.00          79.1%     
 Freedom's Choice Ground Black Pepper 6 oz can                                            $5.47          $1.00          81.7%     
 Monster Energy Zero Ultra Energy Drink 16 fl oz can                                      $2.19          $1.09        50.0% ***   
@@ -50,7 +46,6 @@ Monster zero sugar energy drink ultra fantasy ruby red 16 fl oz                 
 Monster energy drink ultra vice guava 16 fl oz                                           $2.19          $1.09        50.0% ***   
 Monster energy drink viking berry 16 fl oz                                               $2.19          $1.09        50.0% ***   
 I Can't Belive It's Not Butter! Original Vegetable Oil Spray 8 fl oz bottle              $2.68          $1.39          48.1%     
-TopCare Extra Strength Gas Relief Cherry Creme Chewable 125 mg 18 tablets                $2.84          $1.42          50.0%     
 Sprite Zero Sugar Caffeine-free Lemon-Lime Soda 7.5 fl oz can 6 pack                     $3.95          $1.49          62.3%     
 Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.89          $1.50          48.1%     
 Topco Top Care Astringent Witch Hazel 16 fl oz bottle                                    $3.17          $1.58          50.2%     
@@ -60,6 +55,7 @@ Mars Temptations Blissful Catnip Flavor Cat Treats 3 oz bag                     
 Mars Temptations Tempting Tuna Flavor Cat Treats 3 oz bag                                $1.78          $0.94          47.2%     
 GE Lighting Halogen Spotlight MR16 Indoor/Outdoor Light Bulb package                     $3.59          $1.79          50.0%     
 Temptations Surfer's Delight Tuna Shrimp & Salmon Flavor MixUps Cat Treats 3 oz pouc     $1.83          $0.99          45.9%     
+Barq's Root Beer 20 oz bottle                                                            $2.00          $0.79        60.5% ***   
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $2.00          61.5%     
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.09          $1.04          50.0%     
 MEAL MS PORTOBELLO MUSHROOM RAVIOLI                                                      $4.12          $2.09          49.3%     
@@ -76,7 +72,6 @@ TopCare Antioxidant Vitamin E 400 IU 100 tablets                                
 GE Lighting LED Soft White Floodlight 85 W BR40 Light Bulb package                       $5.79          $2.90          50.0%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 Jennieo Ground Turkey Breast                                                             $6.08          $3.04          50.0%     
-TopCare Fast Acting Dairy Relief Lactase Enzyme Dietary Supplement 60 tablets            $9.22          $4.50          51.2%     
 TopCare Calcium 600 mg with Vitamin D3 800 IU 300 tablets                                $9.28          $4.50          51.5%     
 BULBS 8W INDOOR FLOOD MB SW                                                              $9.99          $5.00          50.0%     
 BULBS 15W LED PAR38 FLOOD DIMNG                                                          $10.19         $5.09          50.0%     
@@ -84,6 +79,7 @@ DOG FOOD BEEF CLASSI                                                            
 BULBS LED 9W RELAX BR30 FLOOD SW 2PK                                                     $12.49         $6.25          50.0%     
 BULBS 8WNLED REFRESH DL BR30 2 PK                                                        $12.99         $6.50          50.0%     
 Dr Pepper Diet Soda 7.5 fl oz can 10 pack                                                $6.55          $2.55          61.1%     
+Coca-Cola Zero Vanilla Soda Soft Drink, 12 fl oz, 12 Pack                                $6.98          $2.50        64.2% ***   
 TopCare Clearlax Polyethylene Glycol Osmotic Laxative 17.9 oz                            $16.14         $7.00          56.6%     
 DOG FOOD BACON STK 16LB                                                                  $14.15         $7.21          49.0%     
 DOG FOOD ORIGINAL 16LB                                                                   $14.15         $7.21          49.0%     
