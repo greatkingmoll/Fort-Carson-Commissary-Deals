@@ -23,6 +23,7 @@ RRN CAT FD PURRFECT TUNA VEG 2                                                  
 RRN PURRFECT ENTREES WET CAT 2                                                           $0.85          $0.46          45.9%     
 Crav'n Flavor Fudge Bars 12 ct                                                           $4.78          $1.00          79.1%     
 Freedom's Choice Ground Black Pepper 6 oz can                                            $5.47          $1.00          81.7%     
+GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.09          $1.04          50.0%     
 Monster Energy Zero Ultra Energy Drink 16 fl oz can                                      $2.19          $1.09          50.0%     
 Monster Rehab Non-Carbonated Tea and Lemonade Energy Drink 15.5 fl oz can                $2.19          $1.09          50.0%     
 Monster Juice Mango Loco Energy Juice 16 fl oz can                                       $2.19          $1.09          50.0%     
@@ -57,7 +58,6 @@ GE Lighting Halogen Spotlight MR16 Indoor/Outdoor Light Bulb package            
 Temptations Surfer's Delight Tuna Shrimp & Salmon Flavor MixUps Cat Treats 3 oz pouc     $1.83          $0.99          45.9%     
 Barq's Root Beer 20 oz bottle                                                            $2.00          $0.79        60.5% ***   
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $2.00          61.5%     
-GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.09          $1.04          50.0%     
 MEAL MS PORTOBELLO MUSHROOM RAVIOLI                                                      $4.12          $2.09          49.3%     
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.29          $1.15          50.0%     
 JennieoGronndTurkey                                                                      $4.58          $2.29          50.0%     
@@ -77,12 +77,12 @@ BULBS 8W INDOOR FLOOD MB SW                                                     
 BULBS 15W LED PAR38 FLOOD DIMNG                                                          $10.19         $5.09          50.0%     
 DOG FOOD BEEF CLASSI                                                                     $12.05         $6.20          48.5%     
 BULBS LED 9W RELAX BR30 FLOOD SW 2PK                                                     $12.49         $6.25          50.0%     
-BULBS 8WNLED REFRESH DL BR30 2 PK                                                        $12.99         $6.50          50.0%     
 Dr Pepper Diet Soda 7.5 fl oz can 10 pack                                                $6.55          $2.55          61.1%     
 Coca-Cola Zero Vanilla Soda Soft Drink, 12 fl oz, 12 Pack                                $6.98          $2.50        64.2% ***   
 TopCare Clearlax Polyethylene Glycol Osmotic Laxative 17.9 oz                            $16.14         $7.00          56.6%     
 DOG FOOD BACON STK 16LB                                                                  $14.15         $7.21          49.0%     
 DOG FOOD ORIGINAL 16LB                                                                   $14.15         $7.21          49.0%     
 Gravy Train Beefy Classic Adult Dry Dog Food 35 lb bag                                   $21.44         $8.34          61.1%     
+BULBS 8WNLED REFRESH DL BR30 2 PK                                                        $12.99         $6.50          50.0%     
 
 Elapsed Time: N/A
