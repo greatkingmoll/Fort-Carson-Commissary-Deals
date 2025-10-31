@@ -24,33 +24,22 @@ RRN PURRFECT ENTREES WET CAT 2                                                  
 Crav'n Flavor Fudge Bars 12 ct                                                           $4.78          $1.00          79.1%     
 Freedom's Choice Ground Black Pepper 6 oz can                                            $5.47          $1.00          81.7%     
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.09          $1.04          50.0%     
-Monster Energy Zero Ultra Energy Drink 16 fl oz can                                      $2.19          $1.09          50.0%     
-Monster Rehab Non-Carbonated Tea and Lemonade Energy Drink 15.5 fl oz can                $2.19          $1.09          50.0%     
-Monster Juice Mango Loco Energy Juice 16 fl oz can                                       $2.19          $1.09          50.0%     
-Monster Energy Zero Sugar Ultra Violet Energy Drink 16 fl oz can                         $2.19          $1.09          50.0%     
-Monster Energy Absolutely Zero Sugar Energy Drink 16 fl oz can                           $2.19          $1.09          50.0%     
-Monster energy drink zero sugar ultra peachy keen 16 fl oz                               $2.19          $1.09          50.0%     
-Monster Energy Zero Sugar Ultra Sunrise Energy Drink 16 fl oz can                        $2.19          $1.09          50.0%     
-Monster Juice Pacific Punch Energy Juice 16 fl oz can                                    $2.19          $1.09          50.0%     
-Monster Drink Monster Nitro Spr Dry 16 Oz                                                $2.19          $1.09          50.0%     
-Monster Energy Zero Sugar Ultra Fiesta Energy Drink 16 fl oz can                         $2.19          $1.09          50.0%     
-Monster Energy Energy Drink 16 fl oz can                                                 $2.19          $1.09          50.0%     
-Monster Energy Zero Sugar Ultra Paradise Energy Drink 16 fl oz can                       $2.19          $1.09          50.0%     
-Monster energy drink juice Rio Punch 16 fl oz                                            $2.19          $1.09          50.0%     
-Monster No Sugar Added Ultra Watermelon Energy Drink 16 fl oz can                        $2.19          $1.09          50.0%     
-Monster energy drink ulta strawberry dream 16 fl oz                                      $2.19          $1.09          50.0%     
-Monster Lo-Carb Taurine and Ginseng Energy Drink 16 fl oz can                            $2.19          $1.09          50.0%     
 Monster zero sugar energy ultra drink blue hawaiian 16 fl oz                             $2.19          $1.09          50.0%     
-DRINK ENERGY REHAB GREEN TEA                                                             $2.19          $1.09          50.0%     
-ENERGY RSRV ORANGE DRMSCL                                                                $2.19          $1.09          50.0%     
-Monster zero sugar energy drink ultra fantasy ruby red 16 fl oz                          $2.19          $1.09          50.0%     
 Monster energy drink ultra vice guava 16 fl oz                                           $2.19          $1.09          50.0%     
 Monster energy drink viking berry 16 fl oz                                               $2.19          $1.09          50.0%     
+Monster Energy Zero Ultra Energy Drink 16 fl oz can                                      $2.22          $1.11          50.0%     
+Monster Energy Absolutely Zero Sugar Energy Drink 16 fl oz can                           $2.22          $1.11          50.0%     
+Monster energy drink zero sugar ultra peachy keen 16 fl oz                               $2.22          $1.11          50.0%     
+Monster Energy Zero Sugar Ultra Fiesta Energy Drink 16 fl oz can                         $2.22          $1.11          50.0%     
+Monster Lo-Carb Taurine and Ginseng Energy Drink 16 fl oz can                            $2.22          $1.11          50.0%     
+Monster energy drink reserve orange dreamsicle 16 fl oz                                  $2.22          $1.11        50.0% ***   
+Monster energy drink ulta strawberry dream 16 fl oz                                      $2.22          $1.11          50.0%     
+Monster energy drink juice Rio Punch 16 fl oz                                            $2.22          $1.11          50.0%     
+Monster zero sugar energy drink ultra fantasy ruby red 16 fl oz                          $2.22          $1.11          50.0%     
 I Can't Belive It's Not Butter! Original Vegetable Oil Spray 8 fl oz bottle              $2.68          $1.39          48.1%     
 Sprite Zero Sugar Caffeine-free Lemon-Lime Soda 7.5 fl oz can 6 pack                     $3.95          $1.49          62.3%     
 Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.89          $1.50          48.1%     
 Topco Top Care Astringent Witch Hazel 16 fl oz bottle                                    $3.17          $1.58          50.2%     
-DIP CLASSIC GUACAMOLE 7OZ                                                                $3.25          $1.64          49.5%     
 Gerber Non-GMO Apple Banana & Oatmeal Cereal Baby Food 4 oz container 2 ct               $1.69          $0.86          49.1%     
 Mars Temptations Blissful Catnip Flavor Cat Treats 3 oz bag                              $1.78          $0.94          47.2%     
 Mars Temptations Tempting Tuna Flavor Cat Treats 3 oz bag                                $1.78          $0.94          47.2%     
@@ -58,10 +47,17 @@ GE Lighting Halogen Spotlight MR16 Indoor/Outdoor Light Bulb package            
 Temptations Surfer's Delight Tuna Shrimp & Salmon Flavor MixUps Cat Treats 3 oz pouc     $1.83          $0.99          45.9%     
 Barq's Root Beer 20 oz bottle                                                            $2.00          $0.79          60.5%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $2.00          61.5%     
-MEAL MS PORTOBELLO MUSHROOM RAVIOLI                                                      $4.12          $2.09          49.3%     
+Monster Energy Zero Sugar Ultra Violet Energy Drink 16 fl oz can                         $2.22          $1.11          50.0%     
+Monster Juice Mango Loco Energy Juice 16 fl oz can                                       $2.22          $1.11          50.0%     
+Monster Rehab Non-Carbonated Tea and Lemonade Energy Drink 15.5 fl oz can                $2.22          $1.11          50.0%     
+Monster Energy Zero Sugar Ultra Sunrise Energy Drink 16 fl oz can                        $2.22          $1.11          50.0%     
+Monster Energy Zero Sugar Ultra Paradise Energy Drink 16 fl oz can                       $2.22          $1.11          50.0%     
+Monster Juice Pacific Punch Energy Juice 16 fl oz can                                    $2.22          $1.11          50.0%     
+Monster Drink Monster Nitro Spr Dry 16 Oz                                                $2.22          $1.11          50.0%     
+Monster No Sugar Added Ultra Watermelon Energy Drink 16 fl oz can                        $2.22          $1.11          50.0%     
+Monster Energy Energy Drink 16 fl oz can                                                 $2.22          $1.11          50.0%     
+Monster energy drink rehab green tea 15.5 fl oz                                          $2.22          $1.11        50.0% ***   
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.29          $1.15          50.0%     
-JennieoGronndTurkey                                                                      $4.58          $2.29          50.0%     
-TopCare Hemorrhoidal Ointment 2 oz                                                       $4.88          $2.44          50.0%     
 Fresca Black Cherry Soda Sparkling Flavored Soft Drink Zero Calorie and Sugar Free,      $6.98          $2.51          64.0%     
 Sprite winter spiced cranberry fridge pack cans, 12 fl oz, 12 pk                         $6.98          $2.51          64.0%     
 Sprite winter spiced cranberry zero sugar fridge pack cans, 12 fl oz, 12 pk              $6.98          $2.51          64.0%     
@@ -71,7 +67,6 @@ DOG FOOD NB BCN STK                                                             
 TopCare Antioxidant Vitamin E 400 IU 100 tablets                                         $5.79          $2.90          49.9%     
 GE Lighting LED Soft White Floodlight 85 W BR40 Light Bulb package                       $5.79          $2.90          50.0%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
-Jennieo Ground Turkey Breast                                                             $6.08          $3.04          50.0%     
 TopCare Calcium 600 mg with Vitamin D3 800 IU 300 tablets                                $9.28          $4.50          51.5%     
 BULBS 8W INDOOR FLOOD MB SW                                                              $9.99          $5.00          50.0%     
 BULBS 15W LED PAR38 FLOOD DIMNG                                                          $10.19         $5.09          50.0%     
