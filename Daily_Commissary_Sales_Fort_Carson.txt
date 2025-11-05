@@ -7,6 +7,11 @@ Freedom's Choice Roasted Garlic and Onion Diced Tomatoes 14.5 oz can            
 RRN CAT FD PURRFECT TUNA VEG 2                                                           $0.85          $0.46          45.9%     
 RRN PURRFECT ENTREES WET CAT 2                                                           $0.85          $0.46          45.9%     
 Freedom's Choice Italian Dressing 16 oz bottle                                           $1.92          $0.50          74.0%     
+Powerade xtra sour grape shocker bottle 28 fl oz                                         $1.25          $0.50          60.0%     
+Powerade xtra sour cherry kicker bottle 28 fl oz                                         $1.25          $0.50          60.0%     
+Powerade xtra sour peach pucker bottle, 28 fl oz                                         $1.25          $0.50          60.0%     
+CHILL FROZEN BERRY                                                                       $2.08          $0.50          76.0%     
+CHILL FROZEN ORANGE                                                                      $2.08          $0.50          76.0%     
 The J.M. Smucker Co. Gravy Train Beef Chunks Dog Food 13.2 oz can                        $1.07          $0.58          45.8%     
 The J.M. Smucker Co. Gravy Train Chunks Dog Wet Food 13.2 oz                             $1.07          $0.58          45.8%     
 The J.M. Smucker Co. Gravy Train Beef & Bacon Meaty Ground Dinner Dog Food 13.2 oz c     $1.07          $0.58          45.8%     
@@ -16,8 +21,7 @@ Freedom's Choice Ground Black Pepper 6 oz can                                   
 Crav'n Flavor Fudge Bars 12 ct                                                           $4.78          $1.00          79.1%     
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.09          $1.04          50.0%     
 CRACKERS SPICY SWT CHILI                                                                 $2.25          $1.08          52.0%     
-MARGARINE GARLIC SPRAY                                                                   $2.68          $1.39          48.1%     
-I Can't Belive It's Not Butter! Original Vegetable Oil Spray 8 fl oz bottle              $2.68          $1.39          48.1%     
+Sprite Zero Sugar Caffeine-free Lemon-Lime Soda 7.5 fl oz can 6 pack                     $3.95          $1.49          62.3%     
 Topco Top Care Astringent Witch Hazel 16 fl oz bottle                                    $3.17          $1.58          50.2%     
 Gerber Non-GMO Apple Banana & Oatmeal Cereal Baby Food 4 oz container 2 ct               $1.69          $0.86          49.1%     
 GE Lighting Halogen Spotlight MR16 Indoor/Outdoor Light Bulb package                     $3.59          $1.79          50.0%     
@@ -25,7 +29,9 @@ GE Lighting Crystal Clear 40 W B Type Decorative Candelabra Base Light Bulb 2 ct
 Barq's Root Beer 20 oz bottle                                                            $2.00          $0.79          60.5%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $2.00          61.5%     
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.29          $1.15          50.0%     
+Sprite + tea fridge pack cans, 12 fl oz, 12 pk                                           $6.98          $2.50        64.2% ***   
 Coca-Cola Zero Vanilla Soda Soft Drink, 12 fl oz, 12 Pack                                $6.98          $2.50          64.2%     
+SODA LTO CHUCKYS PUNCH 12PK                                                              $6.98          $2.50        64.2% ***   
 KIBBLESN BITS SAVORY BEEF AND CHICKEN DRY DOG FOOD 3.5 POUND BAG                         $5.25          $2.80          46.7%     
 DOG FOOD NB BCN STK                                                                      $5.25          $2.80          46.7%     
 TopCare Antioxidant Vitamin E 400 IU 100 tablets                                         $5.79          $2.90          49.9%     
@@ -73,6 +79,5 @@ Gravy Train Beefy Classic Adult Dry Dog Food 35 lb bag                          
 BULBS 4W LED CLASSC SHP SW FRST                                                          $8.99          $4.50          50.0%     
 BULBS 4W LED CLASSC SHP SW 2PK                                                           $8.99          $4.50          50.0%     
 BULBS 5.5W LED CLASC SHP SW 2PK                                                          $8.99          $4.50          50.0%     
-GE Lighting Refresh LED Daylight 40 W G25 Light Bulb 2 ct package                        $9.99          $5.00          50.0%     
 
 Elapsed Time: N/A
