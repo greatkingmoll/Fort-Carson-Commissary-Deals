@@ -3,8 +3,8 @@ Items discounted by 45% or more:
 Freedom's Choice Roasted Garlic and Onion Diced Tomatoes 14.5 oz can                     $0.84          $0.25          70.2%     
 Freedom's Choice Diced Beets 15 oz can                                                   $1.07          $0.25          76.6%     
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
-RRN CAT FD PURRFECT TUNA VEG 2                                                           $0.85          $0.46          45.9%     
 RRN PURRFECT ENTREES WET CAT 2                                                           $0.85          $0.46          45.9%     
+Nurish Natural Food for Cats Grain Free Purrfect Entree with Yellow Tuna and Veggies     $0.85          $0.46        45.9% ***   
 Freedom's Choice Italian Dressing 16 oz bottle                                           $1.92          $0.50          74.0%     
 Powerade xtra sour grape shocker bottle 28 fl oz                                         $1.25          $0.50          60.0%     
 Powerade xtra sour cherry kicker bottle 28 fl oz                                         $1.25          $0.50          60.0%     
@@ -15,10 +15,10 @@ The J.M. Smucker Co. Gravy Train Chunks Dog Wet Food 13.2 oz                    
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can                          $1.50          $0.79          47.3%     
 NOS energy drink zero sugar 16 fl oz                                                     $1.65          $0.79          52.1%     
 Full Throttle Citrus Energy Drink 16 fl oz can                                           $1.65          $0.79          52.1%     
-Butterball Premium Turkey                                                                $1.78          $0.96          46.0%     
+Butterball all Natural Premium Frozen Turkey                                             $1.78          $0.96          46.0%     
 Butterball all Natural Premium Turkey                                                    $1.78          $0.96          46.0%     
 Butterball all Natural Premium Frozen Turkey                                             $1.78          $0.96          46.0%     
-Butterball all Natural Premium Frozen Turkey                                             $1.78          $0.96          46.0%     
+Butterball Premium Turkey                                                                $1.78          $0.96          46.0%     
 Butterball all Natural Premium Frozen Turkey                                             $1.81          $0.98          46.0%     
 RRN PURRFECT ENTREES WET CAT 2                                                           $0.85          $0.46          45.9%     
 Gerber Non-GMO Apple Banana & Oatmeal Cereal Baby Food 4 oz container 2 ct               $1.69          $0.86          49.1%     
@@ -67,6 +67,9 @@ BULBS 5.5W LED CLASSSC SHP SW FRST                                              
 FIZZCHW CGH&SORE THROAT RSPBRY                                                           $9.79          $4.73          51.7%     
 FIZZY CHEWS COLD & FLU ORANGE                                                            $9.79          $4.73          51.7%     
 BULBS 8W INDOOR FLOOD MB SW                                                              $9.99          $5.00          50.0%     
+STEAKHOUSE CHCKN BREAST FILETS                                                           $5.04          $2.52          50.0%     
+GARLIC HRB CHCKN BREAST FILETS                                                           $5.04          $2.52          50.0%     
+TERIYAKI CHICKEN BREAST FILETS                                                           $5.04          $2.52          50.0%     
 BULBS 15W LED PAR38 FLOOD DIMNG                                                          $10.19         $5.09          50.0%     
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can 8 pack                   $10.78         $5.49          49.1%     
 BULBS LED 9W RELAX BR30 FLOOD SW 2PK                                                     $12.49         $6.25          50.0%     
