@@ -1,4 +1,4 @@
-2025-11-13
+2025-11-14
 Items discounted by 45% or more:
 Freedom's Choice Roasted Garlic and Onion Diced Tomatoes 14.5 oz can                     $0.84          $0.25          70.2%     
 Freedom's Choice Diced Beets 15 oz can                                                   $1.07          $0.25          76.6%     
@@ -42,9 +42,9 @@ Country Crock plant butter with avocado oil 14 oz                               
 GE Lighting Halogen Spotlight MR16 Indoor/Outdoor Light Bulb package                     $3.59          $1.79          50.0%     
 GE Lighting Crystal Clear 40 W B Type Decorative Candelabra Base Light Bulb 2 ct pac     $1.99          $0.99          50.0%     
 Barq's Root Beer 20 oz bottle                                                            $2.00          $0.79          60.5%     
-Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.79        60.5% ***   
+Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.79          60.5%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $2.00          61.5%     
-SODA SPRITE ZERO WINTER CRANBERRY                                                        $2.00          $0.79        60.5% ***   
+SODA SPRITE ZERO WINTER CRANBERRY                                                        $2.00          $0.79          60.5%     
 Dr Pepper Diet Soda 7.5 fl oz can 10 pack                                                $6.55          $2.05          68.7%     
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.29          $1.15          50.0%     
 Sprite + Tea Fridge Pack Cans, 12 fl oz, 12 Pack                                         $6.98          $2.50          64.2%     
@@ -61,7 +61,7 @@ Fanta Orange Soda Soft Drink Fridge Pack, 7.5 fl oz Mini Cans, 10 Pack          
 Coca-Cola Zero Sugar Soda Soft Drink Fridge Pack, 7.5 fl oz Mini Cans, 10 Pack           $6.55          $3.49          46.7%     
 Coca-Cola Cherry Soda Soda Soft Drink Mini Cans, 7.5 fl oz, 10 Pack                      $6.55          $3.49          46.7%     
 Dr Pepper Mini Cans Soda 7.5 fl oz can 10 pack                                           $6.55          $3.49          46.7%     
-Sprite Soda Lemon Lime Mini Fridge Pack Cans - 10-7.5 Fl. Oz.                            $6.55          $3.49        46.7% ***   
+Sprite Soda Lemon Lime Mini Fridge Pack Cans - 10-7.5 Fl. Oz.                            $6.55          $3.49          46.7%     
 Fresca Fridge Pack Cans, 7.5 fl oz, 10 Pack                                              $6.55          $3.49          46.7%     
 Gold Peak Zero Sugar Sweet Tea Bottles, 16.9 fl oz, 6 Pack                               $6.49          $3.54          45.5%     
 Gold Peak Tea Black Tea Sweet - 6-16.9 Fl. Oz.                                           $6.49          $3.54          45.5%     
@@ -84,7 +84,7 @@ Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can 8 pack          
 BULBS LED 9W RELAX BR30 FLOOD SW 2PK                                                     $12.49         $6.25          50.0%     
 Totino's Combo Pizza Rolls 130 ct bag                                                    $11.94         $6.37          46.6%     
 General Mills Totino's Triple Meat Pizza Rolls 63.5 oz package                           $11.94         $6.37          46.6%     
-SNACKS TRIPLE CHEESE PIZZA ROLLS 130CT                                                   $11.94         $6.37        46.6% ***   
+SNACKS TRIPLE CHEESE PIZZA ROLLS 130CT                                                   $11.94         $6.37          46.6%     
 BULBS 5.5W LED CLASC SHP DEC SB BTIP                                                     $6.49          $3.25          50.0%     
 Amy's Cauliflower Peperoni Pizza                                                         $6.79          $3.58          47.3%     
 PIZZA NT WHITE SAUCE                                                                     $6.79          $3.58          47.3%     
