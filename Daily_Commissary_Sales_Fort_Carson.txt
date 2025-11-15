@@ -14,15 +14,16 @@ The J.M. Smucker Co. Gravy Train Chunks Dog Wet Food 13.2 oz                    
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can                          $1.50          $0.79          47.3%     
 NOS energy drink zero sugar 16 fl oz                                                     $1.65          $0.79          52.1%     
 Full Throttle Citrus Energy Drink 16 fl oz can                                           $1.65          $0.79          52.1%     
+Butterball Premium Turkey                                                                $1.78          $0.96          46.0%     
 Butterball all Natural Premium Frozen Turkey                                             $1.78          $0.96          46.0%     
 Butterball all Natural Premium Turkey                                                    $1.78          $0.96          46.0%     
 Butterball all Natural Premium Frozen Turkey                                             $1.78          $0.96          46.0%     
-Butterball Premium Turkey                                                                $1.78          $0.96          46.0%     
 Butterball all Natural Premium Frozen Turkey                                             $1.81          $0.98          46.0%     
 RRN PURRFECT ENTREES WET CAT 2                                                           $0.85          $0.46          45.9%     
 Gerber Non-GMO Apple Banana & Oatmeal Cereal Baby Food 4 oz container 2 ct               $1.69          $0.86          49.1%     
 Coca-Cola Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                      $6.61          $0.99          85.0%     
 Sprite Soda Lemon Lime - 8-12 Fl. Oz.                                                    $6.61          $0.99          85.0%     
+GE Lighting Crystal Clear 40 W B Type Decorative Candelabra Base Light Bulb 2 ct pac     $1.99          $0.99          50.0%     
 Honeysuckle Tender & Juicy Frozen Turkey                                                 $1.49          $0.49          67.0%     
 Honeysuckle Tender & Juicy Frozen Turkey                                                 $1.49          $0.49          67.0%     
 Shady Brook Farms All Natural Young Turkey 14-16 lb                                      $1.49          $0.49          67.0%     
@@ -36,26 +37,25 @@ CRACKERS SPICY SWT CHILI                                                        
 Noosa Salted Caramel Finest Yoghurt 4.5 oz tub                                           $1.27          $0.64          49.6%     
 Noosa Blueberry Finest Yoghurt 4.5 oz tub                                                $1.27          $0.64          49.6%     
 Honeysuckle Tender & Juicy Frozen Turkey                                                 $1.93          $0.64          67.0%     
-Sprite Zero Sugar Cans, 7.5 fl oz, 6 Pack                                                $3.95          $1.49          62.3%     
+Nature Valley Crunchy Peanut Butter Granola Bars 1.49 oz package 6 ct                    $3.15          $1.39          55.9%     
 Country Crock plant butter with avocado oil 14 oz                                        $2.99          $1.50          50.0%     
+SEASONING SAZERAC BUFFALO TRACE                                                          $3.00          $1.52        49.3% ***   
 GE Lighting Halogen Spotlight MR16 Indoor/Outdoor Light Bulb package                     $3.59          $1.79          50.0%     
-GE Lighting Crystal Clear 40 W B Type Decorative Candelabra Base Light Bulb 2 ct pac     $1.99          $0.99          50.0%     
+CHIPS TORTILLA YELLOW REST STYLE                                                         $1.89          $0.99        47.6% ***   
 Barq's Root Beer 20 oz bottle                                                            $2.00          $0.79          60.5%     
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.79          60.5%     
-Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $2.00          61.5%     
 SODA SPRITE ZERO WINTER CRANBERRY                                                        $2.00          $0.79          60.5%     
+Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $2.00          61.5%     
 Dr Pepper Diet Soda 7.5 fl oz can 10 pack                                                $6.55          $2.05          68.7%     
 CHILL FROZEN CHERRY                                                                      $2.08          $0.50          76.0%     
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.29          $1.15          50.0%     
-Sprite + Tea Fridge Pack Cans, 12 fl oz, 12 Pack                                         $6.98          $2.50          64.2%     
 Coca-Cola Zero Vanilla Soda Soft Drink, 12 fl oz, 12 Pack                                $6.98          $2.50          64.2%     
-SODA LTO CHUCKYS PUNCH 12PK                                                              $6.98          $2.50          64.2%     
 KIBBLESN BITS SAVORY BEEF AND CHICKEN DRY DOG FOOD 3.5 POUND BAG                         $5.25          $2.80          46.7%     
 DOG FOOD NB BCN STK                                                                      $5.25          $2.80          46.7%     
 GE Lighting LED Soft White Floodlight 85 W BR40 Light Bulb package                       $5.79          $2.90          50.0%     
 Country Crock dairy free plant butter with olive oil 14 oz                               $2.99          $1.50          50.0%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
-Nature Valley Crunchy Peanut Butter Granola Bars 1.49 oz package 6 ct                    $3.15          $1.39          55.9%     
+BULBS 5.5W LED CLASC SHP DEC SB BTIP                                                     $6.49          $3.25          50.0%     
 Coca-Cola Soda Soft Drink Fridge Pack, 7.5 fl oz Mini Cans, 10 Pack                      $6.55          $3.49          46.7%     
 Fanta Orange Soda Soft Drink Fridge Pack, 7.5 fl oz Mini Cans, 10 Pack                   $6.55          $3.49          46.7%     
 Coca-Cola Zero Sugar Soda Soft Drink Fridge Pack, 7.5 fl oz Mini Cans, 10 Pack           $6.55          $3.49          46.7%     
@@ -71,21 +71,26 @@ Violife Cheese Sub Sandwich With Shredded Mozzarella Vegan 8 Oz                 
 Violife Cheese Sub With Shredded Cheddar Vegan 8 Oz                                      $3.69          $1.84          50.0%     
 Violife Cheese Substitute Cheddar Slices 7.05 Oz                                         $3.69          $1.84          50.0%     
 Violife Cheese Substitute Cream Original 7.05 Oz                                         $3.79          $1.90          50.0%     
+BULBS 4W LED CLASSC SHP SW FRST                                                          $8.99          $4.50          50.0%     
+BULBS 4W LED CLASSC SHP SW 2PK                                                           $8.99          $4.50          50.0%     
+BULBS 5.5W LED CLASC SHP SW 2PK                                                          $8.99          $4.50          50.0%     
 BULBS 5.5W LED CLASSSC SHP SW FRST                                                       $8.99          $4.50          50.0%     
 FIZZCHW CGH&SORE THROAT RSPBRY                                                           $9.79          $4.73          51.7%     
 FIZZY CHEWS COLD & FLU ORANGE                                                            $9.79          $4.73          51.7%     
 BULBS 8W INDOOR FLOOD MB SW                                                              $9.99          $5.00          50.0%     
+GE Lighting Refresh LED Daylight 40 W G25 Light Bulb 2 ct package                        $9.99          $5.00          50.0%     
 STEAKHOUSE CHCKN BREAST FILETS                                                           $5.04          $2.52          50.0%     
 GARLIC HRB CHCKN BREAST FILETS                                                           $5.04          $2.52          50.0%     
 TERIYAKI CHICKEN BREAST FILETS                                                           $5.04          $2.52          50.0%     
-BULBS 15W LED PAR38 FLOOD DIMNG                                                          $10.19         $5.09          50.0%     
+NUK stacking bowls 3 pack                                                                $5.43          $2.75        49.4% ***   
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can 8 pack                   $10.78         $5.49          49.1%     
+NUK simply natural botle 5 oz                                                            $6.21          $3.14        49.4% ***   
 BULBS LED 9W RELAX BR30 FLOOD SW 2PK                                                     $12.49         $6.25          50.0%     
 Totino's Combo Pizza Rolls 130 ct bag                                                    $11.94         $6.37          46.6%     
 General Mills Totino's Triple Meat Pizza Rolls 63.5 oz package                           $11.94         $6.37          46.6%     
 SNACKS TRIPLE CHEESE PIZZA ROLLS 130CT                                                   $11.94         $6.37          46.6%     
 SPICE SWEET JALAPENO RUB                                                                 $6.49          $3.34        48.5% ***   
-BULBS 5.5W LED CLASC SHP DEC SB BTIP                                                     $6.49          $3.25          50.0%     
+BULBS 8WNLED REFRESH DL BR30 2 PK                                                        $12.99         $6.50          50.0%     
 Amy's Cauliflower Peperoni Pizza                                                         $6.79          $3.58          47.3%     
 PIZZA NT WHITE SAUCE                                                                     $6.79          $3.58          47.3%     
 Amy's Cauliflower Buffalo Pizza                                                          $6.79          $3.58          47.3%     
@@ -97,5 +102,6 @@ PIZZA NT THE DREAM SUPREME                                                      
 Vegolutionary Foods Caulipower New Chick on the Block Gluten-free All-Natural Rice F     $7.87          $3.95          49.8%     
 Alka Seltzer Heartburn Gas Relief Fruit Punch 60Ct                                       $7.89          $3.95          49.9%     
 LIQUID SYRUP 5MG COOLING HONEY                                                           $8.36          $4.23          49.4%     
+LIQUID SYRUP 5MG COOLING HONEY                                                           $17.16         $8.85          48.4%     
 
 Elapsed Time: N/A
