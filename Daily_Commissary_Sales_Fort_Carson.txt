@@ -10,6 +10,8 @@ CHILL FROZEN BERRY                                                              
 CHILL FROZEN ORANGE                                                                      $2.08          $0.50          76.0%     
 Body Armor Chill frozen cherry 28 fl oz                                                  $2.08          $0.50          76.0%     
 The J.M. Smucker Co. Gravy Train Chunks Dog Wet Food 13.2 oz                             $1.07          $0.58          45.8%     
+The J.M. Smucker Co. Gravy Train Beef & Bacon Meaty Ground Dinner Dog Food 13.2 oz c     $1.07          $0.58          45.8%     
+The J.M. Smucker Co. Gravy Train Beef Chunks Dog Food 13.2 oz can                        $1.07          $0.58          45.8%     
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can                          $1.50          $0.79          47.3%     
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.79          60.5%     
 Barq's Root Beer 20 oz bottle                                                            $2.00          $0.79          60.5%     
@@ -67,8 +69,10 @@ Sprite Cans, 12 fl oz, 18 Pack                                                  
 Diet Coke Diet Soda Soft Drink, 12 fl oz Cans, 18 Pack                                   $9.48          $4.99          47.4%     
 BULBS 8W INDOOR FLOOD MB SW                                                              $9.99          $5.00          50.0%     
 GE Lighting Refresh LED Daylight 40 W G25 Light Bulb 2 ct package                        $9.99          $5.00          50.0%     
+Head & Shoulders 2 in 1 Coconut Shampoo + Conditioner 12.5 fl oz                         $5.23          $1.64        68.6% ***   
 NUK stacking bowls 3 pack                                                                $5.43          $2.75          49.4%     
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can 8 pack                   $10.78         $5.49          49.1%     
+DOG FOOD BEEF CLASSI                                                                     $12.05         $6.20          48.5%     
 NUK simply natural botle 5 oz                                                            $6.21          $3.14          49.4%     
 BULBS LED 9W RELAX BR30 FLOOD SW 2PK                                                     $12.49         $6.25          50.0%     
 SPICE SWEET JALAPENO RUB                                                                 $6.49          $3.34          48.5%     
@@ -79,7 +83,5 @@ DOG FOOD BACON STK 16LB                                                         
 DOG FOOD ORIGINAL 16LB                                                                   $14.15         $7.21          49.0%     
 Arm And Hammer detergent liquid plus oxi odor blasters fresh burst 100.5 fl oz           $7.59          $3.79          50.0%     
 Holiday non food Arm&Hammer liguid free detergent dual HE 105 oz                         $7.59          $3.79          50.0%     
-Arm N Hammer liquid detergent clean burst 105 fl oz                                      $7.59          $3.79          50.0%     
-Arm And Hammer detergent liquid fresh scent plus oxi clean 100.5 fl oz                   $7.59          $3.79          50.0%     
 
 Elapsed Time: N/A
