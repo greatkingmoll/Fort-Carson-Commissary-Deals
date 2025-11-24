@@ -10,6 +10,8 @@ CHILL FROZEN BERRY                                                              
 CHILL FROZEN ORANGE                                                                      $2.08          $0.50          76.0%     
 Body Armor Chill frozen cherry 28 fl oz                                                  $2.08          $0.50          76.0%     
 The J.M. Smucker Co. Gravy Train Chunks Dog Wet Food 13.2 oz                             $1.07          $0.58          45.8%     
+9 Lives Meaty Pate with Real Chicken and Tuna Wet Cat Food 5.5 oz can                    $0.73          $0.38        47.9% ***   
+9 Lives Hearty Cuts with real Chicken and Beef in Gravy Wet Cat Food 5.5 oz              $0.73          $0.38        47.9% ***   
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can                          $1.50          $0.79          47.3%     
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.79          60.5%     
 Barq's Root Beer 20 oz bottle                                                            $2.00          $0.79          60.5%     
@@ -38,7 +40,6 @@ Honeysuckle Tender & Juicy Frozen Turkey                                        
 Mueller's Spaghetti Pasta 32 oz box                                                      $2.35          $1.00          57.4%     
 Mueller's Wide Egg Noodles 12 oz bag                                                     $2.35          $1.00          57.4%     
 SEASONING SAZERAC BUFFALO TRACE                                                          $3.00          $1.52          49.3%     
-Head & Shoulders 2 in 1 Coconut Shampoo + Conditioner 12.5 fl oz                         $5.23          $1.64          68.6%     
 Essentia 9.5 pH Purified Water Drink 33.8 oz bottle                                      $1.78          $0.88          50.6%     
 GE Lighting Halogen Spotlight MR16 Indoor/Outdoor Light Bulb package                     $3.59          $1.79          50.0%     
 Mueller's Lasagna Pasta 16 oz box                                                        $1.99          $1.00          49.7%     
@@ -50,6 +51,7 @@ No Yolks Cholesterol Free Extra Broad Enriched Egg White Pasta 12 oz bag        
 Mueller's Elbows Pasta 32 oz box                                                         $2.35          $1.00          57.4%     
 No Yolks Low Fat Low Sodium Cholesterol Free Enriched Egg Broad White Pasta 12 oz ba     $2.35          $1.00          57.4%     
 No Yolks Cholesterol Free Enriched Egg White Pasta Dumplings 12 oz bag                   $2.35          $1.00          57.4%     
+Head & Shoulders 2 in 1 Coconut Shampoo + Conditioner 12.5 fl oz                         $5.23          $2.68          48.8%     
 KIBBLESN BITS SAVORY BEEF AND CHICKEN DRY DOG FOOD 3.5 POUND BAG                         $5.25          $2.80          46.7%     
 Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.89          $1.42          50.9%     
 GE Lighting LED Soft White Floodlight 85 W BR40 Light Bulb package                       $5.79          $2.90          50.0%     
@@ -57,6 +59,7 @@ Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Fr
 BULBS 5.5W LED CLASC SHP DEC SB BTIP                                                     $6.49          $3.25          50.0%     
 Jimmy Dean Fully Cooked Turkey Sausage Links 12 ct 9.6 oz box                            $3.50          $1.82          48.0%     
 Sprite Zero Sugar Cans, 7.5 fl oz, 6 Pack                                                $3.95          $1.99          49.6%     
+CAN FOOD INDR CMPLT 4CT                                                                  $4.40          $2.05        53.4% ***   
 BULBS 4W LED CLASSC SHP SW FRST                                                          $8.99          $4.50          50.0%     
 BULBS 4W LED CLASSC SHP SW 2PK                                                           $8.99          $4.50          50.0%     
 BULBS 5.5W LED CLASC SHP SW 2PK                                                          $8.99          $4.50          50.0%     
@@ -78,7 +81,19 @@ BULBS 8WNLED REFRESH DL BR30 2 PK                                               
 Dr Pepper Diet Soda 7.5 fl oz can 10 pack                                                $6.55          $2.19          66.6%     
 Arm N Hammer liquid detergent sensitive scent 105 fl oz                                  $7.59          $3.79          50.0%     
 Arm N Hammer liquid detergent plus oxi clean Botanical 100.5 fl oz                       $7.59          $3.79          50.0%     
+9 Lives Gravy Lovers Wet Cat Food 5.5 oz can 12 ct                                       $7.14          $3.04        57.4% ***   
+9 Lives Pate Favorites Wet Cat Food 5.5 oz can 12 ct                                     $7.14          $3.04        57.4% ***   
 DOG FOOD BACON STK 16LB                                                                  $14.15         $7.21          49.0%     
 DOG FOOD ORIGINAL 16LB                                                                   $14.15         $7.21          49.0%     
+Arm And Hammer detergent liquid plus oxi odor blasters fresh burst 100.5 fl oz           $7.59          $3.79          50.0%     
+Holiday non food Arm&Hammer liguid free detergent dual HE 105 oz                         $7.59          $3.79          50.0%     
+Arm N Hammer liquid detergent clean burst 105 fl oz                                      $7.59          $3.79          50.0%     
+Arm And Hammer detergent liquid fresh scent plus oxi clean 100.5 fl oz                   $7.59          $3.79          50.0%     
+Alka Seltzer Heartburn Gas Relief Fruit Punch 60Ct                                       $7.89          $3.95          49.9%     
+LIQUID SYRUP 5MG COOLING HONEY                                                           $8.36          $4.23          49.4%     
+Repurpose Heavy Duty 10 in Compostables Bigger Plate 44 ct package                       $8.79          $4.39        50.1% ***   
+LIQUID SYRUP 5MG COOLING HONEY                                                           $17.16         $8.85          48.4%     
+Tippy Toes Super Pack Diapers, 5 27+ lb 78 ct                                            $27.29         $10.00         63.4%     
+BULBS 15W LED PAR38 FLOOD DIMNG                                                          $10.19         $5.09          50.0%     
 
 Elapsed Time: N/A
