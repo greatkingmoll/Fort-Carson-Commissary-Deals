@@ -1,4 +1,4 @@
-2025-11-26
+2025-11-27
 Items discounted by 45% or more:
 Freedom's Choice Diced Beets 15 oz can                                                   $1.07          $0.25          76.6%     
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
@@ -10,7 +10,7 @@ Body Armor Chill frozen cherry 28 fl oz                                         
 CHILL FROZEN BERRY                                                                       $2.08          $0.50          76.0%     
 CHILL FROZEN ORANGE                                                                      $2.08          $0.50          76.0%     
 The J.M. Smucker Co. Gravy Train Chunks Dog Wet Food 13.2 oz                             $1.07          $0.58          45.8%     
-fairlife 2% Reduced Fat Ultra-filtered Milk, 14 fl oz                                    $1.58          $0.69        56.3% ***   
+fairlife 2% Reduced Fat Ultra-filtered Milk, 14 fl oz                                    $1.58          $0.69          56.3%     
 9 Lives Meaty Pate with Real Chicken and Tuna Wet Cat Food 5.5 oz can                    $0.73          $0.38          47.9%     
 9 Lives Hearty Cuts with real Chicken and Beef in Gravy Wet Cat Food 5.5 oz              $0.73          $0.38          47.9%     
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can                          $1.50          $0.79          47.3%     
@@ -55,9 +55,9 @@ No Yolks Cholesterol Free Enriched Egg White Pasta Dumplings 12 oz bag          
 Head & Shoulders 2 in 1 Coconut Shampoo + Conditioner 12.5 fl oz                         $5.23          $2.68          48.8%     
 Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.89          $1.42          50.9%     
 GE Lighting LED Soft White Floodlight 85 W BR40 Light Bulb package                       $5.79          $2.90          50.0%     
-Welly Flex Fabric Bandages 48 Count                                                      $5.95          $2.98        49.9% ***   
+Welly Flex Fabric Bandages 48 Count                                                      $5.95          $2.98          49.9%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
-Welly Flex Fabric Glow in the Dark Bandages 50 Ct                                        $6.09          $3.12        48.8% ***   
+Welly Flex Fabric Glow in the Dark Bandages 50 Ct                                        $6.09          $3.12          48.8%     
 BULBS 5.5W LED CLASC SHP DEC SB BTIP                                                     $6.49          $3.25          50.0%     
 SPICE SWEET JALAPENO RUB                                                                 $6.49          $3.34          48.5%     
 Jimmy Dean Fully Cooked Turkey Sausage Links 12 ct 9.6 oz box                            $3.50          $1.82          48.0%     
@@ -93,7 +93,7 @@ Alka Seltzer Heartburn Gas Relief Fruit Punch 60Ct                              
 LIQUID SYRUP 5MG COOLING HONEY                                                           $8.36          $4.23          49.4%     
 Repurpose Heavy Duty 10 in Compostables Bigger Plate 44 ct package                       $8.79          $4.39          50.1%     
 LIQUID SYRUP 5MG COOLING HONEY                                                           $17.16         $8.85          48.4%     
-Tyson Ground Beef Patties 80% 10 Pk 40 Oz                                                $17.14         $8.98        47.6% ***   
+Tyson Ground Beef Patties 80% 10 Pk 40 Oz                                                $17.14         $8.98          47.6%     
 BULBS 4W LED CLASSC SHP SW 2PK                                                           $8.99          $4.50          50.0%     
 Tippy Toes Super Pack Diapers, 5 27+ lb 78 ct                                            $27.29         $10.00         63.4%     
 
