@@ -1,4 +1,4 @@
-2025-12-02
+2025-12-03
 Items discounted by 45% or more:
 Freedom's Choice Diced Beets 15 oz can                                                   $1.07          $0.25          76.6%     
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
@@ -21,20 +21,20 @@ NOS energy drink zero sugar 16 fl oz                                            
 RW Garcia salted restaurant style Tortilla Chips 13 oz                                   $1.89          $0.99          47.6%     
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.09          $1.04          50.0%     
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.29          $1.15          50.0%     
-ChapStick Skin Protectant Classic Cherry 0.15 oz package                                 $1.29          $0.65        50.0% ***   
-ChapStick Skin Original Protectant Sunscreen 2 in 1 SPF 15 0.15 oz package               $1.29          $0.65        50.0% ***   
+ChapStick Skin Protectant Classic Cherry 0.15 oz package                                 $1.29          $0.65          50.0%     
+ChapStick Skin Original Protectant Sunscreen 2 in 1 SPF 15 0.15 oz package               $1.29          $0.65          50.0%     
 Mueller's Spaghetti Pasta 32 oz box                                                      $2.35          $1.00          57.4%     
 Mueller's Wide Egg Noodles 12 oz bag                                                     $2.35          $1.00          57.4%     
 No Yolks Cholesterol Free Extra Broad Enriched Egg White Pasta 12 oz bag                 $2.35          $1.00          57.4%     
-MEDICATED                                                                                $1.39          $0.69        50.0% ***   
+MEDICATED                                                                                $1.39          $0.69          50.0%     
 Betty Crocker Scooby Doo Fruit Flavored Snacks 8 oz box                                  $2.72          $1.45          46.7%     
 Betty Crocker SpongeBob Fruit Flavored Snacks 8 oz package                               $2.72          $1.45          46.7%     
-Betty Crocker Minecraft Fruit Flavored Snacks 10 ct                                      $2.72          $1.45        46.7% ***   
-Betty Crocker Fruit By The Foot Variety Pack Fruit Flavored Snacks 4.5 oz box            $2.97          $1.48        50.2% ***   
-Betty Crocker Fruit by the Foot Berry Tie-Dye Fruit Flavored Snacks 4.5 oz box           $2.97          $1.48        50.2% ***   
-Betty Crocker Fruit By The Foot Starburst Flavored Snacks 4.5 oz box                     $2.97          $1.48        50.2% ***   
+Betty Crocker Minecraft Fruit Flavored Snacks 10 ct                                      $2.72          $1.45          46.7%     
+Betty Crocker Fruit By The Foot Variety Pack Fruit Flavored Snacks 4.5 oz box            $2.97          $1.48          50.2%     
+Betty Crocker Fruit by the Foot Berry Tie-Dye Fruit Flavored Snacks 4.5 oz box           $2.97          $1.48          50.2%     
+Betty Crocker Fruit By The Foot Starburst Flavored Snacks 4.5 oz box                     $2.97          $1.48          50.2%     
 SEASONING SAZERAC BUFFALO TRACE                                                          $3.00          $1.52          49.3%     
-Mott's Animals Assorted Fruit Flavored Snacks 0.8 oz bag 10 ct                           $2.82          $1.55        45.0% ***   
+Mott's Animals Assorted Fruit Flavored Snacks 0.8 oz bag 10 ct                           $2.82          $1.55          45.0%     
 Mott's Gluten-free Veggie Juice Assorted Fruit Flavored Snacks 0.8 oz pouch 10 ct        $2.82          $1.55          45.0%     
 GE Lighting Halogen Spotlight MR16 Indoor/Outdoor Light Bulb package                     $3.59          $1.79          50.0%     
 Violife Cheese Substitute Cream Original 7.05 Oz                                         $3.79          $1.90          50.0%     
@@ -55,12 +55,12 @@ SPICE SWEET JALAPENO RUB                                                        
 Jimmy Dean Fully Cooked Turkey Sausage Links 12 ct 9.6 oz box                            $3.50          $1.82          48.0%     
 Violife Cheese Substitute Vegan Smoked Provolone Slice 7.05 Oz                           $3.69          $1.84          50.0%     
 Violife Cheese Substitute Cheddar Slices 7.05 Oz                                         $3.69          $1.84          50.0%     
-Violife Mexican Style Shreds 8 oz                                                        $3.69          $1.84        50.0% ***   
+Violife Mexican Style Shreds 8 oz                                                        $3.69          $1.84          50.0%     
 Violife Cheese Sub With Shredded Cheddar Vegan 8 Oz                                      $3.69          $1.84          50.0%     
-Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.07        52.1% ***   
-Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.07        52.1% ***   
+Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.07          52.1%     
+Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.07          52.1%     
 CAN FOOD INDR CMPLT 4CT                                                                  $4.40          $2.05          53.4%     
-OIL OLIVE COOKING                                                                        $8.47          $4.47        47.2% ***   
+OIL OLIVE COOKING                                                                        $8.47          $4.47          47.2%     
 BULBS 4W LED CLASSC SHP SW FRST                                                          $8.99          $4.50          50.0%     
 BULBS 5.5W LED CLASC SHP SW 2PK                                                          $8.99          $4.50          50.0%     
 BULBS 5.5W LED CLASSSC SHP SW FRST                                                       $8.99          $4.50          50.0%     
@@ -70,11 +70,11 @@ BULBS 15W LED PAR38 FLOOD DIMNG                                                 
 NUK stacking bowls 3 pack                                                                $5.43          $2.75          49.4%     
 NUK simply natural botle 5 oz                                                            $6.21          $3.14          49.4%     
 BULBS LED 9W RELAX BR30 FLOOD SW 2PK                                                     $12.49         $6.25          50.0%     
-Dr. Harold Katz TheraBreath Professional Formula Invigorating Icy Mint 24-Hour Fresh     $6.29          $3.15        50.0% ***   
-TheraBreath Fresh Mint Deep Clean Oral Rinse 16 Oz                                       $6.89          $3.44        50.0% ***   
-TheraBreath Dazzling Mint Whitening Fresh Breath Oral Rinse 16 Oz                        $6.99          $3.50        50.0% ***   
-Therabreath Healthy Smile Rinse Sparkle Mint 16 OZ                                       $6.99          $3.50        50.0% ***   
-TheraBreath Clean Mint Healthy Gums Oral Rinse 16 fl oz                                  $6.99          $3.50        50.0% ***   
+Dr. Harold Katz TheraBreath Professional Formula Invigorating Icy Mint 24-Hour Fresh     $6.29          $3.15          50.0%     
+TheraBreath Fresh Mint Deep Clean Oral Rinse 16 Oz                                       $6.89          $3.44          50.0%     
+TheraBreath Dazzling Mint Whitening Fresh Breath Oral Rinse 16 Oz                        $6.99          $3.50          50.0%     
+Therabreath Healthy Smile Rinse Sparkle Mint 16 OZ                                       $6.99          $3.50          50.0%     
+TheraBreath Clean Mint Healthy Gums Oral Rinse 16 fl oz                                  $6.99          $3.50          50.0%     
 9 Lives Pate Favorites Wet Cat Food 5.5 oz can 12 ct                                     $7.14          $3.04          57.4%     
 DOG FOOD ORIGINAL 16LB                                                                   $14.15         $7.21          49.0%     
 DOG FOOD BACON STK 16LB                                                                  $14.15         $7.21          49.0%     
