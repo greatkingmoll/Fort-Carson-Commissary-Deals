@@ -1,4 +1,4 @@
-2025-12-08
+2025-12-09
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Roasted Garlic and Onion Diced Tomatoes 14.5 oz can                     $0.84          $0.25          70.2%     
@@ -49,7 +49,9 @@ Mott's Animals Assorted Fruit Flavored Snacks 0.8 oz bag 10 ct                  
 Mott's Gluten-free Veggie Juice Assorted Fruit Flavored Snacks 0.8 oz pouch 10 ct        $2.82          $1.55          45.0%     
 GE Lighting Halogen Spotlight MR16 Indoor/Outdoor Light Bulb package                     $3.59          $1.79          50.0%     
 Violife Cheese Substitute Vegan Smoked Provolone Slice 7.05 Oz                           $3.69          $1.84          50.0%     
+Violife Cheese Substitute Cheddar Slices 7.05 Oz                                         $3.69          $1.84          50.0%     
 Violife Mexican Style Shreds 8 oz                                                        $3.69          $1.84          50.0%     
+Violife Cheese Sub With Shredded Cheddar Vegan 8 Oz                                      $3.69          $1.84          50.0%     
 Violife Cheese Substitute Cream Original 7.05 Oz                                         $3.79          $1.90          50.0%     
 Diet Coke Diet Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                               $5.58          $1.99          64.3%     
 GE Lighting Crystal Clear 40 W B Type Decorative Candelabra Base Light Bulb 2 ct pac     $1.99          $0.99          50.0%     
@@ -72,8 +74,6 @@ GE Lighting LED Soft White Floodlight 85 W BR40 Light Bulb package              
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 BULBS 5.5W LED CLASC SHP DEC SB BTIP                                                     $6.49          $3.25          50.0%     
 SPICE SWEET JALAPENO RUB                                                                 $6.49          $3.34          48.5%     
-Violife Cheese Substitute Cheddar Slices 7.05 Oz                                         $3.69          $1.84          50.0%     
-Violife Cheese Sub With Shredded Cheddar Vegan 8 Oz                                      $3.69          $1.84          50.0%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.07          52.1%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.07          52.1%     
 CAN FOOD INDR CMPLT 4CT                                                                  $4.40          $2.05          53.4%     
