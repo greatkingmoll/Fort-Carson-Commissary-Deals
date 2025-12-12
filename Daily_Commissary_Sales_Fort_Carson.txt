@@ -9,8 +9,8 @@ Body Armor Chill frozen cherry 28 fl oz                                         
 Powerade xtra sour cherry kicker bottle 28 fl oz                                         $1.25          $0.49          60.8%     
 Sprite Winter Spiced Cranberry Bottle, 20 fl oz                                          $2.00          $0.49        75.5% ***   
 Powerade xtra sour grape shocker bottle 28 fl oz                                         $1.25          $0.49          60.8%     
-CHILL FROZEN BERRY                                                                       $2.08          $0.49          76.4%     
 CHILL FROZEN ORANGE                                                                      $2.08          $0.49          76.4%     
+Body Armor chill frozen berry 28 fl oz                                                   $2.08          $0.49        76.4% ***   
 The J.M. Smucker Co. Gravy Train Chunks Dog Wet Food 13.2 oz                             $1.07          $0.58          45.8%     
 ChapStick Skin Protectant Classic Cherry 0.15 oz package                                 $1.29          $0.65          50.0%     
 fairlife 2% Reduced Fat Ultra-filtered Milk, 14 fl oz                                    $1.58          $0.69          56.3%     
@@ -25,6 +25,7 @@ Butterball all Natural Premium Frozen Turkey                                    
 Glaceau Smartwater Alkaline With Antioxidant Cans, 12 fl oz, 8 Pack                      $6.99          $0.99          85.8%     
 Sprite Bottles, 16.9 fl oz, 6 Pack                                                       $5.58          $0.99          82.3%     
 Dr Pepper Diet Soda 16.9 fl oz bottle 6 pack                                             $5.58          $0.99          82.3%     
+GE Lighting Crystal Clear 40 W B Type Decorative Candelabra Base Light Bulb 2 ct pac     $1.99          $0.99          50.0%     
 Shady Brook Farms All Natural Young Turkey 16-20 lb                                      $1.49          $0.49          67.0%     
 Honeysuckle Tender & Juicy Frozen Turkey 20-24lb                                         $1.49          $0.49          67.0%     
 Honeysuckle Tender & Juicy Frozen Turkey                                                 $1.49          $0.49          67.0%     
@@ -40,7 +41,7 @@ Honeysuckle Tender & Juicy Frozen Turkey                                        
 Mueller's Spaghetti Pasta 32 oz box                                                      $2.35          $1.00          57.4%     
 Mueller's Wide Egg Noodles 12 oz bag                                                     $2.35          $1.00          57.4%     
 No Yolks Cholesterol Free Extra Broad Enriched Egg White Pasta 12 oz bag                 $2.35          $1.00          57.4%     
-MEDICATED                                                                                $1.39          $0.69          50.0%     
+ChapStick External Analgesic Skin Protectant Classic Medicated, Protects Dry Chapped     $1.39          $0.69        50.0% ***   
 Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.89          $1.42          50.9%     
 Betty Crocker Scooby Doo Fruit Flavored Snacks 8 oz box                                  $2.72          $1.45          46.7%     
 Betty Crocker SpongeBob Fruit Flavored Snacks 8 oz package                               $2.72          $1.45          46.7%     
@@ -64,7 +65,6 @@ Violife Cheese Substitute Cheddar Slices 7.05 Oz                                
 Violife Mexican Style Shreds 8 oz                                                        $3.69          $1.84          50.0%     
 Violife Cheese Substitute Cream Original 7.05 Oz                                         $3.79          $1.90          50.0%     
 Jimmy Dean 60% Less Fat Fully Cooked Turkey Sausage Crumbles 9.6 oz resealable bag       $3.69          $1.95        47.2% ***   
-GE Lighting Crystal Clear 40 W B Type Decorative Candelabra Base Light Bulb 2 ct pac     $1.99          $0.99          50.0%     
 Mueller's Lasagna Pasta 16 oz box                                                        $1.99          $1.00          49.7%     
 Smartwater nutrient-enhanced water Bottles, 16.9 fl oz, 6 Pack                           $5.98          $1.99          66.7%     
 Diet Coke Diet Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                               $5.58          $1.99          64.3%     
@@ -98,7 +98,7 @@ Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                    
 CAN FOOD INDR CMPLT 4CT                                                                  $4.40          $2.05          53.4%     
 OIL OLIVE COOKING                                                                        $8.47          $4.47          47.2%     
 BULBS 4W LED CLASSC SHP SW FRST                                                          $8.99          $4.50          50.0%     
-BULBS 5.5W LED CLASC SHP SW 2PK                                                          $8.99          $4.50          50.0%     
+BULBS 4W LED CLASSC SHP SW 2PK                                                           $8.99          $4.50          50.0%     
 BULBS 5.5W LED CLASSSC SHP SW FRST                                                       $8.99          $4.50          50.0%     
 BULBS 8W INDOOR FLOOD MB SW                                                              $9.99          $5.00          50.0%     
 GE Lighting Refresh LED Daylight 40 W G25 Light Bulb 2 ct package                        $9.99          $5.00          50.0%     
@@ -111,9 +111,10 @@ Therabreath Healthy Smile Rinse Sparkle Mint 16 OZ                              
 TheraBreath Clean Mint Healthy Gums Oral Rinse 16 fl oz                                  $6.99          $3.50          50.0%     
 DOG FOOD ORIGINAL 16LB                                                                   $14.15         $7.21          49.0%     
 DOG FOOD BACON STK 16LB                                                                  $14.15         $7.21          49.0%     
+Wonderful Roasted & Salted Pistachios 16 oz bag                                          $7.50          $3.75        50.0% ***   
 Alka Seltzer Heartburn Gas Relief Fruit Punch 60Ct                                       $7.89          $3.95          49.9%     
 LIQUID SYRUP 5MG COOLING HONEY                                                           $17.16         $8.85          48.4%     
-BULBS 4W LED CLASSC SHP SW 2PK                                                           $8.99          $4.50          50.0%     
+BULBS 5.5W LED CLASC SHP SW 2PK                                                          $8.99          $4.50          50.0%     
 Freedom's Choice Applewood Smoked Bacon 40 oz                                            $9.78          $5.14          47.4%     
 BURGERS SHAQ ANGUS PATTIES 1/2LB                                                         $10.39         $4.95          52.4%     
 Iberogast Herbal Liquid Digestive Relief Drops 1.69 oz oz                                $12.90         $6.52          49.5%     
