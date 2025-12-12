@@ -1,4 +1,4 @@
-2025-12-11
+2025-12-12
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Roasted Garlic and Onion Diced Tomatoes 14.5 oz can                     $0.84          $0.25          70.2%     
@@ -55,7 +55,7 @@ SEASONING SAZERAC BUFFALO TRACE                                                 
 Mott's Animals Assorted Fruit Flavored Snacks 0.8 oz bag 10 ct                           $2.82          $1.55          45.0%     
 Mott's Gluten-free Veggie Juice Assorted Fruit Flavored Snacks 0.8 oz pouch 10 ct        $2.82          $1.55          45.0%     
 Nuk Gerber Graduates BPA-free First Essentials Bottles 3 ct 9 oz                         $3.28          $1.68        48.8% ***   
-TMPTNS CREAMY PURREE CHICKEN                                                             $1.72          $0.88        48.8% ***   
+TMPTNS CREAMY PURREE CHICKEN                                                             $1.72          $0.88          48.8%     
 Mars Temptations Tempting Tuna Flavor Cat Treats 3 oz bag                                $1.78          $0.94          47.2%     
 GE Lighting Halogen Spotlight MR16 Indoor/Outdoor Light Bulb package                     $3.59          $1.79          50.0%     
 Jimmy Dean Fully Cooked Turkey Sausage Patties 8 ct 9.6 oz box                           $3.50          $1.82        48.0% ***   
@@ -114,10 +114,10 @@ DOG FOOD BACON STK 16LB                                                         
 Alka Seltzer Heartburn Gas Relief Fruit Punch 60Ct                                       $7.89          $3.95          49.9%     
 LIQUID SYRUP 5MG COOLING HONEY                                                           $17.16         $8.85          48.4%     
 BULBS 4W LED CLASSC SHP SW 2PK                                                           $8.99          $4.50          50.0%     
-Freedom's Choice Applewood Smoked Bacon 40 oz                                            $9.78          $5.14        47.4% ***   
+Freedom's Choice Applewood Smoked Bacon 40 oz                                            $9.78          $5.14          47.4%     
 BURGERS SHAQ ANGUS PATTIES 1/2LB                                                         $10.39         $4.95          52.4%     
 Iberogast Herbal Liquid Digestive Relief Drops 1.69 oz oz                                $12.90         $6.52          49.5%     
 BULBS 8WNLED REFRESH DL BR30 2 PK                                                        $12.99         $6.50          50.0%     
-JERKY BEEF FAJITA LIME                                                                   $15.99         $8.49        46.9% ***   
+JERKY BEEF FAJITA LIME                                                                   $15.99         $8.49          46.9%     
 
 Elapsed Time: N/A
