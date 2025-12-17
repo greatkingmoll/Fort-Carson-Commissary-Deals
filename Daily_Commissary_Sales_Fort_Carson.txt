@@ -1,4 +1,4 @@
-2025-12-16
+2025-12-17
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Roasted Garlic and Onion Diced Tomatoes 14.5 oz can                     $0.84          $0.25          70.2%     
@@ -15,7 +15,7 @@ Sprite zero sugar winter cranberry 20 fl oz                                     
 Powerade xtra sour peach pucker bottle, 28 fl oz                                         $1.25          $0.49          60.8%     
 Body Armor Chill frozen cherry 28 fl oz                                                  $2.08          $0.49          76.4%     
 Body Armor chill frozen orange 28 fl oz                                                  $2.08          $0.49        76.4% ***   
-Carefree Acti-Fresh Body Shape Regular to Go Unscented Pantiliners 20 ct                 $1.18          $0.51        56.8% ***   
+Carefree Acti-Fresh Body Shape Regular to Go Unscented Pantiliners 20 ct                 $1.18          $0.51          56.8%     
 The J.M. Smucker Co. Gravy Train Chunks Dog Wet Food 13.2 oz                             $1.07          $0.58          45.8%     
 fairlife 2% Reduced Fat Ultra-filtered Milk, 14 fl oz                                    $1.58          $0.69          56.3%     
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can                          $1.50          $0.79          47.3%     
@@ -45,7 +45,7 @@ Carefree Acti-Fresh Body Shape Long to Go Unscented Pantiliners 42 ct package   
 Carefree Thong Regular Unscented Liners with Stay Put Wings 49 ea                        $2.99          $1.38          53.8%     
 Carefree Acti-Fresh Body Shape Extra Long to Go Unscented Pantiliners 36 ct package      $2.99          $1.38          53.8%     
 Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.89          $1.42          50.9%     
-Hillshire Farm Spiral Half Brown Ham                                                     $2.48          $1.02        59.0% ***   
+Hillshire Farm Spiral Half Brown Ham                                                     $2.48          $1.02          59.0%     
 Sprite Zero Sugar Cans, 7.5 fl oz, 6 Pack                                                $3.95          $1.49          62.3%     
 Fresca Grapefruit Citrus Sparkling Soda Water, 7.5 fl oz, 6 Pack                         $3.95          $1.49          62.3%     
 Diet Coke Diet Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                              $3.95          $1.49          62.3%     
@@ -61,12 +61,12 @@ Dr Pepper soda blackberry 20 fl oz                                              
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $2.00          61.5%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.07          52.1%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.07          52.1%     
-Hormel Cure 81 Spiral Ham                                                                $3.21          $1.00        69.0% ***   
+Hormel Cure 81 Spiral Ham                                                                $3.21          $1.00          69.0%     
 NUK kiddy cutlery forks 3 ct                                                             $4.62          $2.34          49.4%     
 Welly Flex Fabric Bandages 48 Count                                                      $5.95          $2.39          59.8%     
-Smithfield Preglazed Hickory Smoked Spiral Red Glaze Sliced Ham                          $3.62          $1.01        72.0% ***   
+Smithfield Preglazed Hickory Smoked Spiral Red Glaze Sliced Ham                          $3.62          $1.01          72.0%     
 Head & Shoulders 2 in 1 Coconut Shampoo + Conditioner 12.5 fl oz                         $5.23          $2.68          48.8%     
-Hormel Cure 81 Spiral Sliced Vermont Maple Ham                                           $3.76          $0.83        78.0% ***   
+Hormel Cure 81 Spiral Sliced Vermont Maple Ham                                           $3.76          $0.83          78.0%     
 NUK large learner cup 10 oz 1 pk                                                         $5.59          $2.87          48.7%     
 GE Lighting LED Soft White Floodlight 85 W BR40 Light Bulb package                       $5.79          $2.90          50.0%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
@@ -88,8 +88,8 @@ BULBS 8W INDOOR FLOOD MB SW                                                     
 GE Lighting Refresh LED Daylight 40 W G25 Light Bulb 2 ct package                        $9.99          $5.00          50.0%     
 BULBS 15W LED PAR38 FLOOD DIMNG                                                          $10.19         $5.09          50.0%     
 Billie Bounce Hydrating Body Wash 18Oz                                                   $5.10          $2.58          49.4%     
-Billie Soothe Lavender Milk Comforting Body Wash 18 Fl Oz                                $5.10          $2.58        49.4% ***   
-Schick hydro silk ultra-sensitive disposable 2 ea                                        $5.50          $2.80        49.1% ***   
+Billie Soothe Lavender Milk Comforting Body Wash 18 Fl Oz                                $5.10          $2.58          49.4%     
+Schick hydro silk ultra-sensitive disposable 2 ea                                        $5.50          $2.80          49.1%     
 Billie Whipped Shave Cream 8 oz                                                          $5.66          $2.86          49.5%     
 Billie Deodorant Coconut Scent 2.6 oz                                                    $5.73          $2.89          49.6%     
 Billie Deodorant Lavender Scent 2.6 oz                                                   $5.73          $2.89          49.6%     
