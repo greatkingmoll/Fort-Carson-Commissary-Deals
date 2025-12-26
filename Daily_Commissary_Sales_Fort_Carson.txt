@@ -1,4 +1,4 @@
-2025-12-25
+2025-12-26
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.76          $0.44          84.1%     
@@ -59,10 +59,10 @@ Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                    
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.07          52.1%     
 PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
 NUK kiddy cutlery forks 3 ct                                                             $4.62          $2.34          49.4%     
-Bolthouse Farms Green Goodness Fruit Smoothie 15.2 fl oz bottle                          $2.75          $1.37        50.2% ***   
-Bolthouse Farms C-BOOST Smoothie 15.2 fl oz bottle                                       $2.75          $1.37        50.2% ***   
-Fanta Pineapple Soda Soft Drink, 2 Liters Bottle                                         $2.76          $0.69        75.0% ***   
-Fanta Orange Soda Soft Drink, 2 Liters Bottle                                            $2.76          $0.69        75.0% ***   
+Bolthouse Farms Green Goodness Fruit Smoothie 15.2 fl oz bottle                          $2.75          $1.37          50.2%     
+Bolthouse Farms C-BOOST Smoothie 15.2 fl oz bottle                                       $2.75          $1.37          50.2%     
+Fanta Pineapple Soda Soft Drink, 2 Liters Bottle                                         $2.76          $0.69          75.0%     
+Fanta Orange Soda Soft Drink, 2 Liters Bottle                                            $2.76          $0.69          75.0%     
 NUK large learner cup 10 oz 1 pk                                                         $5.59          $2.87          48.7%     
 GE Lighting LED Soft White Floodlight 85 W BR40 Light Bulb package                       $5.79          $2.90          50.0%     
 VSL PRO VITAB3 LUMINOUS                                                                  $5.81          $2.93          49.6%     
@@ -98,7 +98,7 @@ Carefree Acti-Fresh Long Unscented Daily Liners 92 ct                           
 Johnson & Johnson Carefree Acti-Fresh Extra Long to Go Unscented Body Shape Pantilin     $6.62          $3.40          48.6%     
 Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55          49.6%     
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55          49.6%     
-DRY SALAME PILLOW PACK                                                                   $7.14          $3.89        45.5% ***   
+DRY SALAME PILLOW PACK                                                                   $7.14          $3.89          45.5%     
 Arm N Hammer liquid detergent sensitive scent 105 fl oz                                  $7.59          $3.79          50.0%     
 Arm And Hammer detergent liquid fresh scent plus oxi clean 100.5 fl oz                   $7.59          $3.79          50.0%     
 Arm N Hammer liquid detergent clean burst 105 fl oz                                      $7.59          $3.79          50.0%     
