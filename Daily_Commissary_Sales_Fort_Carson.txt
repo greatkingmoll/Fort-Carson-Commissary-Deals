@@ -73,6 +73,10 @@ BULBS 5.5W LED CLASC SHP DEC SB BTIP                                            
 SPICE SWEET JALAPENO RUB                                                                 $6.49          $3.34          48.5%     
 NUK glow in the dark learn cup 5 oz                                                      $6.63          $3.37          49.2%     
 NUK learner straw cup 10 oz                                                              $6.71          $3.39          49.5%     
+Arm N Hammer liquid detergent sensitive scent 105 fl oz                                  $7.59          $3.79          50.0%     
+Arm And Hammer detergent liquid fresh scent plus oxi clean 100.5 fl oz                   $7.59          $3.79          50.0%     
+Arm N Hammer liquid detergent clean burst 105 fl oz                                      $7.59          $3.79          50.0%     
+Holiday non food Arm&Hammer liguid free detergent dual HE 105 oz                         $7.59          $3.79          50.0%     
 Arm And Hammer detergent liquid plus oxi odor blasters fresh burst 100.5 fl oz           $7.59          $3.79          50.0%     
 Arm N Hammer liquid detergent plus oxi clean Botanical 100.5 fl oz                       $7.59          $3.79          50.0%     
 MEAL SS CHEESEBURGER MACARONI AND CHEESE                                                 $3.92          $1.97          49.7%     
@@ -100,10 +104,6 @@ TEA JUST PEACHY 12PK                                                            
 Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55          49.6%     
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55          49.6%     
 DRY SALAME PILLOW PACK                                                                   $7.14          $3.89          45.5%     
-Arm N Hammer liquid detergent sensitive scent 105 fl oz                                  $7.59          $3.79          50.0%     
-Arm And Hammer detergent liquid fresh scent plus oxi clean 100.5 fl oz                   $7.59          $3.79          50.0%     
-Arm N Hammer liquid detergent clean burst 105 fl oz                                      $7.59          $3.79          50.0%     
-Holiday non food Arm&Hammer liguid free detergent dual HE 105 oz                         $7.59          $3.79          50.0%     
 Alka Seltzer Heartburn Gas Relief Fruit Punch 60Ct                                       $7.89          $3.95          49.9%     
 LIQUID SYRUP 5MG COOLING HONEY                                                           $17.16         $8.85          48.4%     
 BULBS 5.5W LED CLASC SHP SW 2PK                                                          $8.99          $4.50          50.0%     
@@ -118,6 +118,5 @@ Iberogast Herbal Liquid Digestive Relief Drops 1.69 oz oz                       
 BULBS 8WNLED REFRESH DL BR30 2 PK                                                        $12.99         $6.50          50.0%     
 Schick Hydro Silk 5 Trim Style Women's Razor & Bikini Trimmer box                        $13.17         $6.74          48.8%     
 Schick Hydro Silk Cartridges 6 ct                                                        $15.96         $8.06          49.5%     
-JERKY BEEF FAJITA LIME                                                                   $15.99         $8.49          46.9%     
 
 Elapsed Time: N/A
