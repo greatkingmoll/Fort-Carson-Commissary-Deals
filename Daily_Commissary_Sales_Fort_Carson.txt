@@ -31,12 +31,12 @@ Dr Pepper Diet Soda 16.9 fl oz bottle 6 pack                                    
 Smartwater nutrient-enhanced water Bottles, 16.9 fl oz, 6 Pack                           $5.98          $0.99          83.4%     
 Shady Brook Farms All Natural Young Turkey 16-20 lb                                      $1.49          $0.49          67.0%     
 Honeysuckle Tender & Juicy Frozen Turkey 20-24lb                                         $1.49          $0.49          67.0%     
-Honeysuckle Tender & Juicy Frozen Turkey                                                 $1.49          $0.49          67.0%     
+Honeysuckle Tender & Juicy Frozen Turkey 10 - 16 lb                                      $1.49          $0.49        67.0% ***   
 Shady Brook Farms All Natural Young Turkey 14-16 lb                                      $1.49          $0.49          67.0%     
 Shady Brook Farms all natural young turkey 20-24 lb                                      $1.49          $0.49          67.0%     
-Shady Brook Farms All Natural Young Turkey 24-26 lb                                      $1.49          $0.49          67.0%     
+Shady Brook Farms all natural young turkey 24-26 lb                                      $1.49          $0.49        67.0% ***   
 Honeysuckle Tender & Juicy Frozen Turkey                                                 $1.49          $0.49          67.0%     
-Honeysuckle Tender & Juicy Frozen Turkey                                                 $1.49          $0.49          67.0%     
+Honeysuckle Tender & Juicy Frozen Turkey 24-26 lb                                        $1.49          $0.49        67.0% ***   
 Honeysuckle Tender & Juicy Frozen Turkey                                                 $1.93          $0.64          67.0%     
 Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.89          $1.42          50.9%     
 Fresca Grapefruit Citrus Sparkling Soda Water, 7.5 fl oz, 6 Pack                         $3.95          $1.49          62.3%     
@@ -98,6 +98,7 @@ Playtex Tampon Sport Multi-Pack Regular/Super 48 Ct                             
 Schick Intuition Pure Nourishment Coconut Milk & Almond Milk Razor 1 ea                  $9.47          $4.72          50.2%     
 Schick Intuition Naturals Sensitive Care Aloe And Vitamin E Women's Razor box            $9.47          $4.72          50.2%     
 BURGERS SHAQ ANGUS PATTIES 1/2LB                                                         $10.39         $4.95          52.4%     
+VITAMIN WOMENS ADVNCD MULTI GUMMY                                                        $9.90          $5.00          49.5%     
 Olay Fresh Outlast Body Wash Orchid & Black Currant 22 Oz                                $5.74          $2.92        49.1% ***   
 Olay White Strawberry & Mint Fresh Outlast Body Wash 22 fl oz bottle                     $5.74          $0.09        98.4% ***   
 Nature Made Strawberry Peach Mango Flavor Dietary Supplement Gummies 50 mcg Vitamin      $5.93          $3.18          46.4%     
@@ -118,7 +119,6 @@ Nature Made Adult Fish Oil Orange Lemon and Strawberry Flavor Omega-3 Dietary Su
 LIQUID SYRUP 5MG COOLING HONEY                                                           $17.16         $8.85          48.4%     
 VITAMIN MULTI ZERO SUGAR GUMMY                                                           $9.41          $4.75          49.5%     
 VITAMIN MELATONIN TIME RELEASE GUMMY                                                     $9.60          $4.90          49.0%     
-VITAMIN WOMENS ADVNCD MULTI GUMMY                                                        $9.90          $5.00          49.5%     
 Nature Made Vitamin D3 K2 Gummies 5000 IU vitamin D 60 Ct                                $10.40         $5.25          49.5%     
 Nature Made 5 g Orange & Mixed Berry Fiber 90 Gummies                                    $11.29         $5.79          48.7%     
 Iberogast Herbal Liquid Digestive Relief Drops 1.69 oz oz                                $12.90         $6.52          49.5%     
