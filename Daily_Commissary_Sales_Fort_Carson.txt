@@ -1,4 +1,4 @@
-2025-12-30
+2025-12-31
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.76          $0.44          84.1%     
@@ -80,33 +80,34 @@ NUK learner straw cup 10 oz                                                     
 Johnson & Johnson Carefree Acti-Fresh Extra Long to Go Unscented Body Shape Pantilin     $6.62          $3.40          48.6%     
 Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55          49.6%     
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55          49.6%     
-Liquid IV Kids Hydration Multiplier Tropical Punch 8 Ct                                  $8.98          $3.57        60.2% ***   
-Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $3.57        60.2% ***   
-Liquid IV Kids Hydration Multiplier Grape 8 Ct                                           $8.98          $3.57        60.2% ***   
+Liquid IV Kids Hydration Multiplier Tropical Punch 8 Ct                                  $8.98          $3.57          60.2%     
+Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $3.57          60.2%     
+Liquid IV Kids Hydration Multiplier Grape 8 Ct                                           $8.98          $3.57          60.2%     
 DRY SALAME PILLOW PACK                                                                   $7.14          $3.89          45.5%     
 MEAL SS CHEESEBURGER MACARONI AND CHEESE                                                 $3.92          $1.97          49.7%     
 Playtex Tampon Sport Multi-Pack Regular/Super 48 Ct                                      $9.17          $4.59          49.9%     
 Schick Intuition Pure Nourishment Coconut Milk & Almond Milk Razor 1 ea                  $9.47          $4.72          50.2%     
 Schick Intuition Naturals Sensitive Care Aloe And Vitamin E Women's Razor box            $9.47          $4.72          50.2%     
 BURGERS SHAQ ANGUS PATTIES 1/2LB                                                         $10.39         $4.95          52.4%     
-Nature Made Strawberry Peach Mango Flavor Dietary Supplement Gummies 50 mcg Vitamin      $5.93          $3.18        46.4% ***   
-Nature Made Tangerine Flavor Dietary Supplement Gummies 250 mg Vitamin C 80 ct           $6.07          $3.05        49.8% ***   
+Nature Made Strawberry Peach Mango Flavor Dietary Supplement Gummies 50 mcg Vitamin      $5.93          $3.18          46.4%     
+Nature Made Tangerine Flavor Dietary Supplement Gummies 250 mg Vitamin C 80 ct           $6.07          $3.05          49.8%     
 Schick Hydro Silk Women's Razor Blades Refill 4 ct box                                   $11.96         $6.53          45.4%     
 Schick Intuition Sensitive Care Lather & Shave Women's Razor Blades Refill Cartridge     $11.96         $6.53          45.4%     
 Schick Hydro Dry Skin Cartridges 6 ct                                                    $11.96         $6.53          45.4%     
 Schick Hydro Sensitive Cartridges 6 ct                                                   $11.96         $6.53          45.4%     
 Schick Hydro Silk 5 Trim Style Women's Razor & Bikini Trimmer box                        $13.17         $6.74          48.8%     
-Nature's Made Extra Strength Vitamin B12 Gummies 3000Mcg                                 $6.93          $3.50        49.5% ***   
+Nature's Made Extra Strength Vitamin B12 Gummies 3000Mcg                                 $6.93          $3.50          49.5%     
 Alka Seltzer Heartburn Gas Relief Fruit Punch 60Ct                                       $7.89          $3.95          49.9%     
 Schick Hydro Silk Cartridges 6 ct                                                        $15.96         $8.06          49.5%     
-Nature Made Adult Fish Oil Orange Lemon and Strawberry Flavor Omega-3 Dietary Supple     $8.32          $4.26        48.8% ***   
+USDA Select Bone In Ribeye Roast                                                         $15.12         $6.96          54.0%     
+Nature Made Adult Fish Oil Orange Lemon and Strawberry Flavor Omega-3 Dietary Supple     $8.32          $4.26          48.8%     
 LIQUID SYRUP 5MG COOLING HONEY                                                           $17.16         $8.85          48.4%     
-VITAMIN MULTI ZERO SUGAR GUMMY                                                           $9.41          $4.75        49.5% ***   
-VITAMIN MELATONIN TIME RELEASE GUMMY                                                     $9.60          $4.90        49.0% ***   
-VITAMIN WOMENS ADVNCD MULTI GUMMY                                                        $9.90          $5.00        49.5% ***   
-Nature Made Vitamin D3 K2 Gummies 5000 IU vitamin D 60 Ct                                $10.40         $5.25        49.5% ***   
-Nature Made 5 g Orange & Mixed Berry Fiber 90 Gummies                                    $11.29         $5.79        48.7% ***   
+VITAMIN MULTI ZERO SUGAR GUMMY                                                           $9.41          $4.75          49.5%     
+VITAMIN MELATONIN TIME RELEASE GUMMY                                                     $9.60          $4.90          49.0%     
+VITAMIN WOMENS ADVNCD MULTI GUMMY                                                        $9.90          $5.00          49.5%     
+Nature Made Vitamin D3 K2 Gummies 5000 IU vitamin D 60 Ct                                $10.40         $5.25          49.5%     
+Nature Made 5 g Orange & Mixed Berry Fiber 90 Gummies                                    $11.29         $5.79          48.7%     
 Iberogast Herbal Liquid Digestive Relief Drops 1.69 oz oz                                $12.90         $6.52          49.5%     
-Nature Made Ultra Strength Digestive Probiotics Raspberry and Cherry Flavor Dietary      $14.39         $7.18        50.1% ***   
+Nature Made Ultra Strength Digestive Probiotics Raspberry and Cherry Flavor Dietary      $14.39         $7.18          50.1%     
 
 Elapsed Time: N/A
