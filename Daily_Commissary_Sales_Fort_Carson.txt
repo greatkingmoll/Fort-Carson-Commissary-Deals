@@ -1,4 +1,4 @@
-2026-01-02
+2026-01-03
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Pringles Sour Cream & Onion Flavored Potato Crisps 5.5 oz tub                            $1.85          $0.43          76.8%     
@@ -53,11 +53,11 @@ Schick Intuition Pure Nourishment Coconut Milk & Almond Milk Razor 1 ea         
 Schick Intuition Naturals Sensitive Care Aloe And Vitamin E Women's Razor box            $9.47          $4.72          50.2%     
 BURGERS SHAQ ANGUS PATTIES 1/2LB                                                         $10.39         $4.95          52.4%     
 VITAMIN WOMENS ADVNCD MULTI GUMMY                                                        $9.90          $5.00          49.5%     
-Rachael Ray Nutrish Real Chicken & Veggies Recipe Dry Dog Food 6 lb bag                  $10.06         $5.08        49.5% ***   
-RRN DOG FD TKY BRRC VEN 5.5LB                                                            $10.25         $5.27        48.6% ***   
-RRN DOG FD PUPPY CHK BRRC 6LB                                                            $10.25         $5.27        48.6% ***   
+Rachael Ray Nutrish Real Chicken & Veggies Recipe Dry Dog Food 6 lb bag                  $10.06         $5.08          49.5%     
+RRN DOG FD TKY BRRC VEN 5.5LB                                                            $10.25         $5.27          48.6%     
+RRN DOG FD PUPPY CHK BRRC 6LB                                                            $10.25         $5.27          48.6%     
 Olay Fresh Outlast Body Wash Orchid & Black Currant 22 Oz                                $5.74          $2.92          49.1%     
-DOG FOOD BEEF CLSSC                                                                      $11.62         $5.87        49.5% ***   
+DOG FOOD BEEF CLSSC                                                                      $11.62         $5.87          49.5%     
 Nature Made Strawberry Peach Mango Flavor Dietary Supplement Gummies 50 mcg Vitamin      $5.93          $3.18          46.4%     
 BLACK GARLIC FINISHING SALTS C                                                           $5.95          $2.66          55.3%     
 CITRUS ROSEMARY FINISHING SALTS C                                                        $5.95          $2.66          55.3%     
@@ -66,7 +66,7 @@ Schick Hydro Silk Women's Razor Blades Refill 4 ct box                          
 Schick Intuition Sensitive Care Lather & Shave Women's Razor Blades Refill Cartridge     $11.96         $6.53          45.4%     
 Schick Hydro Dry Skin Cartridges 6 ct                                                    $11.96         $6.53          45.4%     
 Schick Hydro Sensitive Cartridges 6 ct                                                   $11.96         $6.53          45.4%     
-Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag                $12.58         $6.57        47.8% ***   
+Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag                $12.58         $6.57          47.8%     
 Schick Hydro Silk 5 Trim Style Women's Razor & Bikini Trimmer box                        $13.17         $6.74          48.8%     
 Nature's Made Extra Strength Vitamin B12 Gummies 3000Mcg                                 $6.93          $3.50          49.5%     
 Old Spice Classic Pomade Medium Hold Low Shine Styler 2.22 oz                            $7.18          $3.92          45.4%     
@@ -76,8 +76,8 @@ VITAMIN MULTI ZERO SUGAR GUMMY                                                  
 VITAMIN MELATONIN TIME RELEASE GUMMY                                                     $9.60          $4.90          49.0%     
 Nature Made Vitamin D3 K2 Gummies 5000 IU vitamin D 60 Ct                                $10.40         $5.25          49.5%     
 Nature Made 5 g Orange & Mixed Berry Fiber 90 Gummies                                    $11.29         $5.79          48.7%     
-Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag                     $22.10         $11.55       47.7% ***   
-Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55       47.7% ***   
+Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag                     $22.10         $11.55         47.7%     
+Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
 Nature Made Ultra Strength Digestive Probiotics Raspberry and Cherry Flavor Dietary      $14.39         $7.18          50.1%     
 
 Elapsed Time: N/A
