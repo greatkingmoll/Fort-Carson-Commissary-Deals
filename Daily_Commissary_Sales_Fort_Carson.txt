@@ -1,4 +1,4 @@
-2026-01-04
+2026-01-05
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Pringles Sour Cream & Onion Flavored Potato Crisps 5.5 oz tub                            $1.85          $0.43          76.8%     
@@ -29,7 +29,7 @@ TMPTNS CREAMY PURREE CHICKEN                                                    
 Mars Temptations Tempting Tuna Flavor Cat Treats 3 oz bag                                $1.78          $0.94          47.2%     
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.49          75.5%     
 NUK kiddy cutlery forks 3 ct                                                             $4.62          $2.34          49.4%     
-COFFEE ICED MERRY MINT BARK                                                              $2.39          $0.96        59.8% ***   
+COFFEE ICED MERRY MINT BARK                                                              $2.39          $0.96          59.8%     
 Billie Bounce Hydrating Body Wash 18Oz                                                   $5.10          $2.58          49.4%     
 Billie Soothe Lavender Milk Comforting Body Wash 18 Fl Oz                                $5.10          $2.58          49.4%     
 Fanta Orange Soda Soft Drink, 2 Liters Bottle                                            $2.77          $0.69          75.1%     
@@ -65,7 +65,7 @@ RRN DOG FD TKY BRRC VEN 5.5LB                                                   
 RRN DOG FD PUPPY CHK BRRC 6LB                                                            $10.25         $5.27          48.6%     
 Olay Fresh Outlast Body Wash Orchid & Black Currant 22 Oz                                $5.74          $2.92          49.1%     
 Coca-Cola Zero Sugar Cherry Diet Soda Soft Drink, 16.9 fl oz, 6 Pack                     $5.78          $0.99          82.9%     
-Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack                                     $5.78          $0.99        82.9% ***   
+Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack                                     $5.78          $0.99          82.9%     
 DOG FOOD BEEF CLSSC                                                                      $11.62         $5.87          49.5%     
 Nature Made Strawberry Peach Mango Flavor Dietary Supplement Gummies 50 mcg Vitamin      $5.93          $3.18          46.4%     
 BLACK GARLIC FINISHING SALTS C                                                           $5.95          $2.66          55.3%     
@@ -80,7 +80,7 @@ Schick Hydro Silk 5 Trim Style Women's Razor & Bikini Trimmer box               
 Nature's Made Extra Strength Vitamin B12 Gummies 3000Mcg                                 $6.93          $3.50          49.5%     
 Old Spice Classic Pomade Medium Hold Low Shine Styler 2.22 oz                            $7.18          $3.92          45.4%     
 Minute Maid Lemonade Soda 12 fl oz can 24 pack                                           $7.49          $2.50          66.6%     
-Minute Maid Zero Sugar Lemonade 12 fl oz can 12 pack                                     $7.49          $2.50        66.6% ***   
+Minute Maid Zero Sugar Lemonade 12 fl oz can 12 pack                                     $7.49          $2.50          66.6%     
 Mello Yello Fridge Pack Cans, 12 fl oz, 12 Pack                                          $7.49          $2.50          66.6%     
 Barq's Root Beer 12 fl oz can 12 pack                                                    $7.49          $2.50          66.6%     
 Barq's Diet Root Beer 12 fl oz can 12 pack                                               $7.49          $2.50          66.6%     
