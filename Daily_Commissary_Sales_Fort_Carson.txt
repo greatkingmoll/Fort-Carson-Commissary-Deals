@@ -1,4 +1,4 @@
-2026-01-06
+2026-01-07
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Powerade xtra sour peach pucker bottle, 28 fl oz                                         $1.23          $0.41          66.7%     
@@ -68,9 +68,9 @@ Nature Made Vitamin D3 K2 Gummies 5000 IU vitamin D 60 Ct                       
 Nature Made 5 g Orange & Mixed Berry Fiber 90 Gummies                                    $11.29         $5.79          48.7%     
 Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag                     $22.10         $11.55         47.7%     
 Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
-DOG FOOD BF BRRC 28LB                                                                    $36.85         $18.86       48.8% ***   
-DOG FOOD CHK VEG 28LB                                                                    $36.85         $18.86       48.8% ***   
-PROTEIN POWDER-RICH CHOCOLATE                                                            $18.89         $9.45        50.0% ***   
-PROTEIN POWDER VANILLA                                                                   $18.89         $9.45        50.0% ***   
+DOG FOOD BF BRRC 28LB                                                                    $36.85         $18.86         48.8%     
+DOG FOOD CHK VEG 28LB                                                                    $36.85         $18.86         48.8%     
+PROTEIN POWDER-RICH CHOCOLATE                                                            $18.89         $9.45          50.0%     
+PROTEIN POWDER VANILLA                                                                   $18.89         $9.45          50.0%     
 
 Elapsed Time: N/A
