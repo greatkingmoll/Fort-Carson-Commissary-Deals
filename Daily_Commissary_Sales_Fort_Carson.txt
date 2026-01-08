@@ -20,14 +20,16 @@ Kellogg's Club Multi-Grain Crackers 12.7 oz box                                 
 Kellogg's Club Original Crackers 13.7 oz box                                             $3.59          $0.86          76.0%     
 Kellogg's Club Original Snack Stacks Crackers 12.5 oz box                                $3.59          $0.86          76.0%     
 Kellogg's Town House Sea Salt Pita Oven Baked Crackers 9.5 oz box                        $3.59          $0.86          76.0%     
-White Castle cheeseBurger Sliders 3.66 oz                                                $1.74          $0.90          48.3%     
+White Castle cheeseBurger Sliders 3.66 oz                                                $1.95          $0.90          53.8%     
 Fanta Orange Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                                 $5.78          $0.99        82.9% ***   
 Coca-Cola Zero Sugar Cherry Diet Soda Soft Drink, 16.9 fl oz, 6 Pack                     $5.78          $0.99          82.9%     
 Fresca Grapefruit Citrus Sparkling Soda Water, 7.5 fl oz, 6 Pack                         $4.00          $0.99          75.2%     
 Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack                                     $5.78          $0.99          82.9%     
+Calbee harvest snaps white cheddar 3 oz                                                  $2.19          $1.09        50.2% ***   
+Calbee Harvest Snaps Green Pea Black Pepper Snack Crisps 3.3 oz bag                      $2.19          $1.09        50.2% ***   
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
-MARGARINE GARLIC SPRAY                                                                   $2.68          $1.39          48.1%     
-Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.89          $1.42          50.9%     
+BH DRESSING EVERYTHING RANCH                                                             $3.25          $1.57        51.7% ***   
+Bolthouse Farms Chunky Blue Cheese Yogurt Dressing & Dip.                                $3.25          $1.57        51.7% ***   
 Head & Shoulders 2 in 1 Coconut Shampoo + Conditioner 12.5 fl oz                         $5.54          $1.81          67.3%     
 PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
 COFFEE ICED MERRY MINT BARK                                                              $2.39          $0.96          59.8%     
@@ -38,6 +40,7 @@ TEA JUST PEACHY 12PK                                                            
 PORK CHOPS SMOKEY CHILI BTTR                                                             $4.89          $2.57        47.4% ***   
 TERIYAKI CHICKEN BREAST FILETS                                                           $5.24          $2.72          48.1%     
 GARLIC HRB CHCKN BREAST FILETS                                                           $5.24          $2.72          48.1%     
+Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.87          $1.40          51.2%     
 BEEF STEAKS SW RANCHERO                                                                  $6.59          $2.94          55.4%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 Olay White Strawberry & Mint Fresh Outlast Body Wash 22 fl oz bottle                     $5.97          $3.09          48.2%     
@@ -46,6 +49,7 @@ Nature Made Strawberry Peach Mango Flavor Dietary Supplement Gummies 50 mcg Vita
 CITRUS ROSEMARY FINISHING SALTS C                                                        $6.63          $3.34          49.6%     
 BLACK GARLIC FINISHING SALTS C                                                           $6.63          $3.34          49.6%     
 Nature's Made Extra Strength Vitamin B12 Gummies 3000Mcg                                 $6.72          $3.50          47.9%     
+Challenge Butter Spreadable Butter with Canola Oil 15 oz tub                             $3.52          $1.85        47.4% ***   
 Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $3.66          59.2%     
 Liquid IV Kids Hydration Multiplier Grape 8 Ct                                           $8.98          $3.66          59.2%     
 Liquid IV Kids Hydration Multiplier Tropical Punch 8 Ct                                  $8.98          $3.66          59.2%     
@@ -53,7 +57,6 @@ NUK glow in the dark learn cup 5 oz                                             
 DRY SALAME PILLOW PACK                                                                   $7.14          $3.89          45.5%     
 Nature Made Zero Sugar Multivitamin Gummies, Mens & Womens, Daily Nutritional suppor     $9.12          $4.75          47.9%     
 VITAMIN MELATONIN TIME RELEASE GUMMY                                                     $11.46         $4.90          57.2%     
-BURGERS SHAQ ANGUS PATTIES 1/2LB                                                         $10.39         $4.95          52.4%     
 VITAMIN WOMENS ADVNCD MULTI GUMMY                                                        $11.97         $5.00          58.2%     
 Rachael Ray Nutrish Real Chicken & Veggies Recipe Dry Dog Food 6 lb bag                  $10.16         $5.18          49.0%     
 RRN DOG FD TKY BRRC VEN 5.5LB                                                            $10.16         $5.18          49.0%     
@@ -68,14 +71,14 @@ Minute Maid Lemonade Soda 12 fl oz can 24 pack                                  
 Minute Maid Zero Sugar Lemonade 12 fl oz can 12 pack                                     $7.49          $2.50          66.6%     
 Mello Yello Fridge Pack Cans, 12 fl oz, 12 Pack                                          $7.49          $2.50          66.6%     
 Coca-Cola Orange Cream Soda, 12 oz. cans (Pack of 12)                                    $7.49          $2.50          66.6%     
+Sprite + Tea Fridge Pack Cans, 12 fl oz, 12 Pack                                         $7.49          $2.50          66.6%     
+SODA CREAMY COCONUT                                                                      $7.49          $2.50          66.6%     
 Dr Pepper Diet Original Soda 12 fl oz can 12 pack                                        $7.49          $2.50          66.6%     
 Nature Made Adult Fish Oil Orange Lemon and Strawberry Flavor Omega-3 Dietary Supple     $8.32          $4.26          48.8%     
 PROTEIN POWDER VANILLA                                                                   $19.18         $9.59          50.0%     
 PROTEIN POWDER-RICH CHOCOLATE                                                            $19.18         $9.59          50.0%     
+BURGERS SHAQ ANGUS PATTIES 1/2LB                                                         $10.60         $5.44          48.7%     
 Nature Made 5 g Orange & Mixed Berry Fiber 90 Gummies                                    $11.29         $5.79          48.7%     
 Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag                     $22.10         $11.55         47.7%     
-Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
-DOG FOOD BF BRRC 28LB                                                                    $36.85         $18.86         48.8%     
-DOG FOOD CHK VEG 28LB                                                                    $36.85         $18.86         48.8%     
 
 Elapsed Time: N/A
