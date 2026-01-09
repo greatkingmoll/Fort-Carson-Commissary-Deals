@@ -1,4 +1,4 @@
-2026-01-08
+2026-01-09
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Powerade xtra sour grape shocker bottle 28 fl oz                                         $1.29          $0.41          68.2%     
@@ -8,20 +8,20 @@ Pringles Sour Cream & Onion Flavored Potato Crisps 5.5 oz tub                   
 Pringles The Original Potato Crisps 5.2 oz tub                                           $1.85          $0.43          76.8%     
 Pringles Cheddar Cheese Flavored Potato Crisps 5.5 oz tub                                $1.85          $0.43          76.8%     
 Pringles BBQ Ranch Flavored Potato Crisps 5.5 oz tub                                     $1.85          $0.43          76.8%     
-Sprite Soda Zero Lemon Lime - 20 Fl. Oz.                                                 $2.00          $0.49        75.5% ***   
+Sprite Soda Zero Lemon Lime - 20 Fl. Oz.                                                 $2.00          $0.49          75.5%     
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.49          75.5%     
-Sprite Soda Lemon-Lime - 20 Fl. Oz.                                                      $2.00          $0.49        75.5% ***   
-Dr Pepper Diet Soda 2 L bottle                                                           $2.77          $0.69        75.1% ***   
+Sprite Soda Lemon-Lime - 20 Fl. Oz.                                                      $2.00          $0.49          75.5%     
+Dr Pepper Diet Soda 2 L bottle                                                           $2.77          $0.69          75.1%     
 Fanta Orange Soda Soft Drink, 2 Liters Bottle                                            $2.77          $0.69          75.1%     
 Carr's Original Table Water Crackers 4.25 oz box                                         $3.65          $0.73          80.0%     
-Tyson Ground Beef Pork Loaf                                                              $9.02          $0.86        90.5% ***   
+Tyson Ground Beef Pork Loaf                                                              $9.02          $0.86          90.5%     
 Kellogg's Town House Original Light and Buttery Oven Baked Crackers 13.8 oz box          $3.59          $0.86          76.0%     
 Kellogg's Club Multi-Grain Crackers 12.7 oz box                                          $3.59          $0.86          76.0%     
 Kellogg's Club Original Crackers 13.7 oz box                                             $3.59          $0.86          76.0%     
 Kellogg's Club Original Snack Stacks Crackers 12.5 oz box                                $3.59          $0.86          76.0%     
 Kellogg's Town House Sea Salt Pita Oven Baked Crackers 9.5 oz box                        $3.59          $0.86          76.0%     
 White Castle cheeseBurger Sliders 3.66 oz                                                $1.95          $0.90          53.8%     
-Fanta Orange Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                                 $5.78          $0.99        82.9% ***   
+Fanta Orange Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                                 $5.78          $0.99          82.9%     
 Coca-Cola Zero Sugar Cherry Diet Soda Soft Drink, 16.9 fl oz, 6 Pack                     $5.78          $0.99          82.9%     
 Fresca Grapefruit Citrus Sparkling Soda Water, 7.5 fl oz, 6 Pack                         $4.00          $0.99          75.2%     
 Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack                                     $5.78          $0.99          82.9%     
@@ -37,7 +37,7 @@ TEA PEACE TEA CADDY SHACK 12PK                                                  
 Barq's Root Beer 12 fl oz can 12 pack                                                    $7.49          $2.50          66.6%     
 Barq's Diet Root Beer 12 fl oz can 12 pack                                               $7.49          $2.50          66.6%     
 TEA JUST PEACHY 12PK                                                                     $7.52          $2.50          66.8%     
-PORK CHOPS SMOKEY CHILI BTTR                                                             $4.89          $2.57        47.4% ***   
+PORK CHOPS SMOKEY CHILI BTTR                                                             $4.89          $2.57          47.4%     
 TERIYAKI CHICKEN BREAST FILETS                                                           $5.24          $2.72          48.1%     
 GARLIC HRB CHCKN BREAST FILETS                                                           $5.24          $2.72          48.1%     
 Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.87          $1.40          51.2%     
