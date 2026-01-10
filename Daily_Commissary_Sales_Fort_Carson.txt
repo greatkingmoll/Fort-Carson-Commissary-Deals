@@ -1,4 +1,4 @@
-2026-01-09
+2026-01-10
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Powerade xtra sour grape shocker bottle 28 fl oz                                         $1.29          $0.41          68.2%     
@@ -25,11 +25,11 @@ Fanta Orange Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                        
 Coca-Cola Zero Sugar Cherry Diet Soda Soft Drink, 16.9 fl oz, 6 Pack                     $5.78          $0.99          82.9%     
 Fresca Grapefruit Citrus Sparkling Soda Water, 7.5 fl oz, 6 Pack                         $4.00          $0.99          75.2%     
 Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack                                     $5.78          $0.99          82.9%     
-Calbee harvest snaps white cheddar 3 oz                                                  $2.19          $1.09        50.2% ***   
-Calbee Harvest Snaps Green Pea Black Pepper Snack Crisps 3.3 oz bag                      $2.19          $1.09        50.2% ***   
+Calbee harvest snaps white cheddar 3 oz                                                  $2.19          $1.09          50.2%     
+Calbee Harvest Snaps Green Pea Black Pepper Snack Crisps 3.3 oz bag                      $2.19          $1.09          50.2%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
-BH DRESSING EVERYTHING RANCH                                                             $3.25          $1.57        51.7% ***   
-Bolthouse Farms Chunky Blue Cheese Yogurt Dressing & Dip.                                $3.25          $1.57        51.7% ***   
+BH DRESSING EVERYTHING RANCH                                                             $3.25          $1.57          51.7%     
+Bolthouse Farms Chunky Blue Cheese Yogurt Dressing & Dip.                                $3.25          $1.57          51.7%     
 Head & Shoulders 2 in 1 Coconut Shampoo + Conditioner 12.5 fl oz                         $5.54          $1.81          67.3%     
 PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
 COFFEE ICED MERRY MINT BARK                                                              $2.39          $0.96          59.8%     
@@ -49,7 +49,7 @@ Nature Made Strawberry Peach Mango Flavor Dietary Supplement Gummies 50 mcg Vita
 CITRUS ROSEMARY FINISHING SALTS C                                                        $6.63          $3.34          49.6%     
 BLACK GARLIC FINISHING SALTS C                                                           $6.63          $3.34          49.6%     
 Nature's Made Extra Strength Vitamin B12 Gummies 3000Mcg                                 $6.72          $3.50          47.9%     
-Challenge Butter Spreadable Butter with Canola Oil 15 oz tub                             $3.52          $1.85        47.4% ***   
+Challenge Butter Spreadable Butter with Canola Oil 15 oz tub                             $3.52          $1.85          47.4%     
 Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $3.66          59.2%     
 Liquid IV Kids Hydration Multiplier Grape 8 Ct                                           $8.98          $3.66          59.2%     
 Liquid IV Kids Hydration Multiplier Tropical Punch 8 Ct                                  $8.98          $3.66          59.2%     
