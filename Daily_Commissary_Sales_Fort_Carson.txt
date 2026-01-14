@@ -7,8 +7,6 @@ Powerade xtra sour grape shocker bottle 28 fl oz                                
 Sprite Soda Lemon-Lime - 20 Fl. Oz.                                                      $2.00          $0.49          75.5%     
 Sprite Soda Zero Lemon Lime - 20 Fl. Oz.                                                 $2.00          $0.49          75.5%     
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.49          75.5%     
-Hillshire Farm Ultra Thin Smoked Ham 9 oz package                                        $3.19          $0.69          78.4%     
-Hillshire Farm Deli Select Ultra Thin Honey Roasted Turkey Breast 9 oz package           $3.19          $0.69          78.4%     
 GoodSense Unscented Soft Cream Baby Wipes 35 Ct                                          $1.34          $0.69          48.5%     
 Fanta Orange Soda Soft Drink, 2 Liters Bottle                                            $2.77          $0.69          75.1%     
 Dr Pepper Diet Soda 2 L bottle                                                           $2.77          $0.69          75.1%     
@@ -19,13 +17,13 @@ Kellogg's Town House Sea Salt Pita Oven Baked Crackers 9.5 oz box               
 Kellogg's Club Multi-Grain Crackers 12.7 oz box                                          $3.59          $0.86          76.0%     
 White Castle cheeseBurger Sliders 3.66 oz                                                $1.95          $0.90          53.8%     
 COFFEE ICED MERRY MINT BARK                                                              $2.39          $0.96          59.8%     
+Sprite Zero Sugar Bottles, 16.9 fl oz, 6 Pack                                            $5.78          $0.99        82.9% ***   
+Fanta Orange Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                   $6.71          $0.99        85.2% ***   
 Fanta Orange Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                                 $5.78          $0.99          82.9%     
 Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack                                     $5.78          $0.99          82.9%     
 Fresca Grapefruit Citrus Sparkling Soda Water, 7.5 fl oz, 6 Pack                         $4.00          $0.99          75.2%     
 Coca-Cola Zero Sugar Cherry Diet Soda Soft Drink, 16.9 fl oz, 6 Pack                     $5.78          $0.99          82.9%     
 Hillshire Farm smoked ham 2.76 oz                                                        $2.00          $1.07          46.5%     
-Calbee Harvest Snaps Green Pea Black Pepper Snack Crisps 3.3 oz bag                      $2.19          $1.09          50.2%     
-Calbee harvest snaps white cheddar 3 oz                                                  $2.19          $1.09          50.2%     
 Handi-Foil Eco-Foil Cook-n-Carry 13 x 9 Cake Pans & Lids 2 ct                            $2.36          $1.22          48.3%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
 Good Sense lightly scented baby wipes 72 ct                                              $2.42          $1.25          48.3%     
@@ -35,6 +33,8 @@ GoodSense 200MG Ibuprofen Liquid gel 40 ct                                      
 Handi-Foil iChef 13 x 9 All Purpose Cake Pan with Lid                                    $2.79          $1.46          47.7%     
 Hillshire Farm Lit'l Smokies Sausage 14 oz package                                       $2.79          $1.48          47.0%     
 Hillshire Farm Cheddar Lit'l Smokies Sausage 13 oz package                               $2.79          $1.48          47.0%     
+Hillshire Farm Ultra Thin Smoked Ham 9 oz package                                        $3.19          $1.69          47.0%     
+Hillshire Farm Deli Select Ultra Thin Honey Roasted Turkey Breast 9 oz package           $3.19          $1.69          47.0%     
 Violife Cheese Sub With Shredded Cheddar Vegan 8 Oz                                      $3.69          $1.84          50.0%     
 Violife Cheese Sub Sandwich With Shredded Mozzarella Vegan 8 Oz                          $3.69          $1.84          50.0%     
 Violife Cheese Substitute Cheddar Slices 7.05 Oz                                         $3.69          $1.84          50.0%     
@@ -77,6 +77,7 @@ NUK glow in the dark learn cup 5 oz                                             
 DRY SALAME PILLOW PACK                                                                   $7.14          $3.89          45.5%     
 Old Spice Classic Pomade Medium Hold Low Shine Styler 2.22 oz                            $7.18          $3.92          45.4%     
 Nature Made Adult Fish Oil Orange Lemon and Strawberry Flavor Omega-3 Dietary Supple     $8.32          $4.26          48.8%     
+Solo Cup AnyDay 10 in Paper Plates 80 ct package                                         $8.78          $4.28        51.3% ***   
 Nature Made Dietary Supplement Softgels 180 mg Vitamin E 100 ct                          $8.79          $4.40        49.9% ***   
 Nature Made Zero Sugar Multivitamin Gummies, Mens & Womens, Daily Nutritional suppor     $9.12          $4.65          49.0%     
 Alka Seltzer Heartburn Gas Relief Fruit Punch 60Ct                                       $8.62          $4.68          45.7%     
