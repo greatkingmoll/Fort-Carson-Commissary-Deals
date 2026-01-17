@@ -1,4 +1,4 @@
-2026-01-16
+2026-01-17
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Powerade xtra sour peach pucker bottle, 28 fl oz                                         $1.29          $0.41          68.2%     
@@ -39,9 +39,9 @@ AIR FR AEROSOL COASTAL CITRUS                                                   
 AIR FR AEROSOL CLEAN LINEN                                                               $2.16          $1.14        47.2% ***   
 AIR FR AEROSOL LAVNDR & VNILLA                                                           $2.16          $1.14        47.2% ***   
 Nature Made 100% Drug-Free Dietary Supplement Tablets 3 mg Melatonin 120 ct              $4.66          $2.19          53.0%     
-Bolthouse Farms Amazing Mango Fruit Smoothie 15.2 fl oz bottle                           $2.75          $1.12        59.3% ***   
-Bolthouse Farms 100 % Carrot Juice 15.2 fl oz bottle                                     $2.75          $1.12        59.3% ***   
-Bolthousef Juice Green Immunity 15.2 Oz Ea                                               $2.75          $1.12        59.3% ***   
+Bolthouse Farms Amazing Mango Fruit Smoothie 15.2 fl oz bottle                           $2.75          $1.12          59.3%     
+Bolthouse Farms 100 % Carrot Juice 15.2 fl oz bottle                                     $2.75          $1.12          59.3%     
+Bolthousef Juice Green Immunity 15.2 Oz Ea                                               $2.75          $1.12          59.3%     
 JUICE TART CHERRY 32OZ                                                                   $4.29          $2.29          46.6%     
 CRACKERS SPICY SWT CHILI                                                                 $2.32          $1.15          50.4%     
 Yoplait Original Strawberry and Harvest Peach Low Fat Yogurt 6 oz cup 8 ct               $4.96          $2.38          52.0%     
@@ -67,7 +67,7 @@ Olay Fresh Outlast Body Wash Orchid & Black Currant 22 Oz                       
 Nature Made Extra Strength Dietary Supplement Tablets 2500 mcg B12 60 ct                 $6.38          $3.41          46.6%     
 Nature's Made Extra Strength Vitamin B12 Gummies 3000Mcg                                 $6.72          $3.43          49.0%     
 Challenge Butter Spreadable Butter with Canola Oil 15 oz tub                             $3.52          $1.85          47.4%     
-Lamexicana pico de gallo dip 16 oz                                                       $3.75          $1.87        50.1% ***   
+Lamexicana pico de gallo dip 16 oz                                                       $3.75          $1.87          50.1%     
 NUK glow in the dark learn cup 5 oz                                                      $7.08          $3.82          46.0%     
 TUSCAN BEEF                                                                              $3.88          $1.95        49.7% ***   
 DRY SALAME PILLOW PACK                                                                   $7.14          $3.89          45.5%     
