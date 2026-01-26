@@ -1,4 +1,4 @@
-2026-01-25
+2026-01-26
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Powerade xtra sour peach pucker bottle, 28 fl oz                                         $1.29          $0.41          68.2%     
@@ -51,9 +51,6 @@ AIR FR AEROSOL CLEAN LINEN                                                      
 AIR FR AEROSOL LAVNDR & VNILLA                                                           $2.16          $1.14          47.2%     
 Nature Made 100% Drug-Free Dietary Supplement Tablets 3 mg Melatonin 120 ct              $4.66          $2.19          53.0%     
 JUICE TART CHERRY 32OZ                                                                   $4.29          $2.29          46.6%     
-Yoplait Original Strawberry and Harvest Peach Low Fat Yogurt 6 oz cup 8 ct               $4.96          $2.38          52.0%     
-Yoplait Original Strawberry Low Fat Yogurt 6 oz cup 8 ct                                 $4.96          $2.38          52.0%     
-Yoplait Original Strawberry Banana Yogurt 6 oz cup 8 ct                                  $4.96          $2.38          52.0%     
 Nature Made Dietary Supplement Tablets 5 mg Melatonin 90 ct                              $4.87          $2.45          49.7%     
 TEA PEACE TEA CADDY SHACK 12PK                                                           $7.52          $2.50          66.8%     
 Sprite + Tea Fridge Pack Cans, 12 fl oz, 12 Pack                                         $7.49          $2.50          66.6%     
@@ -96,7 +93,6 @@ Dr Pepper Cream Soda 12 fl oz can 12 pack                                       
 Fresca Peach Soda Sparkling Flavored Soda Pop Soft Drink Zero Calorie and Sugar Free     $7.49          $3.49          53.4%     
 Purina Beggin Strips Original with Bacon Dog Treats 25 oz bag                            $9.04          $4.53          49.9%     
 Purina Beggin Strips Bacon & Cheese Flavor Dog Treats 25 oz bag                          $9.04          $4.53          49.9%     
-DETERGENT LIQUID HEC ULTRA OXI WHT 94LD (D STOCK)                                        $17.59         $9.54          45.8%     
 Freedom's Choice Bacon Cheddar Beef Patties 1/3 Pound 32 oz                              $10.08         $5.04          50.0%     
 BURGERS SHAQ ANGUS PATTIES 1/2LB                                                         $10.60         $5.44          48.7%     
 
