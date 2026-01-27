@@ -5,17 +5,17 @@ Powerade xtra sour peach pucker bottle, 28 fl oz                                
 Powerade xtra sour cherry kicker bottle 28 fl oz                                         $1.29          $0.41          68.2%     
 Powerade xtra sour grape shocker bottle 28 fl oz                                         $1.29          $0.41          68.2%     
 Dr Pepper Diet Soda 20 fl oz bottle                                                      $2.00          $0.49          75.5%     
-Sprite Soda Lemon-Lime - 20 Fl. Oz.                                                      $2.00          $0.49          75.5%     
 Sprite chill bottle, 20 fl oz                                                            $2.00          $0.49          75.5%     
 Sprite Soda Zero Lemon Lime - 20 Fl. Oz.                                                 $2.00          $0.49          75.5%     
+Sprite Soda Lemon-Lime - 20 Fl. Oz.                                                      $2.00          $0.49          75.5%     
 Swanson Chicken Broth 14.5 oz can                                                        $1.09          $0.55          49.5%     
 GoodSense Unscented Soft Cream Baby Wipes 35 Ct                                          $1.34          $0.69          48.5%     
 Dr Pepper Diet Soda 2 L bottle                                                           $2.77          $0.69          75.1%     
 COFFEE ICED MERRY MINT BARK                                                              $2.39          $0.96          59.8%     
-Fanta Orange Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                                 $5.78          $0.99          82.9%     
 Sprite Zero Sugar Bottles, 16.9 fl oz, 6 Pack                                            $5.78          $0.99          82.9%     
 Fanta Orange Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                   $6.71          $0.99          85.2%     
 Fresca Grapefruit Citrus Sparkling Soda Water, 7.5 fl oz, 6 Pack                         $4.00          $0.99          75.2%     
+Fanta Orange Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                                 $5.78          $0.99          82.9%     
 CRACKERS SPICY SWT CHILI                                                                 $2.32          $1.15          50.4%     
 Fanta Orange Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                                $4.00          $1.18          70.5%     
 Kraft Stove Top Lower Sodium Stuffing Mix for Chicken with Real Chicken Broth 6 oz b     $2.48          $1.24          50.0%     
@@ -51,11 +51,11 @@ Betty Crocker Minecraft Fruit Flavored Snacks 10 ct                             
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 WATERMELON STRAWBERRY                                                                    $5.55          $3.01          45.8%     
 Coca-Cola Body Armor Blue Raspberry Super Drink 12 fl oz bottle 8 pack                   $5.55          $3.01          45.8%     
-Body Armor Fruit Punch Sports Drink 12 fl oz bottle 8 pack                               $5.55          $3.01          45.8%     
-Coca-Cola Body Armor Orange Mango Sport Drink 12 fl oz bottle 8 pack                     $5.55          $3.01          45.8%     
 CHERRY BERRY LEMONADE                                                                    $5.55          $3.01          45.8%     
+Coca-Cola Body Armor Orange Mango Sport Drink 12 fl oz bottle 8 pack                     $5.55          $3.01          45.8%     
 Body Armor No Sugar Added Peach Mango Lyte Sports Drink 12 fl oz bottle 8 pack           $5.55          $3.01          45.8%     
 Coca-Cola Body Armor Strawberry Banana Sport Drink 12 fl oz bottle 8 pack                $5.55          $3.01          45.8%     
+Body Armor Fruit Punch Sports Drink 12 fl oz bottle 8 pack                               $5.55          $3.01          45.8%     
 Olay White Strawberry & Mint Fresh Outlast Body Wash 22 fl oz bottle                     $5.97          $3.09          48.2%     
 Olay Fresh Outlast Body Wash Orchid & Black Currant 22 Oz                                $5.97          $3.15          47.2%     
 Dr Pepper Zero Soda 12 ct                                                                $7.49          $3.49          53.4%     
