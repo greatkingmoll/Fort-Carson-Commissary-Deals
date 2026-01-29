@@ -1,16 +1,16 @@
 2026-01-29
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
+Powerade xtra sour peach pucker bottle, 28 fl oz                                         $1.29          $0.41          68.2%     
 Powerade xtra sour cherry kicker bottle 28 fl oz                                         $1.29          $0.41          68.2%     
 Powerade xtra sour grape shocker bottle 28 fl oz                                         $1.29          $0.41          68.2%     
-Powerade xtra sour peach pucker bottle, 28 fl oz                                         $1.29          $0.41          68.2%     
 Coca-Cola Zero Sugar Soda Soft Drink, 20 fl oz Bottle                                    $2.00          $0.47        76.5% ***   
 Dr Pepper soda strawberries cream 20 fl oz                                               $2.00          $0.47        76.5% ***   
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.47          76.5%     
+Dr Pepper Diet Soda 20 fl oz bottle                                                      $2.00          $0.49          75.5%     
 Sprite chill bottle, 20 fl oz                                                            $2.00          $0.49          75.5%     
 Sprite Soda Lemon-Lime - 20 Fl. Oz.                                                      $2.00          $0.49          75.5%     
 Sprite Soda Zero Lemon Lime - 20 Fl. Oz.                                                 $2.00          $0.49          75.5%     
-Dr Pepper Diet Soda 20 fl oz bottle                                                      $2.00          $0.49          75.5%     
 Swanson Chicken Broth 14.5 oz can                                                        $1.09          $0.55          49.5%     
 Barq's Root Beer 67.6 oz bottle                                                          $2.77          $0.59        78.7% ***   
 Coca-Cola Zero Sugar Soda Soft Drink, 1.25 Liters Bottle                                 $1.49          $0.59        60.4% ***   
@@ -26,12 +26,12 @@ AIR FR AEROSOL COASTAL CITRUS                                                   
 AIR FR AEROSOL LAVNDR & VNILLA                                                           $2.16          $1.14          47.2%     
 CRACKERS SPICY SWT CHILI                                                                 $2.32          $1.15          50.4%     
 Fanta Orange Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                                $4.00          $1.18          70.5%     
+Kraft Stove Top Lower Sodium Stuffing Mix for Chicken with Real Chicken Broth 6 oz b     $2.48          $1.24          50.0%     
 Kraft Stove Top Savory Herbs Stuffing Mix 6 oz box                                       $2.48          $1.24          50.0%     
 Kraft Stove Top Stuffing Mix for Turkey with Real Turkey Broth 6 oz box                  $2.48          $1.24          50.0%     
 Kraft Stove Top Traditional Sage Stuffing Mix 6 oz box                                   $2.48          $1.24          50.0%     
 Kraft Stove Top Stuffing Mix for Chicken with Real Chicken Broth 6 oz box                $2.48          $1.24          50.0%     
 Kraft Stove Top Cornbread Stuffing Mix 6 oz box                                          $2.48          $1.24          50.0%     
-Kraft Stove Top Lower Sodium Stuffing Mix for Chicken with Real Chicken Broth 6 oz b     $2.48          $1.24          50.0%     
 Good Sense lightly scented baby wipes 72 ct                                              $2.42          $1.25          48.3%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
 Good Sense unscented baby wipes 72 ct                                                    $2.42          $1.25          48.3%     
@@ -44,42 +44,42 @@ Heinz Home-Style Chicken Gravy 12 oz jar                                        
 Heinz home style roasted garlic and rosemary gravy 12 oz                                 $2.55          $1.27          50.2%     
 Carr's Original Table Water Crackers 4.25 oz box                                         $3.65          $1.31          64.1%     
 GoodSense 200MG Ibuprofen Liquid gel 40 ct                                               $2.79          $1.43          48.7%     
+Betty Crocker Scooby Doo Fruit Flavored Snacks 8 oz box                                  $2.97          $1.50          49.5%     
+Betty Crocker Minecraft Fruit Flavored Snacks 10 ct                                      $2.97          $1.50          49.5%     
 Mott's Gluten-free Veggie Juice Assorted Fruit Flavored Snacks 0.8 oz pouch 10 ct        $2.82          $1.50          46.8%     
 Sonic Fruit Flavored Snacks, Treat Pouches, Value Pack, 10 ct                            $2.97          $1.50          49.5%     
 Mott's Animals Assorted Fruit Flavored Snacks 0.8 oz bag 10 ct                           $2.82          $1.50          46.8%     
 Better Crocker moana fruit flavored snacks 10 ea                                         $2.97          $1.50          49.5%     
-Betty Crocker Scooby Doo Fruit Flavored Snacks 8 oz box                                  $2.97          $1.50          49.5%     
-Betty Crocker Minecraft Fruit Flavored Snacks 10 ct                                      $2.97          $1.50          49.5%     
 TUSCAN BEEF                                                                              $3.88          $1.95          49.7%     
 JUICE TART CHERRY 32OZ                                                                   $4.29          $2.29          46.6%     
 TEA PEACE TEA CADDY SHACK 12PK                                                           $7.52          $2.50          66.8%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
+Coca-Cola Body Armor Blue Raspberry Super Drink 12 fl oz bottle 8 pack                   $5.55          $3.01          45.8%     
 CHERRY BERRY LEMONADE                                                                    $5.55          $3.01          45.8%     
 Body Armor Fruit Punch Sports Drink 12 fl oz bottle 8 pack                               $5.55          $3.01          45.8%     
 Coca-Cola Body Armor Strawberry Banana Sport Drink 12 fl oz bottle 8 pack                $5.55          $3.01          45.8%     
 Body Armor No Sugar Added Peach Mango Lyte Sports Drink 12 fl oz bottle 8 pack           $5.55          $3.01          45.8%     
 WATERMELON STRAWBERRY                                                                    $5.55          $3.01          45.8%     
 Coca-Cola Body Armor Orange Mango Sport Drink 12 fl oz bottle 8 pack                     $5.55          $3.01          45.8%     
-Coca-Cola Body Armor Blue Raspberry Super Drink 12 fl oz bottle 8 pack                   $5.55          $3.01          45.8%     
 TERIYAKI BNLS CHICKEN THIGHS                                                             $6.54          $3.04          53.5%     
 Olay White Strawberry & Mint Fresh Outlast Body Wash 22 fl oz bottle                     $5.97          $3.09          48.2%     
 Olay Birch Water & Lavender Fresh Outlast Body Wash 22 fl oz bottle                      $5.97          $3.15          47.2%     
 Olay Fresh Outlast Body Wash Orchid & Black Currant 22 Oz                                $5.97          $3.15          47.2%     
+Dr Pepper Cream Soda 12 fl oz can 12 pack                                                $7.49          $3.49          53.4%     
 Dr Pepper Zero Soda 12 ct                                                                $7.49          $3.49          53.4%     
 Fresca Peach Soda Sparkling Flavored Soda Pop Soft Drink Zero Calorie and Sugar Free     $7.49          $3.49          53.4%     
-Dr Pepper Cream Soda 12 fl oz can 12 pack                                                $7.49          $3.49          53.4%     
 Vernors The Original Ginger Soda 12 fl oz can 12 pack                                    $6.52          $3.52          46.0%     
+Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $3.66          59.2%     
 Liquid IV Kids Hydration Multiplier Tropical Punch 8 Ct                                  $8.98          $3.66          59.2%     
 Liquid IV Kids Hydration Multiplier Grape 8 Ct                                           $8.98          $3.66          59.2%     
-Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $3.66          59.2%     
 Hillshire Farm Family Size Smoked Sausage 42 oz package                                  $7.19          $3.78          47.4%     
 Old Spice Classic Pomade Medium Hold Low Shine Styler 2.22 oz                            $7.18          $3.92          45.4%     
-Purina Beggin Strips Bacon & Cheese Flavor Dog Treats 25 oz bag                          $9.04          $4.53          49.9%     
 Purina Beggin Strips Original with Bacon Dog Treats 25 oz bag                            $9.04          $4.53          49.9%     
+Purina Beggin Strips Bacon & Cheese Flavor Dog Treats 25 oz bag                          $9.04          $4.53          49.9%     
 Freedom's Choice Bacon Cheddar Beef Patties 1/3 Pound 32 oz                              $10.08         $5.04          50.0%     
+Rachael Ray Nutrish Real Chicken & Veggies Recipe Dry Dog Food 6 lb bag                  $10.16         $5.18          49.0%     
 RRN DOG FD PUPPY CHK BRRC 6LB                                                            $10.16         $5.18          49.0%     
 RRN DOG FD TKY BRRC VEN 5.5LB                                                            $10.16         $5.18          49.0%     
-Rachael Ray Nutrish Real Chicken & Veggies Recipe Dry Dog Food 6 lb bag                  $10.16         $5.18          49.0%     
 BURGERS SHAQ ANGUS PATTIES 1/2LB                                                         $10.60         $5.44          48.7%     
 DOG FOOD BEEF CLSSC                                                                      $11.86         $6.11          48.5%     
 Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag                $12.58         $6.57          47.8%     
