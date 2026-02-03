@@ -4,8 +4,8 @@ Freedom's Choice Parsley Flakes Spice 0.25 oz jar                               
 Coca-Cola Zero Sugar Soda Soft Drink, 20 fl oz Bottle                                    $2.00          $0.47          76.5%     
 Dr Pepper soda strawberries cream 20 fl oz                                               $2.00          $0.47          76.5%     
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.47          76.5%     
-Dr Pepper Diet Soda 20 fl oz bottle                                                      $2.00          $0.49          75.5%     
 Sprite chill bottle, 20 fl oz                                                            $2.00          $0.49          75.5%     
+Dr Pepper Diet Soda 20 fl oz bottle                                                      $2.00          $0.49          75.5%     
 Barq's Root Beer 67.6 oz bottle                                                          $2.77          $0.59          78.7%     
 Coca-Cola Zero Sugar Soda Soft Drink, 1.25 Liters Bottle                                 $1.49          $0.59          60.4%     
 GoodSense Unscented Soft Cream Baby Wipes 35 Ct                                          $1.34          $0.69          48.5%     
@@ -13,14 +13,16 @@ AIR FR AEROSOL CLEAN LINEN                                                      
 AIR FR AEROSOL COASTAL CITRUS                                                            $2.16          $1.14          47.2%     
 AIR FR AEROSOL LAVNDR & VNILLA                                                           $2.16          $1.14          47.2%     
 CRACKERS SPICY SWT CHILI                                                                 $2.32          $1.15          50.4%     
+Holiday non food Arm & Hammer Fresh and Soft Tropical Burst Fabric Softener Sheets 1     $2.66          $1.16          56.4%     
 Fanta Orange Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                                $4.00          $1.18          70.5%     
 Good Sense lightly scented baby wipes 72 ct                                              $2.42          $1.25          48.3%     
-Good Sense unscented baby wipes 72 ct                                                    $2.42          $1.25          48.3%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
+Good Sense unscented baby wipes 72 ct                                                    $2.42          $1.25          48.3%     
+Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.87          $1.40          51.2%     
 GoodSense 200MG Ibuprofen Liquid gel 40 ct                                               $2.79          $1.43          48.7%     
 TUSCAN BEEF                                                                              $3.88          $1.95          49.7%     
-Holiday non food Arm & Hammer Fresh and Soft Tropical Burst Fabric Softener Sheets 1     $2.66          $1.16          56.4%     
-Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.87          $1.40          51.2%     
+Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.32          46.3%     
+Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.32          46.3%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 Coca-Cola Body Armor Blue Raspberry Super Drink 12 fl oz bottle 8 pack                   $5.55          $3.01          45.8%     
 CHERRY BERRY LEMONADE                                                                    $5.55          $3.01          45.8%     
@@ -29,13 +31,11 @@ Coca-Cola Body Armor Strawberry Banana Sport Drink 12 fl oz bottle 8 pack       
 Body Armor No Sugar Added Peach Mango Lyte Sports Drink 12 fl oz bottle 8 pack           $5.55          $3.01          45.8%     
 WATERMELON STRAWBERRY                                                                    $5.55          $3.01          45.8%     
 Coca-Cola Body Armor Orange Mango Sport Drink 12 fl oz bottle 8 pack                     $5.55          $3.01          45.8%     
-Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $4.63          48.4%     
-Liquid IV Kids Hydration Multiplier Tropical Punch 8 Ct                                  $8.98          $4.63          48.4%     
-Liquid IV Kids Hydration Multiplier Grape 8 Ct                                           $8.98          $4.63          48.4%     
-Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.32          46.3%     
-Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.32          46.3%     
 Purina Beggin Strips Original with Bacon Dog Treats 25 oz bag                            $9.04          $4.53          49.9%     
 Purina Beggin Strips Bacon & Cheese Flavor Dog Treats 25 oz bag                          $9.04          $4.53          49.9%     
+Liquid IV Kids Hydration Multiplier Tropical Punch 8 Ct                                  $8.98          $4.63          48.4%     
+Liquid IV Kids Hydration Multiplier Grape 8 Ct                                           $8.98          $4.63          48.4%     
+Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $4.63          48.4%     
 Freedom's Choice Bacon Cheddar Beef Patties 1/3 Pound 32 oz                              $10.08         $5.04          50.0%     
 Rachael Ray Nutrish Real Chicken & Veggies Recipe Dry Dog Food 6 lb bag                  $10.16         $5.18          49.0%     
 RRN DOG FD PUPPY CHK BRRC 6LB                                                            $10.16         $5.18          49.0%     
@@ -44,8 +44,8 @@ DOG FOOD BEEF CLSSC                                                             
 Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag                $12.58         $6.57          47.8%     
 NAIL RESTORE FUNGAL FORMULA                                                              $13.89         $7.28          47.6%     
 Freedom's Choice 100% Angus Beef Patties 1/3 Pound 64 oz                                 $20.09         $10.05         50.0%     
-Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
 Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag                     $22.10         $11.55         47.7%     
+Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
 DOG FOOD BF BRRC 28LB                                                                    $36.85         $18.86         48.8%     
 DOG FOOD CHK VEG 28LB                                                                    $36.85         $18.86         48.8%     
 
