@@ -2,6 +2,7 @@
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Swanson Chicken Broth 14.5 oz can                                                        $1.09          $0.28          74.3%     
+Hass Avocados, Small                                                                     $0.61          $0.33        45.9% ***   
 Coca-Cola Zero Sugar Soda Soft Drink, 20 fl oz Bottle                                    $2.00          $0.47          76.5%     
 Dr Pepper soda strawberries cream 20 fl oz                                               $2.00          $0.47          76.5%     
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.47          76.5%     
@@ -16,9 +17,9 @@ Kraft Stove Top Lower Sodium Stuffing Mix for Chicken with Real Chicken Broth 6 
 Kraft Stove Top Stuffing Mix for Turkey with Real Turkey Broth 6 oz box                  $2.48          $1.12          54.8%     
 Kraft Stove Top Stuffing Mix for Chicken with Real Chicken Broth 6 oz box                $2.48          $1.12          54.8%     
 Kraft Stove Top Cornbread Stuffing Mix 6 oz box                                          $2.48          $1.12          54.8%     
-AIR FR AEROSOL CLEAN LINEN                                                               $2.16          $1.14          47.2%     
-AIR FR AEROSOL COASTAL CITRUS                                                            $2.16          $1.14          47.2%     
-AIR FR AEROSOL LAVNDR & VNILLA                                                           $2.16          $1.14          47.2%     
+AIR FR AEROSOL COASTAL CITRUS                                                            $2.14          $1.12          47.7%     
+AIR FR AEROSOL CLEAN LINEN                                                               $2.14          $1.12          47.7%     
+AIR FR AEROSOL LAVNDR & VNILLA                                                           $2.14          $1.12          47.7%     
 CRACKERS SPICY SWT CHILI                                                                 $2.32          $1.15          50.4%     
 Holiday non food Arm & Hammer Fresh and Soft Tropical Burst Fabric Softener Sheets 1     $2.66          $1.16          56.4%     
 Fanta Orange Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                                $4.00          $1.18          70.5%     
@@ -37,15 +38,26 @@ Mott's Gluten-free Veggie Juice Assorted Fruit Flavored Snacks 0.8 oz pouch 10 c
 Sonic Fruit Flavored Snacks, Treat Pouches, Value Pack, 10 ct                            $2.97          $1.50          49.5%     
 Mott's Animals Assorted Fruit Flavored Snacks 0.8 oz bag 10 ct                           $2.82          $1.50          46.8%     
 Better Crocker moana fruit flavored snacks 10 ea                                         $2.97          $1.50          49.5%     
+Stacy's Parmesan Garlic & Herb Flavored Baked Pita Chips 7.33 oz bag                     $3.09          $1.60        48.2% ***   
+Stacy's Non-GMO Simply Naked Baked Pita Chips 7.33 oz bag                                $3.09          $1.60        48.2% ***   
 BH DRESSING HONEY DIJON MUSTARD                                                          $3.25          $1.62          50.2%     
 Kinder's hickory molasses rub 5 oz                                                       $3.79          $1.89        50.1% ***   
 Kinders bourbon peach seasoning 5.8 oz                                                   $3.79          $1.89        50.1% ***   
 SEASONING BLACK CHERRY CHIPOTLE                                                          $3.79          $1.89        50.1% ***   
-BAGS TRASH 13 GAL                                                                        $4.39          $2.19        50.1% ***   
+Klondike Krunch Ice Cream Bars 4 fl oz 6 ct package                                      $3.76          $1.90        49.5% ***   
+Magnum Cookie Duet Ice Cream Bars 3 ct                                                   $3.76          $1.91        49.2% ***   
+Magnum Almond Duet Ice Cream Bars 3 ct                                                   $3.76          $1.91        49.2% ***   
+NOVELTY ICE CREAM SMORES SANDWICH                                                        $3.82          $1.96        48.7% ***   
+PEANUT BUTTER REESES BAR                                                                 $4.09          $2.06        49.6% ***   
+BAGS TRASH 13 GAL                                                                        $4.34          $2.14        50.7% ***   
 CHIPOTLE VEGENAISE                                                                       $4.25          $2.24        47.3% ***   
+NOVELTY ICE CREAM SMORES BAR                                                             $4.28          $2.25        47.4% ***   
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.32          46.3%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.32          46.3%     
 ASEP ORIGINAL PC CREAMER                                                                 $5.15          $2.33        54.8% ***   
+NOVELTY MINIONS FACEPIECE                                                                $4.65          $2.46        47.1% ***   
+NOVELTY BUZZ LIGHTYEAR                                                                   $4.65          $2.46        47.1% ***   
+General Mills Cheerios Large Size Oat Crunch Oats 'n Honey Multigrain Cereal 18.2 oz     $5.75          $2.96        48.5% ***   
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 Coca-Cola Body Armor Blue Raspberry Super Drink 12 fl oz bottle 8 pack                   $5.55          $3.01          45.8%     
 CHERRY BERRY LEMONADE                                                                    $5.55          $3.01          45.8%     
@@ -54,10 +66,10 @@ Coca-Cola Body Armor Strawberry Banana Sport Drink 12 fl oz bottle 8 pack       
 Body Armor No Sugar Added Peach Mango Lyte Sports Drink 12 fl oz bottle 8 pack           $5.55          $3.01          45.8%     
 WATERMELON STRAWBERRY                                                                    $5.55          $3.01          45.8%     
 Coca-Cola Body Armor Orange Mango Sport Drink 12 fl oz bottle 8 pack                     $5.55          $3.01          45.8%     
-COFFEE ICED PNPPL PSSN 10CT (D STOCK)                                                    $6.59          $3.62        45.1% ***   
-COFFEE ICED DUOS COOKIES CRML 10 CT (D STOCK)                                            $6.59          $3.62        45.1% ***   
-COFFEE ICED BLCK CLD BRW 10CT (D STOCK)                                                  $6.98          $3.62        48.1% ***   
-COFFEE ICED ALMND VAN CLD BRW 10CT (D STOCK)                                             $6.98          $3.62        48.1% ***   
+COFFEE ICED BLCK CLD BRW 10CT (D STOCK)                                                  $7.44          $3.62        51.3% ***   
+COFFEE ICED PNPPL PSSN 10CT (D STOCK)                                                    $7.12          $3.62        49.2% ***   
+COFFEE ICED ALMND VAN CLD BRW 10CT (D STOCK)                                             $7.44          $3.62        51.3% ***   
+COFFEE ICED DUOS COOKIES CRML 10 CT (D STOCK)                                            $7.12          $3.62        49.2% ***   
 MILK ORG ASEP STAW ONE PRCNT                                                             $7.49          $3.86        48.5% ***   
 Horizon Organic Vanilla Low Fat Milk 8 fl oz box 6 pack                                  $7.49          $3.86        48.5% ***   
 Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $4.63          48.4%     
@@ -67,7 +79,7 @@ Rachael Ray Nutrish Real Chicken & Veggies Recipe Dry Dog Food 6 lb bag         
 RRN DOG FD PUPPY CHK BRRC 6LB                                                            $10.16         $5.18          49.0%     
 RRN DOG FD TKY BRRC VEN 5.5LB                                                            $10.16         $5.18          49.0%     
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can 8 pack                   $10.99         $5.46          50.3%     
-DROP IN CONTAINER                                                                        $11.49         $5.74        50.0% ***   
+DROP IN CONTAINER                                                                        $11.37         $5.62        50.6% ***   
 DOG FOOD BEEF CLSSC                                                                      $11.86         $6.11          48.5%     
 Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag                $12.58         $6.57          47.8%     
 NAIL RESTORE FUNGAL FORMULA                                                              $13.89         $7.28          47.6%     
