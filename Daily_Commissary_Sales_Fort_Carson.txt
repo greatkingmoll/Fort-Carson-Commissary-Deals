@@ -1,8 +1,8 @@
-2026-02-07
+2026-02-08
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Swanson Chicken Broth 14.5 oz can                                                        $1.09          $0.28          74.3%     
-Hass Avocados, Small                                                                     $0.61          $0.33        45.9% ***   
+Hass Avocados, Small                                                                     $0.61          $0.33          45.9%     
 Coca-Cola Zero Sugar Soda Soft Drink, 20 fl oz Bottle                                    $2.00          $0.47          76.5%     
 Dr Pepper soda strawberries cream 20 fl oz                                               $2.00          $0.47          76.5%     
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.47          76.5%     
@@ -44,17 +44,17 @@ Mott's Gluten-free Veggie Juice Assorted Fruit Flavored Snacks 0.8 oz pouch 10 c
 Sonic Fruit Flavored Snacks, Treat Pouches, Value Pack, 10 ct                            $2.97          $1.50          49.5%     
 Mott's Animals Assorted Fruit Flavored Snacks 0.8 oz bag 10 ct                           $2.82          $1.50          46.8%     
 Better Crocker moana fruit flavored snacks 10 ea                                         $2.97          $1.50          49.5%     
-Stacy's Parmesan Garlic & Herb Flavored Baked Pita Chips 7.33 oz bag                     $3.09          $1.60        48.2% ***   
-Stacy's Non-GMO Simply Naked Baked Pita Chips 7.33 oz bag                                $3.09          $1.60        48.2% ***   
+Stacy's Parmesan Garlic & Herb Flavored Baked Pita Chips 7.33 oz bag                     $3.09          $1.60          48.2%     
+Stacy's Non-GMO Simply Naked Baked Pita Chips 7.33 oz bag                                $3.09          $1.60          48.2%     
 BH DRESSING HONEY DIJON MUSTARD                                                          $3.25          $1.62          50.2%     
 Kinder's hickory molasses rub 5 oz                                                       $3.79          $1.89          50.1%     
 Kinders bourbon peach seasoning 5.8 oz                                                   $3.79          $1.89          50.1%     
 SEASONING BLACK CHERRY CHIPOTLE                                                          $3.79          $1.89          50.1%     
-Klondike Krunch Ice Cream Bars 4 fl oz 6 ct package                                      $3.76          $1.90        49.5% ***   
-Magnum Cookie Duet Ice Cream Bars 3 ct                                                   $3.76          $1.91        49.2% ***   
-Magnum Almond Duet Ice Cream Bars 3 ct                                                   $3.76          $1.91        49.2% ***   
-NOVELTY ICE CREAM SMORES SANDWICH                                                        $3.82          $1.96        48.7% ***   
-PEANUT BUTTER REESES BAR                                                                 $4.09          $2.06        49.6% ***   
+Klondike Krunch Ice Cream Bars 4 fl oz 6 ct package                                      $3.76          $1.90          49.5%     
+Magnum Cookie Duet Ice Cream Bars 3 ct                                                   $3.76          $1.91          49.2%     
+Magnum Almond Duet Ice Cream Bars 3 ct                                                   $3.76          $1.91          49.2%     
+NOVELTY ICE CREAM SMORES SANDWICH                                                        $3.82          $1.96          48.7%     
+PEANUT BUTTER REESES BAR                                                                 $4.09          $2.06          49.6%     
 BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
 CHIPOTLE VEGENAISE                                                                       $4.25          $2.24          47.3%     
 Brew Dr. Organic Ginger Lemon Kombucha Tea 14 oz bottle                                  $2.25          $1.12        50.2% ***   
@@ -62,15 +62,15 @@ Brew Dr. Organic Kombucha Drink Tea 14 oz bottle                                
 Brew Dr. Kombucha Superberry Tea 14 oz bottle                                            $2.25          $1.12        50.2% ***   
 Brew Dr. Organic Clear Mind Kombucha Tea 32 oz bottle                                    $2.25          $1.12        50.2% ***   
 Brew Dr. Island Mango Tea 14 oz bottle                                                   $2.25          $1.12        50.2% ***   
-NOVELTY ICE CREAM SMORES BAR                                                             $4.28          $2.25        47.4% ***   
+NOVELTY ICE CREAM SMORES BAR                                                             $4.28          $2.25          47.4%     
 Brew Dr kombucha pink lemonade 14 fl oz                                                  $2.25          $1.12        50.2% ***   
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.32          46.3%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.32          46.3%     
 ASEP ORIGINAL PC CREAMER                                                                 $5.15          $2.33          54.8%     
-NOVELTY MINIONS FACEPIECE                                                                $4.65          $2.46        47.1% ***   
-NOVELTY BUZZ LIGHTYEAR                                                                   $4.65          $2.46        47.1% ***   
+NOVELTY MINIONS FACEPIECE                                                                $4.65          $2.46          47.1%     
+NOVELTY BUZZ LIGHTYEAR                                                                   $4.65          $2.46          47.1%     
 Campbell's Chunky Healthy Request Beef with Country Vegetables Soup 18.8 oz can          $2.50          $0.67        73.2% ***   
-General Mills Cheerios Large Size Oat Crunch Oats 'n Honey Multigrain Cereal 18.2 oz     $5.75          $2.96        48.5% ***   
+General Mills Cheerios Large Size Oat Crunch Oats 'n Honey Multigrain Cereal 18.2 oz     $5.75          $2.96          48.5%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 Coca-Cola Body Armor Blue Raspberry Super Drink 12 fl oz bottle 8 pack                   $5.55          $3.01          45.8%     
 CHERRY BERRY LEMONADE                                                                    $5.55          $3.01          45.8%     
