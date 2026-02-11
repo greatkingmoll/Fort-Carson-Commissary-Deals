@@ -1,7 +1,6 @@
 2026-02-11
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
-Swanson Chicken Broth 14.5 oz can                                                        $1.09          $0.28          74.3%     
 Dr Pepper soda strawberries cream 20 fl oz                                               $2.00          $0.47          76.5%     
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.47          76.5%     
 Coca-Cola Zero Sugar Soda Soft Drink, 20 fl oz Bottle                                    $2.00          $0.47          76.5%     
@@ -11,7 +10,6 @@ Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 20 fl oz                 
 Sprite Soda Lemon-Lime - 20 Fl. Oz.                                                      $2.00          $0.49          75.5%     
 Coca-Cola Zero Sugar Soda Soft Drink, 1.25 Liters Bottle                                 $1.49          $0.59          60.4%     
 Barq's Root Beer 67.6 oz bottle                                                          $2.77          $0.59          78.7%     
-GoodSense Unscented Soft Cream Baby Wipes 35 Ct                                          $1.34          $0.69          48.5%     
 Goodsense Children's Cold & Cought for ages 6yrs and over, Grape Flavor 4 fl oz          $2.08          $1.07          48.6%     
 Kraft Stove Top Lower Sodium Stuffing Mix for Chicken with Real Chicken Broth 6 oz b     $2.48          $1.12          54.8%     
 Kraft Stove Top Cornbread Stuffing Mix 6 oz box                                          $2.48          $1.12          54.8%     
@@ -50,6 +48,12 @@ Magnum Almond Duet Ice Cream Bars 3 ct                                          
 NOVELTY ICE CREAM SMORES SANDWICH                                                        $3.82          $1.96          48.7%     
 Diet Coke Diet Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                              $4.00          $1.97          50.8%     
 PEANUT BUTTER REESES BAR                                                                 $4.09          $2.06          49.6%     
+Body Armor Orange Mango Super Drink 28 fl oz bottle                                      $2.08          $0.99        52.4% ***   
+Body Armor Blackout Berry Super Drink 28 oz bottle                                       $2.08          $0.99        52.4% ***   
+Body Armor Strawberry Banana Super Drink 28 oz bottle                                    $2.08          $0.99        52.4% ***   
+Body Armor Fruit Punch Super Drink 28 oz bottle                                          $2.08          $0.99        52.4% ***   
+Body Armor Peach Mango Lyte Sports Drink 28 oz bottle                                    $2.08          $0.99        52.4% ***   
+Body Armor Tropical Punch Super Drink 28 oz bottle                                       $2.08          $0.99        52.4% ***   
 BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
 CHIPOTLE VEGENAISE                                                                       $4.25          $2.24          47.3%     
 Brew Dr. Organic Ginger Lemon Kombucha Tea 14 oz bottle                                  $2.25          $1.12          50.2%     
@@ -61,7 +65,6 @@ NOVELTY ICE CREAM SMORES BAR                                                    
 Brew Dr kombucha pink lemonade 14 fl oz                                                  $2.25          $1.12          50.2%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.32          46.3%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.32          46.3%     
-ASEP ORIGINAL PC CREAMER                                                                 $5.15          $2.33          54.8%     
 NOVELTY MINIONS FACEPIECE                                                                $4.65          $2.46          47.1%     
 NOVELTY BUZZ LIGHTYEAR                                                                   $4.65          $2.46          47.1%     
 Fanta Pineapple Soda Soft Drink Fridge Pack, 12 fl oz Cans, 12 Pack                      $7.49          $2.49          66.8%     
@@ -71,6 +74,8 @@ Fanta Orange Soda Soft Drink Fridge Pack, 12 fl oz Cans, 12 Pack                
 Dr Pepper soda blackberry 12 pk                                                          $7.49          $2.49          66.8%     
 Dr Pepper soda blackberry zero sugar 12 pk                                               $7.49          $2.49          66.8%     
 Barq's Diet Root Beer 12 fl oz can 12 pack                                               $7.49          $2.49          66.8%     
+Diet Coke Caffeine Free Soda Soft Drink, 2 Liters                                        $2.77          $0.59        78.7% ***   
+Hillshire Farm Cheddar Lit'l Smokies Sausage 13 oz package                               $2.79          $1.48          47.0%     
 General Mills Cheerios Large Size Oat Crunch Oats 'n Honey Multigrain Cereal 18.2 oz     $5.75          $2.96          48.5%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 CHERRY BERRY LEMONADE                                                                    $5.55          $3.01          45.8%     
@@ -80,11 +85,6 @@ Body Armor No Sugar Added Peach Mango Lyte Sports Drink 12 fl oz bottle 8 pack  
 WATERMELON STRAWBERRY                                                                    $5.55          $3.01          45.8%     
 Coca-Cola Body Armor Blue Raspberry Super Drink 12 fl oz bottle 8 pack                   $5.55          $3.01          45.8%     
 Coca-Cola Body Armor Orange Mango Sport Drink 12 fl oz bottle 8 pack                     $5.55          $3.01          45.8%     
-Freedom's Choice Fresh Saucy Beef N Noodle SS 11.3 Oz                                    $6.59          $3.59        45.5% ***   
-Freedom's Choice Fresh Italian Wedding Soup 22 Oz                                        $6.59          $3.59        45.5% ***   
-Freedom's Choice Fresh Mandarin Beef Stir Fry SS 12.9 Oz                                 $6.59          $3.59        45.5% ***   
-Freedom's Choice Fresh Chicken Noodle Soup 22 Oz                                         $6.59          $3.59        45.5% ***   
-Freedom's Choice Fresh Spicy Primavera Pasta SS 11.7 Oz                                  $6.59          $3.59        45.5% ***   
 COFFEE ICED BLCK CLD BRW 10CT (D STOCK)                                                  $7.44          $3.62          51.3%     
 COFFEE ICED PNPPL PSSN 10CT (D STOCK)                                                    $7.12          $3.62          49.2%     
 COFFEE ICED ALMND VAN CLD BRW 10CT (D STOCK)                                             $7.44          $3.62          51.3%     
@@ -95,15 +95,11 @@ Dawn Ultra Apple Blossom acp                                                    
 Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $4.63          48.4%     
 Liquid IV Kids Hydration Multiplier Grape 8 Ct                                           $8.98          $4.63          48.4%     
 Freedom's Choice Bacon Cheddar Beef Patties 1/3 Pound 32 oz                              $10.08         $5.04          50.0%     
-Rachael Ray Nutrish Real Chicken & Veggies Recipe Dry Dog Food 6 lb bag                  $10.16         $5.18          49.0%     
 RRN DOG FD PUPPY CHK BRRC 6LB                                                            $10.16         $5.18          49.0%     
 RRN DOG FD TKY BRRC VEN 5.5LB                                                            $10.16         $5.18          49.0%     
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can 8 pack                   $10.99         $5.46          50.3%     
-Freedom's Choice Fresh Saucy Beef N Noodle 16.6 Oz                                       $10.99         $5.49        50.0% ***   
 DROP IN CONTAINER                                                                        $11.37         $5.62          50.6%     
 DOG FOOD BEEF CLSSC                                                                      $11.86         $6.11          48.5%     
-Freedom's Choice Fresh Chicken Enchilada Casserole 22.5 Oz                               $11.99         $6.49        45.9% ***   
-Freedom's Choice Fresh Mandarin Beef Stir Fry 22.8 Oz                                    $11.99         $6.49        45.9% ***   
 Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag                $12.58         $6.57          47.8%     
 Freedom's Choice 100% Angus Beef Patties 1/3 Pound 64 oz                                 $20.09         $10.05         50.0%     
 Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
