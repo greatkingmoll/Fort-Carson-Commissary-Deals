@@ -1,4 +1,4 @@
-2026-02-11
+2026-02-12
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Dr Pepper soda strawberries cream 20 fl oz                                               $2.00          $0.47          76.5%     
@@ -24,10 +24,10 @@ Kraft Stove Top Savory Herbs Stuffing Mix 6 oz box                              
 Good Sense lightly scented baby wipes 72 ct                                              $2.42          $1.25          48.3%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
 Good Sense unscented baby wipes 72 ct                                                    $2.42          $1.25          48.3%     
-Febreze Air Downy Calm Air Freshener 8.8 oz                                              $2.76          $1.30        52.9% ***   
+Febreze Air Downy Calm Air Freshener 8.8 oz                                              $2.76          $1.30          52.9%     
 Betty Crocker Oreo Whipped Frosting Creme 13.6 oz                                        $2.49          $1.36          45.4%     
 Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz                      $2.87          $1.40          51.2%     
-Mr. Clean Magic Eraser Extra Durable 4 x Stronger Duraform Cleaning Pads 2 ct box        $2.76          $1.47        46.7% ***   
+Mr. Clean Magic Eraser Extra Durable 4 x Stronger Duraform Cleaning Pads 2 ct box        $2.76          $1.47          46.7%     
 Sprite + Tea Fridge Pack Cans, 12 fl oz, 12 Pack                                         $7.49          $1.49          80.1%     
 Betty Crocker Scooby Doo Fruit Flavored Snacks 8 oz box                                  $2.97          $1.50          49.5%     
 Betty Crocker Minecraft Fruit Flavored Snacks 10 ct                                      $2.97          $1.50          49.5%     
@@ -91,7 +91,7 @@ COFFEE ICED ALMND VAN CLD BRW 10CT (D STOCK)                                    
 COFFEE ICED DUOS COOKIES CRML 10 CT (D STOCK)                                            $7.12          $3.62          49.2%     
 MILK ORG ASEP STAW ONE PRCNT                                                             $7.49          $3.86          48.5%     
 Horizon Organic Vanilla Low Fat Milk 8 fl oz box 6 pack                                  $7.49          $3.86          48.5%     
-Dawn Ultra Apple Blossom acp                                                             $8.56          $4.57        46.6% ***   
+Dawn Ultra Apple Blossom acp                                                             $8.56          $4.57          46.6%     
 Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $4.63          48.4%     
 Liquid IV Kids Hydration Multiplier Grape 8 Ct                                           $8.98          $4.63          48.4%     
 Freedom's Choice Bacon Cheddar Beef Patties 1/3 Pound 32 oz                              $10.08         $5.04          50.0%     
