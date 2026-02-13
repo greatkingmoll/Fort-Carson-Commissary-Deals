@@ -1,4 +1,4 @@
-2026-02-12
+2026-02-13
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Dr Pepper soda strawberries cream 20 fl oz                                               $2.00          $0.47          76.5%     
@@ -45,12 +45,12 @@ Magnum Almond Duet Ice Cream Bars 3 ct                                          
 NOVELTY ICE CREAM SMORES SANDWICH                                                        $3.82          $1.96          48.7%     
 Diet Coke Diet Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                              $4.00          $1.97          50.8%     
 PEANUT BUTTER REESES BAR                                                                 $4.09          $2.06          49.6%     
-Body Armor Orange Mango Super Drink 28 fl oz bottle                                      $2.08          $0.99        52.4% ***   
-Body Armor Blackout Berry Super Drink 28 oz bottle                                       $2.08          $0.99        52.4% ***   
-Body Armor Strawberry Banana Super Drink 28 oz bottle                                    $2.08          $0.99        52.4% ***   
-Body Armor Fruit Punch Super Drink 28 oz bottle                                          $2.08          $0.99        52.4% ***   
-Body Armor Peach Mango Lyte Sports Drink 28 oz bottle                                    $2.08          $0.99        52.4% ***   
-Body Armor Tropical Punch Super Drink 28 oz bottle                                       $2.08          $0.99        52.4% ***   
+Body Armor Orange Mango Super Drink 28 fl oz bottle                                      $2.08          $0.99          52.4%     
+Body Armor Blackout Berry Super Drink 28 oz bottle                                       $2.08          $0.99          52.4%     
+Body Armor Strawberry Banana Super Drink 28 oz bottle                                    $2.08          $0.99          52.4%     
+Body Armor Fruit Punch Super Drink 28 oz bottle                                          $2.08          $0.99          52.4%     
+Body Armor Peach Mango Lyte Sports Drink 28 oz bottle                                    $2.08          $0.99          52.4%     
+Body Armor Tropical Punch Super Drink 28 oz bottle                                       $2.08          $0.99          52.4%     
 BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
 CHIPOTLE VEGENAISE                                                                       $4.25          $2.24          47.3%     
 Brew Dr. Organic Ginger Lemon Kombucha Tea 14 oz bottle                                  $2.25          $1.12          50.2%     
@@ -73,7 +73,7 @@ Dr Pepper soda blackberry zero sugar 12 pk                                      
 Barq's Diet Root Beer 12 fl oz can 12 pack                                               $7.49          $2.49          66.8%     
 Bolthouse Farms Green Goodness Fruit Smoothie 15.2 fl oz bottle                          $2.75          $1.37          50.2%     
 Bolthousef Juice Green Immunity 15.2 Oz Ea                                               $2.75          $1.37          50.2%     
-Diet Coke Caffeine Free Soda Soft Drink, 2 Liters                                        $2.77          $0.59        78.7% ***   
+Diet Coke Caffeine Free Soda Soft Drink, 2 Liters                                        $2.77          $0.59          78.7%     
 Hillshire Farm Cheddar Lit'l Smokies Sausage 13 oz package                               $2.79          $1.48          47.0%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 CHERRY BERRY LEMONADE                                                                    $5.55          $3.01          45.8%     
