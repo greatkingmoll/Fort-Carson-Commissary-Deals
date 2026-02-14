@@ -1,4 +1,4 @@
-2026-02-13
+2026-02-14
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Dr Pepper soda strawberries cream 20 fl oz                                               $2.00          $0.47          76.5%     
@@ -34,8 +34,8 @@ Better Crocker moana fruit flavored snacks 10 ea                                
 Mott's Animals Assorted Fruit Flavored Snacks 0.8 oz bag 10 ct                           $2.82          $1.50          46.8%     
 Stacy's Parmesan Garlic & Herb Flavored Baked Pita Chips 7.33 oz bag                     $3.09          $1.60          48.2%     
 Stacy's Non-GMO Simply Naked Baked Pita Chips 7.33 oz bag                                $3.09          $1.60          48.2%     
-PFO ORG CKN NDL 16.1OZ 12CA                                                              $3.24          $1.73        46.6% ***   
-PFO ORG CKN WILD RICE 16.3OZ 12CA                                                        $3.24          $1.73        46.6% ***   
+PFO ORG CKN NDL 16.1OZ 12CA                                                              $3.24          $1.73          46.6%     
+PFO ORG CKN WILD RICE 16.3OZ 12CA                                                        $3.24          $1.73          46.6%     
 Kinder's hickory molasses rub 5 oz                                                       $3.79          $1.89          50.1%     
 Kinders bourbon peach seasoning 5.8 oz                                                   $3.79          $1.89          50.1%     
 SEASONING BLACK CHERRY CHIPOTLE                                                          $3.79          $1.89          50.1%     
@@ -101,7 +101,7 @@ RRN DOG FD PUPPY CHK BRRC 6LB                                                   
 RRN DOG FD TKY BRRC VEN 5.5LB                                                            $10.16         $5.18          49.0%     
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can 8 pack                   $10.99         $5.46          50.3%     
 DROP IN CONTAINER                                                                        $11.37         $5.62          50.6%     
-Bolthouse Farms Strawberry Banana Fruit Smoothie 52 fl oz bottle                         $5.69          $2.84        50.1% ***   
+Bolthouse Farms Strawberry Banana Fruit Smoothie 52 fl oz bottle                         $5.69          $2.84          50.1%     
 DOG FOOD BEEF CLSSC                                                                      $11.86         $6.11          48.5%     
 Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag                $12.58         $6.57          47.8%     
 Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can                   $6.96          $3.58        48.6% ***   
