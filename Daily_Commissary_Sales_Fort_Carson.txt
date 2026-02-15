@@ -1,4 +1,4 @@
-2026-02-14
+2026-02-15
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Dr Pepper soda strawberries cream 20 fl oz                                               $2.00          $0.47          76.5%     
@@ -62,7 +62,7 @@ NOVELTY ICE CREAM SMORES BAR                                                    
 Brew Dr kombucha pink lemonade 14 fl oz                                                  $2.25          $1.12          50.2%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.32          46.3%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.32          46.3%     
-GRANOLA SPEC K RED BERRIES                                                               $4.74          $2.36        50.2% ***   
+GRANOLA SPEC K RED BERRIES                                                               $4.74          $2.36          50.2%     
 NOVELTY MINIONS FACEPIECE                                                                $4.65          $2.46          47.1%     
 NOVELTY BUZZ LIGHTYEAR                                                                   $4.65          $2.46          47.1%     
 Fanta Pineapple Soda Soft Drink Fridge Pack, 12 fl oz Cans, 12 Pack                      $7.49          $2.49          66.8%     
@@ -72,7 +72,7 @@ Fanta Orange Soda Soft Drink Fridge Pack, 12 fl oz Cans, 12 Pack                
 Dr Pepper soda blackberry 12 pk                                                          $7.49          $2.49          66.8%     
 Dr Pepper soda blackberry zero sugar 12 pk                                               $7.49          $2.49          66.8%     
 Barq's Diet Root Beer 12 fl oz can 12 pack                                               $7.49          $2.49          66.8%     
-Rave 4X Mega Unscented Hair Spray 11 oz can                                              $2.67          $1.38        48.3% ***   
+Rave 4X Mega Unscented Hair Spray 11 oz can                                              $2.67          $1.38          48.3%     
 Bolthouse Farms Green Goodness Fruit Smoothie 15.2 fl oz bottle                          $2.75          $1.37          50.2%     
 Bolthousef Juice Green Immunity 15.2 Oz Ea                                               $2.75          $1.37          50.2%     
 Diet Coke Caffeine Free Soda Soft Drink, 2 Liters                                        $2.77          $0.59          78.7%     
@@ -91,7 +91,7 @@ COFFEE ICED ALMND VAN CLD BRW 10CT (D STOCK)                                    
 COFFEE ICED DUOS COOKIES CRML 10 CT (D STOCK)                                            $7.12          $3.62          49.2%     
 MILK ORG ASEP STAW ONE PRCNT                                                             $7.49          $3.86          48.5%     
 Horizon Organic Vanilla Low Fat Milk 8 fl oz box 6 pack                                  $7.49          $3.86          48.5%     
-FungiCure Anti-Fungal Medicated Wash Treatment 6 fl oz package                           $8.76          $4.50        48.6% ***   
+FungiCure Anti-Fungal Medicated Wash Treatment 6 fl oz package                           $8.76          $4.50          48.6%     
 Dawn Ultra Apple Blossom acp                                                             $8.56          $4.57          46.6%     
 PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
 Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $4.63          48.4%     
@@ -105,11 +105,11 @@ Pilgrim's popcorn chicken 24 oz                                                 
 Bolthouse Farms Strawberry Banana Fruit Smoothie 52 fl oz bottle                         $5.69          $2.84          50.1%     
 DOG FOOD BEEF CLSSC                                                                      $11.86         $6.11          48.5%     
 Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag                $12.58         $6.57          47.8%     
-Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can                   $6.96          $3.58        48.6% ***   
-DOUBLE CHOCOLATE CEREAL TREATS                                                           $7.75          $3.87        50.1% ***   
-SALTED CARAMEL PROTEIN CEREAL TREATS 4CT                                                 $7.75          $3.87        50.1% ***   
-CHOCOLATE PB CEREAL TREATS                                                               $7.75          $3.87        50.1% ***   
-MARSHMALLOW CEREAL TREATS                                                                $7.75          $3.87        50.1% ***   
+Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can                   $6.96          $3.58          48.6%     
+DOUBLE CHOCOLATE CEREAL TREATS                                                           $7.75          $3.87          50.1%     
+SALTED CARAMEL PROTEIN CEREAL TREATS 4CT                                                 $7.75          $3.87          50.1%     
+CHOCOLATE PB CEREAL TREATS                                                               $7.75          $3.87          50.1%     
+MARSHMALLOW CEREAL TREATS                                                                $7.75          $3.87          50.1%     
 Freedom's Choice 100% Angus Beef Patties 1/3 Pound 64 oz                                 $20.09         $10.05         50.0%     
 Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
 Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag                     $22.10         $11.55         47.7%     
