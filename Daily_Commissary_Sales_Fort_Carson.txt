@@ -73,13 +73,17 @@ Dr Pepper soda blackberry 12 pk                                                 
 Dr Pepper soda blackberry zero sugar 12 pk                                               $7.49          $2.49          66.8%     
 Dr Pepper Caffeine Free Diet Soda 12 fl oz can 12 pack                                   $7.49          $2.49          66.8%     
 Rave 4X Mega Unscented Hair Spray 11 oz can                                              $2.67          $1.38          48.3%     
+Seagram's Caffeine-Free Ginger Ale Soda 2 L bottle                                       $2.77          $0.59          78.7%     
 Hillshire Farm Cheddar Lit'l Smokies Sausage 13 oz package                               $2.79          $1.48          47.0%     
-Post Honey Comb Big Real Honey Flavor Cereal 12.5 oz box                                 $3.00          $1.52          49.3%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 Fanta Orange Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                                 $5.78          $3.00          48.1%     
 Coca-Cola Zero Sugar Cherry Diet Soda Soft Drink, 16.9 fl oz, 6 Pack                     $5.78          $3.00          48.1%     
+JELLY VERRY BERRY RASPBERRY                                                              $3.19          $1.63        48.9% ***   
 Post Honey Bunches Oats Crunchy Honey Roasted Granola 11 oz bag                          $3.25          $1.67          48.6%     
 CEREAL VAN ALMND CRNCH RATIO KETO                                                        $6.63          $3.47          47.7%     
+SAUCE BBQ SPICY STREIGHT SIXES                                                           $3.55          $1.85        47.9% ***   
+SAUCE BBQ HICKORY TOP HAND                                                               $3.55          $1.85        47.9% ***   
+SAUCE BBQ WAGON BOSS ORIGINAL C                                                          $3.55          $1.85        47.9% ***   
 BAR ORGANIC GRNOLA CHOC DRIZZLE                                                          $3.59          $1.80          49.9%     
 BAR CHEWY GRNOLA BDAY CAKE                                                               $3.59          $1.80          49.9%     
 COFFEE ICED BLCK CLD BRW 10CT (D STOCK)                                                  $7.44          $3.62          51.3%     
@@ -97,13 +101,11 @@ Betty Crocker Oreo Chocolate Cake Mix 9.3 oz                                    
 Betty Crocker Reeses Peanut Butter Mix 12.8 oz                                           $4.02          $1.00          75.1%     
 FungiCure Anti-Fungal Medicated Wash Treatment 6 fl oz package                           $8.76          $4.50          48.6%     
 Dawn Ultra Apple Blossom acp                                                             $8.56          $4.57          46.6%     
-PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
 CEREAL APPLE CINNAMON CEREAL MS                                                          $4.97          $2.51          49.5%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $4.97          $2.51          49.5%     
 Olly Daily Energy Gummy, Caffeine Free 60 Ct                                             $9.97          $5.05          49.3%     
 RRN DOG FD PUPPY CHK BRRC 6LB                                                            $10.16         $5.18          49.0%     
 RRN DOG FD TKY BRRC VEN 5.5LB                                                            $10.16         $5.18          49.0%     
-Betty Crocker Oreo Lava Cake Mix 8.3 oz                                                  $5.25          $1.96          62.7%     
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can 8 pack                   $10.99         $5.46          50.3%     
 DROP IN CONTAINER                                                                        $11.37         $5.62          50.6%     
 Pilgrim's popcorn chicken 24 oz                                                          $5.63          $2.82          49.9%     
@@ -130,6 +132,7 @@ Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag       
 GRANOLA COCONUT ALMOND KETO                                                              $6.63          $3.47          47.7%     
 GRANOLA TOASTED ALMOND KETO                                                              $6.63          $3.47          47.7%     
 Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can                   $6.96          $3.58          48.6%     
+Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30        49.0% ***   
 DOUBLE CHOCOLATE CEREAL TREATS                                                           $7.75          $3.87          50.1%     
 CHOCOLATE PB CEREAL TREATS                                                               $7.75          $3.87          50.1%     
 MARSHMALLOW CEREAL TREATS                                                                $7.75          $3.87          50.1%     
@@ -140,7 +143,6 @@ Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag    
 Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag                     $22.10         $11.55         47.7%     
 HELLO HAPPY                                                                              $14.32         $7.30          49.0%     
 Olly Happy Hoo-HA Supports Vaginal Health & PH Balance Probiotic 25 Ct                   $14.32         $7.30          49.0%     
-LOVIN' LIBIDO                                                                            $14.32         $7.30          49.0%     
 DOG FOOD CHK VEG 28LB                                                                    $36.85         $18.86         48.8%     
 
 Elapsed Time: N/A
