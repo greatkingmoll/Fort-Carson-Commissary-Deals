@@ -9,6 +9,7 @@ Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 20 fl oz                 
 Body Armor Blackout Berry Super Drink 28 oz bottle                                       $2.08          $0.55          73.6%     
 Body Armor Peach Mango Lyte Sports Drink 28 oz bottle                                    $2.08          $0.55          73.6%     
 Diet Coke Caffeine Free Soda Soft Drink, 2 Liters                                        $2.77          $0.59          78.7%     
+VITAMIN MELATONIN 3MG TAB                                                                $2.59          $1.00          61.4%     
 Pillsbury Grands Homestyle Buttermilk Biscuits 5 ct can                                  $2.05          $1.09          46.8%     
 Kraft Stove Top Lower Sodium Stuffing Mix for Chicken with Real Chicken Broth 6 oz b     $2.48          $1.12          54.8%     
 Kraft Stove Top Stuffing Mix for Chicken with Real Chicken Broth 6 oz box                $2.48          $1.12          54.8%     
@@ -37,6 +38,11 @@ Magnum Cookie Duet Ice Cream Bars 3 ct                                          
 Magnum Almond Duet Ice Cream Bars 3 ct                                                   $3.76          $1.91          49.2%     
 NOVELTY ICE CREAM SMORES SANDWICH                                                        $3.82          $1.96          48.7%     
 Diet Coke Diet Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                              $4.00          $1.97          50.8%     
+Jack Link's Original Jerky Turkey 3.2 oz bag                                             $5.99          $2.01        66.4% ***   
+Jack Link's Hickory Smoked Bacon Jerky 2.85 oz bag                                       $5.99          $2.01        66.4% ***   
+Jack Link's Sweet & Hot Beef Jerky 3.25 oz bag                                           $5.99          $2.01        66.4% ***   
+Jack Link's Peppered Beef Jerky 3.25 oz bag                                              $5.99          $2.01        66.4% ***   
+Jack Link's Teriyaki Tender Bites Beef Steak 3.25 oz bag                                 $5.99          $2.01        66.4% ***   
 Pillsbury Original Icing Cinnamon Rolls 5 ct can                                         $2.05          $1.09          46.8%     
 General Mills Reese's Sweet & Crunchy Peanut Butter Corn Puffs Cereal 11.5 oz box        $3.77          $2.05          45.6%     
 General Mills Lucky Charms Gluten-free Marshmallow Oat Cereal 10.5 oz box                $3.77          $2.05          45.6%     
@@ -62,9 +68,11 @@ MIX CAKE SM YELLOW LS                                                           
 NOVELTY ICE CREAM SMORES BAR                                                             $4.28          $2.25          47.4%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.32          46.3%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.32          $2.32          46.3%     
+ASEP ORIGINAL PC CREAMER                                                                 $5.15          $2.33          54.8%     
 GRANOLA SPEC K RED BERRIES                                                               $4.74          $2.36          50.2%     
 NOVELTY BUZZ LIGHTYEAR                                                                   $4.65          $2.46          47.1%     
 NOVELTY MINIONS FACEPIECE                                                                $4.65          $2.46          47.1%     
+Ambesol Instant Oral Pain Relief for Toothaches and Mouth Sores .33 Oz                   $4.86          $2.48        49.0% ***   
 Fanta Pineapple Soda Soft Drink Fridge Pack, 12 fl oz Cans, 12 Pack                      $7.49          $2.49          66.8%     
 Barq's Diet Root Beer 12 fl oz can 12 pack                                               $7.49          $2.49          66.8%     
 Mello Yello Fridge Pack Cans, 12 fl oz, 12 Pack                                          $7.49          $2.49          66.8%     
@@ -76,8 +84,6 @@ Rave 4X Mega Unscented Hair Spray 11 oz can                                     
 Seagram's Caffeine-Free Ginger Ale Soda 2 L bottle                                       $2.77          $0.59          78.7%     
 Hillshire Farm Cheddar Lit'l Smokies Sausage 13 oz package                               $2.79          $1.48          47.0%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
-Fanta Orange Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                                 $5.78          $3.00          48.1%     
-Coca-Cola Zero Sugar Cherry Diet Soda Soft Drink, 16.9 fl oz, 6 Pack                     $5.78          $3.00          48.1%     
 JELLY VERRY BERRY RASPBERRY                                                              $3.19          $1.63        48.9% ***   
 Post Honey Bunches Oats Crunchy Honey Roasted Granola 11 oz bag                          $3.25          $1.67          48.6%     
 CEREAL VAN ALMND CRNCH RATIO KETO                                                        $6.63          $3.47          47.7%     
@@ -91,6 +97,7 @@ COFFEE ICED PNPPL PSSN 10CT (D STOCK)                                           
 COFFEE ICED ALMND VAN CLD BRW 10CT (D STOCK)                                             $7.44          $3.62          51.3%     
 COFFEE ICED DUOS COOKIES CRML 10 CT (D STOCK)                                            $7.12          $3.62          49.2%     
 Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $3.66          59.2%     
+Rachael Ray Nutrish Chicken & Brown Rice Recipe Dry Cat Food 3 lb bag                    $6.90          $3.72        46.1% ***   
 General Mills Trix Natural Classic Sweetened Corn Puffs Cereal 10.7 oz box               $3.73          $2.05          45.0%     
 General Mills Cocoa Puffs Frosted Corn Puffs Cereal 10.4 oz box                          $3.73          $2.05          45.0%     
 CEREAL CINN TOAST CRNCH STRAWBERRY MS                                                    $3.77          $2.05          45.6%     
@@ -109,28 +116,13 @@ RRN DOG FD TKY BRRC VEN 5.5LB                                                   
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can 8 pack                   $10.99         $5.46          50.3%     
 DROP IN CONTAINER                                                                        $11.37         $5.62          50.6%     
 Pilgrim's popcorn chicken 24 oz                                                          $5.63          $2.82          49.9%     
-SODA SPICED RASPBERRY 6PK                                                                $5.78          $3.00          48.1%     
-Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 16.9 fl oz, 6 Pack                $5.78          $3.00          48.1%     
-Dr Pepper Zero Soda 6 ct                                                                 $5.78          $3.00          48.1%     
-Dr Pepper Cream Soda 16.9 fl oz bottle 6 pack                                            $5.78          $3.00          48.1%     
-Coca Cola Cherry Vanilla Soda 16.9 fl oz bottle 6 pack                                   $5.78          $3.00          48.1%     
-Coca-Cola Zero Sugar Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                         $5.78          $3.00          48.1%     
-Dr Pepper Soda 16.9 fl oz bottle 6 pack                                                  $5.78          $3.00          48.1%     
-Coca-Cola Minute Maid Lemonade Juice 16.9 fl oz bottle 6 pack                            $5.78          $3.00          48.1%     
-Diet Coke Caffeine Free Soda Soft Drink, 16.9 fl oz, 6 Pack                              $5.78          $3.00          48.1%     
-SODA SPRITE WINTERSPICED CRANBERRY 6PK                                                   $5.78          $3.00          48.1%     
-Diet Coke Diet Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                               $5.78          $3.00          48.1%     
-Sprite Bottles, 16.9 fl oz, 6 Pack                                                       $5.78          $3.00          48.1%     
-Coca-Cola Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                                    $5.78          $3.00          48.1%     
-Sprite Zero Sugar Bottles, 16.9 fl oz, 6 Pack                                            $5.78          $3.00          48.1%     
-Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack                                     $5.78          $3.00          48.1%     
-Dr Pepper Diet Soda 16.9 fl oz bottle 6 pack                                             $5.78          $3.00          48.1%     
 Welly Dogs Bravery Badges Assorted Flex Fabric Bandages 48 ct                            $5.95          $2.98          49.9%     
 Welly Colorwash Bravery Badges Assorted Flex Fabric Bandages 48 ct                       $5.95          $2.98          49.9%     
 DOG FOOD BEEF CLSSC                                                                      $11.86         $6.11          48.5%     
 Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag                $12.58         $6.57          47.8%     
 GRANOLA COCONUT ALMOND KETO                                                              $6.63          $3.47          47.7%     
 GRANOLA TOASTED ALMOND KETO                                                              $6.63          $3.47          47.7%     
+Rachael Ray Nutrish Peak Open Range Recipe Beef Venison & Lamb Dry Dog Food 4 lb bag     $13.24         $6.94        47.6% ***   
 Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can                   $6.96          $3.58          48.6%     
 Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30        49.0% ***   
 DOUBLE CHOCOLATE CEREAL TREATS                                                           $7.75          $3.87          50.1%     
@@ -141,6 +133,7 @@ Olly Kids Immunity Elderberry, Cherry Dietary Supplement 50 Ct                  
 Olly Kids Chillax Gummy, For a Calm Relaxed Mood 50 Ct                                   $9.93          $5.01          49.5%     
 Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
 Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag                     $22.10         $11.55         47.7%     
+Rachael Ray Nutrish Just 6 Lamb & Brown Rice Recipe Dry Dog Food 14 lb bag               $25.37         $13.26       47.7% ***   
 HELLO HAPPY                                                                              $14.32         $7.30          49.0%     
 Olly Happy Hoo-HA Supports Vaginal Health & PH Balance Probiotic 25 Ct                   $14.32         $7.30          49.0%     
 DOG FOOD CHK VEG 28LB                                                                    $36.85         $18.86         48.8%     
