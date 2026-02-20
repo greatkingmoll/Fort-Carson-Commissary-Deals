@@ -1,4 +1,4 @@
-2026-02-19
+2026-02-20
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.47          76.5%     
@@ -85,12 +85,12 @@ Seagram's Caffeine-Free Ginger Ale Soda 2 L bottle                              
 Hillshire Farm Cheddar Lit'l Smokies Sausage 13 oz package                               $2.79          $1.48          47.0%     
 Welly Dogs Bravery Badges Assorted Flex Fabric Bandages 48 ct                            $5.95          $2.98          49.9%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
-JELLY VERRY BERRY RASPBERRY                                                              $3.19          $1.63        48.9% ***   
+JELLY VERRY BERRY RASPBERRY                                                              $3.19          $1.63          48.9%     
 Post Honey Bunches Oats Crunchy Honey Roasted Granola 11 oz bag                          $3.25          $1.67          48.6%     
 CEREAL VAN ALMND CRNCH RATIO KETO                                                        $6.63          $3.47          47.7%     
-SAUCE BBQ SPICY STREIGHT SIXES                                                           $3.55          $1.85        47.9% ***   
-SAUCE BBQ HICKORY TOP HAND                                                               $3.55          $1.85        47.9% ***   
-SAUCE BBQ WAGON BOSS ORIGINAL C                                                          $3.55          $1.85        47.9% ***   
+SAUCE BBQ SPICY STREIGHT SIXES                                                           $3.55          $1.85          47.9%     
+SAUCE BBQ HICKORY TOP HAND                                                               $3.55          $1.85          47.9%     
+SAUCE BBQ WAGON BOSS ORIGINAL C                                                          $3.55          $1.85          47.9%     
 BAR ORGANIC GRNOLA CHOC DRIZZLE                                                          $3.59          $1.80          49.9%     
 BAR CHEWY GRNOLA BDAY CAKE                                                               $3.59          $1.80          49.9%     
 COFFEE ICED BLCK CLD BRW 10CT (D STOCK)                                                  $7.44          $3.62          51.3%     
@@ -124,7 +124,7 @@ GRANOLA COCONUT ALMOND KETO                                                     
 GRANOLA TOASTED ALMOND KETO                                                              $6.63          $3.47          47.7%     
 Rachael Ray Nutrish Peak Open Range Recipe Beef Venison & Lamb Dry Dog Food 4 lb bag     $13.24         $6.94        47.6% ***   
 Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can                   $6.96          $3.58          48.6%     
-Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30        49.0% ***   
+Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30          49.0%     
 DOUBLE CHOCOLATE CEREAL TREATS                                                           $7.75          $3.87          50.1%     
 CHOCOLATE PB CEREAL TREATS                                                               $7.75          $3.87          50.1%     
 MARSHMALLOW CEREAL TREATS                                                                $7.75          $3.87          50.1%     
