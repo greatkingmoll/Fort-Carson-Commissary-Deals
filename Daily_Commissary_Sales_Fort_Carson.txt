@@ -1,4 +1,4 @@
-2026-02-20
+2026-02-21
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.47          76.5%     
@@ -35,11 +35,11 @@ Magnum Cookie Duet Ice Cream Bars 3 ct                                          
 Magnum Almond Duet Ice Cream Bars 3 ct                                                   $3.76          $1.91          49.2%     
 NOVELTY ICE CREAM SMORES SANDWICH                                                        $3.82          $1.96          48.7%     
 Diet Coke Diet Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                              $4.00          $1.97          50.8%     
-Jack Link's Original Jerky Turkey 3.2 oz bag                                             $5.99          $2.01        66.4% ***   
-Jack Link's Hickory Smoked Bacon Jerky 2.85 oz bag                                       $5.99          $2.01        66.4% ***   
-Jack Link's Sweet & Hot Beef Jerky 3.25 oz bag                                           $5.99          $2.01        66.4% ***   
-Jack Link's Peppered Beef Jerky 3.25 oz bag                                              $5.99          $2.01        66.4% ***   
-Jack Link's Teriyaki Tender Bites Beef Steak 3.25 oz bag                                 $5.99          $2.01        66.4% ***   
+Jack Link's Original Jerky Turkey 3.2 oz bag                                             $5.99          $2.01          66.4%     
+Jack Link's Hickory Smoked Bacon Jerky 2.85 oz bag                                       $5.99          $2.01          66.4%     
+Jack Link's Sweet & Hot Beef Jerky 3.25 oz bag                                           $5.99          $2.01          66.4%     
+Jack Link's Peppered Beef Jerky 3.25 oz bag                                              $5.99          $2.01          66.4%     
+Jack Link's Teriyaki Tender Bites Beef Steak 3.25 oz bag                                 $5.99          $2.01          66.4%     
 General Mills Golden Grahams Cereal 11.7 oz box                                          $3.73          $2.05          45.0%     
 General Mills Cinnamon Toast Crunch Cereal 12 oz box                                     $3.98          $2.05          48.5%     
 General Mills Reese's Sweet & Crunchy Peanut Butter Corn Puffs Cereal 11.5 oz box        $3.98          $2.05          48.5%     
@@ -68,7 +68,7 @@ ASEP ORIGINAL PC CREAMER                                                        
 GRANOLA SPEC K RED BERRIES                                                               $4.74          $2.36          50.2%     
 NOVELTY BUZZ LIGHTYEAR                                                                   $4.65          $2.46          47.1%     
 NOVELTY MINIONS FACEPIECE                                                                $4.65          $2.46          47.1%     
-Ambesol Instant Oral Pain Relief for Toothaches and Mouth Sores .33 Oz                   $4.86          $2.48        49.0% ***   
+Ambesol Instant Oral Pain Relief for Toothaches and Mouth Sores .33 Oz                   $4.86          $2.48          49.0%     
 Fanta Pineapple Soda Soft Drink Fridge Pack, 12 fl oz Cans, 12 Pack                      $7.49          $2.49          66.8%     
 Barq's Diet Root Beer 12 fl oz can 12 pack                                               $7.49          $2.49          66.8%     
 Mello Yello Fridge Pack Cans, 12 fl oz, 12 Pack                                          $7.49          $2.49          66.8%     
@@ -94,7 +94,7 @@ COFFEE ICED DUOS COOKIES CRML 10 CT (D STOCK)                                   
 COFFEE ICED BLCK CLD BRW 10CT (D STOCK)                                                  $7.50          $3.62          51.7%     
 COFFEE ICED ALMND VAN CLD BRW 10CT (D STOCK)                                             $7.50          $3.62          51.7%     
 Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $3.66          59.2%     
-Rachael Ray Nutrish Chicken & Brown Rice Recipe Dry Cat Food 3 lb bag                    $6.90          $3.72        46.1% ***   
+Rachael Ray Nutrish Chicken & Brown Rice Recipe Dry Cat Food 3 lb bag                    $6.90          $3.72          46.1%     
 General Mills Trix Natural Classic Sweetened Corn Puffs Cereal 10.7 oz box               $3.73          $2.05          45.0%     
 General Mills Cocoa Puffs Frosted Corn Puffs Cereal 10.4 oz box                          $3.73          $2.05          45.0%     
 BAKING MIX COFFEE CAKE REESES PNT BTR                                                    $3.96          $2.07          47.7%     
@@ -130,7 +130,7 @@ Flintstones Complete Children's Multivitamin Supplement Gummies 70 ct           
 Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag                $12.58         $6.57          47.8%     
 GRANOLA COCONUT ALMOND KETO                                                              $6.63          $3.47          47.7%     
 GRANOLA TOASTED ALMOND KETO                                                              $6.63          $3.47          47.7%     
-Rachael Ray Nutrish Peak Open Range Recipe Beef Venison & Lamb Dry Dog Food 4 lb bag     $13.24         $6.94        47.6% ***   
+Rachael Ray Nutrish Peak Open Range Recipe Beef Venison & Lamb Dry Dog Food 4 lb bag     $13.24         $6.94          47.6%     
 Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can                   $6.96          $3.58          48.6%     
 HELLO HAPPY                                                                              $14.32         $7.30          49.0%     
 Olly Happy Hoo-HA Supports Vaginal Health & PH Balance Probiotic 25 Ct                   $14.32         $7.30          49.0%     
@@ -146,7 +146,7 @@ Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag            
 GENTLE FOAMING FACIAL CLEANSER KIT                                                       $11.67         $5.83        50.0% ***   
 One A Day VitaCraves Women's Multivitamin Gummies 170 ct                                 $12.32         $6.47        47.5% ***   
 One A Day Men's 50+ Healthy Advantage Multivitamin Tablets 100 ct                        $12.46         $6.77        45.7% ***   
-Rachael Ray Nutrish Just 6 Lamb & Brown Rice Recipe Dry Dog Food 14 lb bag               $25.37         $13.26       47.7% ***   
+Rachael Ray Nutrish Just 6 Lamb & Brown Rice Recipe Dry Dog Food 14 lb bag               $25.37         $13.26         47.7%     
 Alka Seltzer Heartburn Gas Relief Tropical Punch 110Ct                                   $13.27         $6.74        49.2% ***   
 MEN'S COMPLETE TABLETS 200CT                                                             $16.58         $8.54        48.5% ***   
 WOMEN'S COMPLETE TABLETS 200CT                                                           $16.58         $8.54        48.5% ***   
