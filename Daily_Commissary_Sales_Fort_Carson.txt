@@ -78,7 +78,6 @@ Dr Pepper soda blackberry zero sugar 12 pk                                      
 Dr Pepper Caffeine Free Diet Soda 12 fl oz can 12 pack                                   $7.49          $2.49          66.8%     
 Rave 4X Mega Unscented Hair Spray 11 oz can                                              $2.67          $1.38          48.3%     
 Seagram's Caffeine-Free Ginger Ale Soda 2 L bottle                                       $2.77          $0.59          78.7%     
-Hillshire Farm Cheddar Lit'l Smokies Sausage 13 oz package                               $2.79          $1.48          47.0%     
 Welly Dogs Bravery Badges Assorted Flex Fabric Bandages 48 ct                            $5.95          $2.98          49.9%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 JELLY VERRY BERRY RASPBERRY                                                              $3.19          $1.63          48.9%     
@@ -89,10 +88,6 @@ SAUCE BBQ HICKORY TOP HAND                                                      
 SAUCE BBQ WAGON BOSS ORIGINAL C                                                          $3.55          $1.85          47.9%     
 BAR ORGANIC GRNOLA CHOC DRIZZLE                                                          $3.59          $1.80          49.9%     
 BAR CHEWY GRNOLA BDAY CAKE                                                               $3.59          $1.80          49.9%     
-COFFEE ICED PNPPL PSSN 10CT (D STOCK)                                                    $7.12          $3.62          49.2%     
-COFFEE ICED DUOS COOKIES CRML 10 CT (D STOCK)                                            $7.12          $3.62          49.2%     
-COFFEE ICED BLCK CLD BRW 10CT (D STOCK)                                                  $7.50          $3.62          51.7%     
-COFFEE ICED ALMND VAN CLD BRW 10CT (D STOCK)                                             $7.50          $3.62          51.7%     
 Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $3.66          59.2%     
 Rachael Ray Nutrish Chicken & Brown Rice Recipe Dry Cat Food 3 lb bag                    $6.90          $3.72          46.1%     
 General Mills Trix Natural Classic Sweetened Corn Puffs Cereal 10.7 oz box               $3.73          $2.05          45.0%     
@@ -106,6 +101,7 @@ Alka-Seltzer Plus Severe Cold Powerfast Fizz 24 Ct                              
 Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26        49.6% ***   
 FungiCure Anti-Fungal Medicated Wash Treatment 6 fl oz package                           $8.76          $4.50          48.6%     
 Dawn Ultra Apple Blossom acp                                                             $8.56          $4.57          46.6%     
+PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
 GENTLE FOAMING FACIAL CONCENTRATE - 1 REFILL                                             $4.67          $2.33        50.1% ***   
 Olly Kids Immunity Elderberry, Cherry Dietary Supplement 50 Ct                           $9.93          $5.01          49.5%     
 Olly Kids Chillax Gummy, For a Calm Relaxed Mood 50 Ct                                   $9.93          $5.01          49.5%     
@@ -116,6 +112,13 @@ CEREAL HONEY ALMOND CEREAL MS                                                   
 RRN DOG FD TKY BRRC VEN 5.5LB                                                            $10.16         $5.18          49.0%     
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can 8 pack                   $10.99         $5.46          50.3%     
 Claritin Children's Allergy Grape 4 fl oz box                                            $11.67         $5.54        52.5% ***   
+CHERRY BERRY LEMONADE                                                                    $5.55          $3.01          45.8%     
+Body Armor Fruit Punch Sports Drink 12 fl oz bottle 8 pack                               $5.55          $3.01          45.8%     
+Coca-Cola Body Armor Strawberry Banana Sport Drink 12 fl oz bottle 8 pack                $5.55          $3.01          45.8%     
+Body Armor No Sugar Added Peach Mango Lyte Sports Drink 12 fl oz bottle 8 pack           $5.55          $3.01          45.8%     
+Coca-Cola Body Armor Blue Raspberry Super Drink 12 fl oz bottle 8 pack                   $5.55          $3.01          45.8%     
+Coca-Cola Body Armor Orange Mango Sport Drink 12 fl oz bottle 8 pack                     $5.55          $3.01          45.8%     
+WATERMELON STRAWBERRY                                                                    $5.55          $3.01          45.8%     
 DROP IN CONTAINER                                                                        $11.37         $5.62          50.6%     
 Pilgrim's popcorn chicken 24 oz                                                          $5.63          $2.82          49.9%     
 Welly Colorwash Bravery Badges Assorted Flex Fabric Bandages 48 ct                       $5.95          $2.98          49.9%     
@@ -128,6 +131,7 @@ Vitaminwater Zero Power C Bottles, 16.9 fl oz, 6 Pack                           
 Vitaminwater energy, tropical citrus Bottles, 16.9 fl oz, 6 Pack                         $6.17          $1.12        81.8% ***   
 Flintstones Complete Children's Multivitamin Supplement Gummies 70 ct                    $6.18          $3.15        49.0% ***   
 Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag                $12.58         $6.57          47.8%     
+Tyson garlic pepper beef steaks 12 oz                                                    $6.59          $3.29        50.1% ***   
 GRANOLA COCONUT ALMOND KETO                                                              $6.63          $3.47          47.7%     
 GRANOLA TOASTED ALMOND KETO                                                              $6.63          $3.47          47.7%     
 Rachael Ray Nutrish Peak Open Range Recipe Beef Venison & Lamb Dry Dog Food 4 lb bag     $13.24         $6.94          47.6%     
@@ -139,19 +143,24 @@ Coricidin HBP Maximum Strength Cold, Cough & Flu for People with High Blood Pres
 One A Day VitaCraves Womens Multivitamin Gummies 80 ct                                   $8.62          $4.40        49.0% ***   
 Alka Seltzer Heartburn Relief Assorted Fruit 66Ct                                        $8.62          $4.67        45.8% ***   
 Liquid IV Kids Hydration Multiplier Grape 8 Ct                                           $8.98          $3.66          59.2%     
+Tyson Ground Beef Pork Loaf                                                              $9.16          $4.65          49.2%     
 Citracal Slow Release Calcium Dietary Supplement Coated Caplets 1200 mg Calcium 1000     $9.42          $4.80        49.0% ***   
 Citracal Calcium Citrate & D3 Petites Coated Caplets 200 ct bottle                       $9.42          $4.80        49.0% ***   
 Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
 Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag                     $22.10         $11.55         47.7%     
 GENTLE FOAMING FACIAL CLEANSER KIT                                                       $11.67         $5.83        50.0% ***   
+Alcon Systane Zaditor Eye Itch Relief Antihistamine Eye Drops 0.17 fl oz bottle          $11.88         $5.88        50.5% ***   
 One A Day VitaCraves Women's Multivitamin Gummies 170 ct                                 $12.32         $6.47        47.5% ***   
 One A Day Men's 50+ Healthy Advantage Multivitamin Tablets 100 ct                        $12.46         $6.77        45.7% ***   
 Rachael Ray Nutrish Just 6 Lamb & Brown Rice Recipe Dry Dog Food 14 lb bag               $25.37         $13.26         47.7%     
 Alka Seltzer Heartburn Gas Relief Tropical Punch 110Ct                                   $13.27         $6.74        49.2% ***   
+Pataday Twice Daily Eye Allergy Itch Relief 5 ml box                                     $14.27         $7.27        49.1% ***   
 MEN'S COMPLETE TABLETS 200CT                                                             $16.58         $8.54        48.5% ***   
 WOMEN'S COMPLETE TABLETS 200CT                                                           $16.58         $8.54        48.5% ***   
 Claritin Indoor & Outdoor Allergies Original Prescription Strength 10 mg Tablets Val     $33.04         $16.74       49.3% ***   
 One A Day Women's 50+ Complete Multivitamin 200 ct                                       $16.84         $9.14        45.7% ***   
+Alcon Opti Free Puremoist Multi-Purpose Contact Lens Solution 10 fl oz bottle 2 ct       $17.07         $9.07        46.9% ***   
+Alcon Systane Original Lubricant Eye Drops 1 fl oz bottle                                $17.53         $9.03        48.5% ***   
 DOG FOOD CHK VEG 28LB                                                                    $36.85         $18.86         48.8%     
 Aleve All Day Strong Caplets 220 mg Naproxen Sodium 270 ea                               $20.29         $10.17       49.9% ***   
 
