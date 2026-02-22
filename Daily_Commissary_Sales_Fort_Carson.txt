@@ -31,8 +31,6 @@ Kinder's hickory molasses rub 5 oz                                              
 Kinders bourbon peach seasoning 5.8 oz                                                   $3.79          $1.89          50.1%     
 SEASONING BLACK CHERRY CHIPOTLE                                                          $3.79          $1.89          50.1%     
 Klondike Krunch Ice Cream Bars 4 fl oz 6 ct package                                      $3.76          $1.90          49.5%     
-Magnum Cookie Duet Ice Cream Bars 3 ct                                                   $3.76          $1.91          49.2%     
-Magnum Almond Duet Ice Cream Bars 3 ct                                                   $3.76          $1.91          49.2%     
 NOVELTY ICE CREAM SMORES SANDWICH                                                        $3.82          $1.96          48.7%     
 Diet Coke Diet Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                              $4.00          $1.97          50.8%     
 Jack Link's Original Jerky Turkey 3.2 oz bag                                             $5.99          $2.01          66.4%     
@@ -67,7 +65,6 @@ Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                    
 ASEP ORIGINAL PC CREAMER                                                                 $5.15          $2.33          54.8%     
 GRANOLA SPEC K RED BERRIES                                                               $4.74          $2.36          50.2%     
 NOVELTY BUZZ LIGHTYEAR                                                                   $4.65          $2.46          47.1%     
-NOVELTY MINIONS FACEPIECE                                                                $4.65          $2.46          47.1%     
 Ambesol Instant Oral Pain Relief for Toothaches and Mouth Sores .33 Oz                   $4.86          $2.48          49.0%     
 Fanta Pineapple Soda Soft Drink Fridge Pack, 12 fl oz Cans, 12 Pack                      $7.49          $2.49          66.8%     
 Barq's Diet Root Beer 12 fl oz can 12 pack                                               $7.49          $2.49          66.8%     
@@ -106,7 +103,6 @@ GENTLE FOAMING FACIAL CONCENTRATE - 1 REFILL                                    
 Olly Kids Immunity Elderberry, Cherry Dietary Supplement 50 Ct                           $9.93          $5.01          49.5%     
 Olly Kids Chillax Gummy, For a Calm Relaxed Mood 50 Ct                                   $9.93          $5.01          49.5%     
 Olly Daily Energy Gummy, Caffeine Free 60 Ct                                             $9.97          $5.05          49.3%     
-Alka-Seltzer Heartburn Relief Lemon Lime Tablets 36 ct                                   $5.06          $2.57          49.2%     
 CEREAL APPLE CINNAMON CEREAL MS                                                          $5.09          $2.63          48.3%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
 RRN DOG FD TKY BRRC VEN 5.5LB                                                            $10.16         $5.18          49.0%     
@@ -136,10 +132,10 @@ GRANOLA COCONUT ALMOND KETO                                                     
 GRANOLA TOASTED ALMOND KETO                                                              $6.63          $3.47          47.7%     
 Rachael Ray Nutrish Peak Open Range Recipe Beef Venison & Lamb Dry Dog Food 4 lb bag     $13.24         $6.94          47.6%     
 Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can                   $6.96          $3.58          48.6%     
+Pataday Twice Daily Eye Allergy Itch Relief 5 ml box                                     $14.27         $7.27        49.1% ***   
 HELLO HAPPY                                                                              $14.32         $7.30          49.0%     
 Olly Happy Hoo-HA Supports Vaginal Health & PH Balance Probiotic 25 Ct                   $14.32         $7.30          49.0%     
 Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30          49.0%     
-Coricidin HBP Maximum Strength Cold, Cough & Flu for People with High Blood Pressure     $7.99          $4.19          47.6%     
 One A Day VitaCraves Womens Multivitamin Gummies 80 ct                                   $8.62          $4.40          49.0%     
 Alka Seltzer Heartburn Relief Assorted Fruit 66Ct                                        $8.62          $4.67          45.8%     
 Liquid IV Kids Hydration Multiplier Grape 8 Ct                                           $8.98          $3.66          59.2%     
@@ -154,7 +150,6 @@ One A Day VitaCraves Women's Multivitamin Gummies 170 ct                        
 One A Day Men's 50+ Healthy Advantage Multivitamin Tablets 100 ct                        $12.46         $6.77          45.7%     
 Rachael Ray Nutrish Just 6 Lamb & Brown Rice Recipe Dry Dog Food 14 lb bag               $25.37         $13.26         47.7%     
 Alka Seltzer Heartburn Gas Relief Tropical Punch 110Ct                                   $13.27         $6.74          49.2%     
-Pataday Twice Daily Eye Allergy Itch Relief 5 ml box                                     $14.27         $7.27        49.1% ***   
 MEN'S COMPLETE TABLETS 200CT                                                             $16.58         $8.54          48.5%     
 WOMEN'S COMPLETE TABLETS 200CT                                                           $16.58         $8.54          48.5%     
 Claritin Indoor & Outdoor Allergies Original Prescription Strength 10 mg Tablets Val     $33.04         $16.74         49.3%     
