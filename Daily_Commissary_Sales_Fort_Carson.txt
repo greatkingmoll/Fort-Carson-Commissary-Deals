@@ -1,4 +1,4 @@
-2026-02-21
+2026-02-22
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.47          76.5%     
@@ -6,7 +6,7 @@ Coca-Cola Zero Sugar Soda Soft Drink, 20 fl oz Bottle                           
 Dr Pepper soda strawberries cream 20 fl oz                                               $2.00          $0.47          76.5%     
 Sprite Soda Lemon-Lime - 20 Fl. Oz.                                                      $2.00          $0.49          75.5%     
 Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 20 fl oz                          $2.00          $0.49          75.5%     
-Dirty Potato Chips Good Health Veggie Sticks 1 oz bag                                    $1.03          $0.52        49.5% ***   
+Dirty Potato Chips Good Health Veggie Sticks 1 oz bag                                    $1.03          $0.52          49.5%     
 Body Armor Blackout Berry Super Drink 28 oz bottle                                       $2.08          $0.55          73.6%     
 Body Armor Peach Mango Lyte Sports Drink 28 oz bottle                                    $2.08          $0.55          73.6%     
 Diet Coke Caffeine Free Soda Soft Drink, 2 Liters                                        $2.77          $0.59          78.7%     
@@ -45,7 +45,7 @@ General Mills Cinnamon Toast Crunch Cereal 12 oz box                            
 General Mills Reese's Sweet & Crunchy Peanut Butter Corn Puffs Cereal 11.5 oz box        $3.98          $2.05          48.5%     
 General Mills Cheerios Gluten-free Whole Grain Oat Honey Nut Corn Cereal 10.8 oz box     $3.98          $2.05          48.5%     
 General Mills Lucky Charms Gluten-free Marshmallow Oat Cereal 10.5 oz box                $3.98          $2.05          48.5%     
-Reese's Puffs Minis Cereal 11.7 oz                                                       $3.98          $2.05        48.5% ***   
+Reese's Puffs Minis Cereal 11.7 oz                                                       $3.98          $2.05          48.5%     
 CEREAL CTC WAFFLE TOAST CRUNCH MS                                                        $3.98          $2.05          48.5%     
 CEREAL CINN TOAST CRNCH STRAWBERRY MS                                                    $3.98          $2.05          48.5%     
 PEANUT BUTTER REESES BAR                                                                 $4.09          $2.06          49.6%     
@@ -96,22 +96,22 @@ BAKING MIX COFFEE CAKE REESES PNT BTR                                           
 Betty Crocker Oreo White Cake Mix 9.3 oz                                                 $3.96          $0.73          81.6%     
 Betty Crocker Oreo Chocolate Cake Mix 9.3 oz                                             $3.96          $0.73          81.6%     
 Betty Crocker Reeses Peanut Butter Mix 12.8 oz                                           $4.02          $1.00          75.1%     
-Alka-Seltzer Plus Severe Cold & Flu Effervescent Tablets, Strawberry 24 Ct               $8.47          $4.30        49.2% ***   
-Alka-Seltzer Plus Severe Cold Powerfast Fizz 24 Ct                                       $8.47          $4.30        49.2% ***   
-Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26        49.6% ***   
+Alka-Seltzer Plus Severe Cold & Flu Effervescent Tablets, Strawberry 24 Ct               $8.47          $4.30          49.2%     
+Alka-Seltzer Plus Severe Cold Powerfast Fizz 24 Ct                                       $8.47          $4.30          49.2%     
+Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26          49.6%     
 FungiCure Anti-Fungal Medicated Wash Treatment 6 fl oz package                           $8.76          $4.50          48.6%     
 Dawn Ultra Apple Blossom acp                                                             $8.56          $4.57          46.6%     
 PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
-GENTLE FOAMING FACIAL CONCENTRATE - 1 REFILL                                             $4.67          $2.33        50.1% ***   
+GENTLE FOAMING FACIAL CONCENTRATE - 1 REFILL                                             $4.67          $2.33          50.1%     
 Olly Kids Immunity Elderberry, Cherry Dietary Supplement 50 Ct                           $9.93          $5.01          49.5%     
 Olly Kids Chillax Gummy, For a Calm Relaxed Mood 50 Ct                                   $9.93          $5.01          49.5%     
 Olly Daily Energy Gummy, Caffeine Free 60 Ct                                             $9.97          $5.05          49.3%     
-Alka-Seltzer Heartburn Relief Lemon Lime Tablets 36 ct                                   $5.06          $2.57        49.2% ***   
+Alka-Seltzer Heartburn Relief Lemon Lime Tablets 36 ct                                   $5.06          $2.57          49.2%     
 CEREAL APPLE CINNAMON CEREAL MS                                                          $5.09          $2.63          48.3%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
 RRN DOG FD TKY BRRC VEN 5.5LB                                                            $10.16         $5.18          49.0%     
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can 8 pack                   $10.99         $5.46          50.3%     
-Claritin Children's Allergy Grape 4 fl oz box                                            $11.67         $5.54        52.5% ***   
+Claritin Children's Allergy Grape 4 fl oz box                                            $11.67         $5.54          52.5%     
 CHERRY BERRY LEMONADE                                                                    $5.55          $3.01          45.8%     
 Body Armor Fruit Punch Sports Drink 12 fl oz bottle 8 pack                               $5.55          $3.01          45.8%     
 Coca-Cola Body Armor Strawberry Banana Sport Drink 12 fl oz bottle 8 pack                $5.55          $3.01          45.8%     
@@ -123,13 +123,13 @@ DROP IN CONTAINER                                                               
 Pilgrim's popcorn chicken 24 oz                                                          $5.63          $2.82          49.9%     
 Welly Colorwash Bravery Badges Assorted Flex Fabric Bandages 48 ct                       $5.95          $2.98          49.9%     
 DOG FOOD BEEF CLSSC                                                                      $11.86         $6.11          48.5%     
-vitaminwater XXX, acai-blueberry-pomegranate Bottles, 16.9 fl oz, 6 Pack                 $6.17          $1.12        81.8% ***   
-Vitaminwater zero sugar squeezed Bottles, 16.9 fl oz, 6 Pack                             $6.17          $1.12        81.8% ***   
-vitaminwater power-c, dragonfruit Bottles, 16.9 fl oz, 6 Pack                            $6.17          $1.12        81.8% ***   
-vitaminwater zero sugar xxx Bottles, 16.9 fl oz, 6 Pack                                  $6.17          $1.12        81.8% ***   
-Vitaminwater Zero Power C Bottles, 16.9 fl oz, 6 Pack                                    $6.17          $1.12        81.8% ***   
-Vitaminwater energy, tropical citrus Bottles, 16.9 fl oz, 6 Pack                         $6.17          $1.12        81.8% ***   
-Flintstones Complete Children's Multivitamin Supplement Gummies 70 ct                    $6.18          $3.15        49.0% ***   
+vitaminwater XXX, acai-blueberry-pomegranate Bottles, 16.9 fl oz, 6 Pack                 $6.17          $1.12          81.8%     
+Vitaminwater zero sugar squeezed Bottles, 16.9 fl oz, 6 Pack                             $6.17          $1.12          81.8%     
+vitaminwater power-c, dragonfruit Bottles, 16.9 fl oz, 6 Pack                            $6.17          $1.12          81.8%     
+vitaminwater zero sugar xxx Bottles, 16.9 fl oz, 6 Pack                                  $6.17          $1.12          81.8%     
+Vitaminwater Zero Power C Bottles, 16.9 fl oz, 6 Pack                                    $6.17          $1.12          81.8%     
+Vitaminwater energy, tropical citrus Bottles, 16.9 fl oz, 6 Pack                         $6.17          $1.12          81.8%     
+Flintstones Complete Children's Multivitamin Supplement Gummies 70 ct                    $6.18          $3.15          49.0%     
 Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag                $12.58         $6.57          47.8%     
 Tyson garlic pepper beef steaks 12 oz                                                    $6.59          $3.29        50.1% ***   
 GRANOLA COCONUT ALMOND KETO                                                              $6.63          $3.47          47.7%     
@@ -139,29 +139,29 @@ Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can          
 HELLO HAPPY                                                                              $14.32         $7.30          49.0%     
 Olly Happy Hoo-HA Supports Vaginal Health & PH Balance Probiotic 25 Ct                   $14.32         $7.30          49.0%     
 Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30          49.0%     
-Coricidin HBP Maximum Strength Cold, Cough & Flu for People with High Blood Pressure     $7.99          $4.19        47.6% ***   
-One A Day VitaCraves Womens Multivitamin Gummies 80 ct                                   $8.62          $4.40        49.0% ***   
-Alka Seltzer Heartburn Relief Assorted Fruit 66Ct                                        $8.62          $4.67        45.8% ***   
+Coricidin HBP Maximum Strength Cold, Cough & Flu for People with High Blood Pressure     $7.99          $4.19          47.6%     
+One A Day VitaCraves Womens Multivitamin Gummies 80 ct                                   $8.62          $4.40          49.0%     
+Alka Seltzer Heartburn Relief Assorted Fruit 66Ct                                        $8.62          $4.67          45.8%     
 Liquid IV Kids Hydration Multiplier Grape 8 Ct                                           $8.98          $3.66          59.2%     
 Tyson Ground Beef Pork Loaf                                                              $9.16          $4.65          49.2%     
-Citracal Slow Release Calcium Dietary Supplement Coated Caplets 1200 mg Calcium 1000     $9.42          $4.80        49.0% ***   
-Citracal Calcium Citrate & D3 Petites Coated Caplets 200 ct bottle                       $9.42          $4.80        49.0% ***   
+Citracal Slow Release Calcium Dietary Supplement Coated Caplets 1200 mg Calcium 1000     $9.42          $4.80          49.0%     
+Citracal Calcium Citrate & D3 Petites Coated Caplets 200 ct bottle                       $9.42          $4.80          49.0%     
 Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
 Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag                     $22.10         $11.55         47.7%     
-GENTLE FOAMING FACIAL CLEANSER KIT                                                       $11.67         $5.83        50.0% ***   
+GENTLE FOAMING FACIAL CLEANSER KIT                                                       $11.67         $5.83          50.0%     
 Alcon Systane Zaditor Eye Itch Relief Antihistamine Eye Drops 0.17 fl oz bottle          $11.88         $5.88        50.5% ***   
-One A Day VitaCraves Women's Multivitamin Gummies 170 ct                                 $12.32         $6.47        47.5% ***   
-One A Day Men's 50+ Healthy Advantage Multivitamin Tablets 100 ct                        $12.46         $6.77        45.7% ***   
+One A Day VitaCraves Women's Multivitamin Gummies 170 ct                                 $12.32         $6.47          47.5%     
+One A Day Men's 50+ Healthy Advantage Multivitamin Tablets 100 ct                        $12.46         $6.77          45.7%     
 Rachael Ray Nutrish Just 6 Lamb & Brown Rice Recipe Dry Dog Food 14 lb bag               $25.37         $13.26         47.7%     
-Alka Seltzer Heartburn Gas Relief Tropical Punch 110Ct                                   $13.27         $6.74        49.2% ***   
+Alka Seltzer Heartburn Gas Relief Tropical Punch 110Ct                                   $13.27         $6.74          49.2%     
 Pataday Twice Daily Eye Allergy Itch Relief 5 ml box                                     $14.27         $7.27        49.1% ***   
-MEN'S COMPLETE TABLETS 200CT                                                             $16.58         $8.54        48.5% ***   
-WOMEN'S COMPLETE TABLETS 200CT                                                           $16.58         $8.54        48.5% ***   
-Claritin Indoor & Outdoor Allergies Original Prescription Strength 10 mg Tablets Val     $33.04         $16.74       49.3% ***   
-One A Day Women's 50+ Complete Multivitamin 200 ct                                       $16.84         $9.14        45.7% ***   
+MEN'S COMPLETE TABLETS 200CT                                                             $16.58         $8.54          48.5%     
+WOMEN'S COMPLETE TABLETS 200CT                                                           $16.58         $8.54          48.5%     
+Claritin Indoor & Outdoor Allergies Original Prescription Strength 10 mg Tablets Val     $33.04         $16.74         49.3%     
+One A Day Women's 50+ Complete Multivitamin 200 ct                                       $16.84         $9.14          45.7%     
 Alcon Opti Free Puremoist Multi-Purpose Contact Lens Solution 10 fl oz bottle 2 ct       $17.07         $9.07        46.9% ***   
 Alcon Systane Original Lubricant Eye Drops 1 fl oz bottle                                $17.53         $9.03        48.5% ***   
 DOG FOOD CHK VEG 28LB                                                                    $36.85         $18.86         48.8%     
-Aleve All Day Strong Caplets 220 mg Naproxen Sodium 270 ea                               $20.29         $10.17       49.9% ***   
+Aleve All Day Strong Caplets 220 mg Naproxen Sodium 270 ea                               $20.29         $10.17         49.9%     
 
 Elapsed Time: N/A
