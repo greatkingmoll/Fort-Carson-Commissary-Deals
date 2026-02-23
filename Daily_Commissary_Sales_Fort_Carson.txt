@@ -1,4 +1,4 @@
-2026-02-22
+2026-02-23
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Diet Coke Diet Soda Soft Drink, 20 fl oz Bottle                                          $2.00          $0.47          76.5%     
@@ -38,13 +38,7 @@ Jack Link's Hickory Smoked Bacon Jerky 2.85 oz bag                              
 Jack Link's Sweet & Hot Beef Jerky 3.25 oz bag                                           $5.99          $2.01          66.4%     
 Jack Link's Peppered Beef Jerky 3.25 oz bag                                              $5.99          $2.01          66.4%     
 Jack Link's Teriyaki Tender Bites Beef Steak 3.25 oz bag                                 $5.99          $2.01          66.4%     
-General Mills Golden Grahams Cereal 11.7 oz box                                          $3.73          $2.05          45.0%     
-General Mills Cinnamon Toast Crunch Cereal 12 oz box                                     $3.98          $2.05          48.5%     
-General Mills Reese's Sweet & Crunchy Peanut Butter Corn Puffs Cereal 11.5 oz box        $3.98          $2.05          48.5%     
-General Mills Cheerios Gluten-free Whole Grain Oat Honey Nut Corn Cereal 10.8 oz box     $3.98          $2.05          48.5%     
-General Mills Lucky Charms Gluten-free Marshmallow Oat Cereal 10.5 oz box                $3.98          $2.05          48.5%     
 Reese's Puffs Minis Cereal 11.7 oz                                                       $3.98          $2.05          48.5%     
-CEREAL CTC WAFFLE TOAST CRUNCH MS                                                        $3.98          $2.05          48.5%     
 CEREAL CINN TOAST CRNCH STRAWBERRY MS                                                    $3.98          $2.05          48.5%     
 PEANUT BUTTER REESES BAR                                                                 $4.09          $2.06          49.6%     
 Body Armor Orange Mango Super Drink 28 fl oz bottle                                      $2.08          $0.55          73.6%     
@@ -127,12 +121,12 @@ Vitaminwater Zero Power C Bottles, 16.9 fl oz, 6 Pack                           
 Vitaminwater energy, tropical citrus Bottles, 16.9 fl oz, 6 Pack                         $6.17          $1.12          81.8%     
 Flintstones Complete Children's Multivitamin Supplement Gummies 70 ct                    $6.18          $3.15          49.0%     
 Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag                $12.58         $6.57          47.8%     
-Tyson garlic pepper beef steaks 12 oz                                                    $6.59          $3.29        50.1% ***   
+Tyson garlic pepper beef steaks 12 oz                                                    $6.59          $3.29          50.1%     
 GRANOLA COCONUT ALMOND KETO                                                              $6.63          $3.47          47.7%     
 GRANOLA TOASTED ALMOND KETO                                                              $6.63          $3.47          47.7%     
 Rachael Ray Nutrish Peak Open Range Recipe Beef Venison & Lamb Dry Dog Food 4 lb bag     $13.24         $6.94          47.6%     
 Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can                   $6.96          $3.58          48.6%     
-Pataday Twice Daily Eye Allergy Itch Relief 5 ml box                                     $14.27         $7.27        49.1% ***   
+Pataday Twice Daily Eye Allergy Itch Relief 5 ml box                                     $14.27         $7.27          49.1%     
 HELLO HAPPY                                                                              $14.32         $7.30          49.0%     
 Olly Happy Hoo-HA Supports Vaginal Health & PH Balance Probiotic 25 Ct                   $14.32         $7.30          49.0%     
 Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30          49.0%     
@@ -145,7 +139,7 @@ Citracal Calcium Citrate & D3 Petites Coated Caplets 200 ct bottle              
 Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
 Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag                     $22.10         $11.55         47.7%     
 GENTLE FOAMING FACIAL CLEANSER KIT                                                       $11.67         $5.83          50.0%     
-Alcon Systane Zaditor Eye Itch Relief Antihistamine Eye Drops 0.17 fl oz bottle          $11.88         $5.88        50.5% ***   
+Alcon Systane Zaditor Eye Itch Relief Antihistamine Eye Drops 0.17 fl oz bottle          $11.88         $5.88          50.5%     
 One A Day VitaCraves Women's Multivitamin Gummies 170 ct                                 $12.32         $6.47          47.5%     
 One A Day Men's 50+ Healthy Advantage Multivitamin Tablets 100 ct                        $12.46         $6.77          45.7%     
 Rachael Ray Nutrish Just 6 Lamb & Brown Rice Recipe Dry Dog Food 14 lb bag               $25.37         $13.26         47.7%     
@@ -154,8 +148,8 @@ MEN'S COMPLETE TABLETS 200CT                                                    
 WOMEN'S COMPLETE TABLETS 200CT                                                           $16.58         $8.54          48.5%     
 Claritin Indoor & Outdoor Allergies Original Prescription Strength 10 mg Tablets Val     $33.04         $16.74         49.3%     
 One A Day Women's 50+ Complete Multivitamin 200 ct                                       $16.84         $9.14          45.7%     
-Alcon Opti Free Puremoist Multi-Purpose Contact Lens Solution 10 fl oz bottle 2 ct       $17.07         $9.07        46.9% ***   
-Alcon Systane Original Lubricant Eye Drops 1 fl oz bottle                                $17.53         $9.03        48.5% ***   
+Alcon Opti Free Puremoist Multi-Purpose Contact Lens Solution 10 fl oz bottle 2 ct       $17.07         $9.07          46.9%     
+Alcon Systane Original Lubricant Eye Drops 1 fl oz bottle                                $17.53         $9.03          48.5%     
 DOG FOOD CHK VEG 28LB                                                                    $36.85         $18.86         48.8%     
 Aleve All Day Strong Caplets 220 mg Naproxen Sodium 270 ea                               $20.29         $10.17         49.9%     
 
