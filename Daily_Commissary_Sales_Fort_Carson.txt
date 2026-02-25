@@ -1,4 +1,4 @@
-2026-02-24
+2026-02-25
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Dr Pepper soda strawberries cream 20 fl oz                                               $2.00          $0.47          76.5%     
@@ -16,7 +16,7 @@ Body Armor Peach Mango Lyte Sports Drink 28 oz bottle                           
 Body Armor Fruit Punch Super Drink 28 oz bottle                                          $2.08          $0.55          73.6%     
 Diet Coke Caffeine Free Soda Soft Drink, 2 Liters                                        $2.77          $0.59          78.7%     
 Seagram's Caffeine-Free Ginger Ale Soda 2 L bottle                                       $2.77          $0.59          78.7%     
-Edge Sensitive Skin Travel Size Shave Gel 2.75 oz                                        $1.32          $0.67        49.2% ***   
+Edge Sensitive Skin Travel Size Shave Gel 2.75 oz                                        $1.32          $0.67          49.2%     
 Arm & Hammer Fresh Scensations Island Mist Carpet Odor Eliminator 30 oz                  $1.84          $0.84          54.3%     
 VITAMIN MELATONIN 3MG TAB                                                                $2.59          $1.00          61.4%     
 Brew Dr. Organic Clear Mind Kombucha Tea 32 oz bottle                                    $2.25          $1.12          50.2%     
@@ -39,8 +39,8 @@ Sprite + Tea Fridge Pack Cans, 12 fl oz, 12 Pack                                
 Seagram's Caffeine-Free Ginger Ale Soda 12 fl oz can 12 ct                               $7.49          $1.50          80.0%     
 Stacy's Parmesan Garlic & Herb Flavored Baked Pita Chips 7.33 oz bag                     $3.09          $1.60          48.2%     
 Stacy's Non-GMO Simply Naked Baked Pita Chips 7.33 oz bag                                $3.09          $1.60          48.2%     
-Schick Edge Sensitive Skin Aloe Men's Shave Gel 7 oz                                     $3.23          $1.66        48.6% ***   
-Edge Extra Moisturizing Shave Gel 7 oz can                                               $3.23          $1.66        48.6% ***   
+Schick Edge Sensitive Skin Aloe Men's Shave Gel 7 oz                                     $3.23          $1.66          48.6%     
+Edge Extra Moisturizing Shave Gel 7 oz can                                               $3.23          $1.66          48.6%     
 PFO ORG CKN NDL 16.1OZ 12CA                                                              $3.24          $1.73          46.6%     
 PFO ORG CKN WILD RICE 16.3OZ 12CA                                                        $3.24          $1.73          46.6%     
 Kinder's hickory molasses rub 5 oz                                                       $3.79          $1.89          50.1%     
@@ -69,7 +69,7 @@ ASEP ORIGINAL PC CREAMER                                                        
 GRANOLA SPEC K RED BERRIES                                                               $4.74          $2.36          50.2%     
 NOVELTY BUZZ LIGHTYEAR                                                                   $4.65          $2.46          47.1%     
 Ambesol Instant Oral Pain Relief for Toothaches and Mouth Sores .33 Oz                   $4.86          $2.48          49.0%     
-GLASS CLEANER TRIGGER                                                                    $4.86          $2.49        48.8% ***   
+GLASS CLEANER TRIGGER                                                                    $4.86          $2.49          48.8%     
 Mello Yello Fridge Pack Cans, 12 fl oz, 12 Pack                                          $7.49          $2.49          66.8%     
 Fanta Orange Soda Soft Drink Fridge Pack, 12 fl oz Cans, 12 Pack                         $7.49          $2.49          66.8%     
 Fanta Pineapple Soda Soft Drink Fridge Pack, 12 fl oz Cans, 12 Pack                      $7.49          $2.49          66.8%     
@@ -77,8 +77,8 @@ Barq's Diet Root Beer 12 fl oz can 12 pack                                      
 Dr Pepper soda blackberry 12 pk                                                          $7.49          $2.49          66.8%     
 Dr Pepper soda blackberry zero sugar 12 pk                                               $7.49          $2.49          66.8%     
 Dr Pepper Caffeine Free Diet Soda 12 fl oz can 12 pack                                   $7.49          $2.49          66.8%     
-Schick Skintimate Dry Skin Therapy Women's Shave Gel 7 oz can 2 ct                       $5.50          $2.60        52.7% ***   
-Schick Edge Sensitive Skin Aloe Men's Shave Gel 7 oz can 2 ct                            $5.50          $2.60        52.7% ***   
+Schick Skintimate Dry Skin Therapy Women's Shave Gel 7 oz can 2 ct                       $5.50          $2.60          52.7%     
+Schick Edge Sensitive Skin Aloe Men's Shave Gel 7 oz can 2 ct                            $5.50          $2.60          52.7%     
 Rave 4X Mega Unscented Hair Spray 11 oz can                                              $2.67          $1.38          48.3%     
 Schick hydro silk ultra-sensitive disposable 2 ea                                        $5.62          $2.92          48.0%     
 Welly Dogs Bravery Badges Assorted Flex Fabric Bandages 48 ct                            $5.95          $2.98          49.9%     
