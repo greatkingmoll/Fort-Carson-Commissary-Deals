@@ -1,4 +1,4 @@
-2026-02-25
+2026-02-26
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Dr Pepper soda strawberries cream 20 fl oz                                               $2.00          $0.47          76.5%     
@@ -85,9 +85,9 @@ Cremo Body Wash Vintage Suede 16 OZ                                             
 Cremo Body Wash, Palo Santo 16 FL OZ                                                     $6.17          $3.12          49.4%     
 JELLY VERRY BERRY RASPBERRY                                                              $3.19          $1.63          48.9%     
 Post Honey Bunches Oats Crunchy Honey Roasted Granola 11 oz bag                          $3.25          $1.67          48.6%     
-Degree Women Pure Clean UltraClear Invisible Solid Antiperspirant Deodorant Stick 2.     $6.34          $3.26        48.6% ***   
+Degree Women Pure Clean UltraClear Invisible Solid Antiperspirant Deodorant Stick 2.     $6.34          $3.26          48.6%     
 Carefree Acti-Fresh Long Unscented Daily Liners 92 ct                                    $6.52          $3.39          48.0%     
-Schmidt's Charcoal and Magnesium Mineral Enriched Natural Deodorant Stick 2.65 oz tu     $6.78          $3.41        49.7% ***   
+Schmidt's Charcoal and Magnesium Mineral Enriched Natural Deodorant Stick 2.65 oz tu     $6.78          $3.41          49.7%     
 Johnson & Johnson Carefree Acti-Fresh Extra Long to Go Unscented Body Shape Pantilin     $6.62          $3.41          48.5%     
 CEREAL VAN ALMND CRNCH RATIO KETO                                                        $6.63          $3.47          47.7%     
 SAUCE BBQ SPICY STREIGHT SIXES                                                           $3.55          $1.85          47.9%     
@@ -97,7 +97,7 @@ Billie Malibu Razor Starter Kit 1 ct                                            
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.56          49.4%     
 BAR ORGANIC GRNOLA CHOC DRIZZLE                                                          $3.59          $1.80          49.9%     
 BAR CHEWY GRNOLA BDAY CAKE                                                               $3.59          $1.80          49.9%     
-Degree Antiperspirant Deodorant, Shower Clean Twin Pack                                  $6.68          $3.60        46.1% ***   
+Degree Antiperspirant Deodorant, Shower Clean Twin Pack                                  $6.68          $3.60          46.1%     
 Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $3.66          59.2%     
 Rachael Ray Nutrish Chicken & Brown Rice Recipe Dry Cat Food 3 lb bag                    $6.90          $3.72          46.1%     
 Schick Intuition Pure Nourishment Coconut Milk & Almond Milk Razor 1 ea                  $8.62          $3.87          55.1%     
@@ -114,10 +114,10 @@ Playtex Tampon Sport Multi-Pack Regular/Super 48 Ct                             
 PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
 Tyson Ground Beef Pork Loaf                                                              $9.16          $4.65          49.2%     
 GENTLE FOAMING FACIAL CONCENTRATE - 1 REFILL                                             $4.67          $2.33          50.1%     
-Dove Advanced Care Cool Essentials Antiperspirant Deodorant Twin Pack 2.6 Oz             $9.82          $4.96        49.5% ***   
+Dove Advanced Care Cool Essentials Antiperspirant Deodorant Twin Pack 2.6 Oz             $9.82          $4.96          49.5%     
 CEREAL APPLE CINNAMON CEREAL MS                                                          $5.09          $2.63          48.3%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
-Dove men+Care Aloe and Bamboo Whole Body Deodorant 4 Oz                                  $9.58          $5.16        46.1% ***   
+Dove men+Care Aloe and Bamboo Whole Body Deodorant 4 Oz                                  $9.58          $5.16          46.1%     
 RRN DOG FD TKY BRRC VEN 5.5LB                                                            $10.16         $5.18          49.0%     
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can 8 pack                   $10.99         $5.46          50.3%     
 Claritin Children's Allergy Grape 4 fl oz box                                            $11.67         $5.54          52.5%     
