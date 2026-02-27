@@ -14,6 +14,8 @@ Body Armor Fruit Punch Super Drink 28 oz bottle                                 
 Diet Coke Caffeine Free Soda Soft Drink, 2 Liters                                        $2.77          $0.59          78.7%     
 Seagram's Caffeine-Free Ginger Ale Soda 2 L bottle                                       $2.77          $0.59          78.7%     
 Edge Sensitive Skin Travel Size Shave Gel 2.75 oz                                        $1.32          $0.67          49.2%     
+CRISPY RICE TREAT BIRTHDAY CAKE                                                          $0.77          $0.41        46.8% ***   
+CRISPY RICE TREAT HOME STYLE                                                             $0.77          $0.41        46.8% ***   
 Arm & Hammer Fresh Scensations Island Mist Carpet Odor Eliminator 30 oz                  $1.84          $0.84          54.3%     
 VITAMIN MELATONIN 3MG TAB                                                                $2.59          $1.00          61.4%     
 Brew Dr. Organic Clear Mind Kombucha Tea 32 oz bottle                                    $2.25          $1.12          50.2%     
@@ -39,11 +41,14 @@ Schick Edge Sensitive Skin Aloe Men's Shave Gel 7 oz                            
 Edge Extra Moisturizing Shave Gel 7 oz can                                               $3.23          $1.66          48.6%     
 PFO ORG CKN NDL 16.1OZ 12CA                                                              $3.24          $1.73          46.6%     
 PFO ORG CKN WILD RICE 16.3OZ 12CA                                                        $3.24          $1.73          46.6%     
+DOG FOOD CUP BEEF STEW                                                                   $1.76          $0.88        50.0% ***   
+DOG FOOD CUP CHKN POT PIE                                                                $1.76          $0.88        50.0% ***   
 Kinder's hickory molasses rub 5 oz                                                       $3.79          $1.89          50.1%     
 Kinders bourbon peach seasoning 5.8 oz                                                   $3.79          $1.89          50.1%     
 SEASONING BLACK CHERRY CHIPOTLE                                                          $3.79          $1.89          50.1%     
 Diet Coke Diet Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                              $4.00          $1.97          50.8%     
 Shea Moisture 100% Virgin Coconut Oil Baby Wash & Shampoo 13 fl oz bottle                $5.74          $1.98        65.5% ***   
+Coca-Cola Zero Sugar Soda Soft Drink, 20 fl oz Bottle                                    $2.00          $0.49          75.5%     
 Jack Link's Original Jerky Turkey 3.2 oz bag                                             $5.99          $2.01          66.4%     
 Jack Link's Hickory Smoked Bacon Jerky 2.85 oz bag                                       $5.99          $2.01          66.4%     
 Jack Link's Teriyaki Tender Bites Beef Steak 3.25 oz bag                                 $5.99          $2.01          66.4%     
@@ -77,7 +82,6 @@ Shea Moisture Raw Shea Butter Moisture Retention Shampoo 13 fl oz bottle        
 Shea Moisture Raw Shea Butter Moisture Retention Conditioner 13 fl oz bottle             $8.06          $2.64        67.2% ***   
 Rave 4X Mega Unscented Hair Spray 11 oz can                                              $2.67          $1.38          48.3%     
 Schick hydro silk ultra-sensitive disposable 2 ea                                        $5.62          $2.92          48.0%     
-Welly Dogs Bravery Badges Assorted Flex Fabric Bandages 48 ct                            $5.95          $2.98          49.9%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 Coca-Cola Body Armor Orange Mango Sport Drink 12 fl oz bottle 8 pack                     $5.55          $3.01          45.8%     
 Vaseline Men Cooling Hydration Body Lotion 24.5 fl oz pump bottle                        $6.04          $3.09        48.8% ***   
@@ -90,6 +94,8 @@ Degree Women Pure Clean UltraClear Invisible Solid Antiperspirant Deodorant Stic
 Carefree Acti-Fresh Long Unscented Daily Liners 92 ct                                    $6.52          $3.39          48.0%     
 Schmidt's Charcoal and Magnesium Mineral Enriched Natural Deodorant Stick 2.65 oz tu     $6.78          $3.41          49.7%     
 Johnson & Johnson Carefree Acti-Fresh Extra Long to Go Unscented Body Shape Pantilin     $6.62          $3.41          48.5%     
+Act Anticavity Liquid Mint Mouthwash 18 oz                                               $3.45          $1.72        50.1% ***   
+Act Anticavity Kids Bubblegum Blowout Liquid Mouthwash 16.9 fl oz bottle                 $3.45          $1.72        50.1% ***   
 CEREAL VAN ALMND CRNCH RATIO KETO                                                        $6.63          $3.47          47.7%     
 BDY OIL HYDRATE+REPLENISH 3.7Z                                                           $9.17          $3.54        61.4% ***   
 SAUCE BBQ WAGON BOSS ORIGINAL C                                                          $3.55          $1.85          47.9%     
@@ -112,12 +118,11 @@ Alka-Seltzer Plus Severe Cold Powerfast Fizz 24 Ct                              
 One A Day VitaCraves Womens Multivitamin Gummies 80 ct                                   $8.62          $4.40          49.0%     
 Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26          49.6%     
 FungiCure Anti-Fungal Medicated Wash Treatment 6 fl oz package                           $8.76          $4.50          48.6%     
-Dove Soothing Relief With Eczema-Prone Skin Body Wash 18.5 oz                            $8.47          $4.52        46.6% ***   
 Dove Acne Clear Body Wash 18.5 oz                                                        $8.47          $4.52        46.6% ***   
+Nestle Drumstick Vanilla Caramel Sundae Cone Frozen Dairy Dessert 4 ct 18.1 fl oz bo     $4.56          $2.19        52.0% ***   
 Vaseline Intensive Care Cocoa Radiant Body Lotion 32 fl oz pump bottle                   $8.33          $4.57        45.1% ***   
 Dawn Ultra Apple Blossom acp                                                             $8.56          $4.57          46.6%     
 Playtex Tampon Sport Multi-Pack Regular/Super 48 Ct                                      $9.17          $4.59          49.9%     
-PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
 Tyson Ground Beef Pork Loaf                                                              $9.16          $4.65          49.2%     
 GENTLE FOAMING FACIAL CONCENTRATE - 1 REFILL                                             $4.67          $2.33          50.1%     
 Dove Advanced Care Cool Essentials Antiperspirant Deodorant Twin Pack 2.6 Oz             $9.82          $4.96          49.5%     
@@ -135,14 +140,12 @@ Coca-Cola Body Armor Blue Raspberry Super Drink 12 fl oz bottle 8 pack          
 WATERMELON STRAWBERRY                                                                    $5.55          $3.01          45.8%     
 DROP IN CONTAINER                                                                        $11.37         $5.62          50.6%     
 Welly Colorwash Bravery Badges Assorted Flex Fabric Bandages 48 ct                       $5.95          $2.98          49.9%     
-DOG FOOD BEEF CLSSC                                                                      $11.86         $6.11          48.5%     
 Vitaminwater zero sugar squeezed Bottles, 16.9 fl oz, 6 Pack                             $6.17          $1.12          81.8%     
 Vitaminwater Zero Power C Bottles, 16.9 fl oz, 6 Pack                                    $6.17          $1.12          81.8%     
 One A Day VitaCraves Women's Multivitamin Gummies 170 ct                                 $12.32         $6.47          47.5%     
 Schick Hydro Silk Women's Razor Blades Refill 4 ct box                                   $11.96         $6.54          45.3%     
 Schick Hydro Sensitive Cartridges 6 ct                                                   $11.96         $6.54          45.3%     
 Schick Intuition Sensitive Care Lather & Shave Women's Razor Blades Refill Cartridge     $11.96         $6.54          45.3%     
-Tyson garlic pepper beef steaks 12 oz                                                    $6.59          $3.29          50.1%     
 GRANOLA COCONUT ALMOND KETO                                                              $6.63          $3.47          47.7%     
 GRANOLA TOASTED ALMOND KETO                                                              $6.63          $3.47          47.7%     
 One A Day Men's 50+ Healthy Advantage Multivitamin Tablets 100 ct                        $12.46         $6.77          45.7%     
@@ -161,7 +164,6 @@ Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag            
 GENTLE FOAMING FACIAL CLEANSER KIT                                                       $11.67         $5.83          50.0%     
 Alcon Systane Zaditor Eye Itch Relief Antihistamine Eye Drops 0.17 fl oz bottle          $11.88         $5.88          50.5%     
 Rachael Ray Nutrish Just 6 Lamb & Brown Rice Recipe Dry Dog Food 14 lb bag               $25.37         $13.26         47.7%     
-Alka Seltzer Heartburn Gas Relief Tropical Punch 110Ct                                   $13.27         $6.74          49.2%     
 MEN'S COMPLETE TABLETS 200CT                                                             $16.58         $8.54          48.5%     
 WOMEN'S COMPLETE TABLETS 200CT                                                           $16.58         $8.54          48.5%     
 Claritin Indoor & Outdoor Allergies Original Prescription Strength 10 mg Tablets Val     $33.04         $16.74         49.3%     
