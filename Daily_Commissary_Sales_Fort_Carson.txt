@@ -1,4 +1,4 @@
-2026-02-27
+2026-02-28
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Sprite Soda Lemon-Lime - 20 Fl. Oz.                                                      $2.00          $0.49          75.5%     
@@ -36,7 +36,7 @@ Betty Crocker Reeses Pieces Peanut Butter Cookie Baking Mix 11.9 oz             
 Mr. Clean Magic Eraser Extra Durable 4 x Stronger Duraform Cleaning Pads 2 ct box        $2.76          $1.47          46.7%     
 Sprite + Tea Fridge Pack Cans, 12 fl oz, 12 Pack                                         $7.49          $1.49          80.1%     
 Seagram's Caffeine-Free Ginger Ale Soda 12 fl oz can 12 ct                               $7.49          $1.50          80.0%     
-CLEANER GLASS SURFACE                                                                    $3.12          $1.60        48.7% ***   
+CLEANER GLASS SURFACE                                                                    $3.12          $1.60          48.7%     
 Schick Edge Sensitive Skin Aloe Men's Shave Gel 7 oz                                     $3.23          $1.66          48.6%     
 Edge Extra Moisturizing Shave Gel 7 oz can                                               $3.23          $1.66          48.6%     
 PFO ORG CKN NDL 16.1OZ 12CA                                                              $3.24          $1.73          46.6%     
@@ -47,7 +47,7 @@ Kinder's hickory molasses rub 5 oz                                              
 Kinders bourbon peach seasoning 5.8 oz                                                   $3.79          $1.89          50.1%     
 SEASONING BLACK CHERRY CHIPOTLE                                                          $3.79          $1.89          50.1%     
 Diet Coke Diet Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                              $4.00          $1.97          50.8%     
-Shea Moisture 100% Virgin Coconut Oil Baby Wash & Shampoo 13 fl oz bottle                $5.74          $1.98        65.5% ***   
+Shea Moisture 100% Virgin Coconut Oil Baby Wash & Shampoo 13 fl oz bottle                $5.74          $1.98          65.5%     
 Coca-Cola Zero Sugar Soda Soft Drink, 20 fl oz Bottle                                    $2.00          $0.49          75.5%     
 Jack Link's Original Jerky Turkey 3.2 oz bag                                             $5.99          $2.01          66.4%     
 Jack Link's Hickory Smoked Bacon Jerky 2.85 oz bag                                       $5.99          $2.01          66.4%     
@@ -55,7 +55,7 @@ Jack Link's Teriyaki Tender Bites Beef Steak 3.25 oz bag                        
 Jack Link's Peppered Beef Jerky 3.25 oz bag                                              $5.99          $2.01          66.4%     
 Jack Link's Sweet & Hot Beef Jerky 3.25 oz bag                                           $5.99          $2.01          66.4%     
 PEANUT BUTTER REESES BAR                                                                 $4.09          $2.06          49.6%     
-Vaseline Men Fast Absorbing Body & Face Lotion 20.3 fl oz pump bottle                    $6.04          $2.12        64.9% ***   
+Vaseline Men Fast Absorbing Body & Face Lotion 20.3 fl oz pump bottle                    $6.04          $2.12          64.9%     
 BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
 CHIPOTLE VEGENAISE                                                                       $4.25          $2.24          47.3%     
 Brew Dr. Organic Ginger Lemon Kombucha Tea 14 oz bottle                                  $2.25          $1.12          50.2%     
@@ -78,13 +78,13 @@ Dr Pepper soda blackberry zero sugar 12 pk                                      
 Dr Pepper Caffeine Free Diet Soda 12 fl oz can 12 pack                                   $7.49          $2.49          66.8%     
 Schick Skintimate Dry Skin Therapy Women's Shave Gel 7 oz can 2 ct                       $5.50          $2.60          52.7%     
 Schick Edge Sensitive Skin Aloe Men's Shave Gel 7 oz can 2 ct                            $5.50          $2.60          52.7%     
-Shea Moisture Raw Shea Butter Moisture Retention Shampoo 13 fl oz bottle                 $8.06          $2.64        67.2% ***   
-Shea Moisture Raw Shea Butter Moisture Retention Conditioner 13 fl oz bottle             $8.06          $2.64        67.2% ***   
+Shea Moisture Raw Shea Butter Moisture Retention Shampoo 13 fl oz bottle                 $8.06          $2.64          67.2%     
+Shea Moisture Raw Shea Butter Moisture Retention Conditioner 13 fl oz bottle             $8.06          $2.64          67.2%     
 Rave 4X Mega Unscented Hair Spray 11 oz can                                              $2.67          $1.38          48.3%     
 Schick hydro silk ultra-sensitive disposable 2 ea                                        $5.62          $2.92          48.0%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 Coca-Cola Body Armor Orange Mango Sport Drink 12 fl oz bottle 8 pack                     $5.55          $3.01          45.8%     
-Vaseline Men Cooling Hydration Body Lotion 24.5 fl oz pump bottle                        $6.04          $3.09        48.8% ***   
+Vaseline Men Cooling Hydration Body Lotion 24.5 fl oz pump bottle                        $6.04          $3.09          48.8%     
 Cremo Body Wash Vintage Suede 16 OZ                                                      $6.17          $3.12          49.4%     
 Cremo Body Wash, Palo Santo 16 FL OZ                                                     $6.17          $3.12          49.4%     
 Flintstones Complete Children's Multivitamin Supplement Gummies 70 ct                    $6.18          $3.15          49.0%     
@@ -97,7 +97,7 @@ Johnson & Johnson Carefree Acti-Fresh Extra Long to Go Unscented Body Shape Pant
 Act Anticavity Liquid Mint Mouthwash 18 oz                                               $3.45          $1.72        50.1% ***   
 Act Anticavity Kids Bubblegum Blowout Liquid Mouthwash 16.9 fl oz bottle                 $3.45          $1.72        50.1% ***   
 CEREAL VAN ALMND CRNCH RATIO KETO                                                        $6.63          $3.47          47.7%     
-BDY OIL HYDRATE+REPLENISH 3.7Z                                                           $9.17          $3.54        61.4% ***   
+BDY OIL HYDRATE+REPLENISH 3.7Z                                                           $9.17          $3.54          61.4%     
 SAUCE BBQ WAGON BOSS ORIGINAL C                                                          $3.55          $1.85          47.9%     
 Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.56          49.4%     
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.56          49.4%     
@@ -108,19 +108,19 @@ Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                   
 Rachael Ray Nutrish Chicken & Brown Rice Recipe Dry Cat Food 3 lb bag                    $6.90          $3.72          46.1%     
 Schick Intuition Pure Nourishment Coconut Milk & Almond Milk Razor 1 ea                  $8.62          $3.87          55.1%     
 Schick Intuition Naturals Sensitive Care Aloe And Vitamin E Women's Razor box            $8.62          $3.87          55.1%     
-Dove 4 Peach Rebalancing Bar 15 Oz                                                       $7.13          $3.90        45.3% ***   
+Dove 4 Peach Rebalancing Bar 15 Oz                                                       $7.13          $3.90          45.3%     
 BAKING MIX COFFEE CAKE REESES PNT BTR                                                    $3.96          $2.07          47.7%     
 Betty Crocker Oreo White Cake Mix 9.3 oz                                                 $3.96          $0.73          81.6%     
 Betty Crocker Oreo Chocolate Cake Mix 9.3 oz                                             $3.96          $0.73          81.6%     
-Shea Moisture Head-To-Toe 100% Extra Virgin Pure Coconut Oil Nourishing Hydration 15     $11.57         $4.29        62.9% ***   
+Shea Moisture Head-To-Toe 100% Extra Virgin Pure Coconut Oil Nourishing Hydration 15     $11.57         $4.29          62.9%     
 Alka-Seltzer Plus Severe Cold & Flu Effervescent Tablets, Strawberry 24 Ct               $8.47          $4.30          49.2%     
 Alka-Seltzer Plus Severe Cold Powerfast Fizz 24 Ct                                       $8.47          $4.30          49.2%     
 One A Day VitaCraves Womens Multivitamin Gummies 80 ct                                   $8.62          $4.40          49.0%     
 Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26          49.6%     
 FungiCure Anti-Fungal Medicated Wash Treatment 6 fl oz package                           $8.76          $4.50          48.6%     
-Dove Acne Clear Body Wash 18.5 oz                                                        $8.47          $4.52        46.6% ***   
+Dove Acne Clear Body Wash 18.5 oz                                                        $8.47          $4.52          46.6%     
 Nestle Drumstick Vanilla Caramel Sundae Cone Frozen Dairy Dessert 4 ct 18.1 fl oz bo     $4.56          $2.19        52.0% ***   
-Vaseline Intensive Care Cocoa Radiant Body Lotion 32 fl oz pump bottle                   $8.33          $4.57        45.1% ***   
+Vaseline Intensive Care Cocoa Radiant Body Lotion 32 fl oz pump bottle                   $8.33          $4.57          45.1%     
 Dawn Ultra Apple Blossom acp                                                             $8.56          $4.57          46.6%     
 Playtex Tampon Sport Multi-Pack Regular/Super 48 Ct                                      $9.17          $4.59          49.9%     
 Tyson Ground Beef Pork Loaf                                                              $9.16          $4.65          49.2%     
@@ -151,14 +151,14 @@ GRANOLA TOASTED ALMOND KETO                                                     
 One A Day Men's 50+ Healthy Advantage Multivitamin Tablets 100 ct                        $12.46         $6.77          45.7%     
 Rachael Ray Nutrish Peak Open Range Recipe Beef Venison & Lamb Dry Dog Food 4 lb bag     $13.24         $6.94          47.6%     
 Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can                   $6.96          $3.58          48.6%     
-Nexxus Therappe Protein Infusion Elastin Protein and Green Caviar Ultimate Moisture      $13.28         $7.18        45.9% ***   
-Nexxus Humectress Protein Infusion Elastin Protein and Green Caviar Ultimate Moistur     $13.28         $7.18        45.9% ***   
+Nexxus Therappe Protein Infusion Elastin Protein and Green Caviar Ultimate Moisture      $13.28         $7.18          45.9%     
+Nexxus Humectress Protein Infusion Elastin Protein and Green Caviar Ultimate Moistur     $13.28         $7.18          45.9%     
 Alka Seltzer Heartburn Relief Assorted Fruit 66Ct                                        $8.62          $4.67          45.8%     
 Liquid IV Kids Hydration Multiplier Grape 8 Ct                                           $8.98          $3.66          59.2%     
 One A Day Women's 50+ Complete Multivitamin 200 ct                                       $16.84         $9.14          45.7%     
 Citracal Slow Release Calcium Dietary Supplement Coated Caplets 1200 mg Calcium 1000     $9.42          $4.80          49.0%     
 Citracal Calcium Citrate & D3 Petites Coated Caplets 200 ct bottle                       $9.42          $4.80          49.0%     
-Nexxus Humectress Protein Infusion Elastin Protein and Green Caviar Ultimate Moistur     $22.18         $11.41       48.6% ***   
+Nexxus Humectress Protein Infusion Elastin Protein and Green Caviar Ultimate Moistur     $22.18         $11.41         48.6%     
 Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
 Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag                     $22.10         $11.55         47.7%     
 GENTLE FOAMING FACIAL CLEANSER KIT                                                       $11.67         $5.83          50.0%     
