@@ -1,4 +1,4 @@
-2026-03-01
+2026-03-02
 Items discounted by 45% or more:
 Sprite Soda Lemon-Lime - 20 Fl. Oz.                                                      $2.00          $0.49          75.5%     
 Dirty Potato Chips Good Health Veggie Sticks 1 oz bag                                    $1.03          $0.52          49.5%     
@@ -23,8 +23,8 @@ Edge Extra Moisturizing Shave Gel 7 oz can                                      
 PFO ORG CKN NDL 16.1OZ 12CA                                                              $3.24          $1.73          46.6%     
 PFO ORG CKN WILD RICE 16.3OZ 12CA                                                        $3.24          $1.73          46.6%     
 DOG FOOD CUP BEEF STEW                                                                   $1.76          $0.88          50.0%     
-Kellogg's Apple Jacks Cinnamon Glazed Donut Holes Cereal 10 oz                           $3.69          $1.84        50.1% ***   
-Kelloggs cereal special k blueberry 11.2 oz                                              $3.69          $1.84        50.1% ***   
+Kellogg's Apple Jacks Cinnamon Glazed Donut Holes Cereal 10 oz                           $3.69          $1.84          50.1%     
+Kelloggs cereal special k blueberry 11.2 oz                                              $3.69          $1.84          50.1%     
 Kinder's hickory molasses rub 5 oz                                                       $3.79          $1.89          50.1%     
 Kinders bourbon peach seasoning 5.8 oz                                                   $3.79          $1.89          50.1%     
 SEASONING BLACK CHERRY CHIPOTLE                                                          $3.79          $1.89          50.1%     
@@ -38,10 +38,10 @@ Jack Link's Peppered Beef Jerky 3.25 oz bag                                     
 Jack Link's Sweet & Hot Beef Jerky 3.25 oz bag                                           $5.99          $2.01          66.4%     
 PEANUT BUTTER REESES BAR                                                                 $4.09          $2.06          49.6%     
 Vaseline Men Fast Absorbing Body & Face Lotion 20.3 fl oz pump bottle                    $6.04          $2.12          64.9%     
-Kelloggs cereal special k original 12 oz                                                 $4.25          $2.12        50.1% ***   
-Kelloggs cereal vanilla almond large size 16.1 oz                                        $4.25          $2.12        50.1% ***   
-Kelloggs cereal froot loops 13.2 oz                                                      $4.25          $2.12        50.1% ***   
-Frosted Flakes Corn Cereal Large Size 17.3 oz                                            $4.25          $2.12        50.1% ***   
+Kelloggs cereal special k original 12 oz                                                 $4.25          $2.12          50.1%     
+Kelloggs cereal vanilla almond large size 16.1 oz                                        $4.25          $2.12          50.1%     
+Kelloggs cereal froot loops 13.2 oz                                                      $4.25          $2.12          50.1%     
+Frosted Flakes Corn Cereal Large Size 17.3 oz                                            $4.25          $2.12          50.1%     
 BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
 Nestle Drumstick Vanilla Caramel Sundae Cone Frozen Dairy Dessert 4 ct 18.1 fl oz bo     $4.56          $2.19          52.0%     
 CHIPOTLE VEGENAISE                                                                       $4.25          $2.24          47.3%     
@@ -83,7 +83,7 @@ BAR ORGANIC GRNOLA CHOC DRIZZLE                                                 
 BAR CHEWY GRNOLA BDAY CAKE                                                               $3.59          $1.80          49.9%     
 Degree Antiperspirant Deodorant, Shower Clean Twin Pack                                  $6.68          $3.60          46.1%     
 Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $3.66          59.2%     
-Kellogg's Glazed Donut Holes Frosted Flakes Cereal 10 oz                                 $3.69          $1.84        50.1% ***   
+Kellogg's Glazed Donut Holes Frosted Flakes Cereal 10 oz                                 $3.69          $1.84          50.1%     
 Rachael Ray Nutrish Chicken & Brown Rice Recipe Dry Cat Food 3 lb bag                    $6.90          $3.72          46.1%     
 Schick Intuition Pure Nourishment Coconut Milk & Almond Milk Razor 1 ea                  $8.62          $3.87          55.1%     
 Schick Intuition Naturals Sensitive Care Aloe And Vitamin E Women's Razor box            $8.62          $3.87          55.1%     
