@@ -43,7 +43,6 @@ Kelloggs cereal vanilla almond large size 16.1 oz                               
 Kelloggs cereal froot loops 13.2 oz                                                      $4.25          $2.12          50.1%     
 Frosted Flakes Corn Cereal Large Size 17.3 oz                                            $4.25          $2.12          50.1%     
 BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
-Nestle Drumstick Vanilla Caramel Sundae Cone Frozen Dairy Dessert 4 ct 18.1 fl oz bo     $4.56          $2.19          52.0%     
 CHIPOTLE VEGENAISE                                                                       $4.25          $2.24          47.3%     
 Brew Dr. Organic Ginger Lemon Kombucha Tea 14 oz bottle                                  $2.25          $1.12          50.2%     
 Brew Dr. Organic Kombucha Drink Tea 14 oz bottle                                         $2.25          $1.12          50.2%     
@@ -82,7 +81,6 @@ Billie Razor Blade Refills 4 ct                                                 
 BAR ORGANIC GRNOLA CHOC DRIZZLE                                                          $3.59          $1.80          49.9%     
 BAR CHEWY GRNOLA BDAY CAKE                                                               $3.59          $1.80          49.9%     
 Degree Antiperspirant Deodorant, Shower Clean Twin Pack                                  $6.68          $3.60          46.1%     
-Liquid IV Hydration Multiplier Electrolyte Drink Mix 8-.28 Oz                            $8.98          $3.66          59.2%     
 Kellogg's Glazed Donut Holes Frosted Flakes Cereal 10 oz                                 $3.69          $1.84          50.1%     
 Rachael Ray Nutrish Chicken & Brown Rice Recipe Dry Cat Food 3 lb bag                    $6.90          $3.72          46.1%     
 Schick Intuition Pure Nourishment Coconut Milk & Almond Milk Razor 1 ea                  $8.62          $3.87          55.1%     
@@ -105,7 +103,6 @@ Dove Advanced Care Cool Essentials Antiperspirant Deodorant Twin Pack 2.6 Oz    
 CEREAL APPLE CINNAMON CEREAL MS                                                          $5.09          $2.63          48.3%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
 Dove men+Care Aloe and Bamboo Whole Body Deodorant 4 Oz                                  $9.58          $5.16          46.1%     
-RRN DOG FD TKY BRRC VEN 5.5LB                                                            $10.16         $5.18          49.0%     
 Axe Blue Lavender Deodorant Stick 3 oz                                                   $5.32          $2.66        50.0% ***   
 Axe Aqua Bergamot Deodorant Stick 3 oz                                                   $5.32          $2.66        50.0% ***   
 CHERRY BERRY LEMONADE                                                                    $5.55          $3.01          45.8%     
@@ -114,7 +111,6 @@ Coca-Cola Body Armor Strawberry Banana Sport Drink 12 fl oz bottle 8 pack       
 Body Armor No Sugar Added Peach Mango Lyte Sports Drink 12 fl oz bottle 8 pack           $5.55          $3.01          45.8%     
 Coca-Cola Body Armor Blue Raspberry Super Drink 12 fl oz bottle 8 pack                   $5.55          $3.01          45.8%     
 WATERMELON STRAWBERRY                                                                    $5.55          $3.01          45.8%     
-DROP IN CONTAINER                                                                        $11.37         $5.62          50.6%     
 Shea Moisture 100% Virgin Coconut Oil Baby Wash & Shampoo 13 fl oz bottle                $5.74          $2.92          49.1%     
 Welly Colorwash Bravery Badges Assorted Flex Fabric Bandages 48 ct                       $5.95          $2.98          49.9%     
 One A Day VitaCraves Women's Multivitamin Gummies 170 ct                                 $12.32         $6.47          47.5%     
@@ -141,7 +137,6 @@ Citracal Calcium Citrate & D3 Petites Coated Caplets 200 ct bottle              
 Aleve All Day Strong Caplets 220 mg Naproxen Sodium 270 ea                               $20.29         $10.17         49.9%     
 Nexxus Humectress Protein Infusion Elastin Protein and Green Caviar Ultimate Moistur     $22.18         $11.41         48.6%     
 Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
-Rachael Ray Nutrish Real Chicken & Veggies Recipe Dog Food 14 lb bag                     $22.10         $11.55         47.7%     
 Shea Moisture Head-To-Toe 100% Extra Virgin Pure Coconut Oil Nourishing Hydration 15     $11.57         $6.29          45.6%     
 GENTLE FOAMING FACIAL CLEANSER KIT                                                       $11.67         $5.83          50.0%     
 Alcon Systane Zaditor Eye Itch Relief Antihistamine Eye Drops 0.17 fl oz bottle          $11.88         $5.88          50.5%     
@@ -149,6 +144,5 @@ Rachael Ray Nutrish Just 6 Lamb & Brown Rice Recipe Dry Dog Food 14 lb bag      
 MEN'S COMPLETE TABLETS 200CT                                                             $16.58         $8.54          48.5%     
 WOMEN'S COMPLETE TABLETS 200CT                                                           $16.58         $8.54          48.5%     
 Claritin Indoor & Outdoor Allergies Original Prescription Strength 10 mg Tablets Val     $33.04         $16.74         49.3%     
-DOG FOOD CHK VEG 28LB                                                                    $36.85         $18.86         48.8%     
 
 Elapsed Time: N/A
