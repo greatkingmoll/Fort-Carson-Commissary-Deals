@@ -1,4 +1,4 @@
-2026-03-04
+2026-03-05
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 CRISPY RICE TREAT HOME STYLE                                                             $0.77          $0.41          46.8%     
@@ -20,14 +20,14 @@ Carefree Acti-Fresh Perfectly Thin to Go Unscented Pantiliners 60 ct package    
 Carefree Acti-Fresh Body Shape Long to Go Unscented Pantiliners 42 ct package            $3.22          $1.38          57.1%     
 Carefree Acti-Fresh Body Shape Extra Long to Go Unscented Pantiliners 36 ct package      $3.22          $1.38          57.1%     
 Sprite + Tea Fridge Pack Cans, 12 fl oz, 12 Pack                                         $7.49          $1.49          80.1%     
-TopCare Hypoallergenic Makeup Remover Cleansing Towelettes 25 ct pack                    $3.35          $1.50        55.2% ***   
+TopCare Hypoallergenic Makeup Remover Cleansing Towelettes 25 ct pack                    $3.35          $1.50          55.2%     
 CLEANER GLASS SURFACE                                                                    $3.12          $1.60          48.7%     
 Schick Edge Sensitive Skin Aloe Men's Shave Gel 7 oz                                     $3.23          $1.66          48.6%     
 Edge Extra Moisturizing Shave Gel 7 oz can                                               $3.23          $1.66          48.6%     
 PFO ORG CKN NDL 16.1OZ 12CA                                                              $3.24          $1.73          46.6%     
 PFO ORG CKN WILD RICE 16.3OZ 12CA                                                        $3.24          $1.73          46.6%     
-Ocean Spray juice cranberry pomegranate 64 fl oz                                         $3.49          $1.75        49.9% ***   
-Ocean Spray Cranberry 100% Juice 64 fl oz bottle                                         $3.49          $1.75        49.9% ***   
+Ocean Spray juice cranberry pomegranate 64 fl oz                                         $3.49          $1.75          49.9%     
+Ocean Spray Cranberry 100% Juice 64 fl oz bottle                                         $3.49          $1.75          49.9%     
 DOG FOOD CUP BEEF STEW                                                                   $1.76          $0.88          50.0%     
 Kellogg's Apple Jacks Cinnamon Glazed Donut Holes Cereal 10 oz                           $3.69          $1.84          50.1%     
 Kinder's hickory molasses rub 5 oz                                                       $3.79          $1.89          50.1%     
@@ -74,7 +74,7 @@ Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Fr
 Coca-Cola Body Armor Orange Mango Sport Drink 12 fl oz bottle 8 pack                     $5.55          $3.01          45.8%     
 Coca-Cola Body Armor Blue Raspberry Super Drink 12 fl oz bottle 8 pack                   $5.55          $3.01          45.8%     
 Body Armor No Sugar Added Peach Mango Lyte Sports Drink 12 fl oz bottle 8 pack           $5.55          $3.01          45.8%     
-Body Armor Zero Sugar Watermelon Strawberry Sport Drink 12 Fl Oz                         $5.55          $3.01        45.8% ***   
+Body Armor Zero Sugar Watermelon Strawberry Sport Drink 12 Fl Oz                         $5.55          $3.01          45.8%     
 Vaseline Men Cooling Hydration Body Lotion 24.5 fl oz pump bottle                        $6.04          $3.09          48.8%     
 Munchkin BPA-free Fresh Food 6+ Months Baby Feeder package                               $3.12          $1.65          47.1%     
 Cremo Body Wash, Palo Santo 16 FL OZ                                                     $6.17          $3.12          49.4%     
@@ -143,7 +143,7 @@ One A Day Women's 50+ Complete Multivitamin 200 ct                              
 BDY OIL HYDRATE+REPLENISH 3.7Z                                                           $9.17          $5.03          45.1%     
 Citracal Slow Release Calcium Dietary Supplement Coated Caplets 1200 mg Calcium 1000     $9.42          $4.80          49.0%     
 Citracal Calcium Citrate & D3 Petites Coated Caplets 200 ct bottle                       $9.42          $4.80          49.0%     
-Tippy Toes Super Pack Diapers, 4 22-37 lb 92 ct                                          $27.29         $10.00       63.4% ***   
+Tippy Toes Super Pack Diapers, 4 22-37 lb 92 ct                                          $27.29         $10.00         63.4%     
 Aleve All Day Strong Caplets 220 mg Naproxen Sodium 270 ea                               $20.29         $10.17         49.9%     
 Nexxus Humectress Protein Infusion Elastin Protein and Green Caviar Ultimate Moistur     $22.18         $11.41         48.6%     
 Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
