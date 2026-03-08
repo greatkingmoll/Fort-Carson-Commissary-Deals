@@ -79,6 +79,7 @@ Dr Pepper soda blackberry 12 pk                                                 
 Cascadian Farm Organic Cocoa Almond Protein Cereal 10.7 oz                               $4.74          $2.55          46.2%     
 Schick Skintimate Dry Skin Therapy Women's Shave Gel 7 oz can 2 ct                       $5.50          $2.60          52.7%     
 Schick Edge Sensitive Skin Aloe Men's Shave Gel 7 oz can 2 ct                            $5.50          $2.60          52.7%     
+Axe Blue Lavender Deodorant Stick 3 oz                                                   $5.32          $2.66          50.0%     
 Axe Aqua Bergamot Deodorant Stick 3 oz                                                   $5.32          $2.66          50.0%     
 Bolthouse Farms Strawberry Banana Fruit Smoothie 52 fl oz bottle                         $5.69          $2.84          50.1%     
 Schick hydro silk ultra-sensitive disposable 2 ea                                        $5.62          $2.92          48.0%     
@@ -98,7 +99,6 @@ Flintstones Complete Children's Multivitamin Supplement Gummies 70 ct           
 U By Kotex Lightdays Soft & Silky Extra Coverage Liners 80 ct box                        $5.92          $3.19          46.1%     
 U By Kotex Security Lightdays Long Pantyliner 96 ct box                                  $5.92          $3.19          46.1%     
 U By Kotex Security Lightdays Regular Liners 129 ct box                                  $5.92          $3.19          46.1%     
-Post Honey Bunches Oats Crunchy Honey Roasted Granola 11 oz bag                          $3.25          $1.67          48.6%     
 Degree Women Pure Clean UltraClear Invisible Solid Antiperspirant Deodorant Stick 2.     $6.34          $3.26          48.6%     
 U By Kotex Balance Teen Ultra Thin Pads with Wings 28 Ct                                 $6.57          $3.35          49.0%     
 PAD ULTRA THIN WINGS TEEN OVERNIGHT                                                      $6.57          $3.35          49.0%     
@@ -141,8 +141,6 @@ Dove Advanced Care Cool Essentials Antiperspirant Deodorant Twin Pack 2.6 Oz    
 CEREAL APPLE CINNAMON CEREAL MS                                                          $5.09          $2.63          48.3%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
 Dove men+Care Aloe and Bamboo Whole Body Deodorant 4 Oz                                  $9.58          $5.16          46.1%     
-Axe Blue Lavender Deodorant Stick 3 oz                                                   $5.32          $2.66          50.0%     
-Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can 8 pack                   $10.99         $5.49          50.0%     
 Claritin Children's Allergy Grape 4 fl oz box                                            $11.67         $5.54          52.5%     
 Shea Moisture 100% Virgin Coconut Oil Baby Wash & Shampoo 13 fl oz bottle                $5.74          $2.92          49.1%     
 GENTLE FOAMING FACIAL CLEANSER KIT                                                       $11.67         $5.83          50.0%     
@@ -161,11 +159,9 @@ UW SLHTTE MAX ABS WMN L                                                         
 Rachael Ray Nutrish Peak Open Range Recipe Beef Venison & Lamb Dry Dog Food 4 lb bag     $13.24         $6.94          47.6%     
 Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can                   $6.96          $3.58          48.6%     
 Depend Fit Flex Women Large Underwear 17 ct package                                      $13.39         $7.04          47.4%     
-Depend Fit Flex Men's Extra Large Underwear 15 ct package                                $13.39         $7.04          47.4%     
 Poise 3 in 1 Long Length Pads 54 ct package                                              $14.19         $7.16          49.5%     
 Nexxus Therappe Protein Infusion Elastin Protein and Green Caviar Ultimate Moisture      $13.28         $7.18          45.9%     
 Nexxus Humectress Protein Infusion Elastin Protein and Green Caviar Ultimate Moistur     $13.28         $7.18          45.9%     
-Shea Moisture Raw Shea Butter Moisture Retention Shampoo 13 fl oz bottle                 $8.06          $4.14          48.6%     
 Refresh Relieva PF Xtra Lubricant Eye Drops 0.33 oz                                      $14.97         $8.17          45.4%     
 Alka Seltzer Heartburn Relief Assorted Fruit 66Ct                                        $8.62          $4.67          45.8%     
 Alcon Systane Original Lubricant Eye Drops 1 fl oz bottle                                $17.53         $9.03          48.5%     
