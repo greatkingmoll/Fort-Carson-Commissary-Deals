@@ -1,7 +1,6 @@
 2026-03-11
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
-General Mills Fiber One Chocolate Fudge Brownies 5.34 oz box                             $3.78          $0.35          90.7%     
 CRISPY RICE TREAT BIRTHDAY CAKE                                                          $0.77          $0.41          46.8%     
 Sprite Soda Lemon-Lime - 20 Fl. Oz.                                                      $2.00          $0.49          75.5%     
 Coca-Cola Zero Sugar Soda Soft Drink, 20 fl oz Bottle                                    $2.00          $0.49          75.5%     
@@ -61,12 +60,10 @@ Jack Link's Original Jerky Turkey 3.2 oz bag                                    
 General Mills Reese's Sweet & Crunchy Peanut Butter Corn Puffs Cereal 11.5 oz box        $3.98          $2.05          48.5%     
 General Mills Cinnamon Toast Crunch Cereal 12 oz box                                     $3.98          $2.05          48.5%     
 General Mills Cheerios Gluten-free Whole Grain Oat Honey Nut Corn Cereal 10.8 oz box     $3.98          $2.05          48.5%     
-PEANUT BUTTER REESES BAR                                                                 $4.09          $2.06          49.6%     
 BULBS 200W GEN PURPOSE A21 CLR                                                           $2.08          $0.82          60.6%     
 Vaseline Men Fast Absorbing Body & Face Lotion 20.3 fl oz pump bottle                    $6.04          $2.12          64.9%     
 GE Lighting High Intensity 40 W S11 Light Bulb package                                   $2.12          $0.84          60.4%     
 Kelloggs cereal special k original 12 oz                                                 $4.25          $2.12          50.1%     
-Kelloggs cereal vanilla almond large size 16.1 oz                                        $4.25          $2.12          50.1%     
 BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
 MIX CAKE SM YELLOW LS                                                                    $2.25          $1.23          45.3%     
 GENTLE FOAMING FACIAL CONCENTRATE - 1 REFILL                                             $4.67          $2.33          50.1%     
@@ -88,6 +85,7 @@ GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct p
 Axe Blue Lavender Deodorant Stick 3 oz                                                   $5.32          $2.66          50.0%     
 GE Lighting Soft White 15 W A15 Light Bulb 2 ct package                                  $2.68          $1.07          60.1%     
 GE Lighting Soft White Ceiling Fan 40 W A15 Candelabra Base Light Bulb 2 ct package      $2.68          $1.07          60.1%     
+Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $0.39          85.9%     
 Bolthouse Farms Strawberry Banana Fruit Smoothie 52 fl oz bottle                         $5.69          $2.84          50.1%     
 GE Lighting Soft White 25 W A19 Light Bulb 2 ct package                                  $2.84          $0.85          70.1%     
 GE Lighting Halogen Spotlight MR16 Indoor/Outdoor Light Bulb package                     $2.89          $0.85          70.6%     
@@ -198,7 +196,6 @@ GE Lighting LED Daylight 40 W Decorative CAC Candelabra Base Light Bulb 2 ct pac
 GE Lighting LED Soft White Ceiling Fan 40 W A15 Light Bulb 2 ct package                  $7.93          $3.17          60.0%     
 BULBS 5.5W LED CLASSIC SHP CFAN 2PK                                                      $7.96          $2.60          67.3%     
 GE Lighting Soft White Decorative Clear Finish 5 W CAC Candelabra Base LED Light Bul     $7.98          $2.28          71.4%     
-Refresh Relieva PF Xtra Lubricant Eye Drops 0.33 oz                                      $14.97         $8.17          45.4%     
 GE Lighting Relax LED Soft White 40 W G25 Light Bulb 2 ct package                        $8.26          $3.26          60.5%     
 Alka Seltzer Heartburn Relief Assorted Fruit 66Ct                                        $8.62          $4.67          45.8%     
 GE Lighting LED Daylight 40 W G25 Decorative Light Bulb 2 ct package                     $8.69          $2.35          73.0%     
@@ -211,14 +208,13 @@ GE Lighting LED Daylight 40 W A19 Light Bulb 4 ct package                       
 GE Lighting LED Daylight 75 W A19 Light Bulb 2 ct package                                $8.84          $2.61          70.5%     
 BULBS 5.5W LED CLASSSC SHP SW FRST                                                       $8.98          $3.54          60.6%     
 Alcon Opti Free Puremoist Multi-Purpose Contact Lens Solution 10 fl oz bottle 2 ct       $17.07         $9.07          46.9%     
+Tyson Ground Beef Pork Loaf                                                              $9.16          $4.65          49.2%     
 GE Lighting LED Soft White 40 W A19 Light Bulb 4 ct package                              $9.29          $2.54          72.7%     
 Citracal Slow Release Calcium Dietary Supplement Coated Caplets 1200 mg Calcium 1000     $9.42          $4.80          49.0%     
 Citracal Calcium Citrate & D3 Petites Coated Caplets 200 ct bottle                       $9.42          $4.80          49.0%     
 GE Lighting Refresh LED Daylight 40 W G25 Light Bulb 2 ct package                        $9.98          $2.70          72.9%     
 GE Lighting LED Soft White 65 W BR40 Floodlight Light Bulb 2 ct package                  $9.98          $2.63          73.6%     
-Ge Light A19 8 Watt Dusk To Dawn Led + Light Bulb Clear 1 Ct                             $9.98          $3.81          61.8%     
 Tippy Toes Super Pack Diapers, 4 22-37 lb 92 ct                                          $27.29         $10.00         63.4%     
-BULBS 15W LED PAR38 FLOOD DIMNG                                                          $10.12         $4.01          60.4%     
 Aleve All Day Strong Caplets 220 mg Naproxen Sodium 270 ea                               $20.29         $10.17         49.9%     
 BULBS 10.5W LED REVEAL ALINE                                                             $10.56         $2.72          74.2%     
 GE Lighting Relax LED Soft White 60 W Candelabra Base CAC Light Bulb 2 ct package        $10.64         $4.23          60.2%     
@@ -236,8 +232,14 @@ BULBS 22W LED ULTRA BRIGHT OUTDR SW                                             
 BULBS VINTAGE AMBER LED 2PK                                                              $13.42         $3.56          73.5%     
 BULBS LED 13.5W RELAX A19 SW 2PK                                                         $13.49         $5.34          60.4%     
 GE Lighting Reveal LED 60 W Clear Light Bulb 4 ct package                                $14.16         $5.60          60.5%     
+DOG TREAT DTX ORG MINI 108 CT 4/1.63 LB                                                  $14.37         $7.75        46.1% ***   
 Ge Light Smart Plug Indoor Bulb 1 ct                                                     $14.73         $3.93          73.3%     
+Iams Chicken & Whole Grains Recipe Adult Minichunks Dog Food 7 lb bag                    $15.12         $7.84        48.1% ***   
+Iams Chicken & Whole Grains Recipe Puppy Dog Food 7 lb bag                               $15.12         $6.38        57.8% ***   
+IAMS ADV SKC CK & SM 4/6 LB                                                              $15.33         $8.41        45.1% ***   
 GE Lighting LED Soft White 60 W Light Bulb package                                       $15.53         $4.13          73.4%     
+DOG DRY ADULT CMPLT NUTRITION STEAK N VEG                                                $15.83         $7.13        55.0% ***   
+Pedigree Adult Dog food, Roasted Chicken & Vegetable Flavor 18 Lb                        $15.83         $7.13        55.0% ***   
 GE Lighting LED 3-Way Soft White 50/100/150 W A21 Light Bulb package                     $16.14         $5.56          65.6%     
 MEN'S COMPLETE TABLETS 200CT                                                             $16.58         $8.54          48.5%     
 Claritin Indoor & Outdoor Allergies Original Prescription Strength 10 mg Tablets Val     $33.04         $16.74         49.3%     
