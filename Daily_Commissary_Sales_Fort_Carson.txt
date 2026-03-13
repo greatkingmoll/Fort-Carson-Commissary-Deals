@@ -1,4 +1,4 @@
-2026-03-12
+2026-03-13
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 CRISPY RICE TREAT BIRTHDAY CAKE                                                          $0.77          $0.41          46.8%     
@@ -244,9 +244,11 @@ BULBS 22W LED ULTRA BRIGHT OUTDR SW                                             
 BULBS VINTAGE AMBER LED 2PK                                                              $13.42         $3.56          73.5%     
 BULBS LED 13.5W RELAX A19 SW 2PK                                                         $13.49         $5.34          60.4%     
 GE Lighting Reveal LED 60 W Clear Light Bulb 4 ct package                                $14.16         $5.60          60.5%     
-DOG TREAT DTX ORG MINI 108 CT 4/1.63 LB                                                  $14.37         $7.75        46.1% ***   
+DOG TREAT DTX ORG MINI 108 CT 4/1.63 LB                                                  $14.37         $7.75          46.1%     
 Ge Light Smart Plug Indoor Bulb 1 ct                                                     $14.73         $3.93          73.3%     
-Iams Chicken & Whole Grains Recipe Adult Minichunks Dog Food 7 lb bag                    $15.12         $7.84        48.1% ***   
-Iams Chicken & Whole Grains Recipe Puppy Dog Food 7 lb bag                               $15.12         $6.38        57.8% ***   
+Iams Chicken & Whole Grains Recipe Adult Minichunks Dog Food 7 lb bag                    $15.12         $7.84          48.1%     
+Iams Chicken & Whole Grains Recipe Puppy Dog Food 7 lb bag                               $15.12         $6.38          57.8%     
+IAMS ADV SKC CK & SM 4/6 LB                                                              $15.33         $8.41          45.1%     
+GE Lighting LED Soft White 60 W Light Bulb package                                       $15.53         $4.13          73.4%     
 
 Elapsed Time: N/A
