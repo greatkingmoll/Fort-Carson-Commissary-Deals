@@ -51,7 +51,6 @@ GE Lighting Soft White 40 W G16 1/2 Light Bulb 2 ct package                     
 Kinder's hickory molasses rub 5 oz                                                       $3.79          $1.89          50.1%     
 MEAL NT CAULIFLOWER PEPPERONI PIZZA                                                      $3.82          $1.89          50.5%     
 Kinders bourbon peach seasoning 5.8 oz                                                   $3.79          $1.89          50.1%     
-SEASONING BLACK CHERRY CHIPOTLE                                                          $3.79          $1.89          50.1%     
 DOG FOOD CUP CHKN POT PIE                                                                $1.93          $1.05          45.6%     
 Diet Coke Diet Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                              $4.00          $1.97          50.8%     
 Jack Link's Peppered Beef Jerky 3.25 oz bag                                              $5.99          $2.01          66.4%     
@@ -151,6 +150,9 @@ General Mills Lucky Charms Gluten-free Marshmallow Oat Cereal 10.5 oz box       
 CORE PURE TURKEY                                                                         $7.63          $4.03        47.2% ***   
 CORE BARE BEEF                                                                           $7.63          $4.03        47.2% ***   
 Alka-Seltzer Plus Severe Cold Powerfast Fizz 24 Ct                                       $8.47          $4.30          49.2%     
+GARLIC BUTTER DIPPING SAUCE                                                              $4.32          $2.16        50.0% ***   
+HONEY MUSTARD DIPPING SAUCE                                                              $4.32          $2.16        50.0% ***   
+GOLDEN BBQ DIPPING SAUCE                                                                 $4.32          $2.16        50.0% ***   
 Gold Bond Ultimate Healing Aloe Lotion 14 oz bottle                                      $8.42          $4.37          48.1%     
 Gold Bond Ultimate Radiance Renewal Skin Lotion 14 oz bottle                             $8.42          $4.37          48.1%     
 Gold Bond Diabetics Dry Skin Relief Lotion 13 oz bottle                                  $8.42          $4.37          48.1%     
@@ -165,7 +167,6 @@ GE Lighting LED Vintage Style Amber Glass 40 W Medium Base Light Bulb package   
 BIRD FD ULTIMATE FINCH                                                                   $9.23          $4.79          48.1%     
 PAD ULTRA THIN WINGS HEAVY ABS                                                           $9.57          $4.90          48.8%     
 PAD ULTRA THIN WINGS REG ABS                                                             $9.57          $4.90          48.8%     
-Dove Advanced Care Cool Essentials Antiperspirant Deodorant Twin Pack 2.6 Oz             $9.82          $4.96          49.5%     
 Olly Kids Immunity Elderberry, Cherry Dietary Supplement 50 Ct                           $9.93          $5.01          49.5%     
 Olly Kids Chillax Gummy, For a Calm Relaxed Mood 50 Ct                                   $9.93          $5.01          49.5%     
 BDY OIL HYDRATE+REPLENISH 3.7Z                                                           $9.17          $5.03          45.1%     
@@ -201,7 +202,6 @@ Olly Happy Hoo-HA Supports Vaginal Health & PH Balance Probiotic 25 Ct          
 Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30          49.0%     
 GE Lighting LED Soft White 40 W G25 Decorative Light Bulb 2 ct package                   $7.32          $2.10          71.3%     
 BULBS 4W LED CLASC SHP DECO MB BTIP                                                      $7.42          $2.96          60.1%     
-Nature's Bounty Immune Health Vitamin Supplement Caplets 1000 mg Vitamin C 100 ct        $7.76          $1.78          77.1%     
 BULBS 5.5W LED CLASC SHP DEC MB BTIP                                                     $7.79          $3.90          49.9%     
 GE Lighting LED Soft White 40 W CAC Candelabra Base Light Bulb 2 ct package              $7.93          $3.17          60.0%     
 GE Lighting LED Soft White 40 W Decorative Light Bulb 2 ct package                       $7.93          $3.17          60.0%     
@@ -216,7 +216,6 @@ Nature's Bounty Quick Dissolve Melatonin 10 Mg Promote Relaxation & Sleep 45 ea 
 GE Lighting Relax LED Soft White 40 W G25 Light Bulb 2 ct package                        $8.26          $3.26          60.5%     
 Alka Seltzer Heartburn Relief Assorted Fruit 66Ct                                        $8.62          $4.67          45.8%     
 GE Lighting LED Soft White 40 W G16 Decorative Light Bulb 2 ct package                   $8.69          $3.98          54.2%     
-BULBS 4W LED CLASSC SHP SW 2PK                                                           $8.84          $2.28          74.2%     
 BULBS 4W LED CLASSC SHP SW FRST                                                          $8.84          $2.28          74.2%     
 GE Lighting LED Soft White 75 W A19 Light Bulb 2 ct package                              $8.84          $2.61          70.5%     
 GE Lighting LED Daylight 40 W A19 Light Bulb 4 ct package                                $8.84          $2.58          70.8%     
