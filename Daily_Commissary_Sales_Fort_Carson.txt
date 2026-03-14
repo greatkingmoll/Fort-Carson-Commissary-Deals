@@ -1,4 +1,4 @@
-2026-03-13
+2026-03-14
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 CRISPY RICE TREAT BIRTHDAY CAKE                                                          $0.77          $0.41          46.8%     
@@ -101,7 +101,7 @@ YAKY CHEW MACHO                                                                 
 Vaseline Men Cooling Hydration Body Lotion 24.5 fl oz pump bottle                        $6.04          $3.09          48.8%     
 Munchkin BPA-free Fresh Food 6+ Months Baby Feeder package                               $3.12          $1.65          47.1%     
 Cremo Body Wash, Palo Santo 16 FL OZ                                                     $6.17          $3.12          49.4%     
-Carmex Classic Medicated Lip Balm 3 Pk                                                   $3.12          $1.63        47.8% ***   
+Carmex Classic Medicated Lip Balm 3 Pk                                                   $3.12          $1.63          47.8%     
 Cremo Body Wash Vintage Suede 16 OZ                                                      $6.17          $3.12          49.4%     
 U By Kotex Lightdays Soft & Silky Extra Coverage Liners 80 ct box                        $5.92          $3.19          46.1%     
 U By Kotex Security Lightdays Long Pantyliner 96 ct box                                  $5.92          $3.19          46.1%     
@@ -146,18 +146,18 @@ Betty Crocker Oreo White Cake Mix 9.3 oz                                        
 Betty Crocker Oreo Chocolate Cake Mix 9.3 oz                                             $3.96          $2.07          47.7%     
 U By Kotex Security Ultra Thin Heavy Flow Pads 56 ct package                             $7.28          $3.97          45.5%     
 U By Kotex Overnight Maxi Pads 40 ct box                                                 $7.28          $3.97          45.5%     
-SUPER SEED JALAPENO CRACKERS                                                             $3.98          $2.05        48.5% ***   
+SUPER SEED JALAPENO CRACKERS                                                             $3.98          $2.05          48.5%     
 General Mills Lucky Charms Gluten-free Marshmallow Oat Cereal 10.5 oz box                $3.98          $2.05          48.5%     
 CORE PURE TURKEY                                                                         $7.63          $4.03        47.2% ***   
 CORE BARE BEEF                                                                           $7.63          $4.03        47.2% ***   
 Alka-Seltzer Plus Severe Cold Powerfast Fizz 24 Ct                                       $8.47          $4.30          49.2%     
 Gold Bond Ultimate Healing Aloe Lotion 14 oz bottle                                      $8.42          $4.37          48.1%     
 Gold Bond Ultimate Radiance Renewal Skin Lotion 14 oz bottle                             $8.42          $4.37          48.1%     
-Gold Bond Diabetics Dry Skin Relief Lotion 13 oz bottle                                  $8.42          $4.37        48.1% ***   
+Gold Bond Diabetics Dry Skin Relief Lotion 13 oz bottle                                  $8.42          $4.37          48.1%     
 Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26          49.6%     
 MEAL MS BEEF POT ROAST FAMILY SIZE                                                       $8.99          $4.49          50.1%     
 MEAL MS STEAK QUESO AND RICE FAMILY SIZE                                                 $8.99          $4.49          50.1%     
-Gold Bond Ultimate Neck and Chest Firming Cream 2 oz tube                                $8.72          $4.52        48.2% ***   
+Gold Bond Ultimate Neck and Chest Firming Cream 2 oz tube                                $8.72          $4.52          48.2%     
 Vaseline Intensive Care Cocoa Radiant Body Lotion 32 fl oz pump bottle                   $8.33          $4.57          45.1%     
 Playtex Tampon Sport Multi-Pack Regular/Super 48 Ct                                      $9.17          $4.59          49.9%     
 GE Lighting LED Vintage Style Amber Glass 40 W CAC Candelabara Base Light Bulb packa     $4.69          $1.24          73.6%     
@@ -172,7 +172,7 @@ BDY OIL HYDRATE+REPLENISH 3.7Z                                                  
 CEREAL APPLE CINNAMON CEREAL MS                                                          $5.09          $2.63          48.3%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
 Dove men+Care Aloe and Bamboo Whole Body Deodorant 4 Oz                                  $9.58          $5.16          46.1%     
-Nature's Bounty Gentle Iron Supports Red Blood Cell Production 90 Ct                     $5.27          $1.20        77.2% ***   
+Nature's Bounty Gentle Iron Supports Red Blood Cell Production 90 Ct                     $5.27          $1.20          77.2%     
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can 8 pack                   $10.99         $5.49          50.0%     
 BULBS LED 9W BUGLIGHT A19 1PK                                                            $5.59          $1.61          71.2%     
 Shea Moisture 100% Virgin Coconut Oil Baby Wash & Shampoo 13 fl oz bottle                $5.74          $2.92          49.1%     
@@ -189,7 +189,7 @@ GRANOLA COCONUT ALMOND KETO                                                     
 GRANOLA TOASTED ALMOND KETO                                                              $6.63          $3.47          47.7%     
 UW SLHTTE MAX ABS WMN M                                                                  $13.39         $6.84          48.9%     
 UW SLHTTE MAX ABS WMN L                                                                  $13.39         $6.84          48.9%     
-Nature's Bounty B-12 5000 Mcg Quick Dissolve Cherry Flavor 40 Ct                         $6.86          $1.57        77.1% ***   
+Nature's Bounty B-12 5000 Mcg Quick Dissolve Cherry Flavor 40 Ct                         $6.86          $1.57          77.1%     
 Rachael Ray Nutrish Peak Open Range Recipe Beef Venison & Lamb Dry Dog Food 4 lb bag     $13.24         $6.94          47.6%     
 Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can                   $6.96          $3.58          48.6%     
 Depend Fit Flex Women Large Underwear 17 ct package                                      $13.39         $7.04          47.4%     
@@ -201,7 +201,7 @@ Olly Happy Hoo-HA Supports Vaginal Health & PH Balance Probiotic 25 Ct          
 Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30          49.0%     
 GE Lighting LED Soft White 40 W G25 Decorative Light Bulb 2 ct package                   $7.32          $2.10          71.3%     
 BULBS 4W LED CLASC SHP DECO MB BTIP                                                      $7.42          $2.96          60.1%     
-Nature's Bounty Immune Health Vitamin Supplement Caplets 1000 mg Vitamin C 100 ct        $7.76          $1.78        77.1% ***   
+Nature's Bounty Immune Health Vitamin Supplement Caplets 1000 mg Vitamin C 100 ct        $7.76          $1.78          77.1%     
 BULBS 5.5W LED CLASC SHP DEC MB BTIP                                                     $7.79          $3.90          49.9%     
 GE Lighting LED Soft White 40 W CAC Candelabra Base Light Bulb 2 ct package              $7.93          $3.17          60.0%     
 GE Lighting LED Soft White 40 W Decorative Light Bulb 2 ct package                       $7.93          $3.17          60.0%     
@@ -212,7 +212,7 @@ GE Lighting Soft White Decorative Clear Finish 5 W CAC Candelabra Base LED Light
 DOG FOOD ADULT CHICKEN & OATMEAL                                                         $15.49         $8.17        47.3% ***   
 DOG FD ADULT BEEF BARLEY RECP                                                            $15.49         $8.17        47.3% ***   
 SALMON & RICE RECIPE                                                                     $15.49         $8.17        47.3% ***   
-Nature's Bounty Quick Dissolve Melatonin 10 Mg Promote Relaxation & Sleep 45 ea          $8.22          $1.89        77.0% ***   
+Nature's Bounty Quick Dissolve Melatonin 10 Mg Promote Relaxation & Sleep 45 ea          $8.22          $1.89          77.0%     
 GE Lighting Relax LED Soft White 40 W G25 Light Bulb 2 ct package                        $8.26          $3.26          60.5%     
 Alka Seltzer Heartburn Relief Assorted Fruit 66Ct                                        $8.62          $4.67          45.8%     
 GE Lighting LED Soft White 40 W G16 Decorative Light Bulb 2 ct package                   $8.69          $3.98          54.2%     
@@ -228,25 +228,25 @@ GE Lighting LED Soft White 40 W A19 Light Bulb 4 ct package                     
 CAT GRAIN FR INDOOR CHKN RECIPE                                                          $17.84         $9.36        47.5% ***   
 Citracal Slow Release Calcium Dietary Supplement Coated Caplets 1200 mg Calcium 1000     $9.42          $4.80          49.0%     
 Citracal Calcium Citrate & D3 Petites Coated Caplets 200 ct bottle                       $9.42          $4.80          49.0%     
-DOG DRY ADULT HI PRO RM                                                                  $19.56         $9.86        49.6% ***   
+DOG DRY ADULT HI PRO RM                                                                  $19.56         $9.86          49.6%     
 GE Lighting Refresh LED Daylight 40 W G25 Light Bulb 2 ct package                        $9.98          $2.70          72.9%     
 GE Lighting LED Soft White 65 W BR40 Floodlight Light Bulb 2 ct package                  $9.98          $2.63          73.6%     
 Tippy Toes Super Pack Diapers, 4 22-37 lb 92 ct                                          $27.29         $10.00         63.4%     
 Aleve All Day Strong Caplets 220 mg Naproxen Sodium 270 ea                               $20.29         $10.17         49.9%     
-Nature's Bounty Herbal Health Standardized Extract Supplement Capsules 120 mg Ginkgo     $10.19         $2.34        77.0% ***   
-Nature's Bounty Fish Oil 145 ea                                                          $10.22         $2.34        77.1% ***   
-CALCIUM + D3 GUMMIES                                                                     $10.46         $5.40        48.4% ***   
+Nature's Bounty Herbal Health Standardized Extract Supplement Capsules 120 mg Ginkgo     $10.19         $2.34          77.0%     
+Nature's Bounty Fish Oil 145 ea                                                          $10.22         $2.34          77.1%     
+CALCIUM + D3 GUMMIES                                                                     $10.46         $5.40          48.4%     
 BULBS 10.5W LED REVEAL ALINE                                                             $10.56         $2.72          74.2%     
 GE Lighting Relax LED Soft White 60 W Candelabra Base CAC Light Bulb 2 ct package        $10.64         $4.23          60.2%     
 BULBS 13W LED RELAX A21 SW                                                               $10.76         $2.77          74.3%     
 BULBS LED RELAX SW CLEAR CAM 5.5W                                                        $10.79         $5.01          53.6%     
 PAD MOD ABS LONG                                                                         $20.62         $11.02         46.6%     
 Nexxus Humectress Protein Infusion Elastin Protein and Green Caviar Ultimate Moistur     $22.18         $11.41         48.6%     
-COQ10 GUMMY                                                                              $11.44         $6.17        46.1% ***   
+COQ10 GUMMY                                                                              $11.44         $6.17          46.1%     
 Ge Light 13 Watt Dusk To Dawn Led Light Soft White Bulb 1 ct                             $11.53         $5.09          55.9%     
 Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
 Shea Moisture Head-To-Toe 100% Extra Virgin Pure Coconut Oil Nourishing Hydration 15     $11.57         $6.29          45.6%     
-PROBIOTIC GUMMIES                                                                        $11.58         $6.36        45.1% ***   
+PROBIOTIC GUMMIES                                                                        $11.58         $6.36          45.1%     
 BULBS LED 9W RELAX BR30 FLOOD SW 2PK                                                     $12.12         $3.27          73.0%     
 GE Lighting LED Vintage Style Amber Glass 60 W ST19 Light Bulb 2 ct package              $12.31         $4.01          67.4%     
 BULBS 22W LED ULTRA BRIGHT OUTDR SW                                                      $13.39         $3.68          72.5%     
