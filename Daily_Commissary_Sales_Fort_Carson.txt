@@ -33,18 +33,20 @@ MEAL NT CAULIFLOWER PEPPERONI PIZZA                                             
 Kinders bourbon peach seasoning 5.8 oz                                                   $3.79          $1.89          50.1%     
 DOG FOOD CUP CHKN POT PIE                                                                $1.93          $1.05          45.6%     
 BULBS 200W GEN PURPOSE A21 CLR                                                           $2.08          $0.82          60.6%     
+Progresso Plain Bread Crumbs 15 oz tub                                                   $2.12          $1.00        52.8% ***   
 Vaseline Men Fast Absorbing Body & Face Lotion 20.3 fl oz pump bottle                    $6.04          $2.12          64.9%     
+Progresso Garlic & Herb Bread Crumbs 15 oz tub                                           $2.12          $1.00        52.8% ***   
 GE Lighting High Intensity 40 W S11 Light Bulb package                                   $2.12          $0.84          60.4%     
 AUTO VCLIP SEASIDE COCONUT VER                                                           $4.08          $2.12          48.0%     
 AUTO VCLIP COASTAL STORM TEAK                                                            $4.08          $2.12          48.0%     
-Kelloggs cereal special k original 12 oz                                                 $4.25          $2.12          50.1%     
+Progresso Italian Style Bread Crumbs 15 oz tub                                           $2.12          $1.00        52.8% ***   
 BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
 MIX CAKE SM YELLOW LS                                                                    $2.25          $1.23          45.3%     
 PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
+CRACKERS SPICY SWT CHILI                                                                 $2.32          $1.15          50.4%     
 Fruit and Nut Granola 11 oz                                                              $4.82          $2.35          51.2%     
 Smokehouse Pet Products Chicken & Sweet Potato Combo Dog Treats 4 oz reseal bag          $4.87          $2.47          49.3%     
 Ambesol Instant Oral Pain Relief for Toothaches and Mouth Sores .33 Oz                   $4.86          $2.48          49.0%     
-GLASS CLEANER TRIGGER                                                                    $4.86          $2.49          48.8%     
 Cascadian Farm Organic Cocoa Almond Protein Cereal 10.7 oz                               $4.74          $2.55          46.2%     
 BULBS 40W DECO CEILING FN                                                                $2.56          $1.02          60.2%     
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.62          $1.04          60.3%     
@@ -78,7 +80,7 @@ Blue Diamond Almonds Smokehouse 6 oz can                                        
 Blue Diamond Bold Wasabi & Soy Sauce Almonds 6 oz can                                    $3.59          $1.79          50.0%     
 Blue Diamond Salted Roasted Almonds 6 oz can                                             $3.59          $1.79          50.0%     
 Blue diamond almonds bold elote 6 oz                                                     $3.59          $1.79          50.0%     
-BAR CHEWY GRNOLA BDAY CAKE                                                               $3.59          $1.80          49.9%     
+BAR ORGANIC GRNOLA CHOC DRIZZLE                                                          $3.59          $0.67          81.3%     
 Blue Diamond Bold Salt'N Vinegar Almonds 6 oz package                                    $3.59          $1.79          50.0%     
 Blue Diamond Lightly Salted Almonds 6 oz package                                         $3.59          $1.79          50.0%     
 Degree Antiperspirant Deodorant, Shower Clean Twin Pack                                  $6.68          $3.60          46.1%     
@@ -89,14 +91,12 @@ MEAL MS ORANGE CHICKEN AIR FRYER MEAL                                           
 U by Kotex Balance Extra Heavy Overnight Ultra-Thin Pads 22 Ct                           $7.37          $3.79          48.6%     
 U By Kotex Balance Ultra Thin Pads with Wings 32 Ct                                      $7.38          $3.79          48.6%     
 U by Kotex Balance Ultra Thin Pads with Wings Overnight 26 ea                            $7.37          $3.79          48.6%     
-Dove 4 Peach Rebalancing Bar 15 Oz                                                       $7.13          $3.90          45.3%     
 BAKING MIX COFFEE CAKE REESES PNT BTR                                                    $3.96          $2.07          47.7%     
 Betty Crocker Oreo White Cake Mix 9.3 oz                                                 $3.96          $2.07          47.7%     
 Betty Crocker Oreo Chocolate Cake Mix 9.3 oz                                             $3.96          $2.07          47.7%     
 U By Kotex Security Ultra Thin Heavy Flow Pads 56 ct package                             $7.28          $3.97          45.5%     
 U By Kotex Overnight Maxi Pads 40 ct box                                                 $7.28          $3.97          45.5%     
 SUPER SEED JALAPENO CRACKERS                                                             $3.98          $2.05          48.5%     
-CORE PURE TURKEY                                                                         $7.63          $4.03          47.2%     
 CORE BARE BEEF                                                                           $7.63          $4.03          47.2%     
 Alka-Seltzer Plus Severe Cold Powerfast Fizz 24 Ct                                       $8.47          $4.30          49.2%     
 GARLIC BUTTER DIPPING SAUCE                                                              $4.32          $2.16          50.0%     
@@ -121,10 +121,10 @@ BDY OIL HYDRATE+REPLENISH 3.7Z                                                  
 CEREAL APPLE CINNAMON CEREAL MS                                                          $5.09          $2.63          48.3%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
 Dove men+Care Aloe and Bamboo Whole Body Deodorant 4 Oz                                  $9.58          $5.16          46.1%     
-Nature's Bounty Gentle Iron Supports Red Blood Cell Production 90 Ct                     $5.27          $1.20          77.2%     
 BULBS LED 9W BUGLIGHT A19 1PK                                                            $5.59          $1.61          71.2%     
 Shea Moisture 100% Virgin Coconut Oil Baby Wash & Shampoo 13 fl oz bottle                $5.74          $2.92          49.1%     
 GE Lighting LED Vintage Style Amber Glass 60 W ST19 Clear Light Bulb 2 ct package        $14.43         $6.13          57.5%     
+Iams Chicken & Whole Grains Recipe Puppy Dog Food 7 lb bag                               $15.12         $6.38          57.8%     
 GE Lighting Refresh LED Daylight 60 W A19 Light Bulb 2 ct package                        $6.39          $2.51          60.7%     
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
 ES HAWAIIAN BREEZE 6PK                                                                   $12.59         $6.63          47.3%     
@@ -137,7 +137,6 @@ Nature's Bounty B-12 5000 Mcg Quick Dissolve Cherry Flavor 40 Ct                
 Rachael Ray Nutrish Peak Open Range Recipe Beef Venison & Lamb Dry Dog Food 4 lb bag     $13.24         $6.94          47.6%     
 Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can                   $6.96          $3.58          48.6%     
 Depend Fit Flex Women Large Underwear 17 ct package                                      $13.39         $7.04          47.4%     
-Poise 3 in 1 Long Length Pads 54 ct package                                              $14.19         $7.16          49.5%     
 Nexxus Humectress Protein Infusion Elastin Protein and Green Caviar Ultimate Moistur     $13.28         $7.18          45.9%     
 Nexxus Therappe Protein Infusion Elastin Protein and Green Caviar Ultimate Moisture      $13.28         $7.18          45.9%     
 HELLO HAPPY                                                                              $14.32         $7.30          49.0%     
@@ -159,6 +158,7 @@ Nature's Bounty Quick Dissolve Melatonin 10 Mg Promote Relaxation & Sleep 45 ea 
 GE Lighting Relax LED Soft White 40 W G25 Light Bulb 2 ct package                        $8.26          $3.26          60.5%     
 Alka Seltzer Heartburn Relief Assorted Fruit 66Ct                                        $8.62          $4.67          45.8%     
 GE Lighting LED Soft White 40 W G16 Decorative Light Bulb 2 ct package                   $8.69          $3.98          54.2%     
+DOG DRY ADULT HI PRO RM                                                                  $20.38         $8.74          57.1%     
 BULBS 4W LED CLASSC SHP SW FRST                                                          $8.84          $2.28          74.2%     
 GE Lighting LED Soft White 75 W A19 Light Bulb 2 ct package                              $8.84          $2.61          70.5%     
 GE Lighting LED Daylight 40 W A19 Light Bulb 4 ct package                                $8.84          $2.58          70.8%     
@@ -194,18 +194,11 @@ BULBS 22W LED ULTRA BRIGHT OUTDR SW                                             
 BULBS VINTAGE AMBER LED 2PK                                                              $13.42         $3.56          73.5%     
 BULBS LED 13.5W RELAX A19 SW 2PK                                                         $13.49         $5.34          60.4%     
 DOG TREAT DTX ORG MINI 108 CT 4/1.63 LB                                                  $14.37         $7.75          46.1%     
-Ge Light Smart Plug Indoor Bulb 1 ct                                                     $14.73         $3.93          73.3%     
 Iams Chicken & Whole Grains Recipe Adult Minichunks Dog Food 7 lb bag                    $15.12         $7.84          48.1%     
 IAMS ADV SKC CK & SM 4/6 LB                                                              $15.33         $8.41          45.1%     
 GE Lighting LED Soft White 60 W Light Bulb package                                       $15.53         $4.13          73.4%     
+DOG DRY ADULT CMPLT NUTRITION STEAK N VEG                                                $15.83         $5.56          64.9%     
+Pedigree Adult Dog food, Roasted Chicken & Vegetable Flavor 18 Lb                        $15.83         $5.56          64.9%     
 GE Lighting LED 3-Way Soft White 50/100/150 W A21 Light Bulb package                     $16.14         $5.56          65.6%     
-MEN'S COMPLETE TABLETS 200CT                                                             $16.58         $8.54          48.5%     
-OPT SOL HAIR GROWTH GUMMIES                                                              $17.74         $4.07        77.1% ***   
-Huggies Snug & Dry Huge Value 150 ea                                                     $40.64         $20.54         49.5%     
-Huggies Snug & Dry 136 Diapers                                                           $40.64         $20.54         49.5%     
-VITAMINS OPT SOL ADV MENOPAUSE RELIEF TABLET                                             $22.48         $4.69        79.1% ***   
-PET DOG TREATS ADULT CHICKEN BB                                                          $26.06         $11.56       55.6% ***   
-ADULT BEEF & BARLEY                                                                      $50.97         $26.35       48.3% ***   
-PH MINI CHUNKS ACP                                                                       $53.75         $26.16       51.3% ***   
 
 Elapsed Time: N/A
