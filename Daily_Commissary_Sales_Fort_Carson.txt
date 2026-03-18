@@ -1,4 +1,4 @@
-2026-03-17
+2026-03-18
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $0.39          85.9%     
@@ -36,13 +36,13 @@ Kinders bourbon peach seasoning 5.8 oz                                          
 Dr Pepper soda strawberry and cream 12 pk                                                $7.49          $1.99          73.4%     
 Dr Pepper strawberries and cream zero sugar 12 pk                                        $7.49          $1.99          73.4%     
 BULBS 200W GEN PURPOSE A21 CLR                                                           $2.08          $0.82          60.6%     
-Progresso Plain Bread Crumbs 15 oz tub                                                   $2.12          $1.00        52.8% ***   
+Progresso Plain Bread Crumbs 15 oz tub                                                   $2.12          $1.00          52.8%     
 Vaseline Men Fast Absorbing Body & Face Lotion 20.3 fl oz pump bottle                    $6.04          $2.12          64.9%     
-Progresso Garlic & Herb Bread Crumbs 15 oz tub                                           $2.12          $1.00        52.8% ***   
+Progresso Garlic & Herb Bread Crumbs 15 oz tub                                           $2.12          $1.00          52.8%     
 GE Lighting High Intensity 40 W S11 Light Bulb package                                   $2.12          $0.84          60.4%     
 AUTO VCLIP SEASIDE COCONUT VER                                                           $4.08          $2.12          48.0%     
 AUTO VCLIP COASTAL STORM TEAK                                                            $4.08          $2.12          48.0%     
-Progresso Italian Style Bread Crumbs 15 oz tub                                           $2.12          $1.00        52.8% ***   
+Progresso Italian Style Bread Crumbs 15 oz tub                                           $2.12          $1.00          52.8%     
 BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
 Jennieo Turkey Breast                                                                    $4.43          $2.21          50.1%     
 MIX CAKE SM YELLOW LS                                                                    $2.25          $1.23          45.3%     
@@ -107,9 +107,7 @@ Alka-Seltzer Plus Severe Cold Powerfast Fizz 24 Ct                              
 GARLIC BUTTER DIPPING SAUCE                                                              $4.32          $2.16          50.0%     
 HONEY MUSTARD DIPPING SAUCE                                                              $4.32          $2.16          50.0%     
 GOLDEN BBQ DIPPING SAUCE                                                                 $4.32          $2.16          50.0%     
-Gold Bond Ultimate Radiance Renewal Skin Lotion 14 oz bottle                             $8.42          $4.37          48.1%     
 Gold Bond Diabetics Dry Skin Relief Lotion 13 oz bottle                                  $8.42          $4.37          48.1%     
-Gold Bond Ultimate Healing Aloe Lotion 14 oz bottle                                      $8.42          $4.37          48.1%     
 Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26          49.6%     
 MEAL MS BEEF POT ROAST FAMILY SIZE                                                       $8.99          $4.49          50.1%     
 MEAL MS STEAK QUESO AND RICE FAMILY SIZE                                                 $8.99          $4.49          50.1%     
@@ -191,10 +189,13 @@ Nexxus Humectress Protein Infusion Elastin Protein and Green Caviar Ultimate Moi
 COQ10 GUMMY                                                                              $11.44         $6.17          46.1%     
 Ge Light 13 Watt Dusk To Dawn Led Light Soft White Bulb 1 ct                             $11.53         $5.09          55.9%     
 Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
-PET DOG TREATS ADULT CHICKEN BB                                                          $26.06         $11.56       55.6% ***   
+PET DOG TREATS ADULT CHICKEN BB                                                          $26.06         $11.56         55.6%     
 Shea Moisture Head-To-Toe 100% Extra Virgin Pure Coconut Oil Nourishing Hydration 15     $11.57         $6.29          45.6%     
 PROBIOTIC GUMMIES                                                                        $11.58         $6.36          45.1%     
 BULBS LED 9W RELAX BR30 FLOOD SW 2PK                                                     $12.12         $3.27          73.0%     
 GE Lighting LED Vintage Style Amber Glass 60 W ST19 Light Bulb 2 ct package              $12.31         $4.01          67.4%     
+BULBS 22W LED ULTRA BRIGHT OUTDR SW                                                      $13.39         $3.68          72.5%     
+BULBS VINTAGE AMBER LED 2PK                                                              $13.42         $3.56          73.5%     
+BULBS LED 13.5W RELAX A19 SW 2PK                                                         $13.49         $5.34          60.4%     
 
 Elapsed Time: N/A
