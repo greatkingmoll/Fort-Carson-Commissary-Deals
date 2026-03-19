@@ -1,4 +1,4 @@
-2026-03-18
+2026-03-19
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $0.39          85.9%     
@@ -187,5 +187,7 @@ PROBIOTIC GUMMIES                                                               
 BULBS LED 9W RELAX BR30 FLOOD SW 2PK                                                     $12.12         $3.27          73.0%     
 GE Lighting LED Vintage Style Amber Glass 60 W ST19 Light Bulb 2 ct package              $12.31         $4.01          67.4%     
 BULBS 22W LED ULTRA BRIGHT OUTDR SW                                                      $13.39         $3.68          72.5%     
+BULBS VINTAGE AMBER LED 2PK                                                              $13.42         $3.56          73.5%     
+BULBS LED 13.5W RELAX A19 SW 2PK                                                         $13.49         $5.34          60.4%     
 
 Elapsed Time: N/A
