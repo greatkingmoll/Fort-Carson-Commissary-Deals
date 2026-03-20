@@ -1,4 +1,4 @@
-2026-03-19
+2026-03-20
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $0.39          85.9%     
@@ -30,7 +30,7 @@ Kellogg's Apple Jacks Cinnamon Glazed Donut Holes Cereal 10 oz                  
 GE Lighting Soft White 40 W G16 1/2 Light Bulb 2 ct package                              $1.88          $0.72          61.7%     
 Kinder's hickory molasses rub 5 oz                                                       $3.79          $1.89          50.1%     
 Kinders bourbon peach seasoning 5.8 oz                                                   $3.79          $1.89          50.1%     
-Vital Pursuit Cauliflower Crust Pepperoni Pizza 22 G Protein 6.3 Oz                      $3.82          $1.89        50.5% ***   
+Vital Pursuit Cauliflower Crust Pepperoni Pizza 22 G Protein 6.3 Oz                      $3.82          $1.89          50.5%     
 Dr Pepper soda strawberry and cream 12 pk                                                $7.49          $1.99          73.4%     
 Dr Pepper strawberries and cream zero sugar 12 pk                                        $7.49          $1.99          73.4%     
 Progresso Plain Bread Crumbs 15 oz tub                                                   $2.12          $1.00          52.8%     
@@ -40,11 +40,9 @@ AUTO VCLIP SEASIDE COCONUT VER                                                  
 AUTO VCLIP COASTAL STORM TEAK                                                            $4.08          $2.12          48.0%     
 Progresso Italian Style Bread Crumbs 15 oz tub                                           $2.12          $1.00          52.8%     
 BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
-Jennieo Turkey Breast                                                                    $4.43          $2.21          50.1%     
 MIX CAKE SM YELLOW LS                                                                    $2.25          $1.23          45.3%     
 CRACKERS SPICY SWT CHILI                                                                 $2.32          $1.15          50.4%     
 Fruit and Nut Granola 11 oz                                                              $4.82          $2.35          51.2%     
-JennieoGronndTurkey                                                                      $4.92          $2.46          50.0%     
 Smokehouse Pet Products Chicken & Sweet Potato Combo Dog Treats 4 oz reseal bag          $4.87          $2.47          49.3%     
 Ambesol Instant Oral Pain Relief for Toothaches and Mouth Sores .33 Oz                   $4.86          $2.48          49.0%     
 Dr Pepper Diet Original Soda 12 fl oz can 12 pack                                        $7.49          $2.49          66.8%     
@@ -94,7 +92,7 @@ Betty Crocker Oreo Chocolate Cake Mix 9.3 oz                                    
 U By Kotex Security Ultra Thin Heavy Flow Pads 56 ct package                             $7.28          $3.97          45.5%     
 U By Kotex Overnight Maxi Pads 40 ct box                                                 $7.28          $3.97          45.5%     
 SUPER SEED JALAPENO CRACKERS                                                             $3.98          $2.05          48.5%     
-Dr Pepper Diet Soda 12 fl oz 24 pack                                                     $14.07         $3.99        71.6% ***   
+Dr Pepper Diet Soda 12 fl oz 24 pack                                                     $14.07         $3.99          71.6%     
 CORE BARE BEEF                                                                           $7.63          $4.03          47.2%     
 Alka-Seltzer Plus Severe Cold Powerfast Fizz 24 Ct                                       $8.47          $4.30          49.2%     
 GARLIC BUTTER DIPPING SAUCE                                                              $4.32          $2.16          50.0%     
@@ -107,7 +105,7 @@ Vaseline Intensive Care Cocoa Radiant Body Lotion 32 fl oz pump bottle          
 GE Lighting LED Vintage Style Amber Glass 40 W CAC Candelabara Base Light Bulb packa     $4.69          $1.24          73.6%     
 GE Lighting LED Vintage Style Amber Glass 40 W Medium Base Light Bulb package            $4.69          $1.24          73.6%     
 GRANOLA SPEC K RED BERRIES                                                               $4.74          $2.37          50.0%     
-GRANOLA SPEC K VAN ALMOND                                                                $4.74          $2.37        50.0% ***   
+GRANOLA SPEC K VAN ALMOND                                                                $4.74          $2.37          50.0%     
 PAD ULTRA THIN WINGS HEAVY ABS                                                           $9.57          $4.90          48.8%     
 PAD ULTRA THIN WINGS REG ABS                                                             $9.57          $4.90          48.8%     
 Olly Kids Chillax Gummy, For a Calm Relaxed Mood 50 Ct                                   $9.93          $5.01          49.5%     
@@ -130,7 +128,7 @@ Rachael Ray Nutrish Peak Open Range Recipe Beef Venison & Lamb Dry Dog Food 4 lb
 Sgx Nyc Salon Grafix Dry Touch Volumizing Dry Shampoo 6.5 oz spray can                   $6.96          $3.58          48.6%     
 SAUCE HELLA HOT BBQ                                                                      $6.98          $3.49        50.0% ***   
 SAUCE SWEET PINEAPPLE BBQ                                                                $6.98          $3.49        50.0% ***   
-Coca-Cola Soda Soft Drink, 12 fl oz Cans, 24 Pack                                        $14.07         $6.99        50.3% ***   
+Coca-Cola Soda Soft Drink, 12 fl oz Cans, 24 Pack                                        $14.07         $6.99          50.3%     
 Depend Fit Flex Women Large Underwear 17 ct package                                      $13.39         $7.04          47.4%     
 Nexxus Humectress Protein Infusion Elastin Protein and Green Caviar Ultimate Moistur     $13.28         $7.18          45.9%     
 Nexxus Therappe Protein Infusion Elastin Protein and Green Caviar Ultimate Moisture      $13.28         $7.18          45.9%     
