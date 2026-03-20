@@ -17,7 +17,6 @@ MEAL NT CHICKEN MARINARA SANDWICH                                               
 MEAL NT PASTA PRIMAVERA                                                                  $2.88          $1.39          51.7%     
 MEAL NT MACARONI AND CHEESE WITH BROCCOLI                                                $2.88          $1.39          51.7%     
 Stouffer's Veggie Lovers Lasagna Frozen Meal 10.5 oz box                                 $2.84          $1.39          51.1%     
-TopCare Hypoallergenic Makeup Remover Cleansing Towelettes 25 ct pack                    $3.35          $1.50          55.2%     
 CLEANER GLASS SURFACE                                                                    $3.12          $1.60          48.7%     
 GE Lighting Night Light 7.5 W Light Bulb package                                         $1.62          $0.64          60.5%     
 Act Anticavity Liquid Mint Mouthwash 18 oz                                               $3.45          $1.72          50.1%     
@@ -41,6 +40,7 @@ AUTO VCLIP COASTAL STORM TEAK                                                   
 Progresso Italian Style Bread Crumbs 15 oz tub                                           $2.12          $1.00          52.8%     
 BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
 MIX CAKE SM YELLOW LS                                                                    $2.25          $1.23          45.3%     
+Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26          49.6%     
 CRACKERS SPICY SWT CHILI                                                                 $2.32          $1.15          50.4%     
 Fruit and Nut Granola 11 oz                                                              $4.82          $2.35          51.2%     
 Smokehouse Pet Products Chicken & Sweet Potato Combo Dog Treats 4 oz reseal bag          $4.87          $2.47          49.3%     
@@ -55,7 +55,6 @@ BULBS 40W DECO CEILING FN                                                       
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.62          $1.04          60.3%     
 Axe Blue Lavender Deodorant Stick 3 oz                                                   $5.32          $2.66          50.0%     
 GE Lighting Soft White 15 W A15 Light Bulb 2 ct package                                  $2.68          $1.07          60.1%     
-GE Lighting Soft White Ceiling Fan 40 W A15 Candelabra Base Light Bulb 2 ct package      $2.68          $1.07          60.1%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 YAKY CHEW MACHO                                                                          $5.57          $3.02          45.8%     
 Vaseline Men Cooling Hydration Body Lotion 24.5 fl oz pump bottle                        $6.04          $3.09          48.8%     
@@ -84,7 +83,6 @@ Kellogg's Glazed Donut Holes Frosted Flakes Cereal 10 oz                        
 Rachael Ray Nutrish Chicken & Brown Rice Recipe Dry Cat Food 3 lb bag                    $6.90          $3.72          46.1%     
 MEAL MS ORANGE CHICKEN AIR FRYER MEAL                                                    $7.56          $3.78          50.0%     
 U by Kotex Balance Extra Heavy Overnight Ultra-Thin Pads 22 Ct                           $7.37          $3.79          48.6%     
-U By Kotex Balance Ultra Thin Pads with Wings 32 Ct                                      $7.38          $3.79          48.6%     
 U by Kotex Balance Ultra Thin Pads with Wings Overnight 26 ea                            $7.37          $3.79          48.6%     
 BAKING MIX COFFEE CAKE REESES PNT BTR                                                    $3.96          $2.07          47.7%     
 Betty Crocker Oreo White Cake Mix 9.3 oz                                                 $3.96          $2.07          47.7%     
@@ -93,19 +91,19 @@ U By Kotex Security Ultra Thin Heavy Flow Pads 56 ct package                    
 U By Kotex Overnight Maxi Pads 40 ct box                                                 $7.28          $3.97          45.5%     
 SUPER SEED JALAPENO CRACKERS                                                             $3.98          $2.05          48.5%     
 Dr Pepper Diet Soda 12 fl oz 24 pack                                                     $14.07         $3.99          71.6%     
-CORE BARE BEEF                                                                           $7.63          $4.03          47.2%     
 Alka-Seltzer Plus Severe Cold Powerfast Fizz 24 Ct                                       $8.47          $4.30          49.2%     
 GARLIC BUTTER DIPPING SAUCE                                                              $4.32          $2.16          50.0%     
 HONEY MUSTARD DIPPING SAUCE                                                              $4.32          $2.16          50.0%     
 GOLDEN BBQ DIPPING SAUCE                                                                 $4.32          $2.16          50.0%     
-Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26          49.6%     
 MEAL MS BEEF POT ROAST FAMILY SIZE                                                       $8.99          $4.49          50.1%     
 MEAL MS STEAK QUESO AND RICE FAMILY SIZE                                                 $8.99          $4.49          50.1%     
 Vaseline Intensive Care Cocoa Radiant Body Lotion 32 fl oz pump bottle                   $8.33          $4.57          45.1%     
+Alka Seltzer Heartburn Relief Assorted Fruit 66Ct                                        $8.62          $4.67          45.8%     
 GE Lighting LED Vintage Style Amber Glass 40 W CAC Candelabara Base Light Bulb packa     $4.69          $1.24          73.6%     
 GE Lighting LED Vintage Style Amber Glass 40 W Medium Base Light Bulb package            $4.69          $1.24          73.6%     
 GRANOLA SPEC K RED BERRIES                                                               $4.74          $2.37          50.0%     
 GRANOLA SPEC K VAN ALMOND                                                                $4.74          $2.37          50.0%     
+Citracal Calcium Citrate & D3 Petites Coated Caplets 200 ct bottle                       $9.42          $4.80          49.0%     
 PAD ULTRA THIN WINGS HEAVY ABS                                                           $9.57          $4.90          48.8%     
 PAD ULTRA THIN WINGS REG ABS                                                             $9.57          $4.90          48.8%     
 Olly Kids Chillax Gummy, For a Calm Relaxed Mood 50 Ct                                   $9.93          $5.01          49.5%     
@@ -114,7 +112,6 @@ CEREAL APPLE CINNAMON CEREAL MS                                                 
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
 Dove men+Care Aloe and Bamboo Whole Body Deodorant 4 Oz                                  $9.58          $5.16          46.1%     
 BULBS LED 9W BUGLIGHT A19 1PK                                                            $5.59          $1.61          71.2%     
-Shea Moisture 100% Virgin Coconut Oil Baby Wash & Shampoo 13 fl oz bottle                $5.74          $2.92          49.1%     
 Diet Coke Diet Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                               $5.78          $1.99          65.6%     
 GE Lighting LED Vintage Style Amber Glass 60 W ST19 Clear Light Bulb 2 ct package        $14.43         $6.13          57.5%     
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
@@ -148,7 +145,7 @@ GE Lighting Soft White Decorative Clear Finish 5 W CAC Candelabra Base LED Light
 DOG FOOD ADULT CHICKEN & OATMEAL                                                         $15.49         $8.17          47.3%     
 SALMON & RICE RECIPE                                                                     $15.49         $8.17          47.3%     
 GE Lighting Relax LED Soft White 40 W G25 Light Bulb 2 ct package                        $8.26          $3.26          60.5%     
-Alka Seltzer Heartburn Relief Assorted Fruit 66Ct                                        $8.62          $4.67          45.8%     
+MEN'S COMPLETE TABLETS 200CT                                                             $16.58         $8.54          48.5%     
 GE Lighting LED Soft White 40 W G16 Decorative Light Bulb 2 ct package                   $8.69          $3.98          54.2%     
 DOG DRY ADULT HI PRO RM                                                                  $20.38         $8.74          57.1%     
 GE Lighting LED Soft White 75 W A19 Light Bulb 2 ct package                              $8.84          $2.61          70.5%     
@@ -157,13 +154,10 @@ GE Lighting LED Daylight 75 W A19 Light Bulb 2 ct package                       
 BULBS 5.5W LED CLASSSC SHP SW FRST                                                       $8.98          $3.54          60.6%     
 GE Lighting LED Soft White 40 W A19 Light Bulb 4 ct package                              $9.29          $2.54          72.7%     
 CAT GRAIN FR INDOOR CHKN RECIPE                                                          $17.84         $9.36          47.5%     
-Citracal Calcium Citrate & D3 Petites Coated Caplets 200 ct bottle                       $9.42          $4.80          49.0%     
 GE Lighting Refresh LED Daylight 40 W G25 Light Bulb 2 ct package                        $9.98          $2.70          72.9%     
-GE Lighting LED Soft White 65 W BR40 Floodlight Light Bulb 2 ct package                  $9.98          $2.63          73.6%     
 Tippy Toes Super Pack Diapers, 4 22-37 lb 92 ct                                          $27.29         $10.00         63.4%     
 Aleve All Day Strong Caplets 220 mg Naproxen Sodium 270 ea                               $20.29         $10.17         49.9%     
 Nature's Bounty Herbal Health Standardized Extract Supplement Capsules 120 mg Ginkgo     $10.19         $2.34          77.0%     
-Nature's Bounty Fish Oil 145 ea                                                          $10.22         $2.34          77.1%     
 GE Lighting Relax LED Soft White 60 W Candelabra Base CAC Light Bulb 2 ct package        $10.64         $4.23          60.2%     
 BULBS LED RELAX SW CLEAR CAM 5.5W                                                        $10.79         $5.01          53.6%     
 PAD MOD ABS LONG                                                                         $20.62         $11.02         46.6%     
