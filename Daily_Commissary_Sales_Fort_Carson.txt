@@ -9,6 +9,9 @@ Dirty Potato Chips Good Health Veggie Sticks 1 oz bag                           
 Bumble Bee Solid White Albacore in Oil 5 oz can                                          $1.37          $0.70          48.9%     
 Blistex Lip Protectant, Repair & Protect Chapped Lips                                    $3.82          $0.70          81.7%     
 DOG FOOD CUP BEEF STEW                                                                   $1.76          $0.88          50.0%     
+Progresso Plain Bread Crumbs 15 oz tub                                                   $2.12          $1.00          52.8%     
+Progresso Garlic & Herb Bread Crumbs 15 oz tub                                           $2.12          $1.00          52.8%     
+Progresso Italian Style Bread Crumbs 15 oz tub                                           $2.12          $1.00          52.8%     
 DOG FOOD CUP CHKN POT PIE                                                                $1.93          $1.05          45.6%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
 Rubbermaid Take Alongs Divided Rectangles Containers & Lids 3 ct package                 $2.75          $1.37          50.2%     
@@ -17,6 +20,7 @@ MEAL NT CHICKEN MARINARA SANDWICH                                               
 MEAL NT PASTA PRIMAVERA                                                                  $2.88          $1.39          51.7%     
 MEAL NT MACARONI AND CHEESE WITH BROCCOLI                                                $2.88          $1.39          51.7%     
 Stouffer's Veggie Lovers Lasagna Frozen Meal 10.5 oz box                                 $2.84          $1.39          51.1%     
+Hillshire Farm Spiral Half Brown Ham                                                     $2.48          $1.02          59.0%     
 CLEANER GLASS SURFACE                                                                    $3.12          $1.60          48.7%     
 GE Lighting Night Light 7.5 W Light Bulb package                                         $1.62          $0.64          60.5%     
 Act Anticavity Liquid Mint Mouthwash 18 oz                                               $3.45          $1.72          50.1%     
@@ -32,16 +36,15 @@ Kinders bourbon peach seasoning 5.8 oz                                          
 Vital Pursuit Cauliflower Crust Pepperoni Pizza 22 G Protein 6.3 Oz                      $3.82          $1.89          50.5%     
 Dr Pepper soda strawberry and cream 12 pk                                                $7.49          $1.99          73.4%     
 Dr Pepper strawberries and cream zero sugar 12 pk                                        $7.49          $1.99          73.4%     
-Progresso Plain Bread Crumbs 15 oz tub                                                   $2.12          $1.00          52.8%     
 Vaseline Men Fast Absorbing Body & Face Lotion 20.3 fl oz pump bottle                    $6.04          $2.12          64.9%     
-Progresso Garlic & Herb Bread Crumbs 15 oz tub                                           $2.12          $1.00          52.8%     
 AUTO VCLIP SEASIDE COCONUT VER                                                           $4.08          $2.12          48.0%     
 AUTO VCLIP COASTAL STORM TEAK                                                            $4.08          $2.12          48.0%     
-Progresso Italian Style Bread Crumbs 15 oz tub                                           $2.12          $1.00          52.8%     
 BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
 MIX CAKE SM YELLOW LS                                                                    $2.25          $1.23          45.3%     
 Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26          49.6%     
+PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
 CRACKERS SPICY SWT CHILI                                                                 $2.32          $1.15          50.4%     
+Hormel Cure 81 Spiral Ham                                                                $3.31          $0.99          70.0%     
 Fruit and Nut Granola 11 oz                                                              $4.82          $2.35          51.2%     
 Smokehouse Pet Products Chicken & Sweet Potato Combo Dog Treats 4 oz reseal bag          $4.87          $2.47          49.3%     
 Ambesol Instant Oral Pain Relief for Toothaches and Mouth Sores .33 Oz                   $4.86          $2.48          49.0%     
@@ -52,11 +55,12 @@ Dr Pepper soda blackberry zero sugar 12 pk                                      
 Minute Maid Zero Sugar Lemonade 12 fl oz can 12 pack                                     $7.49          $2.49          66.8%     
 Cascadian Farm Organic Cocoa Almond Protein Cereal 10.7 oz                               $4.74          $2.55          46.2%     
 BULBS 40W DECO CEILING FN                                                                $2.56          $1.02          60.2%     
+Smithfield Preglazed Hickory Smoked Spiral Red Glaze Sliced Ham                          $3.59          $1.01          72.0%     
 GE Lighting Night Light 4 W Clear C7 Specialty Candelabra Base Light Bulb 4 ct packa     $2.62          $1.04          60.3%     
 Axe Blue Lavender Deodorant Stick 3 oz                                                   $5.32          $2.66          50.0%     
-GE Lighting Soft White 15 W A15 Light Bulb 2 ct package                                  $2.68          $1.07          60.1%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 YAKY CHEW MACHO                                                                          $5.57          $3.02          45.8%     
+PORK TENDERLOIN GARLIC HERB                                                              $6.09          $3.05        49.9% ***   
 Vaseline Men Cooling Hydration Body Lotion 24.5 fl oz pump bottle                        $6.04          $3.09          48.8%     
 Munchkin BPA-free Fresh Food 6+ Months Baby Feeder package                               $3.12          $1.65          47.1%     
 Carmex Classic Medicated Lip Balm 3 Pk                                                   $3.12          $1.63          47.8%     
@@ -111,8 +115,25 @@ BDY OIL HYDRATE+REPLENISH 3.7Z                                                  
 CEREAL APPLE CINNAMON CEREAL MS                                                          $5.09          $2.63          48.3%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
 Dove men+Care Aloe and Bamboo Whole Body Deodorant 4 Oz                                  $9.58          $5.16          46.1%     
-BULBS LED 9W BUGLIGHT A19 1PK                                                            $5.59          $1.61          71.2%     
-Diet Coke Diet Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                               $5.78          $1.99          65.6%     
+HONEY SEA SALT                                                                           $5.39          $2.19        59.4% ***   
+SODA SPICED RASPBERRY 6PK                                                                $5.78          $3.00          48.1%     
+Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 16.9 fl oz, 6 Pack                $5.78          $3.00          48.1%     
+Dr Pepper Zero Soda 6 ct                                                                 $5.78          $3.00          48.1%     
+Dr Pepper Cream Soda 16.9 fl oz bottle 6 pack                                            $5.78          $3.00          48.1%     
+Coca Cola Cherry Vanilla Soda 16.9 fl oz bottle 6 pack                                   $5.78          $3.00          48.1%     
+Diet Coke Caffeine Free Soda Soft Drink, 16.9 fl oz, 6 Pack                              $5.78          $3.00          48.1%     
+SODA SPRITE WINTERSPICED CRANBERRY 6PK                                                   $5.78          $3.00          48.1%     
+Coca-Cola Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                                    $5.78          $3.00          48.1%     
+Sprite Zero Sugar Bottles, 16.9 fl oz, 6 Pack                                            $5.78          $3.00          48.1%     
+Fanta Orange Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                                 $5.78          $3.00          48.1%     
+Coca-Cola Zero Sugar Cherry Diet Soda Soft Drink, 16.9 fl oz, 6 Pack                     $5.78          $3.00          48.1%     
+Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack                                     $5.78          $3.00          48.1%     
+Dr Pepper Soda 16.9 fl oz bottle 6 pack                                                  $5.78          $3.00          48.1%     
+Coca-Cola Minute Maid Lemonade Juice 16.9 fl oz bottle 6 pack                            $5.78          $3.00          48.1%     
+Diet Coke Diet Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                               $5.78          $3.00          48.1%     
+Sprite Bottles, 16.9 fl oz, 6 Pack                                                       $5.78          $3.00          48.1%     
+Coca-Cola Zero Sugar Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                         $5.78          $3.00          48.1%     
+Dr Pepper Diet Soda 16.9 fl oz bottle 6 pack                                             $5.78          $3.00          48.1%     
 GE Lighting LED Vintage Style Amber Glass 60 W ST19 Clear Light Bulb 2 ct package        $14.43         $6.13          57.5%     
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
 DRINK ES WATERMELON 6PK                                                                  $12.59         $6.63          47.3%     
@@ -134,23 +155,18 @@ Olly Happy Hoo-HA Supports Vaginal Health & PH Balance Probiotic 25 Ct          
 Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30          49.0%     
 GE Lighting LED Soft White 40 W G25 Decorative Light Bulb 2 ct package                   $7.32          $2.10          71.3%     
 BULBS 4W LED CLASC SHP DECO MB BTIP                                                      $7.42          $2.96          60.1%     
+Black Forest fruit snacks juicy burst mixed fruit 40 ea                                  $7.75          $1.61        79.2% ***   
 BULBS 5.5W LED CLASC SHP DEC MB BTIP                                                     $7.79          $3.90          49.9%     
 Iams Chicken & Whole Grains Recipe Puppy Dog Food 7 lb bag                               $15.12         $7.84          48.1%     
 GE Lighting LED Soft White 40 W CAC Candelabra Base Light Bulb 2 ct package              $7.93          $3.17          60.0%     
 GE Lighting LED Soft White 40 W Decorative Light Bulb 2 ct package                       $7.93          $3.17          60.0%     
 GE Lighting LED Daylight 40 W Decorative CAC Candelabra Base Light Bulb 2 ct package     $7.93          $3.17          60.0%     
-GE Lighting LED Soft White Ceiling Fan 40 W A15 Light Bulb 2 ct package                  $7.93          $3.17          60.0%     
-BULBS 5.5W LED CLASSIC SHP CFAN 2PK                                                      $7.96          $2.60          67.3%     
-GE Lighting Soft White Decorative Clear Finish 5 W CAC Candelabra Base LED Light Bul     $7.98          $2.28          71.4%     
 DOG FOOD ADULT CHICKEN & OATMEAL                                                         $15.49         $8.17          47.3%     
 SALMON & RICE RECIPE                                                                     $15.49         $8.17          47.3%     
-GE Lighting Relax LED Soft White 40 W G25 Light Bulb 2 ct package                        $8.26          $3.26          60.5%     
 MEN'S COMPLETE TABLETS 200CT                                                             $16.58         $8.54          48.5%     
 GE Lighting LED Soft White 40 W G16 Decorative Light Bulb 2 ct package                   $8.69          $3.98          54.2%     
 DOG DRY ADULT HI PRO RM                                                                  $20.38         $8.74          57.1%     
-GE Lighting LED Soft White 75 W A19 Light Bulb 2 ct package                              $8.84          $2.61          70.5%     
 GE Lighting LED Daylight 40 W A19 Light Bulb 4 ct package                                $8.84          $2.58          70.8%     
-GE Lighting LED Daylight 75 W A19 Light Bulb 2 ct package                                $8.84          $2.61          70.5%     
 BULBS 5.5W LED CLASSSC SHP SW FRST                                                       $8.98          $3.54          60.6%     
 GE Lighting LED Soft White 40 W A19 Light Bulb 4 ct package                              $9.29          $2.54          72.7%     
 CAT GRAIN FR INDOOR CHKN RECIPE                                                          $17.84         $9.36          47.5%     
@@ -163,12 +179,12 @@ BULBS LED RELAX SW CLEAR CAM 5.5W                                               
 PAD MOD ABS LONG                                                                         $20.62         $11.02         46.6%     
 Nexxus Humectress Protein Infusion Elastin Protein and Green Caviar Ultimate Moistur     $22.18         $11.41         48.6%     
 COQ10 GUMMY                                                                              $11.44         $6.17          46.1%     
-Ge Light 13 Watt Dusk To Dawn Led Light Soft White Bulb 1 ct                             $11.53         $5.09          55.9%     
 Rachael Ray Nutrish Real Beef Pea & Brown Rice Recipe Dry Dog Food 14 lb bag             $22.10         $11.55         47.7%     
 PET DOG TREATS ADULT CHICKEN BB                                                          $26.06         $11.56         55.6%     
 Shea Moisture Head-To-Toe 100% Extra Virgin Pure Coconut Oil Nourishing Hydration 15     $11.57         $6.29          45.6%     
 PROBIOTIC GUMMIES                                                                        $11.58         $6.36          45.1%     
-BULBS LED 9W RELAX BR30 FLOOD SW 2PK                                                     $12.12         $3.27          73.0%     
 GE Lighting LED Vintage Style Amber Glass 60 W ST19 Light Bulb 2 ct package              $12.31         $4.01          67.4%     
+Village Pie Pie Peach 48 Oz                                                              $12.48         $6.32        49.4% ***   
+Village Pie Pie Cherry 48 Oz                                                             $12.48         $6.32        49.4% ***   
 
 Elapsed Time: N/A
