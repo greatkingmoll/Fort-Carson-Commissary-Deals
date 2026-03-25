@@ -1,4 +1,4 @@
-2026-03-24
+2026-03-25
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $0.39          85.9%     
@@ -71,7 +71,7 @@ Litehouse Gluten-free Coleslaw Dressing 13 oz jar                               
 Litehouse Gluten-free Caesar Dressing and Spread 13 oz jar                               $3.99          $2.00        49.9% ***   
 DRESSING HATCH CHILE                                                                     $3.99          $2.00        49.9% ***   
 Litehouse Gluten-free Jalapeno Ranch Dressing and Dip 13 fl oz jar                       $3.99          $2.00        49.9% ***   
-SUPER SEED EVERYTHING CRACKERS                                                           $3.98          $2.05        48.5% ***   
+SUPER SEED EVERYTHING CRACKERS                                                           $3.98          $2.05          48.5%     
 SUPER SEED CLASSIC CRACKERS                                                              $3.98          $2.05        48.5% ***   
 Vaseline Men Fast Absorbing Body & Face Lotion 20.3 fl oz pump bottle                    $6.04          $2.12          64.9%     
 BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
@@ -125,7 +125,7 @@ Flintstones Complete Children's Multivitamin Supplement Gummies 70 ct           
 U By Kotex Security Lightdays Long Pantyliner 96 ct box                                  $5.92          $3.19          46.1%     
 U By Kotex Lightdays Soft & Silky Extra Coverage Liners 80 ct box                        $5.92          $3.19          46.1%     
 U By Kotex Security Lightdays Regular Liners 129 ct box                                  $5.92          $3.19          46.1%     
-Crest Gum Care Cool Wintergreen Mouthwash 33.8 fl oz bottle                              $6.77          $3.24        52.1% ***   
+Crest Gum Care Cool Wintergreen Mouthwash 33.8 fl oz bottle                              $6.77          $3.24          52.1%     
 Degree Women Pure Clean UltraClear Invisible Solid Antiperspirant Deodorant Stick 2.     $6.34          $3.26          48.6%     
 PAD ULTRA THIN WINGS TEEN OVERNIGHT                                                      $6.57          $3.35          49.0%     
 U By Kotex Balance Teen Ultra Thin Pads with Wings 28 Ct                                 $6.57          $3.35          49.0%     
@@ -156,7 +156,7 @@ Dr Pepper Diet Soda 12 fl oz 24 pack                                            
 BULBS 15W LED PAR38 FLOOD DIMNG                                                          $10.12         $4.01          60.4%     
 CORE PURE TURKEY                                                                         $7.63          $4.03          47.2%     
 CORE BARE BEEF                                                                           $7.63          $4.03          47.2%     
-Crest 3D White Anticavity Floride Toothpaste 4.6 Oz                                      $7.69          $4.09        46.8% ***   
+Crest 3D White Anticavity Floride Toothpaste 4.6 Oz                                      $7.69          $4.09          46.8%     
 Shea Moisture Raw Shea Butter Moisture Retention Shampoo 13 fl oz bottle                 $8.06          $4.14          48.6%     
 Shea Moisture Raw Shea Butter Moisture Retention Conditioner 13 fl oz bottle             $8.06          $4.14          48.6%     
 Coricidin HBP Maximum Strength Cold, Cough & Flu for People with High Blood Pressure     $7.99          $4.19          47.6%     
@@ -231,5 +231,6 @@ Systane Hydration Preservative Free Lubricant Eye Drops 0.7 ml                  
 DOG FOOD ADULT CHICKEN & OATMEAL                                                         $15.49         $8.17          47.3%     
 SALMON & RICE RECIPE                                                                     $15.49         $8.17          47.3%     
 DOG FD ADULT BEEF BARLEY RECP                                                            $15.49         $8.17          47.3%     
+Refresh Relieva PF Xtra Lubricant Eye Drops 0.33 oz                                      $14.97         $8.17          45.4%     
 
 Elapsed Time: N/A
