@@ -11,7 +11,6 @@ DOG FOOD CUP BEEF STEW                                                          
 Progresso Plain Bread Crumbs 15 oz tub                                                   $2.12          $1.00          52.8%     
 Progresso Garlic & Herb Bread Crumbs 15 oz tub                                           $2.12          $1.00          52.8%     
 Progresso Italian Style Bread Crumbs 15 oz tub                                           $2.12          $1.00          52.8%     
-DOG FOOD CUP CHKN POT PIE                                                                $1.93          $1.05          45.6%     
 Pillsbury Grands Butter Tastin' Southern Homestyle Biscuits 5 ct bag                     $2.05          $1.09          46.8%     
 Pillsbury Grands Homestyle Buttermilk Biscuits 5 ct can                                  $2.05          $1.09          46.8%     
 Pillsbury Original Icing Cinnamon Rolls 5 ct can                                         $2.05          $1.09          46.8%     
@@ -23,14 +22,12 @@ Brew Dr. Organic Clear Mind Kombucha Tea 32 oz bottle                           
 Brew Dr. Island Mango Tea 14 oz bottle                                                   $2.25          $1.12          50.2%     
 Nature's Bounty Gentle Iron Supports Red Blood Cell Production 90 Ct                     $5.27          $1.20          77.2%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
-Rave 4X Mega Unscented Hair Spray 11 oz can                                              $2.67          $1.38          48.3%     
 MEAL NT MARINARA CHICKEN AND BROCCOLI                                                    $2.88          $1.39          51.7%     
 MEAL NT CHICKEN MARINARA SANDWICH                                                        $2.82          $1.39          50.7%     
 MEAL NT PASTA PRIMAVERA                                                                  $2.88          $1.39          51.7%     
 MEAL NT MACARONI AND CHEESE WITH BROCCOLI                                                $2.88          $1.39          51.7%     
 Stouffer's Veggie Lovers Lasagna Frozen Meal 10.5 oz box                                 $2.84          $1.39          51.1%     
 Hillshire Farm Spiral Half Brown Ham                                                     $2.48          $1.02          59.0%     
-CLEANER GLASS SURFACE                                                                    $3.12          $1.60          48.7%     
 JELLY VERRY BERRY RASPBERRY                                                              $3.19          $1.63          48.9%     
 Act Anticavity Liquid Mint Mouthwash 18 oz                                               $3.45          $1.72          50.1%     
 PFO ORG CKN NDL 16.1OZ 12CA                                                              $3.24          $1.73          46.6%     
@@ -63,9 +60,7 @@ Litehouse Gluten-free Jalapeno Ranch Dressing and Dip 13 fl oz jar              
 SUPER SEED EVERYTHING CRACKERS                                                           $3.98          $2.05          48.5%     
 SUPER SEED CLASSIC CRACKERS                                                              $3.98          $2.05          48.5%     
 Vaseline Men Fast Absorbing Body & Face Lotion 20.3 fl oz pump bottle                    $6.04          $2.12          64.9%     
-BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
 Betty Crocker Reeses Peanut Butter Mix 12.8 oz                                           $4.02          $2.20          45.3%     
-CHIPOTLE VEGENAISE                                                                       $4.25          $2.24          47.3%     
 Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26          49.6%     
 Nature Valley Dipped Salted Caramel Granola 11 oz                                        $4.36          $2.26          48.2%     
 PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
@@ -94,8 +89,9 @@ Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Fr
 YAKY CHEW MACHO                                                                          $5.57          $3.02          45.8%     
 PORK TENDERLOIN GARLIC HERB                                                              $6.09          $3.05          49.9%     
 Vaseline Men Cooling Hydration Body Lotion 24.5 fl oz pump bottle                        $6.04          $3.09          48.8%     
-Munchkin BPA-free Fresh Food 6+ Months Baby Feeder package                               $3.12          $1.65          47.1%     
 Flintstones Complete Children's Multivitamin Supplement Gummies 70 ct                    $6.18          $3.15          49.0%     
+SeaBond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Ct                           $5.97          $3.16        47.1% ***   
+Sea.Bond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Uppers                      $5.97          $3.16        47.1% ***   
 U By Kotex Security Lightdays Long Pantyliner 96 ct box                                  $5.92          $3.19          46.1%     
 U By Kotex Lightdays Soft & Silky Extra Coverage Liners 80 ct box                        $5.92          $3.19          46.1%     
 U By Kotex Security Lightdays Regular Liners 129 ct box                                  $5.92          $3.19          46.1%     
@@ -111,15 +107,11 @@ U by Kotex Barely There Liner 100 ct                                            
 Kellogg's Glazed Donut Holes Frosted Flakes Cereal 10 oz                                 $3.69          $1.84          50.1%     
 Rachael Ray Nutrish Chicken & Brown Rice Recipe Dry Cat Food 3 lb bag                    $6.90          $3.72          46.1%     
 La Mexicana Gluten-free Authentic Farm Fresh Mango Peach Salsa Dip 16 oz tub             $3.75          $1.87          50.1%     
-MEAL MS ORANGE CHICKEN AIR FRYER MEAL                                                    $7.56          $3.78          50.0%     
 U by Kotex Balance Extra Heavy Overnight Ultra-Thin Pads 22 Ct                           $7.37          $3.79          48.6%     
 U by Kotex Balance Ultra Thin Pads with Wings Overnight 26 ea                            $7.37          $3.79          48.6%     
-Horizon Organic Vanilla Low Fat Milk 8 fl oz box 6 pack                                  $7.49          $3.86          48.5%     
-MILK ORG ASEP STAW ONE PRCNT                                                             $7.49          $3.86          48.5%     
 Dove 4 Peach Rebalancing Bar 15 Oz                                                       $7.13          $3.90          45.3%     
 BAKING MIX COFFEE CAKE REESES PNT BTR                                                    $3.96          $2.07          47.7%     
 Betty Crocker Oreo White Cake Mix 9.3 oz                                                 $3.96          $2.07          47.7%     
-Betty Crocker Oreo Chocolate Cake Mix 9.3 oz                                             $3.96          $2.07          47.7%     
 U By Kotex Overnight Maxi Pads 40 ct box                                                 $7.28          $3.97          45.5%     
 U By Kotex Security Ultra Thin Heavy Flow Pads 56 ct package                             $7.28          $3.97          45.5%     
 SUPER SEED JALAPENO CRACKERS                                                             $3.98          $2.05          48.5%     
@@ -151,7 +143,6 @@ GRANOLA SPEC K VAN ALMOND                                                       
 BIRD FD ULTIMATE FINCH                                                                   $9.23          $4.79          48.1%     
 Citracal Calcium Citrate & D3 Petites Coated Caplets 200 ct bottle                       $9.42          $4.80          49.0%     
 Citracal Slow Release Calcium Dietary Supplement Coated Caplets 1200 mg Calcium 1000     $9.42          $4.80          49.0%     
-PAD ULTRA THIN WINGS REG ABS                                                             $9.57          $4.90          48.8%     
 PAD ULTRA THIN WINGS HEAVY ABS                                                           $9.57          $4.90          48.8%     
 Dove Advanced Care Cool Essentials Antiperspirant Deodorant Twin Pack 2.6 Oz             $9.82          $4.96          49.5%     
 Olly Kids Chillax Gummy, For a Calm Relaxed Mood 50 Ct                                   $9.93          $5.01          49.5%     
@@ -160,9 +151,10 @@ Olly Daily Energy Gummy, Caffeine Free 60 Ct                                    
 CEREAL APPLE CINNAMON CEREAL MS                                                          $5.09          $2.63          48.3%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
 Dove men+Care Aloe and Bamboo Whole Body Deodorant 4 Oz                                  $9.58          $5.16          46.1%     
-RRN DOG FD PUPPY CHK BRRC 6LB                                                            $10.16         $5.18          49.0%     
 HONEY SEA SALT                                                                           $5.39          $2.19          59.4%     
-Claritin Children's Allergy Grape 4 fl oz box                                            $11.67         $5.54          52.5%     
+Just for Men Mustache & Beard M-25 Medium Brown Easy Brush-In Color Gel Kit box          $10.77         $5.48        49.1% ***   
+VAGISTAT 3 DAY TREATMENT                                                                 $10.53         $5.65        46.3% ***   
+VAGISTAT 1 DOSE TREATMENT                                                                $11.49         $6.19        46.1% ***   
 Alcon Systane Complete Nano Droplet Lubricant Eye Drops 0.33 fl oz                       $12.37         $6.37          48.5%     
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
 One A Day VitaCraves Women's Multivitamin Gummies 170 ct                                 $12.32         $6.47          47.5%     
@@ -171,30 +163,27 @@ DRINK ES WATERMELON 6PK                                                         
 GRANOLA COCONUT ALMOND KETO                                                              $6.63          $3.47          47.7%     
 GRANOLA TOASTED ALMOND KETO                                                              $6.63          $3.47          47.7%     
 ES HAWAIIAN BREEZE 6PK                                                                   $12.59         $6.63          47.3%     
-Alka Seltzer Heartburn Gas Relief Tropical Punch 110Ct                                   $13.27         $6.74          49.2%     
 One A Day Men's 50+ Healthy Advantage Multivitamin Tablets 100 ct                        $12.46         $6.77          45.7%     
 UW SLHTTE MAX ABS WMN M                                                                  $13.39         $6.84          48.9%     
 UW SLHTTE MAX ABS WMN L                                                                  $13.39         $6.84          48.9%     
-Nature's Bounty B-12 5000 Mcg Quick Dissolve Cherry Flavor 40 Ct                         $6.86          $1.57          77.1%     
 SAUCE SWEET PINEAPPLE BBQ                                                                $6.98          $3.49          50.0%     
 Coca-Cola Soda Soft Drink, 12 fl oz Cans, 24 Pack                                        $14.07         $6.99          50.3%     
 Depend Fit Flex Women Large Underwear 17 ct package                                      $13.39         $7.04          47.4%     
 Depend Fit Flex Men's Extra Large Underwear 15 ct package                                $13.39         $7.04          47.4%     
 Poise 3 in 1 Long Length Pads 54 ct package                                              $14.19         $7.16          49.5%     
 Nexxus Therappe Protein Infusion Elastin Protein and Green Caviar Ultimate Moisture      $13.28         $7.18          45.9%     
-HELLO HAPPY                                                                              $14.32         $7.30          49.0%     
 Olly Happy Hoo-HA Supports Vaginal Health & PH Balance Probiotic 25 Ct                   $14.32         $7.30          49.0%     
 Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30          49.0%     
 Black Forest fruit snacks juicy burst mixed fruit 40 ea                                  $7.75          $1.61          79.2%     
-Iams Chicken & Whole Grains Recipe Puppy Dog Food 7 lb bag                               $15.12         $7.84          48.1%     
 Systane Hydration Preservative Free Lubricant Eye Drops 0.7 ml                           $15.46         $7.96          48.5%     
 DOG FOOD ADULT CHICKEN & OATMEAL                                                         $15.49         $8.17          47.3%     
 DOG FD ADULT BEEF BARLEY RECP                                                            $15.49         $8.17          47.3%     
-Refresh Relieva PF Xtra Lubricant Eye Drops 0.33 oz                                      $14.97         $8.17          45.4%     
 FCL CLNSNG MELTS VIT C                                                                   $8.39          $4.03          52.0%     
 OLAY FCL CLNSNG MELTS RETINOL                                                            $8.39          $4.03          52.0%     
 CAT PATE CHICKEN & TURKEY VARIETY PK                                                     $16.78         $8.68        48.3% ***   
-Alcon Systane Original Lubricant Eye Drops 1 fl oz bottle                                $17.53         $9.03          48.5%     
 Alcon Opti Free Puremoist Multi-Purpose Contact Lens Solution 10 fl oz bottle 2 ct       $17.07         $9.07          46.9%     
+One A Day Women's 50+ Complete Multivitamin 200 ct                                       $16.84         $9.14          45.7%     
+CAT GRAIN FR INDOOR CHKN RECIPE                                                          $17.84         $9.36          47.5%     
+KITTEN GRAIN FREE CHICKEN RECIPE                                                         $17.84         $9.36        47.5% ***   
 
 Elapsed Time: N/A
