@@ -1,4 +1,4 @@
-2026-03-25
+2026-03-26
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $0.39          85.9%     
@@ -7,9 +7,6 @@ Coca-Cola Zero Sugar Soda Soft Drink, 20 fl oz Bottle                           
 U by Kotex Security Lightdays Wrapped Daily Long Panty Liners 16 ct                      $0.96          $0.52          45.8%     
 Dirty Potato Chips Good Health Veggie Sticks 1 oz bag                                    $1.03          $0.56          45.6%     
 Blistex Lip Protectant, Repair & Protect Chapped Lips                                    $3.82          $0.70          81.7%     
-GE Lighting Soft White 200 W A21 Light Bulb package                                      $1.87          $0.74          60.4%     
-BULBS 200W GEN PURPOSE A21 CLR                                                           $2.08          $0.82          60.6%     
-GE Lighting High Intensity 40 W S11 Light Bulb package                                   $2.12          $0.84          60.4%     
 DOG FOOD CUP BEEF STEW                                                                   $1.76          $0.88          50.0%     
 Progresso Plain Bread Crumbs 15 oz tub                                                   $2.12          $1.00          52.8%     
 Progresso Garlic & Herb Bread Crumbs 15 oz tub                                           $2.12          $1.00          52.8%     
@@ -24,10 +21,8 @@ Brew Dr kombucha pink lemonade 14 fl oz                                         
 Brew Dr. Kombucha Superberry Tea 14 oz bottle                                            $2.25          $1.12          50.2%     
 Brew Dr. Organic Clear Mind Kombucha Tea 32 oz bottle                                    $2.25          $1.12          50.2%     
 Brew Dr. Island Mango Tea 14 oz bottle                                                   $2.25          $1.12          50.2%     
-GE Lighting Buglight 60 W A19 Light Bulb 2 ct package                                    $2.82          $1.13        59.9% ***   
 Nature's Bounty Gentle Iron Supports Red Blood Cell Production 90 Ct                     $5.27          $1.20          77.2%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
-GE Lighting Appliance 25 W T7 Light Bulb package                                         $3.36          $1.33          60.4%     
 Rave 4X Mega Unscented Hair Spray 11 oz can                                              $2.67          $1.38          48.3%     
 MEAL NT MARINARA CHICKEN AND BROCCOLI                                                    $2.88          $1.39          51.7%     
 MEAL NT CHICKEN MARINARA SANDWICH                                                        $2.82          $1.39          50.7%     
@@ -36,7 +31,6 @@ MEAL NT MACARONI AND CHEESE WITH BROCCOLI                                       
 Stouffer's Veggie Lovers Lasagna Frozen Meal 10.5 oz box                                 $2.84          $1.39          51.1%     
 Hillshire Farm Spiral Half Brown Ham                                                     $2.48          $1.02          59.0%     
 CLEANER GLASS SURFACE                                                                    $3.12          $1.60          48.7%     
-GE Lighting Night Light 7.5 W Light Bulb package                                         $1.62          $0.64          60.5%     
 JELLY VERRY BERRY RASPBERRY                                                              $3.19          $1.63          48.9%     
 Act Anticavity Liquid Mint Mouthwash 18 oz                                               $3.45          $1.72          50.1%     
 PFO ORG CKN NDL 16.1OZ 12CA                                                              $3.24          $1.73          46.6%     
@@ -47,13 +41,13 @@ BAR CHEWY GRNOLA BDAY CAKE                                                      
 Walker & Sons Slap Ya Mama Cajun Jambalaya Mix Quick Cook Cajun Meal 8 oz box            $3.59          $1.82          49.3%     
 Walker & Sons Slap Ya Mama Cajun Jumbo Mix Quick Cook Cajun Meal 5 oz box                $3.59          $1.82          49.3%     
 Kellogg's Apple Jacks Cinnamon Glazed Donut Holes Cereal 10 oz                           $3.69          $1.84          50.1%     
-Kellogg's Krave Chocolate Glazed Donut Holes Cereal 10 oz                                $3.69          $1.84        50.1% ***   
+Kellogg's Krave Chocolate Glazed Donut Holes Cereal 10 oz                                $3.69          $1.84          50.1%     
 SAUCE BBQ WAGON BOSS ORIGINAL C                                                          $3.55          $1.85          47.9%     
 SAUCE BBQ HICKORY TOP HAND                                                               $3.55          $1.85          47.9%     
 SAUCE BBQ SPICY STREIGHT SIXES                                                           $3.55          $1.85          47.9%     
-LITEHOUSE PEAR GORGONZOLA VINAIGRETTE SALAD DRESSING 12 OZ BOTTLE                        $3.75          $1.88        49.9% ***   
-Litehouse Parmesan Caesar Dressing and Dip 12 fl oz bottle                               $3.75          $1.88        49.9% ***   
-LITEHOUSE BALSAMIC VINAIGRETTE SALAD DRESSING 12 OZ BOTTLE                               $3.75          $1.88        49.9% ***   
+LITEHOUSE PEAR GORGONZOLA VINAIGRETTE SALAD DRESSING 12 OZ BOTTLE                        $3.75          $1.88          49.9%     
+Litehouse Parmesan Caesar Dressing and Dip 12 fl oz bottle                               $3.75          $1.88          49.9%     
+LITEHOUSE BALSAMIC VINAIGRETTE SALAD DRESSING 12 OZ BOTTLE                               $3.75          $1.88          49.9%     
 Kinder's hickory molasses rub 5 oz                                                       $3.79          $1.89          50.1%     
 Kinders bourbon peach seasoning 5.8 oz                                                   $3.79          $1.89          50.1%     
 Vital Pursuit Cauliflower Crust Pepperoni Pizza 22 G Protein 6.3 Oz                      $3.82          $1.89          50.5%     
@@ -61,24 +55,24 @@ Nature's Bounty Quick Dissolve Melatonin 10 Mg Promote Relaxation & Sleep 45 ea 
 Diet Coke Diet Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                               $5.78          $1.99          65.6%     
 Dr Pepper soda strawberry and cream 12 pk                                                $7.49          $1.99          73.4%     
 Dr Pepper strawberries and cream zero sugar 12 pk                                        $7.49          $1.99          73.4%     
-Litehouse Gluten-free Thousand Island Dressing and Dip 13 oz fl jar                      $3.99          $2.00        49.9% ***   
-Litehouse Gluten-free Coleslaw Dressing 13 oz jar                                        $3.99          $2.00        49.9% ***   
-Litehouse Gluten-free Caesar Dressing and Spread 13 oz jar                               $3.99          $2.00        49.9% ***   
-DRESSING HATCH CHILE                                                                     $3.99          $2.00        49.9% ***   
-Litehouse Gluten-free Jalapeno Ranch Dressing and Dip 13 fl oz jar                       $3.99          $2.00        49.9% ***   
+Litehouse Gluten-free Thousand Island Dressing and Dip 13 oz fl jar                      $3.99          $2.00          49.9%     
+Litehouse Gluten-free Coleslaw Dressing 13 oz jar                                        $3.99          $2.00          49.9%     
+Litehouse Gluten-free Caesar Dressing and Spread 13 oz jar                               $3.99          $2.00          49.9%     
+DRESSING HATCH CHILE                                                                     $3.99          $2.00          49.9%     
+Litehouse Gluten-free Jalapeno Ranch Dressing and Dip 13 fl oz jar                       $3.99          $2.00          49.9%     
 SUPER SEED EVERYTHING CRACKERS                                                           $3.98          $2.05          48.5%     
-SUPER SEED CLASSIC CRACKERS                                                              $3.98          $2.05        48.5% ***   
+SUPER SEED CLASSIC CRACKERS                                                              $3.98          $2.05          48.5%     
 Vaseline Men Fast Absorbing Body & Face Lotion 20.3 fl oz pump bottle                    $6.04          $2.12          64.9%     
 BAGS TRASH 13 GAL                                                                        $4.34          $2.14          50.7%     
 Betty Crocker Reeses Peanut Butter Mix 12.8 oz                                           $4.02          $2.20          45.3%     
 CHIPOTLE VEGENAISE                                                                       $4.25          $2.24          47.3%     
 Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26          49.6%     
-Nature Valley Dipped Salted Caramel Granola 11 oz                                        $4.36          $2.26        48.2% ***   
+Nature Valley Dipped Salted Caramel Granola 11 oz                                        $4.36          $2.26          48.2%     
 PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
-WILD BIRD SEED CAKE                                                                      $4.32          $2.31        46.5% ***   
+WILD BIRD SEED CAKE                                                                      $4.32          $2.31          46.5%     
 CRACKERS SPICY SWT CHILI                                                                 $2.32          $1.15          50.4%     
 Hormel Cure 81 Spiral Ham                                                                $3.31          $0.99          70.0%     
-Nature's Bounty Immune Health Vitamin Supplement Rapid Release Softgels 25 mcg Vitam     $10.42         $2.40        77.0% ***   
+Nature's Bounty Immune Health Vitamin Supplement Rapid Release Softgels 25 mcg Vitam     $10.42         $2.40          77.0%     
 Smokehouse Pet Products Chicken & Sweet Potato Combo Dog Treats 4 oz reseal bag          $4.87          $2.47          49.3%     
 Ambesol Instant Oral Pain Relief for Toothaches and Mouth Sores .33 Oz                   $4.86          $2.48          49.0%     
 Fruit and Nut Granola 11 oz                                                              $4.82          $2.48          48.5%     
@@ -87,16 +81,12 @@ Fresca Black Cherry Soda Sparkling Flavored Soft Drink Zero Calorie and Sugar Fr
 Dr Pepper soda blackberry zero sugar 12 pk                                               $7.49          $2.49          66.8%     
 Dr Pepper soda blackberry 12 pk                                                          $7.49          $2.49          66.8%     
 Dr Pepper Diet Original Soda 12 fl oz can 12 pack                                        $7.49          $2.49          66.8%     
-GE Lighting Refresh LED Daylight 60 W A19 Light Bulb 2 ct package                        $6.39          $2.51          60.7%     
 Cascadian Farm Organic Cocoa Almond Protein Cereal 10.7 oz                               $4.74          $2.55          46.2%     
-BULBS 40W DECO CEILING FN                                                                $2.56          $1.02          60.2%     
 Alka-Seltzer Heartburn Relief Lemon Lime Tablets 36 ct                                   $5.06          $2.57          49.2%     
 Smithfield Preglazed Hickory Smoked Spiral Red Glaze Sliced Ham                          $3.59          $1.01          72.0%     
-GE Lighting LED Soft White 65 W BR40 Floodlight Light Bulb 2 ct package                  $9.98          $2.63          73.6%     
 Axe Aqua Bergamot Deodorant Stick 3 oz                                                   $5.32          $2.66          50.0%     
 Axe Blue Lavender Deodorant Stick 3 oz                                                   $5.32          $2.66          50.0%     
-DRESSING GARLIC RANCH                                                                    $5.45          $2.73        49.9% ***   
-BULBS 13W LED REFRESH A19 DL 2PK                                                         $10.79         $2.80        74.1% ***   
+DRESSING GARLIC RANCH                                                                    $5.45          $2.73          49.9%     
 Betty Crocker Oreo Lava Cake Mix 8.3 oz                                                  $5.25          $2.85          45.7%     
 Shea Moisture 100% Virgin Coconut Oil Baby Wash & Shampoo 13 fl oz bottle                $5.74          $2.92          49.1%     
 Welly Colorwash Bravery Badges Assorted Flex Fabric Bandages 48 ct                       $5.95          $2.98          49.9%     
@@ -105,7 +95,6 @@ YAKY CHEW MACHO                                                                 
 PORK TENDERLOIN GARLIC HERB                                                              $6.09          $3.05          49.9%     
 Vaseline Men Cooling Hydration Body Lotion 24.5 fl oz pump bottle                        $6.04          $3.09          48.8%     
 Munchkin BPA-free Fresh Food 6+ Months Baby Feeder package                               $3.12          $1.65          47.1%     
-BULBS 3/9/13W 3WAY LED CS SW 1PK                                                         $6.88          $3.14        54.4% ***   
 Flintstones Complete Children's Multivitamin Supplement Gummies 70 ct                    $6.18          $3.15          49.0%     
 U By Kotex Security Lightdays Long Pantyliner 96 ct box                                  $5.92          $3.19          46.1%     
 U By Kotex Lightdays Soft & Silky Extra Coverage Liners 80 ct box                        $5.92          $3.19          46.1%     
@@ -148,11 +137,11 @@ HONEY MUSTARD DIPPING SAUCE                                                     
 Gold Bond Diabetics Dry Skin Relief Lotion 13 oz bottle                                  $8.42          $4.37          48.1%     
 Bold Bond New Healing Sensitive Body and Face Lotion for dry Sensitive Skin 13 Oz        $8.42          $4.37          48.1%     
 One A Day VitaCraves Womens Multivitamin Gummies 80 ct                                   $8.62          $4.40          49.0%     
-Palmer's Cocoa Butter Formula Vitamin E Skin Therapy Body Oil 5.1 fl oz bottle           $8.66          $4.46        48.5% ***   
+Palmer's Cocoa Butter Formula Vitamin E Skin Therapy Body Oil 5.1 fl oz bottle           $8.66          $4.46          48.5%     
 MEAL MS BEEF POT ROAST FAMILY SIZE                                                       $8.99          $4.49          50.1%     
 MEAL MS STEAK QUESO AND RICE FAMILY SIZE                                                 $8.99          $4.49          50.1%     
 Dove Soothing Relief With Eczema-Prone Skin Body Wash 18.5 oz                            $8.47          $4.52          46.6%     
-Dove Melanin Radiance Serium Body Wash for Melanin-Rich Skin 18.5 Oz                     $8.47          $4.52        46.6% ***   
+Dove Melanin Radiance Serium Body Wash for Melanin-Rich Skin 18.5 Oz                     $8.47          $4.52          46.6%     
 Dove Acne Clear Body Wash 18.5 oz                                                        $8.47          $4.52          46.6%     
 Gold Bond Ultimate Neck and Chest Firming Cream 2 oz tube                                $8.72          $4.52          48.2%     
 Vaseline Intensive Care Cocoa Radiant Body Lotion 32 fl oz pump bottle                   $8.33          $4.57          45.1%     
@@ -174,7 +163,7 @@ Dove men+Care Aloe and Bamboo Whole Body Deodorant 4 Oz                         
 RRN DOG FD PUPPY CHK BRRC 6LB                                                            $10.16         $5.18          49.0%     
 HONEY SEA SALT                                                                           $5.39          $2.19          59.4%     
 Claritin Children's Allergy Grape 4 fl oz box                                            $11.67         $5.54          52.5%     
-Alcon Systane Complete Nano Droplet Lubricant Eye Drops 0.33 fl oz                       $12.37         $6.37        48.5% ***   
+Alcon Systane Complete Nano Droplet Lubricant Eye Drops 0.33 fl oz                       $12.37         $6.37          48.5%     
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
 One A Day VitaCraves Women's Multivitamin Gummies 170 ct                                 $12.32         $6.47          47.5%     
 Rachael Ray Nutrish Real Salmon & Brown Rice Recipe Dry Cat Food 6 lb bag                $12.58         $6.57          47.8%     
@@ -198,12 +187,14 @@ Olly Happy Hoo-HA Supports Vaginal Health & PH Balance Probiotic 25 Ct          
 Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30          49.0%     
 Black Forest fruit snacks juicy burst mixed fruit 40 ea                                  $7.75          $1.61          79.2%     
 Iams Chicken & Whole Grains Recipe Puppy Dog Food 7 lb bag                               $15.12         $7.84          48.1%     
-Systane Hydration Preservative Free Lubricant Eye Drops 0.7 ml                           $15.46         $7.96        48.5% ***   
+Systane Hydration Preservative Free Lubricant Eye Drops 0.7 ml                           $15.46         $7.96          48.5%     
 DOG FOOD ADULT CHICKEN & OATMEAL                                                         $15.49         $8.17          47.3%     
 DOG FD ADULT BEEF BARLEY RECP                                                            $15.49         $8.17          47.3%     
 Refresh Relieva PF Xtra Lubricant Eye Drops 0.33 oz                                      $14.97         $8.17          45.4%     
 FCL CLNSNG MELTS VIT C                                                                   $8.39          $4.03          52.0%     
 OLAY FCL CLNSNG MELTS RETINOL                                                            $8.39          $4.03          52.0%     
 CAT PATE CHICKEN & TURKEY VARIETY PK                                                     $16.78         $8.68        48.3% ***   
+Alcon Systane Original Lubricant Eye Drops 1 fl oz bottle                                $17.53         $9.03          48.5%     
+Alcon Opti Free Puremoist Multi-Purpose Contact Lens Solution 10 fl oz bottle 2 ct       $17.07         $9.07          46.9%     
 
 Elapsed Time: N/A
