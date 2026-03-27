@@ -1,4 +1,4 @@
-2026-03-26
+2026-03-27
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $0.39          85.9%     
@@ -63,7 +63,6 @@ Vaseline Men Fast Absorbing Body & Face Lotion 20.3 fl oz pump bottle           
 Betty Crocker Reeses Peanut Butter Mix 12.8 oz                                           $4.02          $2.20          45.3%     
 Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26          49.6%     
 Nature Valley Dipped Salted Caramel Granola 11 oz                                        $4.36          $2.26          48.2%     
-PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
 WILD BIRD SEED CAKE                                                                      $4.32          $2.31          46.5%     
 CRACKERS SPICY SWT CHILI                                                                 $2.32          $1.15          50.4%     
 Hormel Cure 81 Spiral Ham                                                                $3.31          $0.99          70.0%     
@@ -87,7 +86,6 @@ Shea Moisture 100% Virgin Coconut Oil Baby Wash & Shampoo 13 fl oz bottle       
 Welly Colorwash Bravery Badges Assorted Flex Fabric Bandages 48 ct                       $5.95          $2.98          49.9%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 YAKY CHEW MACHO                                                                          $5.57          $3.02          45.8%     
-PORK TENDERLOIN GARLIC HERB                                                              $6.09          $3.05          49.9%     
 Vaseline Men Cooling Hydration Body Lotion 24.5 fl oz pump bottle                        $6.04          $3.09          48.8%     
 Flintstones Complete Children's Multivitamin Supplement Gummies 70 ct                    $6.18          $3.15          49.0%     
 SeaBond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Ct                           $5.97          $3.16        47.1% ***   
@@ -180,7 +178,7 @@ DOG FOOD ADULT CHICKEN & OATMEAL                                                
 DOG FD ADULT BEEF BARLEY RECP                                                            $15.49         $8.17          47.3%     
 FCL CLNSNG MELTS VIT C                                                                   $8.39          $4.03          52.0%     
 OLAY FCL CLNSNG MELTS RETINOL                                                            $8.39          $4.03          52.0%     
-CAT PATE CHICKEN & TURKEY VARIETY PK                                                     $16.78         $8.68        48.3% ***   
+CAT PATE CHICKEN & TURKEY VARIETY PK                                                     $16.78         $8.68          48.3%     
 Alcon Opti Free Puremoist Multi-Purpose Contact Lens Solution 10 fl oz bottle 2 ct       $17.07         $9.07          46.9%     
 One A Day Women's 50+ Complete Multivitamin 200 ct                                       $16.84         $9.14          45.7%     
 CAT GRAIN FR INDOOR CHKN RECIPE                                                          $17.84         $9.36          47.5%     
