@@ -1,4 +1,4 @@
-2026-03-27
+2026-03-28
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $0.39          85.9%     
@@ -29,7 +29,6 @@ MEAL NT MACARONI AND CHEESE WITH BROCCOLI                                       
 Stouffer's Veggie Lovers Lasagna Frozen Meal 10.5 oz box                                 $2.84          $1.39          51.1%     
 Hillshire Farm Spiral Half Brown Ham                                                     $2.48          $1.02          59.0%     
 JELLY VERRY BERRY RASPBERRY                                                              $3.19          $1.63          48.9%     
-Act Anticavity Liquid Mint Mouthwash 18 oz                                               $3.45          $1.72          50.1%     
 PFO ORG CKN NDL 16.1OZ 12CA                                                              $3.24          $1.73          46.6%     
 PFO ORG CKN WILD RICE 16.3OZ 12CA                                                        $3.24          $1.73          46.6%     
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
@@ -75,8 +74,8 @@ YAKY CHEW MACHO                                                                 
 PORK TENDERLOIN GARLIC HERB                                                              $6.09          $3.05          49.9%     
 Vaseline Men Cooling Hydration Body Lotion 24.5 fl oz pump bottle                        $6.04          $3.09          48.8%     
 Mielle Curl Defining Mousse with Hold, Pomegranate and Honey 7.5 Oz                      $6.98          $3.09        55.7% ***   
-SeaBond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Ct                           $5.97          $3.16        47.1% ***   
-Sea.Bond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Uppers                      $5.97          $3.16        47.1% ***   
+SeaBond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Ct                           $5.97          $3.16          47.1%     
+Sea.Bond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Uppers                      $5.97          $3.16          47.1%     
 U By Kotex Security Lightdays Long Pantyliner 96 ct box                                  $5.92          $3.19          46.1%     
 U By Kotex Lightdays Soft & Silky Extra Coverage Liners 80 ct box                        $5.92          $3.19          46.1%     
 U By Kotex Security Lightdays Regular Liners 129 ct box                                  $5.92          $3.19          46.1%     
@@ -86,7 +85,6 @@ BEEF STEAKS SW RANCHERO                                                         
 STEAK BITES GARLIC BTTR                                                                  $6.59          $3.29        50.1% ***   
 PAD ULTRA THIN WINGS TEEN OVERNIGHT                                                      $6.57          $3.35          49.0%     
 U By Kotex Balance Teen Ultra Thin Pads with Wings 28 Ct                                 $6.57          $3.35          49.0%     
-Act Anticavity Kids Bubblegum Blowout Liquid Mouthwash 16.9 fl oz bottle                 $3.45          $1.72          50.1%     
 CEREAL VAN ALMND CRNCH RATIO KETO                                                        $6.63          $3.47          47.7%     
 Degree Antiperspirant Deodorant, Shower Clean Twin Pack                                  $6.68          $3.60          46.1%     
 U by Kotex Barely There Liner 100 ct                                                     $6.69          $3.65          45.4%     
@@ -125,8 +123,8 @@ CEREAL APPLE CINNAMON CEREAL MS                                                 
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
 Dove men+Care Aloe and Bamboo Whole Body Deodorant 4 Oz                                  $9.58          $5.16          46.1%     
 HONEY SEA SALT                                                                           $5.39          $2.19          59.4%     
-VAGISTAT 3 DAY TREATMENT                                                                 $10.53         $5.65        46.3% ***   
-VAGISTAT 1 DOSE TREATMENT                                                                $11.49         $6.19        46.1% ***   
+VAGISTAT 3 DAY TREATMENT                                                                 $10.53         $5.65          46.3%     
+VAGISTAT 1 DOSE TREATMENT                                                                $11.49         $6.19          46.1%     
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
 One A Day VitaCraves Women's Multivitamin Gummies 170 ct                                 $12.32         $6.47          47.5%     
 DRINK ES WATERMELON 6PK                                                                  $12.59         $6.63          47.3%     
