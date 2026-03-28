@@ -28,7 +28,6 @@ MEAL NT PASTA PRIMAVERA                                                         
 MEAL NT MACARONI AND CHEESE WITH BROCCOLI                                                $2.88          $1.39          51.7%     
 Stouffer's Veggie Lovers Lasagna Frozen Meal 10.5 oz box                                 $2.84          $1.39          51.1%     
 Hillshire Farm Spiral Half Brown Ham                                                     $2.48          $1.02          59.0%     
-JELLY VERRY BERRY RASPBERRY                                                              $3.19          $1.63          48.9%     
 PFO ORG CKN NDL 16.1OZ 12CA                                                              $3.24          $1.73          46.6%     
 PFO ORG CKN WILD RICE 16.3OZ 12CA                                                        $3.24          $1.73          46.6%     
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
@@ -38,6 +37,7 @@ LITEHOUSE PEAR GORGONZOLA VINAIGRETTE SALAD DRESSING 12 OZ BOTTLE               
 Litehouse Parmesan Caesar Dressing and Dip 12 fl oz bottle                               $3.75          $1.88          49.9%     
 LITEHOUSE BALSAMIC VINAIGRETTE SALAD DRESSING 12 OZ BOTTLE                               $3.75          $1.88          49.9%     
 Kinder's hickory molasses rub 5 oz                                                       $3.79          $1.89          50.1%     
+DH DLLY PRTN CHC CK MIX                                                                  $1.89          $0.96        49.2% ***   
 Vital Pursuit Cauliflower Crust Pepperoni Pizza 22 G Protein 6.3 Oz                      $3.82          $1.89          50.5%     
 Diet Coke Diet Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                               $5.78          $1.99          65.6%     
 Dr Pepper soda strawberry and cream 12 pk                                                $7.49          $1.99          73.4%     
@@ -86,6 +86,7 @@ STEAK BITES GARLIC BTTR                                                         
 PAD ULTRA THIN WINGS TEEN OVERNIGHT                                                      $6.57          $3.35          49.0%     
 U By Kotex Balance Teen Ultra Thin Pads with Wings 28 Ct                                 $6.57          $3.35          49.0%     
 CEREAL VAN ALMND CRNCH RATIO KETO                                                        $6.63          $3.47          47.7%     
+TACO SHELLS SNS 20CT                                                                     $3.51          $1.67        52.4% ***   
 Degree Antiperspirant Deodorant, Shower Clean Twin Pack                                  $6.68          $3.60          46.1%     
 U by Kotex Barely There Liner 100 ct                                                     $6.69          $3.65          45.4%     
 Kellogg's Glazed Donut Holes Frosted Flakes Cereal 10 oz                                 $3.69          $1.84          50.1%     
@@ -107,12 +108,12 @@ HONEY MUSTARD DIPPING SAUCE                                                     
 One A Day VitaCraves Womens Multivitamin Gummies 80 ct                                   $8.62          $4.40          49.0%     
 MEAL MS BEEF POT ROAST FAMILY SIZE                                                       $8.99          $4.49          50.1%     
 MEAL MS STEAK QUESO AND RICE FAMILY SIZE                                                 $8.99          $4.49          50.1%     
-Gold Bond Ultimate Neck and Chest Firming Cream 2 oz tube                                $8.72          $4.52          48.2%     
 Vaseline Intensive Care Cocoa Radiant Body Lotion 32 fl oz pump bottle                   $8.33          $4.57          45.1%     
 Tyson Ground Beef Pork Loaf                                                              $9.16          $4.65          49.2%     
 Alka Seltzer Heartburn Relief Assorted Fruit 66Ct                                        $8.62          $4.67          45.8%     
 GRANOLA SPEC K RED BERRIES                                                               $4.74          $2.37          50.0%     
 GRANOLA SPEC K VAN ALMOND                                                                $4.74          $2.37          50.0%     
+HYDRATION PLUS MULTI-PURPOSE SOLUTION                                                    $4.77          $2.51        47.4% ***   
 Citracal Calcium Citrate & D3 Petites Coated Caplets 200 ct bottle                       $9.42          $4.80          49.0%     
 PAD ULTRA THIN WINGS HEAVY ABS                                                           $9.57          $4.90          48.8%     
 Olly Kids Chillax Gummy, For a Calm Relaxed Mood 50 Ct                                   $9.93          $5.01          49.5%     
@@ -121,8 +122,8 @@ Crest 3D White Advanced Teeth Whitening Toothpaste 3 3.0 Oz Pack Clubpack       
 Crest 3D White Advanced Radiant mint Teeth Whitening Toothpaste 3,3 Oz                   $11.13         $5.08        54.4% ***   
 CEREAL APPLE CINNAMON CEREAL MS                                                          $5.09          $2.63          48.3%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
+Kind Healthy Grains Gluten-free Dark Chocolate Whole Grain Clusters Granola 11 oz ba     $5.09          $2.57        49.5% ***   
 Dove men+Care Aloe and Bamboo Whole Body Deodorant 4 Oz                                  $9.58          $5.16          46.1%     
-HONEY SEA SALT                                                                           $5.39          $2.19          59.4%     
 VAGISTAT 3 DAY TREATMENT                                                                 $10.53         $5.65          46.3%     
 VAGISTAT 1 DOSE TREATMENT                                                                $11.49         $6.19          46.1%     
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
@@ -143,6 +144,7 @@ DOG FOOD ADULT CHICKEN & OATMEAL                                                
 FCL CLNSNG MELTS VIT C                                                                   $8.39          $4.03          52.0%     
 OLAY FCL CLNSNG MELTS RETINOL                                                            $8.39          $4.03          52.0%     
 One A Day Women's 50+ Complete Multivitamin 200 ct                                       $16.84         $9.14          45.7%     
+Bausch + Lomb Boston Simplus Multi-Action Lens Solution 3.5 oz box                       $9.22          $4.73        48.7% ***   
 CAT GRAIN FR INDOOR CHKN RECIPE                                                          $17.84         $9.36          47.5%     
 Tippy Toes Super Pack Diapers, 4 22-37 lb 92 ct                                          $27.29         $10.00         63.4%     
 Aleve All Day Strong Caplets 220 mg Naproxen Sodium 270 ea                               $20.29         $10.17         49.9%     
