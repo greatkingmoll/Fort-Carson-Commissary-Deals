@@ -1,4 +1,4 @@
-2026-03-28
+2026-03-29
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $0.39          85.9%     
@@ -68,12 +68,12 @@ Axe Aqua Bergamot Deodorant Stick 3 oz                                          
 Axe Blue Lavender Deodorant Stick 3 oz                                                   $5.32          $2.66          50.0%     
 DRESSING GARLIC RANCH                                                                    $5.45          $2.73          49.9%     
 Jimmy Dean Hickory smoked bacon mega pk 20 oz                                            $5.36          $2.81          47.6%     
-PORK TENDERLOIN SSND STKHOUSE                                                            $6.00          $2.96        50.7% ***   
+PORK TENDERLOIN SSND STKHOUSE                                                            $6.00          $2.96          50.7%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 YAKY CHEW MACHO                                                                          $5.57          $3.02          45.8%     
 PORK TENDERLOIN GARLIC HERB                                                              $6.09          $3.05          49.9%     
 Vaseline Men Cooling Hydration Body Lotion 24.5 fl oz pump bottle                        $6.04          $3.09          48.8%     
-Mielle Curl Defining Mousse with Hold, Pomegranate and Honey 7.5 Oz                      $6.98          $3.09        55.7% ***   
+Mielle Curl Defining Mousse with Hold, Pomegranate and Honey 7.5 Oz                      $6.98          $3.09          55.7%     
 SeaBond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Ct                           $5.97          $3.16          47.1%     
 Sea.Bond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Uppers                      $5.97          $3.16          47.1%     
 U By Kotex Security Lightdays Long Pantyliner 96 ct box                                  $5.92          $3.19          46.1%     
@@ -82,7 +82,7 @@ U By Kotex Security Lightdays Regular Liners 129 ct box                         
 Crest Gum Care Cool Wintergreen Mouthwash 33.8 fl oz bottle                              $6.77          $3.24          52.1%     
 Degree Women Pure Clean UltraClear Invisible Solid Antiperspirant Deodorant Stick 2.     $6.34          $3.26          48.6%     
 BEEF STEAKS SW RANCHERO                                                                  $6.59          $3.29          50.1%     
-STEAK BITES GARLIC BTTR                                                                  $6.59          $3.29        50.1% ***   
+STEAK BITES GARLIC BTTR                                                                  $6.59          $3.29          50.1%     
 PAD ULTRA THIN WINGS TEEN OVERNIGHT                                                      $6.57          $3.35          49.0%     
 U By Kotex Balance Teen Ultra Thin Pads with Wings 28 Ct                                 $6.57          $3.35          49.0%     
 CEREAL VAN ALMND CRNCH RATIO KETO                                                        $6.63          $3.47          47.7%     
@@ -118,8 +118,8 @@ Citracal Calcium Citrate & D3 Petites Coated Caplets 200 ct bottle              
 PAD ULTRA THIN WINGS HEAVY ABS                                                           $9.57          $4.90          48.8%     
 Olly Kids Chillax Gummy, For a Calm Relaxed Mood 50 Ct                                   $9.93          $5.01          49.5%     
 Olly Daily Energy Gummy, Caffeine Free 60 Ct                                             $9.97          $5.05          49.3%     
-Crest 3D White Advanced Teeth Whitening Toothpaste 3 3.0 Oz Pack Clubpack                $11.13         $5.08        54.4% ***   
-Crest 3D White Advanced Radiant mint Teeth Whitening Toothpaste 3,3 Oz                   $11.13         $5.08        54.4% ***   
+Crest 3D White Advanced Teeth Whitening Toothpaste 3 3.0 Oz Pack Clubpack                $11.13         $5.08          54.4%     
+Crest 3D White Advanced Radiant mint Teeth Whitening Toothpaste 3,3 Oz                   $11.13         $5.08          54.4%     
 CEREAL APPLE CINNAMON CEREAL MS                                                          $5.09          $2.63          48.3%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
 Kind Healthy Grains Gluten-free Dark Chocolate Whole Grain Clusters Granola 11 oz ba     $5.09          $2.57        49.5% ***   
