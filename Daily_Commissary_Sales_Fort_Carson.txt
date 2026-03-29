@@ -28,9 +28,14 @@ MEAL NT PASTA PRIMAVERA                                                         
 MEAL NT MACARONI AND CHEESE WITH BROCCOLI                                                $2.88          $1.39          51.7%     
 Stouffer's Veggie Lovers Lasagna Frozen Meal 10.5 oz box                                 $2.84          $1.39          51.1%     
 Hillshire Farm Spiral Half Brown Ham                                                     $2.48          $1.02          59.0%     
+Sargento balanced breaks with honey teddy grahams 2 ea                                   $2.99          $1.52        49.2% ***   
+Tropicana Essentials Some pulp Orange Blend Juice 46 Fl Oz                               $3.12          $1.66        46.8% ***   
+PEPPERONI DILL PICKLE 5OZ                                                                $3.40          $1.71        49.7% ***   
+PEPPERONI JALAPENO 5OZ                                                                   $3.40          $1.71        49.7% ***   
 PFO ORG CKN NDL 16.1OZ 12CA                                                              $3.24          $1.73          46.6%     
 PFO ORG CKN WILD RICE 16.3OZ 12CA                                                        $3.24          $1.73          46.6%     
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
+Hormel Pepperoni 8 oz package                                                            $3.30          $1.77        46.4% ***   
 Walker & Sons Slap Ya Mama Cajun Jambalaya Mix Quick Cook Cajun Meal 8 oz box            $3.59          $1.82          49.3%     
 Kellogg's Apple Jacks Cinnamon Glazed Donut Holes Cereal 10 oz                           $3.69          $1.84          50.1%     
 LITEHOUSE PEAR GORGONZOLA VINAIGRETTE SALAD DRESSING 12 OZ BOTTLE                        $3.75          $1.88          49.9%     
@@ -62,6 +67,7 @@ Fresca Black Cherry Soda Sparkling Flavored Soft Drink Zero Calorie and Sugar Fr
 Dr Pepper soda blackberry zero sugar 12 pk                                               $7.49          $2.49          66.8%     
 Dr Pepper soda blackberry 12 pk                                                          $7.49          $2.49          66.8%     
 Dr Pepper Diet Original Soda 12 fl oz can 12 pack                                        $7.49          $2.49          66.8%     
+Hormel Gatherings Pepperoni & Salami Snack 14 oz tray                                    $5.67          $2.50        55.9% ***   
 Cascadian Farm Organic Cocoa Almond Protein Cereal 10.7 oz                               $4.74          $2.55          46.2%     
 Smithfield Preglazed Hickory Smoked Spiral Red Glaze Sliced Ham                          $3.59          $1.01          72.0%     
 Axe Aqua Bergamot Deodorant Stick 3 oz                                                   $5.32          $2.66          50.0%     
@@ -73,7 +79,6 @@ Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Fr
 YAKY CHEW MACHO                                                                          $5.57          $3.02          45.8%     
 PORK TENDERLOIN GARLIC HERB                                                              $6.09          $3.05          49.9%     
 Vaseline Men Cooling Hydration Body Lotion 24.5 fl oz pump bottle                        $6.04          $3.09          48.8%     
-Mielle Curl Defining Mousse with Hold, Pomegranate and Honey 7.5 Oz                      $6.98          $3.09          55.7%     
 SeaBond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Ct                           $5.97          $3.16          47.1%     
 Sea.Bond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Uppers                      $5.97          $3.16          47.1%     
 U By Kotex Security Lightdays Long Pantyliner 96 ct box                                  $5.92          $3.19          46.1%     
@@ -89,7 +94,6 @@ CEREAL VAN ALMND CRNCH RATIO KETO                                               
 TACO SHELLS SNS 20CT                                                                     $3.51          $1.67        52.4% ***   
 Degree Antiperspirant Deodorant, Shower Clean Twin Pack                                  $6.68          $3.60          46.1%     
 U by Kotex Barely There Liner 100 ct                                                     $6.69          $3.65          45.4%     
-Kellogg's Glazed Donut Holes Frosted Flakes Cereal 10 oz                                 $3.69          $1.84          50.1%     
 Rachael Ray Nutrish Chicken & Brown Rice Recipe Dry Cat Food 3 lb bag                    $6.90          $3.72          46.1%     
 La Mexicana Gluten-free Authentic Farm Fresh Mango Peach Salsa Dip 16 oz tub             $3.75          $1.87          50.1%     
 U by Kotex Balance Extra Heavy Overnight Ultra-Thin Pads 22 Ct                           $7.37          $3.79          48.6%     
@@ -101,7 +105,6 @@ U By Kotex Security Ultra Thin Heavy Flow Pads 56 ct package                    
 SUPER SEED JALAPENO CRACKERS                                                             $3.98          $2.05          48.5%     
 Dr Pepper Diet Soda 12 fl oz 24 pack                                                     $14.07         $3.99          71.6%     
 Crest 3D White Anticavity Floride Toothpaste 4.6 Oz                                      $7.69          $4.09          46.8%     
-Coricidin HBP Maximum Strength Cold, Cough & Flu for People with High Blood Pressure     $7.99          $4.19          47.6%     
 Alka-Seltzer Plus Severe Cold Powerfast Fizz 24 Ct                                       $8.47          $4.30          49.2%     
 GARLIC BUTTER DIPPING SAUCE                                                              $4.32          $2.16          50.0%     
 HONEY MUSTARD DIPPING SAUCE                                                              $4.32          $2.16          50.0%     
@@ -123,19 +126,19 @@ Crest 3D White Advanced Radiant mint Teeth Whitening Toothpaste 3,3 Oz          
 CEREAL APPLE CINNAMON CEREAL MS                                                          $5.09          $2.63          48.3%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
 Kind Healthy Grains Gluten-free Dark Chocolate Whole Grain Clusters Granola 11 oz ba     $5.09          $2.57        49.5% ***   
+OINKIES TENDER RIBS                                                                      $9.96          $5.14        48.4% ***   
 Dove men+Care Aloe and Bamboo Whole Body Deodorant 4 Oz                                  $9.58          $5.16          46.1%     
 VAGISTAT 3 DAY TREATMENT                                                                 $10.53         $5.65          46.3%     
 VAGISTAT 1 DOSE TREATMENT                                                                $11.49         $6.19          46.1%     
+TP OW ADV SPK WHT 3.2OZ ANNUAL CLUBPACK                                                  $12.32         $6.32        48.7% ***   
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
 One A Day VitaCraves Women's Multivitamin Gummies 170 ct                                 $12.32         $6.47          47.5%     
 DRINK ES WATERMELON 6PK                                                                  $12.59         $6.63          47.3%     
 GRANOLA COCONUT ALMOND KETO                                                              $6.63          $3.47          47.7%     
 GRANOLA TOASTED ALMOND KETO                                                              $6.63          $3.47          47.7%     
-One A Day Men's 50+ Healthy Advantage Multivitamin Tablets 100 ct                        $12.46         $6.77          45.7%     
 UW SLHTTE MAX ABS WMN L                                                                  $13.39         $6.84          48.9%     
 SAUCE SWEET PINEAPPLE BBQ                                                                $6.98          $3.49          50.0%     
 Coca-Cola Soda Soft Drink, 12 fl oz Cans, 24 Pack                                        $14.07         $6.99          50.3%     
-Depend Fit Flex Women Large Underwear 17 ct package                                      $13.39         $7.04          47.4%     
 Nexxus Therappe Protein Infusion Elastin Protein and Green Caviar Ultimate Moisture      $13.28         $7.18          45.9%     
 Olly Happy Hoo-HA Supports Vaginal Health & PH Balance Probiotic 25 Ct                   $14.32         $7.30          49.0%     
 Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30          49.0%     
