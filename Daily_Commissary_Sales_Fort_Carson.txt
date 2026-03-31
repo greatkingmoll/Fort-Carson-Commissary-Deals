@@ -1,4 +1,4 @@
-2026-03-30
+2026-03-31
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $0.39          85.9%     
@@ -28,14 +28,14 @@ MEAL NT PASTA PRIMAVERA                                                         
 MEAL NT MACARONI AND CHEESE WITH BROCCOLI                                                $2.88          $1.39          51.7%     
 Stouffer's Veggie Lovers Lasagna Frozen Meal 10.5 oz box                                 $2.84          $1.39          51.1%     
 Hillshire Farm Spiral Half Brown Ham                                                     $2.48          $1.02          59.0%     
-Sargento balanced breaks with honey teddy grahams 2 ea                                   $2.99          $1.52        49.2% ***   
-Tropicana Essentials Some pulp Orange Blend Juice 46 Fl Oz                               $3.12          $1.66        46.8% ***   
-PEPPERONI DILL PICKLE 5OZ                                                                $3.40          $1.71        49.7% ***   
-PEPPERONI JALAPENO 5OZ                                                                   $3.40          $1.71        49.7% ***   
+Sargento balanced breaks with honey teddy grahams 2 ea                                   $2.99          $1.52          49.2%     
+Tropicana Essentials Some pulp Orange Blend Juice 46 Fl Oz                               $3.12          $1.66          46.8%     
+PEPPERONI DILL PICKLE 5OZ                                                                $3.40          $1.71          49.7%     
+PEPPERONI JALAPENO 5OZ                                                                   $3.40          $1.71          49.7%     
 PFO ORG CKN NDL 16.1OZ 12CA                                                              $3.24          $1.73          46.6%     
 PFO ORG CKN WILD RICE 16.3OZ 12CA                                                        $3.24          $1.73          46.6%     
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
-Hormel Pepperoni 8 oz package                                                            $3.30          $1.77        46.4% ***   
+Hormel Pepperoni 8 oz package                                                            $3.30          $1.77          46.4%     
 Walker & Sons Slap Ya Mama Cajun Jambalaya Mix Quick Cook Cajun Meal 8 oz box            $3.59          $1.82          49.3%     
 Kellogg's Apple Jacks Cinnamon Glazed Donut Holes Cereal 10 oz                           $3.69          $1.84          50.1%     
 LITEHOUSE PEAR GORGONZOLA VINAIGRETTE SALAD DRESSING 12 OZ BOTTLE                        $3.75          $1.88          49.9%     
@@ -66,7 +66,7 @@ Fresca Black Cherry Soda Sparkling Flavored Soft Drink Zero Calorie and Sugar Fr
 Dr Pepper soda blackberry zero sugar 12 pk                                               $7.49          $2.49          66.8%     
 Dr Pepper soda blackberry 12 pk                                                          $7.49          $2.49          66.8%     
 Dr Pepper Diet Original Soda 12 fl oz can 12 pack                                        $7.49          $2.49          66.8%     
-Hormel Gatherings Pepperoni & Salami Snack 14 oz tray                                    $5.67          $2.50        55.9% ***   
+Hormel Gatherings Pepperoni & Salami Snack 14 oz tray                                    $5.67          $2.50          55.9%     
 Cascadian Farm Organic Cocoa Almond Protein Cereal 10.7 oz                               $4.74          $2.55          46.2%     
 Smithfield Preglazed Hickory Smoked Spiral Red Glaze Sliced Ham                          $3.59          $1.01          72.0%     
 Axe Aqua Bergamot Deodorant Stick 3 oz                                                   $5.32          $2.66          50.0%     
@@ -125,11 +125,11 @@ Crest 3D White Advanced Radiant mint Teeth Whitening Toothpaste 3,3 Oz          
 CEREAL APPLE CINNAMON CEREAL MS                                                          $5.09          $2.63          48.3%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
 Kind Healthy Grains Gluten-free Dark Chocolate Whole Grain Clusters Granola 11 oz ba     $5.09          $2.57          49.5%     
-OINKIES TENDER RIBS                                                                      $9.96          $5.14        48.4% ***   
+OINKIES TENDER RIBS                                                                      $9.96          $5.14          48.4%     
 Dove men+Care Aloe and Bamboo Whole Body Deodorant 4 Oz                                  $9.58          $5.16          46.1%     
 VAGISTAT 3 DAY TREATMENT                                                                 $10.53         $5.65          46.3%     
 VAGISTAT 1 DOSE TREATMENT                                                                $11.49         $6.19          46.1%     
-TP OW ADV SPK WHT 3.2OZ ANNUAL CLUBPACK                                                  $12.32         $6.32        48.7% ***   
+TP OW ADV SPK WHT 3.2OZ ANNUAL CLUBPACK                                                  $12.32         $6.32          48.7%     
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
 One A Day VitaCraves Women's Multivitamin Gummies 170 ct                                 $12.32         $6.47          47.5%     
 GRANOLA COCONUT ALMOND KETO                                                              $6.63          $3.47          47.7%     
