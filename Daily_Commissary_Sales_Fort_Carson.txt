@@ -1,4 +1,4 @@
-2026-04-01
+2026-04-02
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Cascadian Farm Organic Cocoa Almond Protein Cereal 10.7 oz                               $4.74          $0.39          91.8%     
@@ -21,11 +21,11 @@ Brew Dr. Island Mango Tea 14 oz bottle                                          
 Brew Dr kombucha pink lemonade 14 fl oz                                                  $2.25          $1.12          50.2%     
 Brew Dr. Organic Ginger Lemon Kombucha Tea 14 oz bottle                                  $2.25          $1.12          50.2%     
 Clean Shower Daily Shower Cleaner 32 fl oz bottle                                        $2.22          $1.22          45.0%     
-Pop Tarts toaster pastries girl scout frosted coconut caramel 8 ct                       $2.50          $1.25        50.0% ***   
-Pop Tart toaster pastry frost lemon blueberry crumble 13.5 oz                            $2.50          $1.25        50.0% ***   
-Pop Tart toaster pastries girl scouts thin mints 8 ea                                    $2.50          $1.25        50.0% ***   
-Pop Tarts frosted cinnamon roll 13.5 oz                                                  $2.50          $1.25        50.0% ***   
-Kellogg's Pop-Tarts Frosted Hot Fudge Sundae Toaster Pastries 8 ct 13.5 oz box           $2.50          $1.25        50.0% ***   
+Pop Tarts toaster pastries girl scout frosted coconut caramel 8 ct                       $2.50          $1.25          50.0%     
+Pop Tart toaster pastry frost lemon blueberry crumble 13.5 oz                            $2.50          $1.25          50.0%     
+Pop Tart toaster pastries girl scouts thin mints 8 ea                                    $2.50          $1.25          50.0%     
+Pop Tarts frosted cinnamon roll 13.5 oz                                                  $2.50          $1.25          50.0%     
+Kellogg's Pop-Tarts Frosted Hot Fudge Sundae Toaster Pastries 8 ct 13.5 oz box           $2.50          $1.25          50.0%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
 Bolthouse Farms Vanilla Chai Tea 15.2 fl oz bottle                                       $2.75          $1.37        50.2% ***   
 MEAL NT MARINARA CHICKEN AND BROCCOLI                                                    $2.88          $1.39          51.7%     
@@ -38,7 +38,7 @@ CEREAL CAPN CRUNCH CINNAMON MS                                                  
 Black Forest fruit snacks juicy burst mixed fruit 40 ea                                  $7.75          $1.61          79.2%     
 PEPPERONI DILL PICKLE 5OZ                                                                $3.40          $1.71          49.7%     
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
-Cheez It puffd cheese pizza 5.75 oz                                                      $3.50          $1.75        50.0% ***   
+Cheez It puffd cheese pizza 5.75 oz                                                      $3.50          $1.75          50.0%     
 Walker & Sons Slap Ya Mama Cajun Jambalaya Mix Quick Cook Cajun Meal 8 oz box            $3.59          $1.82          49.3%     
 Kellogg's Apple Jacks Cinnamon Glazed Donut Holes Cereal 10 oz                           $3.69          $1.84          50.1%     
 Litehouse Parmesan Caesar Dressing and Dip 12 fl oz bottle                               $3.75          $1.88          49.9%     
@@ -47,13 +47,16 @@ LITEHOUSE PEAR GORGONZOLA VINAIGRETTE SALAD DRESSING 12 OZ BOTTLE               
 Kinder's hickory molasses rub 5 oz                                                       $3.79          $1.89          50.1%     
 DH DLLY PRTN CHC CK MIX                                                                  $1.89          $0.96          49.2%     
 Vital Pursuit Cauliflower Crust Pepperoni Pizza 22 G Protein 6.3 Oz                      $3.82          $1.89          50.5%     
-PASTERY CRNCH POP BRWN SGR                                                               $3.50          $1.91        45.4% ***   
-PASTRY CRUNCH POP STRWBRRY                                                               $3.50          $1.91        45.4% ***   
+PASTERY CRNCH POP BRWN SGR                                                               $3.50          $1.91          45.4%     
+PASTRY CRUNCH POP STRWBRRY                                                               $3.50          $1.91          45.4%     
 Crest Plus Deep Clean Complete Toothpaste 5.4 oz box                                     $3.56          $1.94        45.5% ***   
 Litehouse Gluten-free Thousand Island Dressing and Dip 13 oz fl jar                      $3.99          $2.00          49.9%     
 Litehouse Gluten-free Caesar Dressing and Spread 13 oz jar                               $3.99          $2.00          49.9%     
 Litehouse Gluten-free Jalapeno Ranch Dressing and Dip 13 fl oz jar                       $3.99          $2.00          49.9%     
 SUPER SEED EVERYTHING CRACKERS                                                           $3.98          $2.05          48.5%     
+AUTO VCLIP SEASIDE COCONUT VER                                                           $4.08          $2.12          48.0%     
+AUTO VCLIP FRESH LINEN & SAGE                                                            $4.08          $2.12        48.0% ***   
+AUTO VCLIP BLK VANILLA MANDRN                                                            $4.08          $2.12        48.0% ***   
 HONEY MUSTARD DIPPING SAUCE                                                              $4.32          $2.16          50.0%     
 Bayer Dr. Scholls Duragel Corn Removers 40% Salicylic Acid 6 ct package                  $4.27          $2.21        48.2% ***   
 Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26          49.6%     
