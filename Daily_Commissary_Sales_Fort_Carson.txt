@@ -2,6 +2,9 @@
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Cascadian Farm Organic Cocoa Almond Protein Cereal 10.7 oz                               $4.74          $0.39          91.8%     
+Barq's Root Beer 20 oz bottle                                                            $2.00          $0.49          75.5%     
+ZERO CHERRY FLOAT 20OZ FE                                                                $2.00          $0.49        75.5% ***   
+Fanta Orange Soda Soft Drink, 20 fl oz Bottle                                            $2.00          $0.49        75.5% ***   
 Dirty Potato Chips Good Health Veggie Sticks 1 oz bag                                    $1.03          $0.56          45.6%     
 Green Giant green beans kitchen sliced 14.5 oz                                           $1.16          $0.58          50.0%     
 Blistex Lip Protectant, Repair & Protect Chapped Lips                                    $3.82          $0.70          81.7%     
@@ -37,15 +40,16 @@ CEREAL CAPN CRUNCH CINNAMON MS                                                  
 PEPPERONI DILL PICKLE 5OZ                                                                $3.40          $1.71          49.7%     
 KETCHUP PICKLE                                                                           $3.32          $1.73        47.9% ***   
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
-Cheez It puffd cheese pizza 5.75 oz                                                      $3.50          $1.75          50.0%     
 Walker & Sons Slap Ya Mama Cajun Jambalaya Mix Quick Cook Cajun Meal 8 oz box            $3.59          $1.82          49.3%     
 Kellogg's Apple Jacks Cinnamon Glazed Donut Holes Cereal 10 oz                           $3.69          $1.84          50.1%     
 Litehouse Parmesan Caesar Dressing and Dip 12 fl oz bottle                               $3.75          $1.88          49.9%     
 LITEHOUSE BALSAMIC VINAIGRETTE SALAD DRESSING 12 OZ BOTTLE                               $3.75          $1.88          49.9%     
 LITEHOUSE PEAR GORGONZOLA VINAIGRETTE SALAD DRESSING 12 OZ BOTTLE                        $3.75          $1.88          49.9%     
-Kinder's hickory molasses rub 5 oz                                                       $3.79          $1.89          50.1%     
+SUMMER SAUSAGE                                                                           $3.80          $1.90        50.0% ***   
 PASTERY CRNCH POP BRWN SGR                                                               $3.50          $1.91          45.4%     
 Crest Plus Deep Clean Complete Toothpaste 5.4 oz box                                     $3.56          $1.94          45.5%     
+Sprite Zero Sugar Bottles, 16.9 fl oz, 6 Pack                                            $5.78          $1.99          65.6%     
+Coca-Cola Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                      $6.71          $1.99          70.3%     
 Litehouse Gluten-free Thousand Island Dressing and Dip 13 oz fl jar                      $3.99          $2.00          49.9%     
 Litehouse Gluten-free Caesar Dressing and Spread 13 oz jar                               $3.99          $2.00          49.9%     
 Litehouse Gluten-free Jalapeno Ranch Dressing and Dip 13 fl oz jar                       $3.99          $2.00          49.9%     
@@ -55,6 +59,7 @@ AUTO VCLIP FRESH LINEN & SAGE                                                   
 AUTO VCLIP BLK VANILLA MANDRN                                                            $4.08          $2.12        48.0% ***   
 AUTO VCLIP COASTAL STORM TEAK                                                            $4.08          $2.12          48.0%     
 HONEY MUSTARD DIPPING SAUCE                                                              $4.32          $2.16          50.0%     
+Jennieo Turkey Breast                                                                    $4.43          $2.21          50.1%     
 Bayer Dr. Scholls Duragel Corn Removers 40% Salicylic Acid 6 ct package                  $4.27          $2.21          48.2%     
 Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26          49.6%     
 PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
@@ -105,24 +110,20 @@ CEREAL APPLE CINNAMON CEREAL MS                                                 
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
 OINKIES TENDER RIBS                                                                      $9.96          $5.14          48.4%     
 VAGISTAT 3 DAY TREATMENT                                                                 $10.53         $5.65          46.3%     
-VAGISTAT 1 DOSE TREATMENT                                                                $11.49         $6.19          46.1%     
-TP OW ADV SPK WHT 3.2OZ ANNUAL CLUBPACK                                                  $12.32         $6.32          48.7%     
+Colgate Optic White Advance Sparkling White Toothpaste 3 pk ANNUAL CLUBPACK              $12.32         $6.32        48.7% ***   
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
 One A Day VitaCraves Women's Multivitamin Gummies 170 ct                                 $12.32         $6.47          47.5%     
 Blue Emu Original Super Strength Topical Cream 4 oz jar                                  $12.80         $6.49          49.3%     
 GRANOLA COCONUT ALMOND KETO                                                              $6.63          $3.47          47.7%     
 GRANOLA TOASTED ALMOND KETO                                                              $6.63          $3.47          47.7%     
-UW SLHTTE MAX ABS WMN L                                                                  $13.39         $6.84          48.9%     
 SAUCE SWEET PINEAPPLE BBQ                                                                $6.98          $3.49          50.0%     
 Olly Happy Hoo-HA Supports Vaginal Health & PH Balance Probiotic 25 Ct                   $14.32         $7.30          49.0%     
 Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30          49.0%     
 VTMN MAGNESIUM GLYCINATE 300MG TABL                                                      $14.95         $7.70          48.5%     
 DOG FOOD ADULT CHICKEN & OATMEAL                                                         $15.49         $8.17          47.3%     
 One A Day Women's 50+ Complete Multivitamin 200 ct                                       $16.84         $9.14          45.7%     
-Bausch + Lomb Boston Simplus Multi-Action Lens Solution 3.5 oz box                       $9.22          $4.73          48.7%     
 Tippy Toes Super Pack Diapers, 4 22-37 lb 92 ct                                          $27.29         $10.00         63.4%     
 Aleve All Day Strong Caplets 220 mg Naproxen Sodium 270 ea                               $20.29         $10.17         49.9%     
 KITTEN CHICKEN RECIPE                                                                    $22.12         $11.89         46.2%     
-Bausch & Lomb Biotrue Contact Lens Solution 10 oz bottle 2 pack                          $15.17         $7.82          48.5%     
 
 Elapsed Time: N/A
