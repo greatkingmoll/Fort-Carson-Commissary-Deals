@@ -1,4 +1,4 @@
-2026-04-07
+2026-04-08
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Barq's Root Beer 20 oz bottle                                                            $2.00          $0.49          75.5%     
@@ -6,11 +6,11 @@ Fanta Orange Soda Soft Drink, 20 fl oz Bottle                                   
 ZERO CHERRY FLOAT 20OZ FE                                                                $2.00          $0.49          75.5%     
 Dirty Potato Chips Good Health Veggie Sticks 1 oz bag                                    $1.03          $0.56          45.6%     
 Green Giant green beans kitchen sliced 14.5 oz                                           $1.16          $0.58          50.0%     
-Annie's Homegrown Classic Cheddar Macaroni & Cheese Mixed Pasta 6 oz box                 $1.38          $0.70        49.3% ***   
-Annies Disney Cheddar Mac & Cheese 6 oz                                                  $1.38          $0.70        49.3% ***   
-Annie's Homegrown Organic Shells & White Cheddar Macaroni & Cheese Mixed Pasta 6 oz      $1.38          $0.70        49.3% ***   
-Annies Spidey Shapes Cheddar Mac & Cheese 6 oz                                           $1.38          $0.70        49.3% ***   
-Annie's Homegrown Shells & Real Aged Cheddar Macaroni & Cheese Mixed Pasta 6 oz box      $1.38          $0.70        49.3% ***   
+Annie's Homegrown Classic Cheddar Macaroni & Cheese Mixed Pasta 6 oz box                 $1.38          $0.70          49.3%     
+Annies Disney Cheddar Mac & Cheese 6 oz                                                  $1.38          $0.70          49.3%     
+Annie's Homegrown Organic Shells & White Cheddar Macaroni & Cheese Mixed Pasta 6 oz      $1.38          $0.70          49.3%     
+Annies Spidey Shapes Cheddar Mac & Cheese 6 oz                                           $1.38          $0.70          49.3%     
+Annie's Homegrown Shells & Real Aged Cheddar Macaroni & Cheese Mixed Pasta 6 oz box      $1.38          $0.70          49.3%     
 Fruit and Nut Granola 11 oz                                                              $4.82          $0.73          84.9%     
 Sweet & Salty Kettle Corn 3 Pack                                                         $1.93          $0.78          59.6%     
 Cousin Willie's Microwave Popcorm, Movie Theater Butter 8.7 Oz                           $1.93          $0.78          59.6%     
@@ -33,13 +33,13 @@ Pop Tart toaster pastries girl scouts thin mints 8 ea                           
 Pop Tarts frosted cinnamon roll 13.5 oz                                                  $2.50          $1.25          50.0%     
 Kellogg's Pop-Tarts Frosted Hot Fudge Sundae Toaster Pastries 8 ct 13.5 oz box           $2.50          $1.25          50.0%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
-CANDY BLK RSPBRY EGG                                                                     $2.49          $1.26        49.4% ***   
+CANDY BLK RSPBRY EGG                                                                     $2.49          $1.26          49.4%     
 MEAL NT CHICKEN MARINARA SANDWICH                                                        $2.82          $1.39          50.7%     
 MEAL NT PASTA PRIMAVERA                                                                  $2.88          $1.39          51.7%     
 MEAL NT MACARONI AND CHEESE WITH BROCCOLI                                                $2.88          $1.39          51.7%     
 Stouffer's Veggie Lovers Lasagna Frozen Meal 10.5 oz box                                 $2.84          $1.39          51.1%     
 KETCHUP PICKLE                                                                           $3.32          $1.73          47.9%     
-Violife Just like Cream Cheese 100 % Dairy Free 8 Oz                                     $3.49          $1.75        50.0% ***   
+Violife Just like Cream Cheese 100 % Dairy Free 8 Oz                                     $3.49          $1.75          50.0%     
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
 Walker & Sons Slap Ya Mama Cajun Jambalaya Mix Quick Cook Cajun Meal 8 oz box            $3.59          $1.82          49.3%     
 Kellogg's Apple Jacks Cinnamon Glazed Donut Holes Cereal 10 oz                           $3.69          $1.84          50.1%     
@@ -61,7 +61,6 @@ AUTO VCLIP FRESH LINEN & SAGE                                                   
 AUTO VCLIP BLK VANILLA MANDRN                                                            $4.08          $2.12          48.0%     
 AUTO VCLIP COASTAL STORM TEAK                                                            $4.08          $2.12          48.0%     
 HONEY MUSTARD DIPPING SAUCE                                                              $4.32          $2.16          50.0%     
-Jennieo Turkey Breast                                                                    $4.43          $2.21          50.1%     
 Phillips' Milk of Magnesia Original Liquid Laxative 12 fl oz bottle                      $4.48          $2.26          49.6%     
 WILD BIRD SEED CAKE                                                                      $4.32          $2.31          46.5%     
 CRACKERS SPICY SWT CHILI                                                                 $2.32          $1.15          50.4%     
@@ -71,12 +70,12 @@ Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Fr
 YAKY CHEW MACHO                                                                          $5.57          $3.02          45.8%     
 SeaBond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Ct                           $5.97          $3.16          47.1%     
 Sea.Bond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Uppers                      $5.97          $3.16          47.1%     
-Oral-B Disney Frozen Battery Toothbrush Battery 2 ct package                             $6.72          $3.22        52.1% ***   
+Oral-B Disney Frozen Battery Toothbrush Battery 2 ct package                             $6.72          $3.22          52.1%     
 Crest Gum Care Cool Wintergreen Mouthwash 33.8 fl oz bottle                              $6.77          $3.24          52.1%     
 Violife Cheese Substitute Cream Original 7.05 Oz                                         $3.49          $1.75          50.0%     
 TACO SHELLS SNS 20CT                                                                     $3.51          $1.67          52.4%     
 Coca-Cola Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                      $6.71          $3.57          46.8%     
-Procter & Gamble Old Spice Fiji Coconut 2 in 1 Shampoo & Conditioner 21.9 fl oz bott     $7.10          $3.70        47.9% ***   
+Procter & Gamble Old Spice Fiji Coconut 2 in 1 Shampoo & Conditioner 21.9 fl oz bott     $7.10          $3.70          47.9%     
 Black Forest fruit snacks juicy burst mixed fruit 40 ea                                  $7.75          $3.90          49.7%     
 SUPER SEED JALAPENO CRACKERS                                                             $3.98          $2.05          48.5%     
 Aspercreme Odor Free Max Strength Lidocaine Pain Relieving Patches 4% Lidocaine 5 ct     $7.90          $4.17          47.2%     
