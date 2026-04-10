@@ -1,4 +1,4 @@
-2026-04-09
+2026-04-10
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Barq's Root Beer 20 oz bottle                                                            $2.00          $0.49          75.5%     
@@ -94,9 +94,9 @@ IRON CHEWABLE TABLETS                                                           
 Crest 3D White Advanced Radiant mint Teeth Whitening Toothpaste 3,3 Oz                   $11.13         $5.08          54.4%     
 CEREAL APPLE CINNAMON CEREAL MS                                                          $5.09          $2.63          48.3%     
 CEREAL HONEY ALMOND CEREAL MS                                                            $5.09          $2.63          48.3%     
-Reed's Original Ginger Brew All-Natural Jamaican Style Non-Alcoholic Ginger Ale 12 f     $5.39          $2.79        48.2% ***   
-Reed's Zero Sugar Extra All-Natural Non-Alcoholic Craft Ginger Beer 12 fl oz bottle      $5.39          $2.79        48.2% ***   
-Reed's All Natural Non-Alcoholic Premium Brew Ginger Ale Beer 12 fl oz bottle 4 pack     $5.39          $2.79        48.2% ***   
+Reed's Original Ginger Brew All-Natural Jamaican Style Non-Alcoholic Ginger Ale 12 f     $5.39          $2.79          48.2%     
+Reed's Zero Sugar Extra All-Natural Non-Alcoholic Craft Ginger Beer 12 fl oz bottle      $5.39          $2.79          48.2%     
+Reed's All Natural Non-Alcoholic Premium Brew Ginger Ale Beer 12 fl oz bottle 4 pack     $5.39          $2.79          48.2%     
 VAGISTAT 3 DAY TREATMENT                                                                 $10.53         $5.65          46.3%     
 Epic Bites Sweet and Savory Bison & Uncured Bacon 2.5 oz bag                             $5.89          $2.94        50.1% ***   
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
@@ -111,7 +111,7 @@ Olly Lovin' Libido 40 Ct                                                        
 Minute Maid Zero Sugar Lemonade 12 fl oz can 12 pack                                     $7.49          $2.49          66.8%     
 VTMN MAGNESIUM GLYCINATE 300MG TABL                                                      $14.95         $7.70          48.5%     
 One A Day Women's 50+ Complete Multivitamin 200 ct                                       $16.84         $9.14          45.7%     
-ALLEGRA ALLERGY RELIEF - BERRY 8 OZ                                                      $17.87         $9.20        48.5% ***   
+ALLEGRA ALLERGY RELIEF - BERRY 8 OZ                                                      $17.87         $9.20          48.5%     
 Tippy Toes Super Pack Diapers, 4 22-37 lb 92 ct                                          $27.29         $10.00         63.4%     
 Aleve All Day Strong Caplets 220 mg Naproxen Sodium 270 ea                               $20.29         $10.17         49.9%     
 KITTEN CHICKEN RECIPE                                                                    $22.12         $11.89         46.2%     
