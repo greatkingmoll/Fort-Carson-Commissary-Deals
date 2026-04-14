@@ -1,8 +1,8 @@
 2026-04-14
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
-Barq's Root Beer 20 oz bottle                                                            $2.00          $0.49          75.5%     
 Fanta Orange Soda Soft Drink, 20 fl oz Bottle                                            $2.00          $0.49          75.5%     
+Barq's Root Beer 20 oz bottle                                                            $2.00          $0.49          75.5%     
 ZERO CHERRY FLOAT 20OZ FE                                                                $2.00          $0.49          75.5%     
 Dirty Potato Chips Good Health Veggie Sticks 1 oz bag                                    $1.03          $0.56          45.6%     
 Green Giant green beans kitchen sliced 14.5 oz                                           $1.16          $0.58          50.0%     
@@ -11,22 +11,33 @@ Annies Disney Cheddar Mac & Cheese 6 oz                                         
 Annie's Homegrown Organic Shells & White Cheddar Macaroni & Cheese Mixed Pasta 6 oz      $1.38          $0.70          49.3%     
 Annies Spidey Shapes Cheddar Mac & Cheese 6 oz                                           $1.38          $0.70          49.3%     
 Annie's Homegrown Shells & Real Aged Cheddar Macaroni & Cheese Mixed Pasta 6 oz box      $1.38          $0.70          49.3%     
+Olipop cream soda 12 fl oz                                                               $1.49          $0.75        49.7% ***   
+Olipop sparkling juice orange squeeze 12 fl oz                                           $1.49          $0.75        49.7% ***   
+Olipop classic grape 12 fl oz                                                            $1.49          $0.75        49.7% ***   
+Olipop classic root beer 12 fl oz                                                        $1.49          $0.75        49.7% ***   
+Olipop sparkling juice strawberry vanilla 12 fl oz                                       $1.49          $0.75        49.7% ***   
+Olipop sparkling juice vintage cola 12 fl oz                                             $1.49          $0.75        49.7% ***   
 Sweet & Salty Kettle Corn 3 Pack                                                         $1.93          $0.78          59.6%     
 Cousin Willie's Microwave Popcorm, Movie Theater Butter 8.7 Oz                           $1.93          $0.78          59.6%     
 Cousin Willie's Buttery Explosion Microwave Popcorn 8.7 Oz                               $1.93          $0.78          59.6%     
 Arm & Hammer Fresh Scensations Island Mist Carpet Odor Eliminator 30 oz                  $1.84          $0.84          54.3%     
+FOODIES FRIES                                                                            $2.95          $0.95        67.8% ***   
+FOODIES BURGER                                                                           $2.95          $0.95        67.8% ***   
+FOODIES SODA PUP                                                                         $2.95          $0.95        67.8% ***   
 Knorr Bernaise Sauce Mix 0.9 oz packet                                                   $0.99          $0.32          67.7%     
 Knorr Hollandaise Sauce Mix 0.9 oz packet                                                $0.99          $0.32          67.7%     
 Diet Coke Diet Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                              $4.00          $0.99          75.2%     
 Progresso Garlic & Herb Bread Crumbs 15 oz tub                                           $2.12          $1.00          52.8%     
 Progresso Plain Bread Crumbs 15 oz tub                                                   $2.12          $1.00          52.8%     
 Progresso Italian Style Bread Crumbs 15 oz tub                                           $2.12          $1.00          52.8%     
-Brew Dr. Organic Kombucha Drink Tea 14 oz bottle                                         $2.25          $1.12          50.2%     
-Brew Dr. Organic Clear Mind Kombucha Tea 32 oz bottle                                    $2.25          $1.12          50.2%     
-Brew Dr. Island Mango Tea 14 oz bottle                                                   $2.25          $1.12          50.2%     
-Brew Dr kombucha pink lemonade 14 fl oz                                                  $2.25          $1.12          50.2%     
 Brew Dr. Organic Ginger Lemon Kombucha Tea 14 oz bottle                                  $2.25          $1.12          50.2%     
 Brew Dr. Kombucha Superberry Tea 14 oz bottle                                            $2.25          $1.12          50.2%     
+Brew Dr. Organic Kombucha Drink Tea 14 oz bottle                                         $2.25          $1.12          50.2%     
+Brew Dr. Organic Clear Mind Kombucha Tea 32 oz bottle                                    $2.25          $1.12          50.2%     
+Brew Dr kombucha pink lemonade 14 fl oz                                                  $2.25          $1.12          50.2%     
+Brew Dr. Island Mango Tea 14 oz bottle                                                   $2.25          $1.12          50.2%     
+Suja Organic Vitamin D & Zinc Shot Juice 2 fl oz bottle                                  $2.29          $1.14        50.2% ***   
+Suja Organic Elderberry & Probiotics Immunity Rebound Shot 2 fl oz bottle                $2.29          $1.14        50.2% ***   
 Stouffer's Mushroom Stroganoff Pasta 10 Oz                                               $2.43          $1.19          51.0%     
 Clean Shower Daily Shower Cleaner 32 fl oz bottle                                        $2.22          $1.22          45.0%     
 Pop Tarts toaster pastries girl scout frosted coconut caramel 8 ct                       $2.50          $1.25          50.0%     
@@ -34,9 +45,32 @@ Pop Tart toaster pastries girl scouts thin mints 8 ea                           
 Kellogg's Pop-Tarts Frosted Hot Fudge Sundae Toaster Pastries 8 ct 13.5 oz box           $2.50          $1.25          50.0%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
 CANDY BLK RSPBRY EGG                                                                     $2.49          $1.26          49.4%     
+BABY APPLE BANANA SPINACH AVOCADO POUCH                                                  $2.69          $1.38        48.7% ***   
+BABY PEAR BLUEBERRY POUCH                                                                $2.69          $1.38        48.7% ***   
+BABY BANANA OATMEAL POUCH                                                                $2.69          $1.38        48.7% ***   
+BABY APPLE BLUEBERRY POUCH                                                               $2.69          $1.38        48.7% ***   
+BABY BANILLA COCONUT YOGURT POUCH                                                        $2.69          $1.38        48.7% ***   
+BABY MIXED BERRY COCONUT YOGURT POUCH                                                    $2.69          $1.38        48.7% ***   
+BABY MANGO COCONUT CARROT POUCH                                                          $2.69          $1.38        48.7% ***   
+BABY APPLE SWT POTATO BLUEBERRY POUCH                                                    $2.69          $1.38        48.7% ***   
+BABY STRAWBERRY SQUASH COCONUT POUCH                                                     $2.69          $1.38        48.7% ***   
+BABY MANGO POUCH                                                                         $2.69          $1.38        48.7% ***   
+BABY PEAR GINGER POUCH                                                                   $2.69          $1.38        48.7% ***   
+BABY APPLE CARROT BEET GNGR FLAX POUCH                                                   $2.69          $1.38        48.7% ***   
+BABY APPLE SWEET POTATO POUCH                                                            $2.69          $1.38        48.7% ***   
+BABY STRBERRY BANANA COCONT YOGURT POUCH                                                 $2.69          $1.38        48.7% ***   
+BABY PEACH MANGO APPLE SQUASH POUCH                                                      $2.69          $1.38        48.7% ***   
+BABY PINEAPPLE BANANA AVOCADO POUCH                                                      $2.69          $1.38        48.7% ***   
+BABY APPLE OATMEAL POUCH                                                                 $2.69          $1.38        48.7% ***   
 MEAL NT CHICKEN MARINARA SANDWICH                                                        $2.82          $1.39          50.7%     
 MEAL NT PASTA PRIMAVERA                                                                  $2.88          $1.39          51.7%     
 MEAL NT MACARONI AND CHEESE WITH BROCCOLI                                                $2.88          $1.39          51.7%     
+BABY RASPBERRY PEAR KALE POUCH                                                           $3.00          $1.54        48.7% ***   
+BABY PEAR BBERRY SPINACH POUCH                                                           $3.00          $1.54        48.7% ***   
+BABY BERRY CHERRY SWEET POTATO POUCH                                                     $3.00          $1.54        48.7% ***   
+BABY BANANA BERRY ACAI POUCH                                                             $3.00          $1.54        48.7% ***   
+BABY PINEAPPLE BERRY PUNCH POUCH                                                         $3.00          $1.54        48.7% ***   
+BABY BANANAS APPLES GREENS POUCH                                                         $3.00          $1.54        48.7% ***   
 KETCHUP PICKLE                                                                           $3.32          $1.73          47.9%     
 Violife Just like Cream Cheese 100 % Dairy Free 8 Oz                                     $3.49          $1.75          50.0%     
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
@@ -46,14 +80,15 @@ DOG FOOD CUP BEEF STEW                                                          
 Walker & Sons Slap Ya Mama Cajun Jambalaya Mix Quick Cook Cajun Meal 8 oz box            $3.59          $1.82          49.3%     
 Violife Cheese Sub With Shredded Cheddar Vegan 8 Oz                                      $3.69          $1.84          50.0%     
 Violife Cheese Sub Sandwich With Shredded Mozzarella Vegan 8 Oz                          $3.69          $1.84          50.0%     
-Violife Cheese Substitute Cheddar Slices 7.05 Oz                                         $3.69          $1.84          50.0%     
 Violife Mexican Style Shreds 8 oz                                                        $3.69          $1.84          50.0%     
 Violife Cheese Substitute Vegan Smoked Provolone Slice 7.05 Oz                           $3.69          $1.84          50.0%     
+Violife Cheese Substitute Cheddar Slices 7.05 Oz                                         $3.69          $1.84          50.0%     
 Litehouse Parmesan Caesar Dressing and Dip 12 fl oz bottle                               $3.75          $1.88          49.9%     
 LITEHOUSE PEAR GORGONZOLA VINAIGRETTE SALAD DRESSING 12 OZ BOTTLE                        $3.75          $1.88          49.9%     
 Digiorno breakfast sausage and gravy croissant pizza 9.2 oz                              $3.79          $1.89          50.1%     
 Crest Plus Deep Clean Complete Toothpaste 5.4 oz box                                     $3.56          $1.94          45.5%     
 Sprite Zero Sugar Bottles, 16.9 fl oz, 6 Pack                                            $5.78          $1.99          65.6%     
+Coca-Cola Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                      $6.71          $1.99          70.3%     
 Litehouse Gluten-free Thousand Island Dressing and Dip 13 oz fl jar                      $3.99          $2.00          49.9%     
 Litehouse Gluten-free Jalapeno Ranch Dressing and Dip 13 fl oz jar                       $3.99          $2.00          49.9%     
 SUPER SEED EVERYTHING CRACKERS                                                           $3.98          $2.05          48.5%     
@@ -67,12 +102,15 @@ WILD BIRD SEED CAKE                                                             
 CRACKERS SPICY SWT CHILI                                                                 $2.32          $1.15          50.4%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.39          $2.32          47.2%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.39          $2.32          47.2%     
+Reed's All Natural Non-Alcoholic Premium Brew Ginger Ale Beer 12 fl oz bottle 4 pack     $5.39          $2.79          48.2%     
+Reed's Zero Sugar Extra All-Natural Non-Alcoholic Craft Ginger Beer 12 fl oz bottle      $5.39          $2.79          48.2%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 Freedom's Choice Seasoned Turkey Patties 24 oz                                           $6.98          $3.00          57.0%     
 SeaBond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Ct                           $5.97          $3.16          47.1%     
 Sea.Bond Denture Adhesive Seals 75% Stronger All-Day Hold 30 Uppers                      $5.97          $3.16          47.1%     
 Crest Gum Care Cool Wintergreen Mouthwash 33.8 fl oz bottle                              $6.77          $3.24          52.1%     
 Violife Cheese Substitute Cream Original 7.05 Oz                                         $3.49          $1.75          50.0%     
+SAUCE SWEET PINEAPPLE BBQ                                                                $6.98          $3.49          50.0%     
 Toll House m and m chocolate chip cookie dough 14 oz                                     $3.69          $1.85        49.9% ***   
 Black Forest fruit snacks juicy burst mixed fruit 40 ea                                  $7.75          $3.90          49.7%     
 Bugles Original Flavor Crispy Corn Snacks 14.5 oz bag                                    $3.96          $2.08          47.5%     
@@ -82,18 +120,18 @@ One A Day VitaCraves Womens Multivitamin Gummies 80 ct                          
 MEAL MS BEEF POT ROAST FAMILY SIZE                                                       $8.99          $4.49          50.1%     
 MEAL MS STEAK QUESO AND RICE FAMILY SIZE                                                 $8.99          $4.49          50.1%     
 Alka Seltzer Heartburn Relief Assorted Fruit 66Ct                                        $8.62          $4.67          45.8%     
+BABY OATS VARIETY PACK POUCHES 4CT                                                       $9.07          $4.67        48.5% ***   
+BABY FIRST SOLIDS VAR PACK POUCHES 4CT                                                   $9.07          $4.67        48.5% ***   
 IRON CHEWABLE TABLETS                                                                    $9.97          $5.00          49.8%     
 Crest 3D White Advanced Radiant mint Teeth Whitening Toothpaste 3,3 Oz                   $11.13         $5.08          54.4%     
+BABY SMART BLEND VARIETY PACK POUCHES                                                    $10.20         $5.25        48.5% ***   
+BABY BELLY BLEND VARIETY PACK POUCHES                                                    $10.20         $5.25        48.5% ***   
 Reed's Original Ginger Brew All-Natural Jamaican Style Non-Alcoholic Ginger Ale 12 f     $5.39          $2.79          48.2%     
-Reed's Zero Sugar Extra All-Natural Non-Alcoholic Craft Ginger Beer 12 fl oz bottle      $5.39          $2.79          48.2%     
-Reed's All Natural Non-Alcoholic Premium Brew Ginger Ale Beer 12 fl oz bottle 4 pack     $5.39          $2.79          48.2%     
 VAGISTAT 3 DAY TREATMENT                                                                 $10.53         $5.65          46.3%     
 Epic Bites Sweet and Savory Bison & Uncured Bacon 2.5 oz bag                             $5.89          $2.94          50.1%     
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
 One A Day VitaCraves Women's Multivitamin Gummies 170 ct                                 $12.32         $6.47          47.5%     
-Coca-Cola Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                      $6.71          $1.99          70.3%     
 PROBIOTIC PEARLS WOMENS VIT (D ST0CK)                                                    $13.42         $6.92          48.4%     
-SAUCE SWEET PINEAPPLE BBQ                                                                $6.98          $3.49          50.0%     
 Olly Happy Hoo-HA Supports Vaginal Health & PH Balance Probiotic 25 Ct                   $14.32         $7.30          49.0%     
 Olly Lovin' Libido 40 Ct                                                                 $14.32         $7.30          49.0%     
 Minute Maid Zero Sugar Lemonade 12 fl oz can 12 pack                                     $7.49          $2.49          66.8%     
