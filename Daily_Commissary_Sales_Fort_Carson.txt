@@ -21,18 +21,19 @@ FOODIES FRIES                                                                   
 FOODIES BURGER                                                                           $2.95          $0.95          67.8%     
 FOODIES SODA PUP                                                                         $2.95          $0.95          67.8%     
 Knorr Bernaise Sauce Mix 0.9 oz packet                                                   $0.99          $0.32          67.7%     
+Coca Cola soda dieat coke lime 20 oz                                                     $2.00          $0.99        50.5% ***   
 Knorr Hollandaise Sauce Mix 0.9 oz packet                                                $0.99          $0.32          67.7%     
+CocoCola Cherry Diet Coke 20 Oz                                                          $2.00          $0.99        50.5% ***   
 Brew Dr. Organic Ginger Lemon Kombucha Tea 14 oz bottle                                  $2.25          $1.12          50.2%     
 Brew Dr. Kombucha Superberry Tea 14 oz bottle                                            $2.25          $1.12          50.2%     
 Brew Dr. Organic Kombucha Drink Tea 14 oz bottle                                         $2.25          $1.12          50.2%     
 Brew Dr. Organic Clear Mind Kombucha Tea 32 oz bottle                                    $2.25          $1.12          50.2%     
-Brew Dr kombucha pink lemonade 14 fl oz                                                  $2.25          $1.12          50.2%     
 Brew Dr. Island Mango Tea 14 oz bottle                                                   $2.25          $1.12          50.2%     
 Suja Organic Vitamin D & Zinc Shot Juice 2 fl oz bottle                                  $2.29          $1.14          50.2%     
 Suja Organic Elderberry & Probiotics Immunity Rebound Shot 2 fl oz bottle                $2.29          $1.14          50.2%     
 Stouffer's Mushroom Stroganoff Pasta 10 Oz                                               $2.43          $1.19          51.0%     
 Clean Shower Daily Shower Cleaner 32 fl oz bottle                                        $2.22          $1.22          45.0%     
-Pop Tarts toaster pastries girl scout frosted coconut caramel 8 ct                       $2.50          $1.25          50.0%     
+RED PEPPER STUFFED OLIVE                                                                 $3.99          $1.24          68.9%     
 Pop Tart toaster pastries girl scouts thin mints 8 ea                                    $2.50          $1.25          50.0%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
 Comet Soft Cleanser 24 oz bottle                                                         $2.45          $1.34          45.3%     
@@ -70,7 +71,6 @@ Walker & Sons Slap Ya Mama Cajun Jambalaya Mix Quick Cook Cajun Meal 8 oz box   
 LITEHOUSE PEAR GORGONZOLA VINAIGRETTE SALAD DRESSING 12 OZ BOTTLE                        $3.75          $1.88          49.9%     
 Digiorno breakfast sausage and gravy croissant pizza 9.2 oz                              $3.79          $1.89          50.1%     
 Glory Foods Seasoned Southern Style Fried Apples 14.5 oz can                             $1.89          $0.94          50.3%     
-Crest Plus Deep Clean Complete Toothpaste 5.4 oz box                                     $3.56          $1.94          45.5%     
 Sprite Zero Sugar Bottles, 16.9 fl oz, 6 Pack                                            $5.78          $1.99          65.6%     
 SUPER SEED EVERYTHING CRACKERS                                                           $3.98          $2.05          48.5%     
 AUTO VCLIP SEASIDE COCONUT VER                                                           $4.08          $2.12          48.0%     
@@ -80,8 +80,10 @@ AUTO VCLIP COASTAL STORM TEAK                                                   
 HONEY MUSTARD DIPPING SAUCE                                                              $4.32          $2.16          50.0%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.39          $2.39          45.6%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.39          $2.39          45.6%     
+STEAKHOUSE CHCKN BREAST FILETS                                                           $5.24          $2.62          50.0%     
 Reed's All Natural Non-Alcoholic Premium Brew Ginger Ale Beer 12 fl oz bottle 4 pack     $5.39          $2.79          48.2%     
 Reed's Zero Sugar Extra All-Natural Non-Alcoholic Craft Ginger Beer 12 fl oz bottle      $5.39          $2.79          48.2%     
+Coca Cola diet coke lime 12 pk                                                           $7.49          $2.99          60.1%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 Toll House m and m chocolate chip cookie dough 14 oz                                     $3.69          $1.85          49.9%     
 MEAL MS ORANGE CHICKEN AIR FRYER MEAL (D STOCK)                                          $7.56          $3.78          50.0%     
@@ -92,14 +94,14 @@ SUPER SEED JALAPENO CRACKERS                                                    
 Wonderful Roasted & Salted Pistachios 16 oz bag                                          $7.99          $3.99          50.1%     
 GARLIC BUTTER DIPPING SAUCE                                                              $4.32          $2.16          50.0%     
 MEAL MS BEEF POT ROAST FAMILY SIZE                                                       $8.99          $4.49          50.1%     
-MEAL MS STEAK QUESO AND RICE FAMILY SIZE                                                 $8.99          $4.49          50.1%     
+Tyson Ground Beef Pork Loaf                                                              $9.16          $4.65          49.2%     
 BABY OATS VARIETY PACK POUCHES 4CT                                                       $9.07          $4.67          48.5%     
 BABY FIRST SOLIDS VAR PACK POUCHES 4CT                                                   $9.07          $4.67          48.5%     
 IRON CHEWABLE TABLETS                                                                    $9.97          $5.00          49.8%     
-Crest 3D White Advanced Radiant mint Teeth Whitening Toothpaste 3,3 Oz                   $11.13         $5.08          54.4%     
 BABY SMART BLEND VARIETY PACK POUCHES                                                    $10.20         $5.25          48.5%     
 BABY BELLY BLEND VARIETY PACK POUCHES                                                    $10.20         $5.25          48.5%     
 Reed's Original Ginger Brew All-Natural Jamaican Style Non-Alcoholic Ginger Ale 12 f     $5.39          $2.79          48.2%     
+CHOC & CRME CUPCAK (D STOCK)                                                             $9.98          $5.41        45.8% ***   
 Epic Bites Sweet and Savory Bison & Uncured Bacon 2.5 oz bag                             $5.89          $2.94          50.1%     
 Tide Pods Laundry Detergent In Spring Meadow 42 Ct                                       $11.99         $6.00          50.0%     
 Tide Pods Laundry Detergent In Original 42 Ct                                            $11.99         $6.00          50.0%     
