@@ -33,7 +33,6 @@ Suja Organic Vitamin D & Zinc Shot Juice 2 fl oz bottle                         
 Suja Organic Elderberry & Probiotics Immunity Rebound Shot 2 fl oz bottle                $2.29          $1.14          50.2%     
 Stouffer's Mushroom Stroganoff Pasta 10 Oz                                               $2.43          $1.19          51.0%     
 Clean Shower Daily Shower Cleaner 32 fl oz bottle                                        $2.22          $1.22          45.0%     
-RED PEPPER STUFFED OLIVE                                                                 $3.99          $1.24          68.9%     
 Pop Tart toaster pastries girl scouts thin mints 8 ea                                    $2.50          $1.25          50.0%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
 Comet Soft Cleanser 24 oz bottle                                                         $2.45          $1.34          45.3%     
@@ -56,6 +55,7 @@ BABY PINEAPPLE BANANA AVOCADO POUCH                                             
 BABY APPLE OATMEAL POUCH                                                                 $2.69          $1.38          48.7%     
 MEAL NT CHICKEN MARINARA SANDWICH                                                        $2.82          $1.39          50.7%     
 MEAL NT MACARONI AND CHEESE WITH BROCCOLI                                                $2.88          $1.39          51.7%     
+Muir Glen Organic Pizza Sauce 15 oz can                                                  $3.04          $1.52        50.0% ***   
 BABY RASPBERRY PEAR KALE POUCH                                                           $3.00          $1.54          48.7%     
 BABY PEAR BBERRY SPINACH POUCH                                                           $3.00          $1.54          48.7%     
 BABY BERRY CHERRY SWEET POTATO POUCH                                                     $3.00          $1.54          48.7%     
@@ -84,6 +84,7 @@ STEAKHOUSE CHCKN BREAST FILETS                                                  
 Reed's All Natural Non-Alcoholic Premium Brew Ginger Ale Beer 12 fl oz bottle 4 pack     $5.39          $2.79          48.2%     
 Reed's Zero Sugar Extra All-Natural Non-Alcoholic Craft Ginger Beer 12 fl oz bottle      $5.39          $2.79          48.2%     
 Coca Cola diet coke lime 12 pk                                                           $7.49          $2.99          60.1%     
+SODA SPRITE VANILLA FROST 12PK 12OZ                                                      $7.49          $2.99        60.1% ***   
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 Toll House m and m chocolate chip cookie dough 14 oz                                     $3.69          $1.85          49.9%     
 MEAL MS ORANGE CHICKEN AIR FRYER MEAL (D STOCK)                                          $7.56          $3.78          50.0%     
