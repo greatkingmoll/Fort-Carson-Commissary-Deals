@@ -1,4 +1,4 @@
-2026-04-24
+2026-04-25
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Fanta Orange Soda Soft Drink, 20 fl oz Bottle                                            $2.00          $0.49          75.5%     
@@ -55,7 +55,7 @@ BABY PINEAPPLE BANANA AVOCADO POUCH                                             
 BABY APPLE OATMEAL POUCH                                                                 $2.69          $1.38          48.7%     
 MEAL NT CHICKEN MARINARA SANDWICH                                                        $2.82          $1.39          50.7%     
 MEAL NT MACARONI AND CHEESE WITH BROCCOLI                                                $2.88          $1.39          51.7%     
-Muir Glen Organic Pizza Sauce 15 oz can                                                  $3.04          $1.52        50.0% ***   
+Muir Glen Organic Pizza Sauce 15 oz can                                                  $3.04          $1.52          50.0%     
 BABY RASPBERRY PEAR KALE POUCH                                                           $3.00          $1.54          48.7%     
 BABY PEAR BBERRY SPINACH POUCH                                                           $3.00          $1.54          48.7%     
 BABY BERRY CHERRY SWEET POTATO POUCH                                                     $3.00          $1.54          48.7%     
@@ -82,11 +82,10 @@ STEAKHOUSE CHCKN BREAST FILETS                                                  
 Reed's All Natural Non-Alcoholic Premium Brew Ginger Ale Beer 12 fl oz bottle 4 pack     $5.39          $2.79          48.2%     
 Reed's Zero Sugar Extra All-Natural Non-Alcoholic Craft Ginger Beer 12 fl oz bottle      $5.39          $2.79          48.2%     
 Coca Cola diet coke lime 12 pk                                                           $7.49          $2.99          60.1%     
-SODA SPRITE VANILLA FROST 12PK 12OZ                                                      $7.49          $2.99        60.1% ***   
+SODA SPRITE VANILLA FROST 12PK 12OZ                                                      $7.49          $2.99          60.1%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
 Toll House m and m chocolate chip cookie dough 14 oz                                     $3.69          $1.85          49.9%     
 MEAL MS ORANGE CHICKEN AIR FRYER MEAL (D STOCK)                                          $7.56          $3.78          50.0%     
-Black Forest fruit snacks juicy burst mixed fruit 40 ea                                  $7.75          $3.90          49.7%     
 Mama Mary's Thin and Crispy Pizza Crusts 2 ct 16 oz package                              $3.94          $2.01          49.0%     
 Bugles Original Flavor Crispy Corn Snacks 14.5 oz bag                                    $3.96          $2.08          47.5%     
 SUPER SEED JALAPENO CRACKERS                                                             $3.98          $2.05          48.5%     
