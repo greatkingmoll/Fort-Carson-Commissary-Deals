@@ -1,4 +1,4 @@
-2026-04-29
+2026-04-30
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Barq's Root Beer 20 oz bottle                                                            $2.00          $0.49          75.5%     
@@ -67,7 +67,7 @@ Litehouse Gluten-free Jalapeno Ranch Dressing and Dip 13 fl oz jar              
 Walker & Sons Slap Ya Mama Cajun Jambalaya Mix Quick Cook Cajun Meal 8 oz box            $3.59          $1.82          49.3%     
 LITEHOUSE PEAR GORGONZOLA VINAIGRETTE SALAD DRESSING 12 OZ BOTTLE                        $3.75          $1.88          49.9%     
 Digiorno breakfast sausage and gravy croissant pizza 9.2 oz                              $3.79          $1.89          50.1%     
-COOKIE STRAWBERRY AND CREAM                                                              $3.97          $1.99        49.9% ***   
+COOKIE STRAWBERRY AND CREAM                                                              $3.97          $1.99          49.9%     
 Sprite Zero Sugar Bottles, 16.9 fl oz, 6 Pack                                            $5.78          $1.99          65.6%     
 Fanta Orange Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                   $6.71          $1.99          70.3%     
 AUTO VCLIP FRESH LINEN & SAGE                                                            $4.08          $2.12          48.0%     
@@ -77,7 +77,6 @@ HONEY MUSTARD DIPPING SAUCE                                                     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.39          $2.39          45.6%     
 Holiday non food Arm&Hammer Fabric Scent Booster Maui Sunset                             $4.39          $2.39          45.6%     
 Minute Maid Zero Sugar Lemonade 12 fl oz can 12 pack                                     $7.49          $2.49          66.8%     
-STEAKHOUSE CHCKN BREAST FILETS                                                           $5.24          $2.62          50.0%     
 Reed's Zero Sugar Extra All-Natural Non-Alcoholic Craft Ginger Beer 12 fl oz bottle      $5.39          $2.79          48.2%     
 Reed's Original Ginger Brew All-Natural Jamaican Style Non-Alcoholic Ginger Ale 12 f     $5.39          $2.79          48.2%     
 Reed's All Natural Non-Alcoholic Premium Brew Ginger Ale Beer 12 fl oz bottle 4 pack     $5.39          $2.79          48.2%     
@@ -95,7 +94,6 @@ Diet Coke Diet Soda Soft Drink, 7.5 fl oz Mini Cans, 6 Pack                     
 Freedom's Choice Teriyaki B/S Chicken Thigh                                              $8.62          $4.31          50.0%     
 GARLIC BUTTER DIPPING SAUCE                                                              $4.32          $2.16          50.0%     
 MEAL MS BEEF POT ROAST FAMILY SIZE                                                       $8.99          $4.49          50.1%     
-Tyson Ground Beef Pork Loaf                                                              $9.16          $4.65          49.2%     
 BABY OATS VARIETY PACK POUCHES 4CT                                                       $9.07          $4.67          48.5%     
 BABY FIRST SOLIDS VAR PACK POUCHES 4CT                                                   $9.07          $4.67          48.5%     
 Freedom's Choice Pork Bulgogi                                                            $9.60          $4.80          50.0%     
