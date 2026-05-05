@@ -9,17 +9,17 @@ Zevia Non-GMO No Sugar Added Caffeine Free Grape Zero Calorie Soda 12 fl oz can 
 Zevia Non-GMO No Sugar Added Mountain Zero Calorie Soda 12 fl oz can 6 pack              $5.66          $0.48          91.5%     
 ZERO CHERRY FLOAT 20OZ FE                                                                $2.00          $0.49          75.5%     
 Dirty Potato Chips Good Health Veggie Sticks 1 oz bag                                    $1.03          $0.56          45.6%     
-Cousin Willie's Buttery Explosion Microwave Popcorn 8.7 Oz                               $1.93          $0.57          70.5%     
 Sweet & Salty Kettle Corn 3 Pack                                                         $1.93          $0.57          70.5%     
 Cousin Willie's Microwave Popcorm, Movie Theater Butter 8.7 Oz                           $1.93          $0.57          70.5%     
-Nongshim No MSG Added Savory Chicken Flavor Bowl Noodle Soup 3.03 oz tub                 $1.38          $0.58          58.0%     
-Nongshim Neoguri Spicy Seafood Udon Type Noodle Soup 4.2 oz bag                          $1.38          $0.58          58.0%     
+Cousin Willie's Buttery Explosion Microwave Popcorn 8.7 Oz                               $1.93          $0.57          70.5%     
 Nongshim No MSG Added Spicy Shrimp Flavor Bowl Noodle Soup 3.03 oz tub                   $1.38          $0.58          58.0%     
 Nongshim No MSG Added Savory Spicy Kimchi Flavor Bowl Noodle Soup 3.03 oz tub            $1.38          $0.58          58.0%     
-Nongshim No MSG Added Spicy Chicken Flavor Bowl Noodle Soup 3.03 oz tub                  $1.38          $0.58          58.0%     
-Nongshim No MSG Added Chapagetti Cajang Sauce Mix Noodle 4.5 oz bag                      $1.38          $0.58          58.0%     
-Nongshim No MSG Added Hot and Spicy Flavor Bowl Noodle Soup 3.03 oz tub                  $1.38          $0.58          58.0%     
+Nongshim Neoguri Spicy Seafood Udon Type Noodle Soup 4.2 oz bag                          $1.38          $0.58          58.0%     
 Nongshim No MSG Added Gourmet Spicy Shin Ramyun Noodle Soup 4.2 oz bag                   $1.38          $0.58          58.0%     
+Nongshim No MSG Added Savory Chicken Flavor Bowl Noodle Soup 3.03 oz tub                 $1.38          $0.58          58.0%     
+Nongshim No MSG Added Hot and Spicy Flavor Bowl Noodle Soup 3.03 oz tub                  $1.38          $0.58          58.0%     
+Nongshim No MSG Added Chapagetti Cajang Sauce Mix Noodle 4.5 oz bag                      $1.38          $0.58          58.0%     
+Nongshim No MSG Added Spicy Chicken Flavor Bowl Noodle Soup 3.03 oz tub                  $1.38          $0.58          58.0%     
 Nongshim Non-GMO Gourmet Spicy Shin Bowl Noodle Soup 3.03. oz tub                        $1.38          $0.58          58.0%     
 Rachael Ray Nutrish Paw Lickin' Chicken & Liver Recipe Wet Cat Food 2.8 oz cup           $1.14          $0.61          46.5%     
 Mueller's Rotelli Pasta 16 oz box                                                        $1.25          $0.64        48.8% ***   
@@ -30,12 +30,12 @@ Mueller's Large Sea Shells Pasta 16 oz box                                      
 SNACKS PEPPERONI PIZZA STICKS 4 COUNT                                                    $1.39          $0.69          50.4%     
 Nestle Nesquik zero sugar added chocolate milk 14 fl oz                                  $1.40          $0.71          49.3%     
 Purina Friskies Party Mix Beachside Cat Treats 2.1 oz pouch                              $1.49          $0.75          49.7%     
-Olipop cream soda 12 fl oz                                                               $1.49          $0.75          49.7%     
 Olipop classic grape 12 fl oz                                                            $1.49          $0.75          49.7%     
-Olipop sparkling juice vintage cola 12 fl oz                                             $1.49          $0.75          49.7%     
-Olipop sparkling juice strawberry vanilla 12 fl oz                                       $1.49          $0.75          49.7%     
 Olipop classic root beer 12 fl oz                                                        $1.49          $0.75          49.7%     
 Olipop sparkling juice orange squeeze 12 fl oz                                           $1.49          $0.75          49.7%     
+Olipop cream soda 12 fl oz                                                               $1.49          $0.75          49.7%     
+Olipop sparkling juice vintage cola 12 fl oz                                             $1.49          $0.75          49.7%     
+Olipop sparkling juice strawberry vanilla 12 fl oz                                       $1.49          $0.75          49.7%     
 MEAL SIDES MASHED POTATOES                                                               $3.14          $0.78          75.2%     
 Arm & Hammer Fresh Scensations Island Mist Carpet Odor Eliminator 30 oz                  $1.84          $0.84          54.3%     
 Bolthouse Farms Green Goodness Fruit Smoothie 15.2 fl oz bottle                          $2.75          $0.87          68.4%     
@@ -54,8 +54,8 @@ Home Base Glass Trigger Cleaner Liquid                                          
 Brew Dr. Organic Kombucha Drink Tea 14 oz bottle                                         $2.25          $1.12          50.2%     
 Brew Dr. Organic Clear Mind Kombucha Tea 32 oz bottle                                    $2.25          $1.12          50.2%     
 Brew Dr. Kombucha Superberry Tea 14 oz bottle                                            $2.25          $1.12          50.2%     
-Brew Dr. Island Mango Tea 14 oz bottle                                                   $2.25          $1.12          50.2%     
 Brew Dr. Organic Ginger Lemon Kombucha Tea 14 oz bottle                                  $2.25          $1.12          50.2%     
+Brew Dr. Island Mango Tea 14 oz bottle                                                   $2.25          $1.12          50.2%     
 MEAL MS GREEN BEAN CASSEROLE SIDE                                                        $4.67          $1.17          74.9%     
 Stouffer's Mushroom Stroganoff Pasta 10 Oz                                               $2.43          $1.19          51.0%     
 Clean Shower Daily Shower Cleaner 32 fl oz bottle                                        $2.22          $1.22          45.0%     
@@ -66,14 +66,17 @@ Digiorno breakfast sausage and gravy croissant pizza 9.2 oz                     
 Muir Glen Organic Pizza Sauce 15 oz can                                                  $3.04          $1.52          50.0%     
 Jell-O No Bake Real Cheesecake Dessert Mix 11.1 oz box                                   $3.14          $1.70          45.9%     
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
-Stouffer's bowl fulls fried chicken and mashed potatoes 14 oz                            $3.52          $1.75          50.3%     
 Stouffers Bbq Pork Mac & Cheese 14 Oz                                                    $3.52          $1.75          50.3%     
+Stouffer's bowl fulls fried chicken and mashed potatoes 14 oz                            $3.52          $1.75          50.3%     
 COOKIE STRAWBERRY AND CREAM                                                              $3.97          $1.99          49.9%     
 Fanta Orange Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                   $6.71          $1.99          70.3%     
 AUTO VCLIP FRESH LINEN & SAGE                                                            $4.08          $2.12          48.0%     
 AUTO VCLIP BLK VANILLA MANDRN                                                            $4.08          $2.12          48.0%     
 AUTO VCLIP COASTAL STORM TEAK                                                            $4.08          $2.12          48.0%     
 PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
+Kashi Go cereal peanut butter crunch 16.9 oz                                             $5.12          $2.56        50.0% ***   
+Kashi Go mixed berry crunch 17.7 oz                                                      $5.12          $2.56        50.0% ***   
+Kashi Go protein cereal honey almond flax crunch 17.7 oz                                 $5.12          $2.56        50.0% ***   
 TERIYAKI CHICKEN BREAST FILETS                                                           $5.24          $2.62          50.0%     
 GARLIC HRB CHCKN BREAST FILETS                                                           $5.24          $2.62          50.0%     
 Jimmy Dean bacon hickory smoked center cut 12 oz                                         $5.51          $2.89          47.5%     
@@ -89,7 +92,12 @@ Freedom's Choice Teriyaki B/S Chicken Thigh                                     
 MEAL MS BEEF POT ROAST FAMILY SIZE                                                       $8.99          $4.49          50.1%     
 Freedom's Choice Pork Bulgogi                                                            $9.60          $4.80          50.0%     
 IRON CHEWABLE TABLETS                                                                    $9.97          $5.00          49.8%     
+FABRIC BEADS LIGHT OCEAN MIST 1 (D STOCK)                                                $10.89         $5.02        53.9% ***   
+Downy RINSE & REFRESH Laundry Odor Remover and Fabric Softener, Fresh Lavender, 48 f     $11.55         $5.77        50.0% ***   
+FABRIC RINSE ORIGINAL SCENT (D STOCK)                                                    $11.98         $6.20        48.2% ***   
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
+DETERGENT PACS DOU ACTIVEWEAR                                                            $12.32         $6.49        47.3% ***   
+FABRIC BEADS MEADOW RAIN (D STOCK)                                                       $13.97         $7.27        48.0% ***   
 Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
 Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
 Freedom's Choice Carne Asada Sirloin Steak                                               $17.77         $8.89          50.0%     
