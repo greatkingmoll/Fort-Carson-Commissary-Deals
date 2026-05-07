@@ -1,4 +1,4 @@
-2026-05-06
+2026-05-07
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Tombstone stix sausage egg and cheese 3 oz                                               $0.95          $0.45          52.6%     
@@ -53,9 +53,9 @@ AUTO VCLIP FRESH LINEN & SAGE                                                   
 AUTO VCLIP BLK VANILLA MANDRN                                                            $4.08          $2.12          48.0%     
 AUTO VCLIP COASTAL STORM TEAK                                                            $4.08          $2.12          48.0%     
 PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
-Kashi Go cereal peanut butter crunch 16.9 oz                                             $5.12          $2.56        50.0% ***   
-Kashi Go mixed berry crunch 17.7 oz                                                      $5.12          $2.56        50.0% ***   
-Kashi Go protein cereal honey almond flax crunch 17.7 oz                                 $5.12          $2.56        50.0% ***   
+Kashi Go cereal peanut butter crunch 16.9 oz                                             $5.12          $2.56          50.0%     
+Kashi Go mixed berry crunch 17.7 oz                                                      $5.12          $2.56          50.0%     
+Kashi Go protein cereal honey almond flax crunch 17.7 oz                                 $5.12          $2.56          50.0%     
 TERIYAKI CHICKEN BREAST FILETS                                                           $5.24          $2.62          50.0%     
 GARLIC HRB CHCKN BREAST FILETS                                                           $5.24          $2.62          50.0%     
 Epic Bites Sweet and Savory Bison & Uncured Bacon 2.5 oz bag                             $5.89          $2.94          50.1%     
@@ -70,21 +70,21 @@ Freedom's Choice Teriyaki B/S Chicken Thigh                                     
 MEAL MS BEEF POT ROAST FAMILY SIZE                                                       $8.99          $4.49          50.1%     
 Freedom's Choice Pork Bulgogi                                                            $9.60          $4.80          50.0%     
 IRON CHEWABLE TABLETS                                                                    $9.97          $5.00          49.8%     
-FABRIC BEADS LIGHT OCEAN MIST 1 (D STOCK)                                                $10.89         $5.02        53.9% ***   
+FABRIC BEADS LIGHT OCEAN MIST 1 (D STOCK)                                                $10.89         $5.02          53.9%     
 Zevia Non-GMO No Sugar Added Caffeine Free Lemon Lime Twist Zero Calorie Soda 12 fl      $5.66          $2.85          49.6%     
 Zevia Non-GMO No Sugar Added Mountain Zero Calorie Soda 12 fl oz can 6 pack              $5.66          $2.88          49.1%     
 Zevia Cherry Cola Soda 12 fl oz can 6 pack                                               $5.66          $2.85          49.6%     
 Zevia Non-GMO No Sugar Added Caffeine Free Cola Zero Calorie Soda 12 fl oz can 6 pac     $5.66          $2.85          49.6%     
 Zevia Non-GMO No Sugar Added Caffeine Free Grape Zero Calorie Soda 12 fl oz can 6 pa     $5.66          $2.85          49.6%     
-Downy RINSE & REFRESH Laundry Odor Remover and Fabric Softener, Fresh Lavender, 48 f     $11.55         $5.77        50.0% ***   
-FABRIC RINSE ORIGINAL SCENT (D STOCK)                                                    $11.98         $6.20        48.2% ***   
+Downy RINSE & REFRESH Laundry Odor Remover and Fabric Softener, Fresh Lavender, 48 f     $11.55         $5.77          50.0%     
+FABRIC RINSE ORIGINAL SCENT (D STOCK)                                                    $11.98         $6.20          48.2%     
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
-DETERGENT PACS DOU ACTIVEWEAR                                                            $12.32         $6.49        47.3% ***   
+DETERGENT PACS DOU ACTIVEWEAR                                                            $12.32         $6.49          47.3%     
 Sprite Soda Lemon Lime - 8-12 Fl. Oz.                                                    $6.71          $1.99          70.3%     
 Coca-Cola Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                      $6.71          $1.99          70.3%     
 Coca-Cola Zero Sugar Soda Soft Drink, 12 fl oz Bottles, 8 Pack                           $6.71          $1.99        70.3% ***   
 Dr Pepper Diet Soda 12 fl oz bottle 8 pack                                               $6.71          $1.99        70.3% ***   
-FABRIC BEADS MEADOW RAIN (D STOCK)                                                       $13.97         $7.27        48.0% ***   
+FABRIC BEADS MEADOW RAIN (D STOCK)                                                       $13.97         $7.27          48.0%     
 PLUG IN QRF LINEN N SKY ACP                                                              $14.63         $7.84        46.4% ***   
 Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
 Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
