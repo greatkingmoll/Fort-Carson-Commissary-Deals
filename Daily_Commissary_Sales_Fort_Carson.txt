@@ -26,10 +26,6 @@ Arm & Hammer Fresh Scensations Island Mist Carpet Odor Eliminator 30 oz         
 Bolthouse Farms Green Goodness Fruit Smoothie 15.2 fl oz bottle                          $2.75          $0.87          68.4%     
 Bolthouse Farms Vanilla Chai Tea 15.2 fl oz bottle                                       $2.75          $0.87          68.4%     
 Bolthouse Farms Vanilla Bean Protein Plus Shake 15.2 fl oz bottle                        $2.75          $0.87          68.4%     
-FOODIES FRIES                                                                            $2.95          $0.95          67.8%     
-FOODIES SODA PUP                                                                         $2.95          $0.95          67.8%     
-CocoCola Cherry Diet Coke 20 Oz                                                          $2.00          $0.99          50.5%     
-Coca Cola soda dieat coke lime 20 oz                                                     $2.00          $0.99          50.5%     
 Home Base Bleach Trigger Cleaner Liquid                                                  $2.09          $1.00          52.2%     
 Home Base Shower Trigger Cleaner Liquid                                                  $2.09          $1.00          52.2%     
 Home Base Glass Trigger Cleaner Liquid                                                   $2.09          $1.00          52.2%     
@@ -69,11 +65,13 @@ Freedom's Choice Seasoned Turkey Patties 24 oz                                  
 Nestle Rich Milk Chocolate Flavor Hot Cocoa Drink Mix 27.7 oz canister                   $6.79          $3.40          49.9%     
 Nuby easy grip no spill sipper 2 pk                                                      $6.72          $3.50          47.9%     
 MEAL MS ORANGE CHICKEN AIR FRYER MEAL (D STOCK)                                          $7.56          $3.78          50.0%     
+Jimmy Dean Fully Cooked Turkey Sausage Patties 8 ct 9.6 oz box                           $4.26          $2.22          47.9%     
 Freedom's Choice Teriyaki B/S Chicken Thigh                                              $8.62          $4.31          50.0%     
+Jimmy Dean Premium Pork Country Mild Sausage Roll 16 oz package                          $4.47          $2.27        49.2% ***   
 MEAL MS BEEF POT ROAST FAMILY SIZE                                                       $8.99          $4.49          50.1%     
 Freedom's Choice Pork Bulgogi                                                            $9.60          $4.80          50.0%     
 IRON CHEWABLE TABLETS                                                                    $9.97          $5.00          49.8%     
-FABRIC BEADS LIGHT OCEAN MIST 1 (D STOCK)                                                $10.89         $5.02          53.9%     
+FABRIC BEADS LIGHT OCEAN MIST 1 (D STOCK)                                                $10.98         $5.11          53.5%     
 Peet's Coffee Organic Alameda Morning Coffee                                             $10.29         $5.27        48.8% ***   
 Peet's Coffee Colombia Luminosa Light Roast Ground Coffee 12 oz bag                      $10.29         $5.27        48.8% ***   
 Peet's Coffee Cafe Domingo Medium Roast Ground Coffee 12 oz bag                          $10.29         $5.27        48.8% ***   
@@ -93,6 +91,7 @@ Lume Whole Body Deodorant for Pits, Privates & Beyond Smooth Solid 2.6 Oz       
 Lume Smooth Solid Clean Tangerine Whole Body Deodorant 2.6 Oz                            $11.97         $5.97        50.1% ***   
 FABRIC RINSE ORIGINAL SCENT (D STOCK)                                                    $11.98         $6.20          48.2%     
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
+Jimmy Dean Hickory smoked bacon mega pk 20 oz                                            $6.43          $3.38          47.4%     
 Sprite Soda Lemon Lime - 8-12 Fl. Oz.                                                    $6.71          $1.99          70.3%     
 Coca-Cola Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                      $6.71          $1.99          70.3%     
 Coca-Cola Zero Sugar Soda Soft Drink, 12 fl oz Bottles, 8 Pack                           $6.71          $1.99          70.3%     
@@ -105,7 +104,6 @@ Truwell Kids Strawberry Dentiwash 11.65 oz                                      
 OPTIC WHITE PRO TP EXPRESS WHITENING                                                     $8.43          $4.34          48.5%     
 Freedom's Choice Carne Asada Sirloin Steak                                               $17.77         $8.89          50.0%     
 PLUG IN QRF OCEAN ACP                                                                    $16.72         $9.06          45.8%     
-Tippy Toes Super Pack Diapers, 4 22-37 lb 92 ct                                          $27.29         $10.00         63.4%     
 Freedom's Choice Original Beef Patties 1/3 lb 64 oz                                      $20.17         $10.05         50.2%     
 
 Elapsed Time: N/A
