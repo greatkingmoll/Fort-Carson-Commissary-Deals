@@ -1,4 +1,4 @@
-2026-05-11
+2026-05-12
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 ZERO CHERRY FLOAT 20OZ FE                                                                $2.00          $0.49          75.5%     
@@ -33,7 +33,7 @@ Stouffer's bowl fulls fried chicken and mashed potatoes 14 oz                   
 COOKIE STRAWBERRY AND CREAM                                                              $3.97          $1.99          49.9%     
 Diet Coke Caffeine Free Soda Soft Drink, 12 fl oz, 12 Pack                               $7.49          $1.99          73.4%     
 Fanta Orange Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                   $6.71          $1.99          70.3%     
-CRIMSON SOUR CHERRY 20OZ FE                                                              $2.00          $0.45        77.5% ***   
+CRIMSON SOUR CHERRY 20OZ FE                                                              $2.00          $0.45          77.5%     
 CocoCola Cherry Diet Coke 20 Oz                                                          $2.00          $0.49          75.5%     
 Coca Cola soda dieat coke lime 20 oz                                                     $2.00          $0.49          75.5%     
 AUTO VCLIP FRESH LINEN & SAGE                                                            $4.08          $2.12          48.0%     
@@ -96,6 +96,6 @@ OPTIC WHITE PRO TP EXPRESS WHITENING                                            
 Freedom's Choice Carne Asada Sirloin Steak                                               $17.77         $8.89          50.0%     
 PLUG IN QRF OCEAN ACP                                                                    $16.72         $9.06          45.8%     
 Freedom's Choice Original Beef Patties 1/3 lb 64 oz                                      $20.17         $10.05         50.2%     
-Coca-Cola Zero Sugar Soda Soft Drink, 12 fl oz Cans, 24 Pack                             $14.07         $4.99        64.5% ***   
+Coca-Cola Zero Sugar Soda Soft Drink, 12 fl oz Cans, 24 Pack                             $14.07         $4.99          64.5%     
 
 Elapsed Time: N/A
