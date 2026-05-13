@@ -4,9 +4,9 @@ Freedom's Choice Parsley Flakes Spice 0.25 oz jar                               
 CRIMSON SOUR CHERRY 20OZ FE                                                              $2.00          $0.45          77.5%     
 ZERO CHERRY FLOAT 20OZ FE                                                                $2.00          $0.49          75.5%     
 CocoCola Cherry Diet Coke 20 Oz                                                          $2.00          $0.49          75.5%     
-Sweet & Salty Kettle Corn 3 Pack                                                         $1.93          $0.57          70.5%     
-Cousin Willie's Microwave Popcorm, Movie Theater Butter 8.7 Oz                           $1.93          $0.57          70.5%     
-Cousin Willie's Buttery Explosion Microwave Popcorn 8.7 Oz                               $1.93          $0.57          70.5%     
+Sweet & Salty Kettle Corn 3 Pack                                                         $1.86          $0.50          73.1%     
+Cousin Willie's Buttery Explosion Microwave Popcorn 8.7 Oz                               $1.86          $0.50          73.1%     
+Cousin Willie's Microwave Popcorm, Movie Theater Butter 8.7 Oz                           $1.86          $0.50          73.1%     
 Mueller's Rotelli Pasta 16 oz box                                                        $1.25          $0.64          48.8%     
 Mueller's Large Sea Shells Pasta 16 oz box                                               $1.25          $0.64          48.8%     
 Mueller's Pot-Sized Angel Hair Pasta 16 oz box                                           $1.25          $0.64          48.8%     
@@ -22,8 +22,6 @@ Home Base Bleach Trigger Cleaner Liquid                                         
 MEAL MS GREEN BEAN CASSEROLE SIDE                                                        $4.67          $1.17          74.9%     
 Stouffer's Mushroom Stroganoff Pasta 10 Oz                                               $2.43          $1.19          51.0%     
 Clean Shower Daily Shower Cleaner 32 fl oz bottle                                        $2.22          $1.22          45.0%     
-Breyers carb smart mint fudge cookie ice cream 1.5 qt                                    $4.20          $1.24          70.5%     
-BREYERS BLASTS CHOCOLATE ICE CREAM 48 OZ TUB                                             $3.48          $1.24          64.4%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
 MEAL NT CHICKEN MARINARA SANDWICH                                                        $2.82          $1.39          50.7%     
 MEAL NT MACARONI AND CHEESE WITH BROCCOLI                                                $2.88          $1.39          51.7%     
@@ -35,17 +33,13 @@ Stouffers Bbq Pork Mac & Cheese 14 Oz                                           
 COOKIE STRAWBERRY AND CREAM                                                              $3.97          $1.99          49.9%     
 Diet Coke Caffeine Free Soda Soft Drink, 12 fl oz, 12 Pack                               $7.49          $1.99          73.4%     
 Fanta Orange Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                   $6.71          $1.99          70.3%     
+Dr Pepper soda blackberry zero sugar 12 pk                                               $7.49          $1.99          73.4%     
 Coca-Cola Zero Sugar Soda Soft Drink, 12 fl oz Bottles, 8 Pack                           $6.71          $1.99          70.3%     
 Coca-Cola Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                      $6.71          $1.99          70.3%     
 Coca Cola soda dieat coke lime 20 oz                                                     $2.00          $0.49          75.5%     
 AUTO VCLIP FRESH LINEN & SAGE                                                            $4.08          $2.12          48.0%     
 AUTO VCLIP BLK VANILLA MANDRN                                                            $4.08          $2.12          48.0%     
 AUTO VCLIP COASTAL STORM TEAK                                                            $4.08          $2.12          48.0%     
-ICE CREAM CHOCOLATE NON DAIRY                                                            $4.35          $2.20          49.4%     
-Ben & Jerry's Vanilla Ice Cream 16 oz tub                                                $4.29          $2.21          48.5%     
-ICE CREAM NON DAIRY STRAWBERRY CHEESECAKE                                                $4.29          $2.21          48.5%     
-ICE CREAM CHURRAY FOR CHURROS                                                            $4.29          $2.21          48.5%     
-ICE CREAM TOP RASP CHEESECAKE                                                            $4.29          $2.21          48.5%     
 Kashi Go cereal peanut butter crunch 16.9 oz                                             $5.12          $2.56          50.0%     
 Kashi Go mixed berry crunch 17.7 oz                                                      $5.12          $2.56          50.0%     
 Kashi Go protein cereal honey almond flax crunch 17.7 oz                                 $5.12          $2.56          50.0%     
@@ -89,6 +83,7 @@ STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                   
 Jimmy Dean Hickory smoked bacon mega pk 20 oz                                            $6.43          $3.38          47.4%     
 Sprite Soda Lemon Lime - 8-12 Fl. Oz.                                                    $6.71          $1.99          70.3%     
 Dr Pepper Diet Soda 12 fl oz bottle 8 pack                                               $6.71          $1.99          70.3%     
+KITTEN CHICKEN RECIPE (D STOCK)                                                          $22.12         $6.78        69.3% ***   
 Peet's Coffee Brazil Medium Roast Ground Coffee 18 oz bag                                $13.86         $6.93          50.0%     
 FABRIC BEADS MEADOW RAIN (D STOCK)                                                       $13.97         $7.27          48.0%     
 PLUG IN QRF LINEN N SKY ACP                                                              $14.63         $7.84          46.4%     
