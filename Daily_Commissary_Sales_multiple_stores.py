@@ -26,7 +26,7 @@ API_URL = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{TARG
 # Configuration
 ALL_COOKIES = [
     # { 'pref': '%7B%22store_id%22%3A%225827%22%7D', 'fp-pref': '%7B%22store_id%22%3A%225827%22%7D', 'fp_user_allowed_save_cookie': 'true' },
-    { 'pref': '%7B%22store_id%22%3A%225825%22%7D', 'fp-pref': '%7B%22store_id%22%3A%225825%22%7D', 'fp_user_allowed_save_cookie': 'true' },
+    { 'pref': '%7B%22store_id%22%3A%225825%22%7D', 'fp-pref': '%7B%22store_id%22%3A%225825%22%7D', 'fp_user_allowed_save_cookie': 'true', 'fp_user_close_terms_and_conditions': '%22true%22' },
     # { 'pref': '%7B%22store_id%22%3A%225824%22%7D', 'fp-pref': '%7B%22store_id%22%3A%225824%22%7D', 'fp_user_allowed_save_cookie': 'true' },
 ]
 
