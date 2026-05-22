@@ -1,6 +1,10 @@
 2026-05-22
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
+Sprite Soda Lemon Lime - 8-12 Fl. Oz.                                                    $6.71          $0.41          93.9%     
+Coca-Cola Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                      $6.71          $0.41          93.9%     
+Coca-Cola Zero Sugar Soda Soft Drink, 12 fl oz Bottles, 8 Pack                           $6.71          $0.41          93.9%     
+Dr Pepper Diet Soda 12 fl oz bottle 8 pack                                               $6.71          $0.41          93.9%     
 CRIMSON SOUR CHERRY 20OZ FE                                                              $2.00          $0.49          75.5%     
 CocoCola Cherry Diet Coke 20 Oz                                                          $2.00          $0.49          75.5%     
 Coca Cola soda dieat coke lime 20 oz                                                     $2.00          $0.49          75.5%     
@@ -150,6 +154,7 @@ Pepsi Wild Cherry Cola 12 fl oz can 12 pack                                     
 Lipton Brisk Lemon Iced Tea 12 fl oz can 12 pack                                         $6.98          $3.50        49.9% ***   
 Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55          49.6%     
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55          49.6%     
+TPX RAD 22 TP RSP 2X 3X2X2 (D STOCK)                                                     $7.87          $4.02        48.9% ***   
 PIZZA SS PERSONAL SUPREME                                                                $4.07          $2.07        49.1% ***   
 PIZZA SS PERSONAL PEPPERONI                                                              $4.07          $2.07        49.1% ***   
 Wrigley's Orbit Peppermint Sugarfree Gum 112 ct box                                      $7.78          $4.14          46.8%     
@@ -225,7 +230,6 @@ Hawaiian Punch Fruit Juicy Red Juice Drink 12 fl oz can 12 pack                 
 Schick Hydro Silk Women's Razor Blades Refill 4 ct box                                   $11.96         $6.53          45.4%     
 Oral-B Disney Frozen Battery Toothbrush Battery 2 ct package                             $6.72          $3.43          49.0%     
 KITTEN CHICKEN RECIPE (D STOCK)                                                          $22.12         $6.78          69.3%     
-TPX RAD 22 TP RSP 2X 3X2X2 (D STOCK)                                                     $7.87          $4.02        48.9% ***   
 Thayers Rose Petal Facial Toner 12 oz bottle                                             $8.22          $3.16          61.6%     
 
 Elapsed Time: N/A
