@@ -1,10 +1,6 @@
 2026-05-23
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
-Sprite Soda Lemon Lime - 8-12 Fl. Oz.                                                    $6.71          $0.41          93.9%     
-Coca-Cola Soda Soft Drink, 12 fl oz Bottles, 8 Pack                                      $6.71          $0.41          93.9%     
-Coca-Cola Zero Sugar Soda Soft Drink, 12 fl oz Bottles, 8 Pack                           $6.71          $0.41          93.9%     
-Dr Pepper Diet Soda 12 fl oz bottle 8 pack                                               $6.71          $0.41          93.9%     
 CRIMSON SOUR CHERRY 20OZ FE                                                              $2.00          $0.49          75.5%     
 CocoCola Cherry Diet Coke 20 Oz                                                          $2.00          $0.49          75.5%     
 Coca Cola soda dieat coke lime 20 oz                                                     $2.00          $0.49          75.5%     
@@ -47,7 +43,6 @@ CEREAL FROSTED FLAKES REDUCED SUGAR                                             
 COOKIE STRAWBERRY AND CREAM                                                              $3.97          $1.99          49.9%     
 Dr Pepper soda blackberry 20 fl oz                                                       $2.00          $0.49          75.5%     
 Kind Bar Max Crispy Chocolate Peanut Butter High Protein Bar 2.2 OZ                      $2.08          $1.11          46.6%     
-Oberto Specialty Meats Teriyaki Turkey Jerky 2.7 oz                                      $4.58          $2.10          54.1%     
 Oberto Wood Smoked Original Beef Jerky 2.7 oz                                            $4.58          $2.10          54.1%     
 AUTO VCLIP FRESH LINEN & SAGE                                                            $4.08          $2.12          48.0%     
 AUTO VCLIP BLK VANILLA MANDRN                                                            $4.08          $2.12          48.0%     
@@ -169,7 +164,6 @@ Mt. Olive Jalapeno Slices 64 fl oz jar                                          
 Freedom's Choice Pork Bulgogi                                                            $9.60          $4.80          50.0%     
 Coca-Cola Zero Sugar Soda Soft Drink, 12 fl oz Cans, 24 Pack                             $14.07         $4.99          64.5%     
 IRON CHEWABLE TABLETS                                                                    $9.97          $5.00          49.8%     
-FABRIC BEADS LIGHT OCEAN MIST 1 (D STOCK)                                                $10.98         $5.11          53.5%     
 Peet's Coffee Organic Alameda Morning Coffee                                             $10.29         $5.27          48.8%     
 DECAF BIG BANG GRND                                                                      $10.29         $5.27          48.8%     
 Schick Xtreme 3 Sensitive Blades 8 Ct                                                    $10.53         $5.28          49.9%     
