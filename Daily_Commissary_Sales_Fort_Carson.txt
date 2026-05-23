@@ -1,4 +1,4 @@
-2026-05-22
+2026-05-23
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Sprite Soda Lemon Lime - 8-12 Fl. Oz.                                                    $6.71          $0.41          93.9%     
@@ -38,7 +38,7 @@ Repurpose Compostable Assorted Utensils 24 ct box                               
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
 Stouffer's bowl fulls fried chicken and mashed potatoes 14 oz                            $3.52          $1.75          50.3%     
 Stouffers Bbq Pork Mac & Cheese 14 Oz                                                    $3.52          $1.75          50.3%     
-Cattlemans cuts sausage double smoked 1.9 oz                                             $1.75          $0.95        45.7% ***   
+Cattlemans cuts sausage double smoked 1.9 oz                                             $1.75          $0.95          45.7%     
 Mt. Olive Pepperoncini Peppers 12 fl oz jar                                              $1.79          $0.93        48.0% ***   
 Dial For Men Ultimate Clean Complete Freshness Hair + Body Wash 16 oz bottle             $3.57          $1.80          49.6%     
 PLAYTEX SPORT SUPER 18 CT                                                                $4.22          $1.82          56.9%     
@@ -54,7 +54,7 @@ AUTO VCLIP BLK VANILLA MANDRN                                                   
 AUTO VCLIP COASTAL STORM TEAK                                                            $4.08          $2.12          48.0%     
 Jimmy Dean Fully Cooked Turkey Sausage Patties 8 ct 9.6 oz box                           $4.26          $2.22          47.9%     
 Jimmy Dean Premium Pork Country Mild Sausage Roll 16 oz package                          $4.47          $2.27          49.2%     
-Philadelphia cream cheese brick 1/3 less fat 2 ea                                        $4.78          $2.39        50.0% ***   
+Philadelphia cream cheese brick 1/3 less fat 2 ea                                        $4.78          $2.39          50.0%     
 DISPOSABLE MALIBU SET                                                                    $4.96          $2.55          48.6%     
 Kashi Go cereal peanut butter crunch 16.9 oz                                             $5.12          $2.56          50.0%     
 Kashi Go mixed berry crunch 17.7 oz                                                      $5.12          $2.56          50.0%     
@@ -72,7 +72,7 @@ Cremo 2in1 Shampoo & Conditioner Italian Bergamot 16 Fl Oz                      
 Cremo Palo Santo Barber Grade 2 in 1 Shampoo and Conditioner 16 Oz                       $5.98          $3.08          48.5%     
 Cremo Body Wash, Palo Santo 16 FL OZ                                                     $6.17          $3.12          49.4%     
 Cremo Body Wash Vintage Suede 16 OZ                                                      $6.17          $3.12          49.4%     
-La Tortilla Factory Yellow Corn Handmade Style Soft Flexible Whole Corn Tortillas 8      $3.22          $1.61        50.0% ***   
+La Tortilla Factory Yellow Corn Handmade Style Soft Flexible Whole Corn Tortillas 8      $3.22          $1.61          50.0%     
 Jimmy Dean Hickory smoked bacon mega pk 20 oz                                            $6.43          $3.38          47.4%     
 Carefree Acti-Fresh Long Unscented Daily Liners 92 ct                                    $6.52          $3.39          48.0%     
 Johnson & Johnson Carefree Acti-Fresh Extra Long to Go Unscented Body Shape Pantilin     $6.62          $3.40          48.6%     
@@ -155,8 +155,8 @@ Lipton Brisk Lemon Iced Tea 12 fl oz can 12 pack                                
 Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55          49.6%     
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55          49.6%     
 TPX RAD 22 TP RSP 2X 3X2X2 (D STOCK)                                                     $7.87          $4.02        48.9% ***   
-PIZZA SS PERSONAL SUPREME                                                                $4.07          $2.07        49.1% ***   
-PIZZA SS PERSONAL PEPPERONI                                                              $4.07          $2.07        49.1% ***   
+PIZZA SS PERSONAL SUPREME                                                                $4.07          $2.07          49.1%     
+PIZZA SS PERSONAL PEPPERONI                                                              $4.07          $2.07          49.1%     
 Wrigley's Orbit Peppermint Sugarfree Gum 112 ct box                                      $7.78          $4.14          46.8%     
 Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
 Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
