@@ -1,4 +1,4 @@
-2026-05-24
+2026-05-25
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 CocoCola Cherry Diet Coke 20 Oz                                                          $2.00          $0.49          75.5%     
@@ -34,7 +34,6 @@ Repurpose Compostable Assorted Utensils 24 ct box                               
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
 Stouffer's bowl fulls fried chicken and mashed potatoes 14 oz                            $3.52          $1.75          50.3%     
 Stouffers Bbq Pork Mac & Cheese 14 Oz                                                    $3.52          $1.75          50.3%     
-Cattlemans cuts sausage double smoked 1.9 oz                                             $1.75          $0.95          45.7%     
 Mt. Olive Pepperoncini Peppers 12 fl oz jar                                              $1.79          $0.93          48.0%     
 Dial For Men Ultimate Clean Complete Freshness Hair + Body Wash 16 oz bottle             $3.57          $1.80          49.6%     
 PLAYTEX SPORT SUPER 18 CT                                                                $4.22          $1.82          56.9%     
@@ -42,10 +41,7 @@ PLAYTEX SPORT REGULR 18 CT                                                      
 CEREAL FROSTED FLAKES REDUCED SUGAR                                                      $4.07          $1.90          53.3%     
 COOKIE STRAWBERRY AND CREAM                                                              $3.97          $1.99          49.9%     
 Dr Pepper soda blackberry 20 fl oz                                                       $2.00          $0.49          75.5%     
-PIZZA SS PERSONAL SUPREME                                                                $4.07          $2.07          49.1%     
-PIZZA SS PERSONAL PEPPERONI                                                              $4.07          $2.07          49.1%     
 Kind Bar Max Crispy Chocolate Peanut Butter High Protein Bar 2.2 OZ                      $2.08          $1.11          46.6%     
-Oberto Wood Smoked Original Beef Jerky 2.7 oz                                            $4.58          $2.10          54.1%     
 Jimmy Dean Fully Cooked Turkey Sausage Patties 8 ct 9.6 oz box                           $4.26          $2.22          47.9%     
 Jimmy Dean Premium Pork Country Mild Sausage Roll 16 oz package                          $4.47          $2.27          49.2%     
 Philadelphia cream cheese brick 1/3 less fat 2 ea                                        $4.78          $2.39          50.0%     
@@ -65,7 +61,6 @@ Cremo Palo Santo Barber Grade 2 in 1 Shampoo and Conditioner 16 Oz              
 Cremo Body Wash, Palo Santo 16 FL OZ                                                     $6.17          $3.12          49.4%     
 Cremo Body Wash Vintage Suede 16 OZ                                                      $6.17          $3.12          49.4%     
 La Tortilla Factory Yellow Corn Handmade Style Soft Flexible Whole Corn Tortillas 8      $3.22          $1.61          50.0%     
-Jimmy Dean Hickory smoked bacon mega pk 20 oz                                            $6.43          $3.38          47.4%     
 Carefree Acti-Fresh Long Unscented Daily Liners 92 ct                                    $6.52          $3.39          48.0%     
 Johnson & Johnson Carefree Acti-Fresh Extra Long to Go Unscented Body Shape Pantilin     $6.62          $3.40          48.6%     
 O.B. MULTIPACK 40 CT                                                                     $6.77          $3.48          48.6%     
@@ -126,60 +121,23 @@ MUG root beer zero sugar 12 pk                                                  
 Lipton Brisk Raspberry Iced Tea 12 fl oz can 12 pack                                     $6.98          $3.50          49.9%     
 Mountain Dew Diet Low Calorie Citrus Soda 12 fl oz can 12 pack                           $6.98          $3.50          49.9%     
 Pepsi Caffeine Free Cola 12 fl oz can 12 pack                                            $6.98          $3.50          49.9%     
-Cheerwine Legend Soft Drink 12 fl oz can 12 pack                                         $6.98          $3.50          49.9%     
-Crush Orange Soda 12 fl oz can 12 pack                                                   $6.98          $3.50          49.9%     
-Crush Grape Soda 12 fl oz can 12 pack                                                    $6.98          $3.50          49.9%     
-Crush Diet Orange Soda 12 fl oz can 12 pack                                              $6.98          $3.50          49.9%     
-Crush Strawberry Soda 12 fl oz can 12 pack                                               $6.98          $3.50          49.9%     
-SODA ORANGE 15PK                                                                         $6.98          $3.50          49.9%     
-Schweppes Ginger Ale Soda 12 fl oz can 12 ct                                             $6.98          $3.50          49.9%     
-Schweppes Diet Ginger Ale Soda 12 fl oz can 12 ct                                        $6.98          $3.50          49.9%     
-Mountain Dew Baja Blast Artificial Tropical Lime Flavor Soda 12 fl oz can 12 pack        $6.98          $3.50          49.9%     
-SODA DIRTY DEW ZERO SGR 12PK                                                             $6.98          $3.50          49.9%     
-Mountain Dew Voltage Raspberry Citrus Flavor and Ginseng Soda 12 fl oz can 12 pack       $6.98          $3.50          49.9%     
-Mountain Dew Zero Sugar Soda 12 fl oz can 12 pack                                        $6.98          $3.50          49.9%     
-Mountain Dew Baja Blast Zero Sugar Tropical Lime Flavor Soda 12 fl oz can 12 pack        $6.98          $3.50          49.9%     
-Pepsi Cola 12 fl oz can 12 pack                                                          $6.98          $3.50          49.9%     
-Mountain Dew Code Red Cherry Flavor Soda 12 fl oz can 12 pack                            $6.98          $3.50          49.9%     
-Pepsi Diet Wild Cherry Cola 12 fl oz can 12 pack                                         $6.98          $3.50          49.9%     
-Pepsi Wild Cherry Cola 12 fl oz can 12 pack                                              $6.98          $3.50          49.9%     
-Lipton Brisk Lemon Iced Tea 12 fl oz can 12 pack                                         $6.98          $3.50          49.9%     
-Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55          49.6%     
-Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55          49.6%     
-TPX RAD 22 TP RSP 2X 3X2X2 (D STOCK)                                                     $7.87          $4.02          48.9%     
-Wrigley's Orbit Peppermint Sugarfree Gum 112 ct box                                      $7.78          $4.14          46.8%     
-Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
-Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
-Hormel fully cooked bacon family size 6.3 oz                                             $8.07          $4.24          47.5%     
-Jimmy Dean Fully Cooked Turkey Sausage Links 12 ct 9.6 oz box                            $4.26          $2.22          47.9%     
-Freedom's Choice Teriyaki B/S Chicken Thigh                                              $8.62          $4.31          50.0%     
-MEAL MS BEEF POT ROAST FAMILY SIZE                                                       $8.99          $4.49          50.1%     
-Playtex Tampon Sport Multi-Pack Regular/Super 48 Ct                                      $9.17          $4.59          49.9%     
-Mt. Olive Jalapeno Slices 64 fl oz jar                                                   $4.77          $2.44          48.8%     
-Freedom's Choice Pork Bulgogi                                                            $9.60          $4.80          50.0%     
-Coca-Cola Zero Sugar Soda Soft Drink, 12 fl oz Cans, 24 Pack                             $14.07         $4.99          64.5%     
-IRON CHEWABLE TABLETS                                                                    $9.97          $5.00          49.8%     
-Peet's Coffee Organic Alameda Morning Coffee                                             $10.29         $5.27          48.8%     
-DECAF BIG BANG GRND                                                                      $10.29         $5.27          48.8%     
-Schick Xtreme 3 Sensitive Blades 8 Ct                                                    $10.53         $5.28          49.9%     
-Victoria Tomato Basil Sauce 24 oz jar                                                    $5.33          $2.74          48.6%     
-Zevia Non-GMO No Sugar Added Mountain Zero Calorie Soda 12 fl oz can 6 pack              $5.66          $2.88          49.1%     
-Zevia Non-GMO No Sugar Added Caffeine Free Grape Zero Calorie Soda 12 fl oz can 6 pa     $5.66          $2.85          49.6%     
-Downy RINSE & REFRESH Laundry Odor Remover and Fabric Softener, Fresh Lavender, 48 f     $11.55         $5.77          50.0%     
-FABRIC RINSE ORIGINAL SCENT (D STOCK)                                                    $11.98         $6.20          48.2%     
-REFILL 8-COUNT                                                                           $12.26         $6.31          48.5%     
-STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
 Country Time Lemonade 12 fl oz can 12 pack                                               $6.52          $3.50          46.3%     
+Cheerwine Legend Soft Drink 12 fl oz can 12 pack                                         $6.98          $3.50          49.9%     
 Big Red Soda 12 ct box                                                                   $6.52          $3.50          46.3%     
 Big Red Zero Calories Soda 12 fl oz can 12 pack                                          $6.52          $3.50          46.3%     
 7 Up Diet Cherry Flavored Soda 12 fl oz can 12 pack                                      $6.52          $3.50          46.3%     
 Dr Pepper Cactus Cooler Orange Pineapple Blast Soda 12 fl oz can 12 pack                 $6.52          $3.50          46.3%     
 7 Up zero sugar Lemon Lime Soda 12 pack                                                  $6.52          $3.50          46.3%     
 7 Up Cherry Soda 12 fl oz can 12 pack                                                    $6.52          $3.50          46.3%     
+Crush Orange Soda 12 fl oz can 12 pack                                                   $6.98          $3.50          49.9%     
+Crush Grape Soda 12 fl oz can 12 pack                                                    $6.98          $3.50          49.9%     
 Squirt Caffeine-free Grapefruit Soda 12 fl oz can 12 pack                                $6.52          $3.50          46.3%     
+Crush Diet Orange Soda 12 fl oz can 12 pack                                              $6.98          $3.50          49.9%     
 Sunkist Strawberry Lemonade Soda 12 fl oz can 12 pack                                    $6.52          $3.50          46.3%     
+Crush Strawberry Soda 12 fl oz can 12 pack                                               $6.98          $3.50          49.9%     
 Canada Dry Ginger Ale and Lemonade Made from Real Ginger & with Real Juice 12 fl oz      $6.52          $3.50          46.3%     
 Canada Dry Blackberry Ginger Ale Made from Real Ginger 12 fl oz can 12 pack              $6.52          $3.50          46.3%     
+SODA ORANGE 15PK                                                                         $6.98          $3.50          49.9%     
 Canada Dry Caffeine-free Bold Ginger Ale 12 fl oz can 12 pack                            $6.52          $3.50          46.3%     
 Canada Dry Diet Ginger Ale and Lemonade 12 fl oz can 12 pack                             $6.52          $3.50          46.3%     
 SODA LEMON LIME 12PK                                                                     $6.52          $3.50          46.3%     
@@ -192,6 +150,7 @@ Canada Dry Fruit splash soda zero sugar 12 ea                                   
 SODA COLA ZERO SUGAR 12PK                                                                $6.52          $3.50          46.3%     
 Canada Dry fruit splash cherry ginger ale soda 12 ea                                     $6.52          $3.50          46.3%     
 A & W Root Beer Soda 12 fl oz can 12 pack                                                $6.52          $3.50          46.3%     
+Hawaiian Punch Fruit Juicy Red Juice Drink 12 fl oz can 12 pack                          $6.53          $3.50          46.4%     
 A & W Diet Cream Soda 12 fl oz can 12 pack                                               $6.52          $3.50          46.3%     
 Diet Rite Pure Zero Cola 12 fl oz can 12 pack                                            $6.52          $3.50          46.3%     
 A & W Aged Vanilla Cream Soda 12 fl oz can 12 pack                                       $6.52          $3.50          46.3%     
@@ -200,25 +159,60 @@ Sunkist Grape Soda 12 fl oz can 12 pack                                         
 Sunkist Strawberry Soda 12 fl oz can 12 pack                                             $6.52          $3.50          46.3%     
 Canada Dry Cranberry Ginger Ale 12 fl oz can 12 pack                                     $6.52          $3.50          46.3%     
 Sunkist Diet Orange Soda 12 fl oz can 12 pack                                            $6.52          $3.50          46.3%     
+Schweppes Ginger Ale Soda 12 fl oz can 12 ct                                             $6.98          $3.50          49.9%     
 ICE CREAM SUNDAE 12PK                                                                    $6.52          $3.50          46.3%     
+Schweppes Diet Ginger Ale Soda 12 fl oz can 12 ct                                        $6.98          $3.50          49.9%     
 Sun Drop Citrus Soda 12 fl oz can 12 pack                                                $6.52          $3.50          46.3%     
 Sun Drop Diet Citrus Soda 12 fl oz can 12 pack                                           $6.52          $3.50          46.3%     
 ZSGR ICE CREAM SUNDAE 12PK                                                               $6.52          $3.50          46.3%     
+Mountain Dew Baja Blast Artificial Tropical Lime Flavor Soda 12 fl oz can 12 pack        $6.98          $3.50          49.9%     
+SODA DIRTY DEW ZERO SGR 12PK                                                             $6.98          $3.50          49.9%     
 A & W Diet Root Beer Soda 12 fl oz can 12 pack                                           $6.52          $3.50          46.3%     
 Sunkist Berry Lemonade                                                                   $6.52          $3.50          46.3%     
+Mountain Dew Voltage Raspberry Citrus Flavor and Ginseng Soda 12 fl oz can 12 pack       $6.98          $3.50          49.9%     
+Mountain Dew Zero Sugar Soda 12 fl oz can 12 pack                                        $6.98          $3.50          49.9%     
+Mountain Dew Baja Blast Zero Sugar Tropical Lime Flavor Soda 12 fl oz can 12 pack        $6.98          $3.50          49.9%     
+Pepsi Cola 12 fl oz can 12 pack                                                          $6.98          $3.50          49.9%     
+Mountain Dew Code Red Cherry Flavor Soda 12 fl oz can 12 pack                            $6.98          $3.50          49.9%     
 7 Up Lemon Lime Soda 12 oz can 12 pack                                                   $6.52          $3.50          46.3%     
 Canada Dry Diet Ginger Ale 12 fl oz can 12 pack                                          $6.52          $3.50          46.3%     
 Canada Dry Ginger Ale Made from Real Ginger 12 fl oz can 12 pack                         $6.52          $3.50          46.3%     
 FRUIT SPLASH STRAWBERRY 12PK                                                             $6.52          $3.50          46.3%     
+Pepsi Diet Wild Cherry Cola 12 fl oz can 12 pack                                         $6.98          $3.50          49.9%     
+Pepsi Wild Cherry Cola 12 fl oz can 12 pack                                              $6.98          $3.50          49.9%     
+Lipton Brisk Lemon Iced Tea 12 fl oz can 12 pack                                         $6.98          $3.50          49.9%     
 ZERO SUGAR FRUIT SPLASH STRAWBERRY 12PK                                                  $6.52          $3.50          46.3%     
 Vernors Diet Zero Calorie Ginger Soda 12 fl oz bottle 12 pack                            $6.52          $3.50          46.3%     
 Vernors The Original Ginger Soda 12 fl oz can 12 pack                                    $6.52          $3.50          46.3%     
+Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55          49.6%     
+Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55          49.6%     
+TPX RAD 22 TP RSP 2X 3X2X2 (D STOCK)                                                     $7.87          $4.02          48.9%     
+Wrigley's Orbit Peppermint Sugarfree Gum 112 ct box                                      $7.78          $4.14          46.8%     
+Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
+Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
+Hormel fully cooked bacon family size 6.3 oz                                             $8.07          $4.24          47.5%     
+Jimmy Dean Fully Cooked Turkey Sausage Links 12 ct 9.6 oz box                            $4.26          $2.22          47.9%     
+Freedom's Choice Teriyaki B/S Chicken Thigh                                              $8.62          $4.31          50.0%     
+MEAL MS BEEF POT ROAST FAMILY SIZE                                                       $8.99          $4.49          50.1%     
+Playtex Tampon Sport Multi-Pack Regular/Super 48 Ct                                      $9.17          $4.59          49.9%     
+Freedom's Choice Pork Bulgogi                                                            $9.60          $4.80          50.0%     
+Coca-Cola Zero Sugar Soda Soft Drink, 12 fl oz Cans, 24 Pack                             $14.07         $4.99          64.5%     
+IRON CHEWABLE TABLETS                                                                    $9.97          $5.00          49.8%     
+Peet's Coffee Organic Alameda Morning Coffee                                             $10.29         $5.27          48.8%     
+DECAF BIG BANG GRND                                                                      $10.29         $5.27          48.8%     
+Schick Xtreme 3 Sensitive Blades 8 Ct                                                    $10.53         $5.28          49.9%     
+Victoria Tomato Basil Sauce 24 oz jar                                                    $5.33          $2.74          48.6%     
+Zevia Non-GMO No Sugar Added Mountain Zero Calorie Soda 12 fl oz can 6 pack              $5.66          $2.88          49.1%     
+Zevia Non-GMO No Sugar Added Caffeine Free Grape Zero Calorie Soda 12 fl oz can 6 pa     $5.66          $2.85          49.6%     
+REFILL 8-COUNT                                                                           $12.26         $6.31          48.5%     
+STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
 Schick Hydro Sensitive Cartridges 6 ct                                                   $11.96         $6.53          45.4%     
 Schick Intuition Sensitive Care Lather & Shave Women's Razor Blades Refill Cartridge     $11.96         $6.53          45.4%     
-Hawaiian Punch Fruit Juicy Red Juice Drink 12 fl oz can 12 pack                          $6.53          $3.50          46.4%     
 Schick Hydro Silk Women's Razor Blades Refill 4 ct box                                   $11.96         $6.53          45.4%     
 Oral-B Disney Frozen Battery Toothbrush Battery 2 ct package                             $6.72          $3.43          49.0%     
 KITTEN CHICKEN RECIPE (D STOCK)                                                          $22.12         $6.78          69.3%     
 Thayers Rose Petal Facial Toner 12 oz bottle                                             $8.22          $3.16          61.6%     
+OPTIC WHITE PRO TP EXPRESS WHITENING                                                     $8.43          $4.34          48.5%     
+Freedom's Choice Carne Asada Sirloin Steak                                               $17.77         $8.89          50.0%     
 
 Elapsed Time: N/A
