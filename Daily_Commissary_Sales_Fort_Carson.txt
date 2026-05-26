@@ -1,9 +1,9 @@
 2026-05-26
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
+CRIMSON SOUR CHERRY 20OZ FE                                                              $2.00          $0.49          75.5%     
 CocoCola Cherry Diet Coke 20 Oz                                                          $2.00          $0.49          75.5%     
 Coca Cola soda dieat coke lime 20 oz                                                     $2.00          $0.49          75.5%     
-CRIMSON SOUR CHERRY 20OZ FE                                                              $2.00          $0.49          75.5%     
 Cousin Willie's Microwave Popcorm, Movie Theater Butter 8.7 Oz                           $1.86          $0.50          73.1%     
 Cousin Willie's Buttery Explosion Microwave Popcorn 8.7 Oz                               $1.86          $0.50          73.1%     
 Sweet & Salty Kettle Corn 3 Pack                                                         $1.86          $0.50          73.1%     
@@ -19,8 +19,6 @@ ICE CREAM SNICKERS                                                              
 MEAL NT CHICKEN MARINARA SANDWICH                                                        $2.82          $1.39          50.7%     
 MEAL NT MACARONI AND CHEESE WITH BROCCOLI                                                $2.88          $1.39          51.7%     
 Digiorno breakfast sausage and gravy croissant pizza 9.2 oz                              $3.79          $1.40          63.1%     
-Mt. Olive Gluten-free Kosher Sea Salt Munchies Petite Dill Pickles 4.8 fl oz reseala     $1.42          $0.71          50.0%     
-Nakano Non-GMO Mild and Sweet Seasoned Rice Vinegar 12 fl oz bottle                      $2.95          $1.45          50.8%     
 Del Monte Fresh Cut Blue Lake Green Beans 14.5 oz can                                    $1.45          $0.77          46.9%     
 Del Monte Non-GMO Fresh Cut Sweet Peas 15 oz can                                         $1.45          $0.77          46.9%     
 Del Monte Fresh Cut Blue Lake French Style Green Beans 14.5 oz can                       $1.45          $0.77          46.9%     
@@ -31,36 +29,33 @@ Carefree Acti-Fresh Body Shape Long to Go Unscented Pantiliners 42 ct package   
 Carefree Acti-Fresh Body Shape Extra Long to Go Unscented Pantiliners 36 ct package      $3.22          $1.61          50.0%     
 Carefree Acti-Fresh Perfectly Thin to Go Unscented Pantiliners 60 ct package             $3.22          $1.61          50.0%     
 Repurpose Compostable Assorted Utensils 24 ct box                                        $3.32          $1.66          50.0%     
-MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
 Stouffer's bowl fulls fried chicken and mashed potatoes 14 oz                            $3.52          $1.75          50.3%     
 Stouffers Bbq Pork Mac & Cheese 14 Oz                                                    $3.52          $1.75          50.3%     
-Mt. Olive Pepperoncini Peppers 12 fl oz jar                                              $1.79          $0.93          48.0%     
+MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
 Dial For Men Ultimate Clean Complete Freshness Hair + Body Wash 16 oz bottle             $3.57          $1.80          49.6%     
 PLAYTEX SPORT SUPER 18 CT                                                                $4.22          $1.82          56.9%     
 PLAYTEX SPORT REGULR 18 CT                                                               $4.22          $1.82          56.9%     
 CEREAL FROSTED FLAKES REDUCED SUGAR                                                      $4.07          $1.90          53.3%     
 COOKIE STRAWBERRY AND CREAM                                                              $3.97          $1.99          49.9%     
 Dr Pepper soda blackberry 20 fl oz                                                       $2.00          $0.49          75.5%     
-Kind Bar Max Crispy Chocolate Peanut Butter High Protein Bar 2.2 OZ                      $2.08          $1.11          46.6%     
 Jimmy Dean Fully Cooked Turkey Sausage Patties 8 ct 9.6 oz box                           $4.26          $2.22          47.9%     
+Jimmy Dean Fully Cooked Turkey Sausage Links 12 ct 9.6 oz box                            $4.26          $2.22          47.9%     
 Jimmy Dean Premium Pork Country Mild Sausage Roll 16 oz package                          $4.47          $2.27          49.2%     
 Philadelphia cream cheese brick 1/3 less fat 2 ea                                        $4.78          $2.39          50.0%     
 DISPOSABLE MALIBU SET                                                                    $4.96          $2.55          48.6%     
 Kashi Go cereal peanut butter crunch 16.9 oz                                             $5.12          $2.56          50.0%     
 Kashi Go mixed berry crunch 17.7 oz                                                      $5.12          $2.56          50.0%     
 Kashi Go protein cereal honey almond flax crunch 17.7 oz                                 $5.12          $2.56          50.0%     
-Mt. Olive Simply Pickles Bread and Butter Chips 24 fl oz jar                             $2.65          $1.42          46.4%     
 Zevia Cherry Cola Soda 12 fl oz can 6 pack                                               $5.66          $2.85          49.6%     
 Zevia Non-GMO No Sugar Added Caffeine Free Lemon Lime Twist Zero Calorie Soda 12 fl      $5.66          $2.85          49.6%     
 Zevia Non-GMO No Sugar Added Caffeine Free Cola Zero Calorie Soda 12 fl oz can 6 pac     $5.66          $2.85          49.6%     
 Schick hydro silk ultra-sensitive disposable 2 ea                                        $5.62          $2.92          48.0%     
-Freedom's Choice Seasoned Turkey Patties 24 oz                                           $6.98          $3.00          57.0%     
 Freedom's Choice Strawberries Pineapple Chunk Sliced Peaches Red Grapes Fresh Frozen     $10.26         $3.00          70.8%     
+Freedom's Choice Seasoned Turkey Patties 24 oz                                           $6.98          $3.00          57.0%     
 Cremo 2in1 Shampoo & Conditioner Italian Bergamot 16 Fl Oz                               $5.98          $3.08          48.5%     
 Cremo Palo Santo Barber Grade 2 in 1 Shampoo and Conditioner 16 Oz                       $5.98          $3.08          48.5%     
 Cremo Body Wash, Palo Santo 16 FL OZ                                                     $6.17          $3.12          49.4%     
 Cremo Body Wash Vintage Suede 16 OZ                                                      $6.17          $3.12          49.4%     
-La Tortilla Factory Yellow Corn Handmade Style Soft Flexible Whole Corn Tortillas 8      $3.22          $1.61          50.0%     
 Carefree Acti-Fresh Long Unscented Daily Liners 92 ct                                    $6.52          $3.39          48.0%     
 Johnson & Johnson Carefree Acti-Fresh Extra Long to Go Unscented Body Shape Pantilin     $6.62          $3.40          48.6%     
 O.B. MULTIPACK 40 CT                                                                     $6.77          $3.48          48.6%     
@@ -72,7 +67,6 @@ Wrigley's Orbit Peppermint Sugarfree Gum 112 ct box                             
 Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
 Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
 Hormel fully cooked bacon family size 6.3 oz                                             $8.07          $4.24          47.5%     
-Jimmy Dean Fully Cooked Turkey Sausage Links 12 ct 9.6 oz box                            $4.26          $2.22          47.9%     
 Freedom's Choice Teriyaki B/S Chicken Thigh                                              $8.62          $4.31          50.0%     
 MEAL MS BEEF POT ROAST FAMILY SIZE                                                       $8.99          $4.49          50.1%     
 Playtex Tampon Sport Multi-Pack Regular/Super 48 Ct                                      $9.17          $4.59          49.9%     
@@ -96,6 +90,5 @@ Thayers Rose Petal Facial Toner 12 oz bottle                                    
 OPTIC WHITE PRO TP EXPRESS WHITENING                                                     $8.43          $4.34          48.5%     
 Freedom's Choice Carne Asada Sirloin Steak                                               $17.77         $8.89          50.0%     
 Freedom's Choice Original Beef Patties 1/3 lb 64 oz                                      $20.17         $10.05         50.2%     
-NQ ULTRA CONCENTRATED LIQU CAP (D STOCK)                                                 $20.18         $10.29       49.0% ***   
 
 Elapsed Time: N/A
