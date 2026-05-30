@@ -1,4 +1,4 @@
-2026-05-29
+2026-05-30
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 CRIMSON SOUR CHERRY 20OZ FE                                                              $2.00          $0.49          75.5%     
@@ -23,7 +23,7 @@ Del Monte Fresh Cut Blue Lake Green Beans 14.5 oz can                           
 Del Monte Non-GMO Fresh Cut Sweet Peas 15 oz can                                         $1.45          $0.77          46.9%     
 Del Monte Fresh Cut Blue Lake French Style Green Beans 14.5 oz can                       $1.45          $0.77          46.9%     
 Del Monte Non-GMO Fresh Cut Golden Sweet Whole Kernel Corn 15.25 oz can                  $1.45          $0.77          46.9%     
-Energizer 377 Battery 2 ct package                                                       $1.46          $0.71        51.4% ***   
+Energizer 377 Battery 2 ct package                                                       $1.46          $0.71          51.4%     
 Carefree Thong Regular Unscented Liners with Stay Put Wings 49 ea                        $3.22          $1.61          50.0%     
 Carefree Acti-Fresh Body Shape Regular to Go Unscented Pantiliners 54 ct package         $3.22          $1.61          50.0%     
 Carefree Acti-Fresh Body Shape Long to Go Unscented Pantiliners 42 ct package            $3.22          $1.61          50.0%     
@@ -45,10 +45,7 @@ Dr Pepper strawberries and cream zero sugar 12 pk                               
 SODA SPRITE VANILLA FROST 12PK 12OZ                                                      $7.49          $1.99          73.4%     
 Dr Pepper soda blackberry zero sugar 12 pk                                               $7.49          $1.99          73.4%     
 Dr Pepper soda blackberry 20 fl oz                                                       $2.00          $0.49          75.5%     
-Jimmy Dean Fully Cooked Turkey Sausage Patties 8 ct 9.6 oz box                           $4.26          $2.22          47.9%     
 Jimmy Dean Fully Cooked Turkey Sausage Links 12 ct 9.6 oz box                            $4.26          $2.22          47.9%     
-Jimmy Dean Premium Pork Country Mild Sausage Roll 16 oz package                          $4.47          $2.27          49.2%     
-Philadelphia cream cheese brick 1/3 less fat 2 ea                                        $4.78          $2.39          50.0%     
 DISPOSABLE MALIBU SET                                                                    $4.96          $2.55          48.6%     
 Kashi Go cereal peanut butter crunch 16.9 oz                                             $5.12          $2.56          50.0%     
 Kashi Go mixed berry crunch 17.7 oz                                                      $5.12          $2.56          50.0%     
@@ -80,11 +77,10 @@ Playtex Tampon Sport Multi-Pack Regular/Super 48 Ct                             
 Freedom's Choice Pork Bulgogi                                                            $9.60          $4.80          50.0%     
 Coca-Cola Zero Sugar Soda Soft Drink, 12 fl oz Cans, 24 Pack                             $14.07         $4.99          64.5%     
 IRON CHEWABLE TABLETS                                                                    $9.97          $5.00          49.8%     
-Similac Isomil Birth-12 Months Infant Formula Soy Concentrate 13 oz can                  $5.18          $2.77        46.5% ***   
+Similac Isomil Birth-12 Months Infant Formula Soy Concentrate 13 oz can                  $5.18          $2.77          46.5%     
 Peet's Coffee Organic Alameda Morning Coffee                                             $10.29         $5.27          48.8%     
-DECAF BIG BANG GRND                                                                      $10.29         $5.27          48.8%     
 Schick Xtreme 3 Sensitive Blades 8 Ct                                                    $10.53         $5.28          49.9%     
-Persil Ultra Pacs Intense Fresh 42 ea                                                    $12.32         $5.35        56.6% ***   
+Persil Ultra Pacs Intense Fresh 42 ea                                                    $12.32         $5.35          56.6%     
 Zevia Non-GMO No Sugar Added Mountain Zero Calorie Soda 12 fl oz can 6 pack              $5.66          $2.88          49.1%     
 Zevia Non-GMO No Sugar Added Caffeine Free Grape Zero Calorie Soda 12 fl oz can 6 pa     $5.66          $2.85          49.6%     
 REFILL 8-COUNT                                                                           $12.26         $6.31          48.5%     
@@ -93,11 +89,11 @@ Schick Hydro Sensitive Cartridges 6 ct                                          
 Schick Intuition Sensitive Care Lather & Shave Women's Razor Blades Refill Cartridge     $11.96         $6.53          45.4%     
 Schick Hydro Silk Women's Razor Blades Refill 4 ct box                                   $11.96         $6.53          45.4%     
 Oral-B Disney Frozen Battery Toothbrush Battery 2 ct package                             $6.72          $3.43          49.0%     
-BATTERY FLASHLIGHT LED                                                                   $6.73          $3.23        52.0% ***   
+BATTERY FLASHLIGHT LED                                                                   $6.73          $3.23          52.0%     
 KITTEN CHICKEN RECIPE (D STOCK)                                                          $22.12         $6.78          69.3%     
 Thayers Rose Petal Facial Toner 12 oz bottle                                             $8.22          $3.16          61.6%     
 OPTIC WHITE PRO TP EXPRESS WHITENING                                                     $8.43          $4.34          48.5%     
-Pediatlye advance care plus berry frost powder 6 ea                                      $8.88          $3.29        63.0% ***   
+Pediatlye advance care plus berry frost powder 6 ea                                      $8.88          $3.29          63.0%     
 Freedom's Choice Carne Asada Sirloin Steak                                               $17.77         $8.89          50.0%     
 Freedom's Choice Original Beef Patties 1/3 lb 64 oz                                      $20.17         $10.05         50.2%     
 
