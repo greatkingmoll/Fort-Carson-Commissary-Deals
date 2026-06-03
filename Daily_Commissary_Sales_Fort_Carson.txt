@@ -1,7 +1,8 @@
-2026-06-02
+2026-06-03
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                                  $0.95          $0.25          73.7%     
+Diet Coke Diet Soda Soft Drink, 1.25 Liters Bottle                                       $1.49          $0.49        67.1% ***   
 Cousin Willie's Microwave Popcorm, Movie Theater Butter 8.7 Oz                           $1.86          $0.50          73.1%     
 Cousin Willie's Buttery Explosion Microwave Popcorn 8.7 Oz                               $1.86          $0.50          73.1%     
 Sweet & Salty Kettle Corn 3 Pack                                                         $1.86          $0.50          73.1%     
@@ -17,13 +18,12 @@ Del Monte Non-GMO Fresh Cut Sweet Peas 15 oz can                                
 Del Monte Fresh Cut Blue Lake French Style Green Beans 14.5 oz can                       $1.45          $0.77          46.9%     
 Del Monte Non-GMO Fresh Cut Golden Sweet Whole Kernel Corn 15.25 oz can                  $1.45          $0.77          46.9%     
 Energizer 377 Battery 2 ct package                                                       $1.46          $0.71          51.4%     
-Home Base 30 gal Flap Top Trash Bags 20 ct                                               $3.02          $1.50        50.3% ***   
+Home Base 30 gal Flap Top Trash Bags 20 ct                                               $3.02          $1.50          50.3%     
 Carefree Thong Regular Unscented Liners with Stay Put Wings 49 ea                        $3.22          $1.61          50.0%     
 Carefree Acti-Fresh Body Shape Regular to Go Unscented Pantiliners 54 ct package         $3.22          $1.61          50.0%     
 Carefree Acti-Fresh Body Shape Long to Go Unscented Pantiliners 42 ct package            $3.22          $1.61          50.0%     
 Carefree Acti-Fresh Body Shape Extra Long to Go Unscented Pantiliners 36 ct package      $3.22          $1.61          50.0%     
 Carefree Acti-Fresh Perfectly Thin to Go Unscented Pantiliners 60 ct package             $3.22          $1.61          50.0%     
-Repurpose Compostable Assorted Utensils 24 ct box                                        $3.32          $1.66          50.0%     
 Dr Pepper Soda 16.9 fl oz bottle 6 pack                                                  $5.78          $1.79          69.0%     
 Sprite Bottles, 16.9 fl oz, 6 Pack                                                       $5.78          $1.79          69.0%     
 Fanta Orange Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                                 $5.78          $1.79          69.0%     
@@ -56,15 +56,15 @@ Cremo 2in1 Shampoo & Conditioner Italian Bergamot 16 Fl Oz                      
 Cremo Palo Santo Barber Grade 2 in 1 Shampoo and Conditioner 16 Oz                       $5.98          $3.08          48.5%     
 Cremo Body Wash Vintage Suede 16 OZ                                                      $6.17          $3.12          49.4%     
 Cremo Body Wash, Palo Santo 16 FL OZ                                                     $6.17          $3.12          49.4%     
-The Honey Pot Company Cooling Herbal Infusion PantyLiner 30 ct                           $6.53          $3.33        49.0% ***   
-TAMPONS THP DUO PACK                                                                     $6.56          $3.38        48.5% ***   
+The Honey Pot Company Cooling Herbal Infusion PantyLiner 30 ct                           $6.53          $3.33          49.0%     
+TAMPONS THP DUO PACK                                                                     $6.56          $3.38          48.5%     
 Carefree Acti-Fresh Long Unscented Daily Liners 92 ct                                    $6.52          $3.39          48.0%     
 Johnson & Johnson Carefree Acti-Fresh Extra Long to Go Unscented Body Shape Pantilin     $6.62          $3.40          48.6%     
 O.B. MULTIPACK 40 CT                                                                     $6.77          $3.48          48.6%     
 O.B. ULTRA 40 CT                                                                         $6.77          $3.48          48.6%     
 Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55          49.6%     
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55          49.6%     
-The Honey Pot Cooling Herbal Infusion 100% Organic Pads 20 Ct                            $7.34          $3.60        51.0% ***   
+The Honey Pot Cooling Herbal Infusion 100% Organic Pads 20 Ct                            $7.34          $3.60          51.0%     
 TPX RAD 22 TP RSP 2X 3X2X2 (D STOCK)                                                     $7.87          $4.02          48.9%     
 I Can't Belive It's Not Butter! Original 45% Vegetable Oil Spread 45 oz tub              $8.09          $4.04        50.0% ***   
 Wrigley's Orbit Peppermint Sugarfree Gum 112 ct box                                      $7.78          $4.14          46.8%     
