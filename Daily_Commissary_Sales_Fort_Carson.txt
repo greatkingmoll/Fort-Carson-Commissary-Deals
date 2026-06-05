@@ -1,14 +1,14 @@
-2026-06-04
+2026-06-05
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                                  $0.95          $0.25          73.7%     
-Diet Coke Diet Soda Soft Drink, 1.25 Liters Bottle                                       $1.49          $0.49        67.1% ***   
+Diet Coke Diet Soda Soft Drink, 1.25 Liters Bottle                                       $1.49          $0.49          67.1%     
 Cousin Willie's Microwave Popcorm, Movie Theater Butter 8.7 Oz                           $1.86          $0.50          73.1%     
 Cousin Willie's Buttery Explosion Microwave Popcorn 8.7 Oz                               $1.86          $0.50          73.1%     
 Sweet & Salty Kettle Corn 3 Pack                                                         $1.86          $0.50          73.1%     
 SNACKS PEPPERONI PIZZA STICKS 4 COUNT                                                    $1.39          $0.69          50.4%     
+Purina Friskies Party Mix Beachside Cat Treats 2.1 oz pouch                              $1.49          $0.75          49.7%     
 Totino's Cheese Party Pizza 9.8 oz pack                                                  $1.87          $1.02          45.5%     
-CRACKERS SPICY SWT CHILI                                                                 $2.32          $1.15          50.4%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
 Dial For Men Ultimate Clean Complete Freshness Hair + Body Wash 16 oz bottle             $3.57          $1.31          63.3%     
 Digiorno breakfast sausage and gravy croissant pizza 9.2 oz                              $3.79          $1.40          63.1%     
@@ -44,6 +44,7 @@ TERIYAKI CHICKEN BREAST FILETS                                                  
 GARLIC HRB CHCKN BREAST FILETS                                                           $5.24          $2.62          50.0%     
 General Mills Pillsbury Cherry Toaster Strudel 6 ct box                                  $2.80          $1.46          47.9%     
 Pillsbury Toaster Strudel Blueberry Pastries 6 ct box                                    $2.80          $1.46          47.9%     
+Banza Chickpea Elbows Pasta 8 oz box                                                     $2.85          $1.42        50.2% ***   
 Pillsbury mini cinnis cinnamon pull apart 4 ea                                           $2.89          $1.44          50.2%     
 Schick hydro silk ultra-sensitive disposable 2 ea                                        $5.62          $2.92          48.0%     
 PORK TENDERLOIN SSND STKHOUSE                                                            $6.00          $2.96          50.7%     
@@ -51,6 +52,7 @@ Zevia Non-GMO No Sugar Added Mountain Zero Calorie Soda 12 fl oz can 6 pack     
 Zevia Cherry Cola Soda 12 fl oz can 6 pack                                               $5.66          $3.00          47.0%     
 Zevia Non-GMO No Sugar Added Caffeine Free Lemon Lime Twist Zero Calorie Soda 12 fl      $5.66          $3.00          47.0%     
 Freedom's Choice Seasoned Turkey Patties 24 oz                                           $6.98          $3.00          57.0%     
+Banza Chickpea Mixed Mac and Cheese Pasta 5.5 oz box                                     $3.05          $1.52        50.2% ***   
 Cremo 2in1 Shampoo & Conditioner Italian Bergamot 16 Fl Oz                               $5.98          $3.08          48.5%     
 Cremo Palo Santo Barber Grade 2 in 1 Shampoo and Conditioner 16 Oz                       $5.98          $3.08          48.5%     
 Cremo Body Wash Vintage Suede 16 OZ                                                      $6.17          $3.12          49.4%     
@@ -70,7 +72,6 @@ Materne GoGo Squeez Non-GMO Assorted Flavors Apple Sauce 3.2 oz pouch 12 pack   
 Materne GoGo Squeez Non-GMO Applesauce 3.2 oz pouch 12 pack                              $7.46          $3.73        50.0% ***   
 TPX RAD 22 TP RSP 2X 3X2X2 (D STOCK)                                                     $7.87          $4.02          48.9%     
 I Can't Belive It's Not Butter! Original 45% Vegetable Oil Spread 45 oz tub              $8.09          $4.04          50.0%     
-Wrigley's Orbit Peppermint Sugarfree Gum 112 ct box                                      $7.78          $4.14          46.8%     
 Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
 Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
 Hormel fully cooked bacon family size 6.3 oz                                             $8.07          $4.24          47.5%     
