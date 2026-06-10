@@ -1,4 +1,4 @@
-2026-06-09
+2026-06-10
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                                  $0.95          $0.25          73.7%     
@@ -16,12 +16,10 @@ Del Monte Fresh Cut Blue Lake Green Beans 14.5 oz can                           
 Mt. Olive Pepperoncini Peppers 12 fl oz jar                                              $1.79          $0.93          48.0%     
 Totino's Cheese Party Pizza 9.8 oz pack                                                  $1.87          $1.02          45.5%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
-Dial For Men Ultimate Clean Complete Freshness Hair + Body Wash 16 oz bottle             $3.57          $1.31          63.3%     
 Digiorno breakfast sausage and gravy croissant pizza 9.2 oz                              $3.79          $1.40          63.1%     
 Del Monte Fresh Cut Blue Lake French Style Green Beans 14.5 oz can                       $1.45          $0.77          46.9%     
 Energizer 377 Battery 2 ct package                                                       $1.46          $0.71          51.4%     
 General Mills Pillsbury Cherry Toaster Strudel 6 ct box                                  $2.80          $1.46          47.9%     
-Pillsbury Toaster Strudel Blueberry Pastries 6 ct box                                    $2.80          $1.46          47.9%     
 Home Base 30 gal Flap Top Trash Bags 20 ct                                               $3.02          $1.50          50.3%     
 Sprite Bottles, 16.9 fl oz, 6 Pack                                                       $5.78          $1.79          69.0%     
 Coca-Cola Zero Sugar Cherry Diet Soda Soft Drink, 16.9 fl oz, 6 Pack                     $5.78          $1.79          69.0%     
@@ -51,10 +49,8 @@ Truwell Adult Dentiwash 11.65 oz                                                
 Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
 Hormel fully cooked bacon family size 6.3 oz                                             $8.07          $4.24          47.5%     
 Similac Isomil Birth-12 Months Infant Formula Soy Concentrate 13 oz can                  $5.18          $2.77          46.5%     
-Peet's Coffee Organic Alameda Morning Coffee                                             $10.29         $5.27          48.8%     
 Persil Ultra Pacs Intense Fresh 42 ea                                                    $12.32         $5.35          56.6%     
 Oral-B Disney Frozen Battery Toothbrush Battery 2 ct package                             $6.72          $3.43          49.0%     
 BATTERY FLASHLIGHT LED                                                                   $6.73          $3.23          52.0%     
-KITTEN CHICKEN RECIPE (D STOCK)                                                          $22.12         $6.78          69.3%     
 
 Elapsed Time: N/A
