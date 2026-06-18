@@ -1,8 +1,7 @@
-2026-06-17
+2026-06-18
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                                  $0.95          $0.25          73.7%     
-SODA CREAMY COCONUT FE                                                                   $2.00          $0.25          87.5%     
 Cousin Willie's Microwave Popcorm, Movie Theater Butter 8.7 Oz                           $1.86          $0.50          73.1%     
 Cousin Willie's Buttery Explosion Microwave Popcorn 8.7 Oz                               $1.86          $0.50          73.1%     
 Sweet & Salty Kettle Corn 3 Pack                                                         $1.86          $0.50          73.1%     
@@ -12,7 +11,6 @@ Knorr spiral pasta buffalo chicken flavor 4.2 oz                                
 Knorr Italian Sides Four Cheese Spiral Pasta in Parmesan Romano Blue & Cheddar Chees     $1.16          $0.60          48.3%     
 Knorr pasta sides marinara penne 4.4 oz                                                  $1.16          $0.60          48.3%     
 SNACKS PEPPERONI PIZZA STICKS 4 COUNT                                                    $1.39          $0.69          50.4%     
-Purina Friskies Party Mix Beachside Cat Treats 2.1 oz pouch                              $1.49          $0.75          49.7%     
 Mt. Olive Pepperoncini Peppers 12 fl oz jar                                              $1.79          $0.93          48.0%     
 Kind Bar Max Crispy Chocolate Peanut Butter High Protein Bar 2.2 OZ                      $2.08          $1.11          46.6%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
@@ -21,7 +19,6 @@ SPICY KOR BBQ PASTA CUP 2.6OZ                                                   
 TERIYAKI NOODLES CUP 2.6OZ                                                               $2.40          $1.27          47.1%     
 Nestle carnation half and half creamer 24 ea                                             $2.58          $1.31          49.2%     
 Digiorno breakfast sausage and gravy croissant pizza 9.2 oz                              $3.79          $1.40          63.1%     
-Energizer 377 Battery 2 ct package                                                       $1.46          $0.71          51.4%     
 Nestle Coffee Mate Hazelnut Coffee Creamer 9 fl oz box                                   $2.87          $1.49          48.1%     
 Home Base 30 gal Flap Top Trash Bags 20 ct                                               $3.02          $1.50          50.3%     
 Country Crock drizzle Butter Squeeze 14 oz                                               $2.99          $1.50          50.0%     
@@ -29,15 +26,15 @@ LEMON GREEN TEA                                                                 
 Blue Diamond Bold Sriracha Flavored Almonds 6 oz can                                     $3.59          $1.79          50.0%     
 ALMONDS MIKES HOT HONEY                                                                  $3.59          $1.79          50.0%     
 Tazo organic awake english breakfast black tea 16 ea                                     $3.55          $1.88          47.0%     
-General Mills Large Size Cinnamon Toast Crunch Cereal 16.8 oz box                        $4.79          $2.02        57.8% ***   
-General Mills Reese's Family Size Sweet & Crunchy Peanut Butter Corn Puffs Cereal 16     $4.79          $2.02        57.8% ***   
-General Mills Cheerios Large Size Gluten-free Honey Nut Whole Grain Oats Cereal 15.4     $4.79          $2.02        57.8% ***   
+General Mills Large Size Cinnamon Toast Crunch Cereal 16.8 oz box                        $4.79          $2.02          57.8%     
+General Mills Reese's Family Size Sweet & Crunchy Peanut Butter Corn Puffs Cereal 16     $4.79          $2.02          57.8%     
+General Mills Cheerios Large Size Gluten-free Honey Nut Whole Grain Oats Cereal 15.4     $4.79          $2.02          57.8%     
 Unilever Dove Go Fresh Cool Moisture Cucumber & Green Tea Scent Beauty Soap Bars 3.7     $4.22          $2.19          48.1%     
 Axe Clean and Cool Black Body Wash 16 fl oz bottle                                       $4.47          $2.25          49.7%     
 Freedom's Choice Catfish Nugget 24 OZ                                                    $4.88          $2.44          50.0%     
 Tazo Organic Tea Chai Latte Black Tea Concentrate 32 oz carton                           $4.98          $2.56          48.6%     
-General Mills Cheerios Gluten-free Multi Grain Cereal 12 oz box                          $4.79          $2.58        46.1% ***   
-General Mills Cheerios Large Size Gluten-free Whole Grain Oats Cereal 12 oz box          $4.79          $2.58        46.1% ***   
+General Mills Cheerios Gluten-free Multi Grain Cereal 12 oz box                          $4.79          $2.58          46.1%     
+General Mills Cheerios Large Size Gluten-free Whole Grain Oats Cereal 12 oz box          $4.79          $2.58          46.1%     
 ASEP ORIGINAL PC CREAMER                                                                 $5.15          $2.82          45.2%     
 International Delight Hazelnut Singles Coffee Creamer 21 fl oz box                       $5.15          $2.82          45.2%     
 Banza Chickpea Elbows Pasta 8 oz box                                                     $2.85          $1.42          50.2%     
@@ -46,7 +43,6 @@ Banza Chickpea Mixed Mac and Cheese Pasta 5.5 oz box                            
 Thayers Rose Petal Facial Toner 12 oz bottle                                             $8.22          $3.16          61.6%     
 Pompeian Smooth Extra Virgin Olive Oil 16 fl oz bottle                                   $6.29          $3.29          47.7%     
 Nestle Rich Milk Chocolate Flavor Hot Cocoa Drink Mix 27.7 oz canister                   $6.79          $3.40          49.9%     
-Oral-B Disney Frozen Battery Toothbrush Battery 2 ct package                             $6.72          $3.43          49.0%     
 Blue Diamond Honey Roasted Almonds 6 oz can                                              $3.59          $1.79          50.0%     
 Blue Diamond Bold Salt'N Vinegar Almonds 6 oz package                                    $3.59          $1.79          50.0%     
 Blue Diamond Salted Roasted Almonds 6 oz can                                             $3.59          $1.79          50.0%     
@@ -55,15 +51,11 @@ Blue Diamond Almonds Smokehouse 6 oz can                                        
 Blue Diamond Bold Habanero BBQ Almonds 6 oz package                                      $3.59          $1.79          50.0%     
 Blue Diamond Bold Wasabi & Soy Sauce Almonds 6 oz can                                    $3.59          $1.79          50.0%     
 Dove Men Care Sea Salt and Citrus Exfoliating Body Wash 18 Oz                            $6.77          $3.70          45.3%     
-TPX RAD 22 TP RSP 2X 3X2X2 (D STOCK)                                                     $7.87          $4.02          48.9%     
 Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
 Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
-Hormel fully cooked bacon family size 6.3 oz                                             $9.02          $4.71          47.8%     
-Persil Ultra Pacs Intense Fresh 42 ea                                                    $12.32         $5.35          56.6%     
-Purina Dog Chow Complete Adult Beef Flavor 18.5 Lb                                       $15.17         $6.67        56.0% ***   
-BATTERY FLASHLIGHT LED                                                                   $6.73          $3.23          52.0%     
-Purina Cat Chow Complete Dry Cat Food 15 lb bag                                          $17.59         $9.59        45.5% ***   
-Purina Cat Chow Indoor Dry Cat Food 15 lb bag                                            $17.59         $9.59        45.5% ***   
-NQ ULTRA CONCENTRATED LIQU CAP (D STOCK)                                                 $20.18         $10.29         49.0%     
+COFFEE HOUSE BLEND GR                                                                    $10.29         $5.27          48.8%     
+Purina Dog Chow Complete Adult Beef Flavor 18.5 Lb                                       $15.17         $6.67          56.0%     
+Purina Cat Chow Complete Dry Cat Food 15 lb bag                                          $17.59         $9.59          45.5%     
+Purina Cat Chow Indoor Dry Cat Food 15 lb bag                                            $17.59         $9.59          45.5%     
 
 Elapsed Time: N/A
