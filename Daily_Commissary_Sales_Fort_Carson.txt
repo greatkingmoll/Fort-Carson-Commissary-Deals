@@ -1,4 +1,4 @@
-2026-06-24
+2026-06-25
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                                  $0.95          $0.25          73.7%     
@@ -11,13 +11,11 @@ Knorr Pasta Sides Parmesan Fettuccini & Spinach Pasta in Parmesan Cheese Flavore
 Knorr spiral pasta buffalo chicken flavor 4.2 oz                                         $1.16          $0.60          48.3%     
 Knorr Italian Sides Four Cheese Spiral Pasta in Parmesan Romano Blue & Cheddar Chees     $1.16          $0.60          48.3%     
 Knorr pasta sides marinara penne 4.4 oz                                                  $1.16          $0.60          48.3%     
-SNACKS PEPPERONI PIZZA STICKS 4 COUNT                                                    $1.39          $0.69          50.4%     
 Mt. Olive Pepperoncini Peppers 12 fl oz jar                                              $1.79          $0.93          48.0%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
 PAD THAI PASTA CUP 2.6OZ                                                                 $2.40          $1.27          47.1%     
 TERIYAKI NOODLES CUP 2.6OZ                                                               $2.40          $1.27          47.1%     
 Nestle carnation half and half creamer 24 ea                                             $2.58          $1.31          49.2%     
-Digiorno breakfast sausage and gravy croissant pizza 9.2 oz                              $3.79          $1.40          63.1%     
 Nestle Coffee Mate Hazelnut Coffee Creamer 9 fl oz box                                   $2.87          $1.49          48.1%     
 Home Base 30 gal Flap Top Trash Bags 20 ct                                               $3.02          $1.50          50.3%     
 Country Crock drizzle Butter Squeeze 14 oz                                               $2.99          $1.50          50.0%     
@@ -29,19 +27,38 @@ ALMONDS MIKES HOT HONEY                                                         
 Blue Diamond Lightly Salted Almonds 6 oz package                                         $3.59          $1.79          50.0%     
 SPRITE ZERO SUGAR + TEA 20OZ                                                             $1.83          $0.08        95.6% ***   
 Tazo organic awake english breakfast black tea 16 ea                                     $3.55          $1.88          47.0%     
+CRIMSON SOUR CHERRY 20OZ FE                                                              $2.00          $0.25          87.5%     
 SODA ZERO SUGAR CREAMY COCONUT FE                                                        $2.00          $0.25        87.5% ***   
-SODA CREAMY COCONUT FE                                                                   $2.00          $0.25          87.5%     
+SODA CREAMY COCONUT FE                                                                   $2.00          $0.19          90.5%     
 General Mills Cheerios Large Size Gluten-free Honey Nut Whole Grain Oats Cereal 15.4     $4.79          $2.02          57.8%     
 General Mills Reese's Family Size Sweet & Crunchy Peanut Butter Corn Puffs Cereal 16     $4.79          $2.02          57.8%     
 General Mills Large Size Cinnamon Toast Crunch Cereal 16.8 oz box                        $4.79          $2.02          57.8%     
+Kind Protein Max Sweet & Salty Caramel Peanut Crisp 2.2 Oz                               $2.08          $1.11        46.6% ***   
 Unilever Dove Go Fresh Cool Moisture Cucumber & Green Tea Scent Beauty Soap Bars 3.7     $4.22          $2.19          48.1%     
 MEAL MS GREEN BEAN CASSEROLE SIDE                                                        $4.67          $2.29          51.0%     
 Freedom's Choice Catfish Nugget 24 OZ                                                    $4.88          $2.44          50.0%     
 Tazo Organic Tea Chai Latte Black Tea Concentrate 32 oz carton                           $4.98          $2.56          48.6%     
 General Mills Cheerios Gluten-free Multi Grain Cereal 12 oz box                          $4.79          $2.58          46.1%     
 General Mills Cheerios Large Size Gluten-free Whole Grain Oats Cereal 12 oz box          $4.79          $2.58          46.1%     
-Dr Pepper Cream Soda 2 L bottle                                                          $2.77          $0.59        78.7% ***   
+Dr Pepper Zero Cherry Soda 2 L bottle                                                    $2.77          $1.00        63.9% ***   
 Dr Pepper Diet Soda 2 L bottle                                                           $2.77          $0.59          78.7%     
+Dr Pepper Soda 2 L bottle                                                                $2.77          $1.00        63.9% ***   
+Dr Pepper Zero Soda 2 L bottle                                                           $2.77          $1.00        63.9% ***   
+Barq's Root Beer 67.6 oz bottle                                                          $2.77          $1.00          63.9%     
+Dr Pepper Cherry Soda 2 L bottle                                                         $2.77          $1.00        63.9% ***   
+Fanta Pineapple Soda Soft Drink, 2 Liters Bottle                                         $2.77          $1.00          63.9%     
+Diet Coke Diet Soda Soft Drink, 2 Liters Bottle                                          $2.77          $1.00        63.9% ***   
+Diet Coke Caffeine Free Soda Soft Drink, 2 Liters                                        $2.77          $1.00          63.9%     
+Seagram's Caffeine-Free Ginger Ale Soda 2 L bottle                                       $2.77          $1.00          63.9%     
+Coke Zero Sugar Diet Soda Soft Drink, 2 Liters                                           $2.77          $1.00        63.9% ***   
+Coca-Cola Soda Soft Drink, 2 Liters Bottle                                               $2.77          $1.00        63.9% ***   
+Coca-Cola Zero Cherry Diet Soda Soft Drink, 2 Liters                                     $2.77          $1.00        63.9% ***   
+Fanta Strawberry Soda Soft Drink, 2 Liters Bottle                                        $2.77          $1.00        63.9% ***   
+Fanta Orange Soda Soft Drink, 2 Liters Bottle                                            $2.77          $1.00          63.9%     
+Sprite Zero Sugar Bottle, 2 Liters                                                       $2.77          $1.00          63.9%     
+Sprite soda lemon lime zero sugar - 2 Liter                                              $2.77          $1.00          63.9%     
+Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $1.00          63.9%     
+Coca-Cola Cherry Soda Soft Drink, 2 Liters                                               $2.77          $1.00        63.9% ***   
 ASEP ORIGINAL PC CREAMER                                                                 $5.15          $2.82          45.2%     
 International Delight Hazelnut Singles Coffee Creamer 21 fl oz box                       $5.15          $2.82          45.2%     
 Banza Chickpea Mixed Mac and Cheese Pasta 5.5 oz box                                     $3.05          $1.52          50.2%     
@@ -57,9 +74,9 @@ Dove Men Care Sea Salt and Citrus Exfoliating Body Wash 18 Oz                   
 Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
 Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
 Oral-B Pro-Flex Stain Eraser Soft Toothbrush 2 ct package                                $8.43          $4.49          46.7%     
+Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 16.9 fl oz, 6 Pack                $5.78          $1.49          74.2%     
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
 Purina Dog Chow Complete Adult Beef Flavor 18.5 Lb                                       $15.17         $6.67          56.0%     
-Tyson Ground Beef Pork Loaf                                                              $9.42          $4.91          47.9%     
 Purina Cat Chow Complete Dry Cat Food 15 lb bag                                          $17.59         $9.59          45.5%     
 Purina Cat Chow Indoor Dry Cat Food 15 lb bag                                            $17.59         $9.59          45.5%     
 
