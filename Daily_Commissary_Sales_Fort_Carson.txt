@@ -1,8 +1,8 @@
-2026-06-25
+2026-06-26
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                                  $0.95          $0.25          73.7%     
-Sprite + Tea Bottle, 20 fl oz                                                            $2.00          $0.25        87.5% ***   
+Sprite + Tea Bottle, 20 fl oz                                                            $2.00          $0.25          87.5%     
 Cousin Willie's Microwave Popcorm, Movie Theater Butter 8.7 Oz                           $1.86          $0.50          73.1%     
 Cousin Willie's Buttery Explosion Microwave Popcorn 8.7 Oz                               $1.86          $0.50          73.1%     
 Sweet & Salty Kettle Corn 3 Pack                                                         $1.86          $0.50          73.1%     
@@ -16,6 +16,7 @@ Topcare Pregnancy Test Early 2 Ct                                               
 PAD THAI PASTA CUP 2.6OZ                                                                 $2.40          $1.27          47.1%     
 TERIYAKI NOODLES CUP 2.6OZ                                                               $2.40          $1.27          47.1%     
 Nestle carnation half and half creamer 24 ea                                             $2.58          $1.31          49.2%     
+Purina Friskies Party Mix Beachside Cat Treats 2.1 oz pouch                              $1.49          $0.78          47.7%     
 Nestle Coffee Mate Hazelnut Coffee Creamer 9 fl oz box                                   $2.87          $1.49          48.1%     
 Home Base 30 gal Flap Top Trash Bags 20 ct                                               $3.02          $1.50          50.3%     
 Country Crock drizzle Butter Squeeze 14 oz                                               $2.99          $1.50          50.0%     
@@ -25,10 +26,10 @@ MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                      
 Blue Diamond Bold Sriracha Flavored Almonds 6 oz can                                     $3.59          $1.79          50.0%     
 ALMONDS MIKES HOT HONEY                                                                  $3.59          $1.79          50.0%     
 Blue Diamond Lightly Salted Almonds 6 oz package                                         $3.59          $1.79          50.0%     
-SPRITE ZERO SUGAR + TEA 20OZ                                                             $1.83          $0.08        95.6% ***   
+SPRITE ZERO SUGAR + TEA 20OZ                                                             $1.83          $0.08          95.6%     
 Tazo organic awake english breakfast black tea 16 ea                                     $3.55          $1.88          47.0%     
 CRIMSON SOUR CHERRY 20OZ FE                                                              $2.00          $0.25          87.5%     
-SODA ZERO SUGAR CREAMY COCONUT FE                                                        $2.00          $0.25        87.5% ***   
+SODA ZERO SUGAR CREAMY COCONUT FE                                                        $2.00          $0.25          87.5%     
 SODA CREAMY COCONUT FE                                                                   $2.00          $0.19          90.5%     
 General Mills Cheerios Large Size Gluten-free Honey Nut Whole Grain Oats Cereal 15.4     $4.79          $2.02          57.8%     
 General Mills Reese's Family Size Sweet & Crunchy Peanut Butter Corn Puffs Cereal 16     $4.79          $2.02          57.8%     
@@ -40,6 +41,7 @@ Freedom's Choice Catfish Nugget 24 OZ                                           
 Tazo Organic Tea Chai Latte Black Tea Concentrate 32 oz carton                           $4.98          $2.56          48.6%     
 General Mills Cheerios Gluten-free Multi Grain Cereal 12 oz box                          $4.79          $2.58          46.1%     
 General Mills Cheerios Large Size Gluten-free Whole Grain Oats Cereal 12 oz box          $4.79          $2.58          46.1%     
+Sweet ' N Low Zero Calorie Sweetener For Cooking & Baking 8 oz box                       $2.66          $1.43        46.2% ***   
 Dr Pepper Zero Cherry Soda 2 L bottle                                                    $2.77          $1.00        63.9% ***   
 Dr Pepper Diet Soda 2 L bottle                                                           $2.77          $0.59          78.7%     
 Dr Pepper Soda 2 L bottle                                                                $2.77          $1.00        63.9% ***   
@@ -60,10 +62,11 @@ Sprite soda lemon lime zero sugar - 2 Liter                                     
 Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $1.00          63.9%     
 Coca-Cola Cherry Soda Soft Drink, 2 Liters                                               $2.77          $1.00        63.9% ***   
 ASEP ORIGINAL PC CREAMER                                                                 $5.15          $2.82          45.2%     
-International Delight Hazelnut Singles Coffee Creamer 21 fl oz box                       $5.15          $2.82          45.2%     
+In The Raw monk fruit in the raw zero calorie sweetener 40 ea                            $2.93          $1.60        45.4% ***   
 Banza Chickpea Mixed Mac and Cheese Pasta 5.5 oz box                                     $3.05          $1.52          50.2%     
 Pompeian Smooth Extra Virgin Olive Oil 16 fl oz bottle                                   $6.29          $3.29          47.7%     
 Nestle Rich Milk Chocolate Flavor Hot Cocoa Drink Mix 27.7 oz canister                   $6.79          $3.40          49.9%     
+Natrataste Blue Zero Calorie Sweetener 250 ct 8.82 oz box                                $3.48          $1.76        49.4% ***   
 Blue Diamond Honey Roasted Almonds 6 oz can                                              $3.59          $1.79          50.0%     
 Blue Diamond Bold Salt'N Vinegar Almonds 6 oz package                                    $3.59          $1.79          50.0%     
 Blue Diamond Salted Roasted Almonds 6 oz can                                             $3.59          $1.79          50.0%     
