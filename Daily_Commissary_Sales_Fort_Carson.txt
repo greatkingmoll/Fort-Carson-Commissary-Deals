@@ -6,22 +6,49 @@ Sprite + Tea Bottle, 20 fl oz                                                   
 Cousin Willie's Microwave Popcorm, Movie Theater Butter 8.7 Oz                           $1.86          $0.50          73.1%     
 Cousin Willie's Buttery Explosion Microwave Popcorn 8.7 Oz                               $1.86          $0.50          73.1%     
 Sweet & Salty Kettle Corn 3 Pack                                                         $1.86          $0.50          73.1%     
+Dr Pepper Cream Soda 2 L bottle                                                          $2.77          $0.59          78.7%     
 Knorr Pasta Sides Chicken Flavor Broccoli Fettucini Dry Pasta Mix 4.2 oz bag             $1.16          $0.60          48.3%     
 Knorr Pasta Sides Parmesan Fettuccini & Spinach Pasta in Parmesan Cheese Flavored Sa     $1.16          $0.60          48.3%     
 Knorr spiral pasta buffalo chicken flavor 4.2 oz                                         $1.16          $0.60          48.3%     
 Knorr Italian Sides Four Cheese Spiral Pasta in Parmesan Romano Blue & Cheddar Chees     $1.16          $0.60          48.3%     
 Knorr pasta sides marinara penne 4.4 oz                                                  $1.16          $0.60          48.3%     
 Mt. Olive Pepperoncini Peppers 12 fl oz jar                                              $1.79          $0.93          48.0%     
+Dr Pepper Zero Cherry Soda 2 L bottle                                                    $2.77          $1.00          63.9%     
+Dr Pepper Soda 2 L bottle                                                                $2.77          $1.00          63.9%     
+Dr Pepper Zero Soda 2 L bottle                                                           $2.77          $1.00          63.9%     
+Barq's Root Beer 67.6 oz bottle                                                          $2.77          $1.00          63.9%     
+Dr Pepper Cherry Soda 2 L bottle                                                         $2.77          $1.00          63.9%     
+Fanta Pineapple Soda Soft Drink, 2 Liters Bottle                                         $2.77          $1.00          63.9%     
+Diet Coke Diet Soda Soft Drink, 2 Liters Bottle                                          $2.77          $1.00          63.9%     
+Diet Coke Caffeine Free Soda Soft Drink, 2 Liters                                        $2.77          $1.00          63.9%     
+Seagram's Caffeine-Free Ginger Ale Soda 2 L bottle                                       $2.77          $1.00          63.9%     
+Coke Zero Sugar Diet Soda Soft Drink, 2 Liters                                           $2.77          $1.00          63.9%     
+Coca-Cola Soda Soft Drink, 2 Liters Bottle                                               $2.77          $1.00          63.9%     
+Coca-Cola Zero Cherry Diet Soda Soft Drink, 2 Liters                                     $2.77          $1.00          63.9%     
+Fanta Strawberry Soda Soft Drink, 2 Liters Bottle                                        $2.77          $1.00          63.9%     
+Fanta Orange Soda Soft Drink, 2 Liters Bottle                                            $2.77          $1.00          63.9%     
+Sprite Zero Sugar Bottle, 2 Liters                                                       $2.77          $1.00          63.9%     
+Sprite soda lemon lime zero sugar - 2 Liter                                              $2.77          $1.00          63.9%     
+Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $1.00          63.9%     
+Coca-Cola Cherry Soda Soft Drink, 2 Liters                                               $2.77          $1.00          63.9%     
+LAMBS WOOL PADDING                                                                       $2.32          $1.18        49.1% ***   
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
 PAD THAI PASTA CUP 2.6OZ                                                                 $2.40          $1.27          47.1%     
 TERIYAKI NOODLES CUP 2.6OZ                                                               $2.40          $1.27          47.1%     
 Nestle carnation half and half creamer 24 ea                                             $2.58          $1.31          49.2%     
 Purina Friskies Party Mix Beachside Cat Treats 2.1 oz pouch                              $1.49          $0.78          47.7%     
 Nestle Coffee Mate Hazelnut Coffee Creamer 9 fl oz box                                   $2.87          $1.49          48.1%     
+Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 16.9 fl oz, 6 Pack                $5.78          $1.49          74.2%     
+BLACK CHERRY                                                                             $2.89          $1.50        48.1% ***   
+Stur All Natural Orange Mango Liquid Water Enhancer 1.4 fl oz bottle                     $2.89          $1.50        48.1% ***   
+Stur All Natural Lovely Lemonade Liquid Water Enhancer 1.62 fl oz bottle                 $2.89          $1.50        48.1% ***   
+Stur All Natural Perfectly Pomegranate Cranberry Liquid Water Enhancer 1.62 fl oz bo     $2.89          $1.50        48.1% ***   
 Home Base 30 gal Flap Top Trash Bags 20 ct                                               $3.02          $1.50          50.3%     
 Country Crock drizzle Butter Squeeze 14 oz                                               $2.99          $1.50          50.0%     
 MEAL SIDES MASHED POTATOES                                                               $3.14          $1.56          50.3%     
 LEMON GREEN TEA                                                                          $2.98          $1.59          46.6%     
+JUICE PINEAPPLE PASSIONFRUIT                                                             $3.29          $1.68        48.9% ***   
+Mott's Non-GMO 100% Apple Mango Juice 64 fl oz bottle                                    $3.29          $1.68        48.9% ***   
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
 Blue Diamond Bold Sriracha Flavored Almonds 6 oz can                                     $3.59          $1.79          50.0%     
 ALMONDS MIKES HOT HONEY                                                                  $3.59          $1.79          50.0%     
@@ -42,25 +69,7 @@ Tazo Organic Tea Chai Latte Black Tea Concentrate 32 oz carton                  
 General Mills Cheerios Gluten-free Multi Grain Cereal 12 oz box                          $4.79          $2.58          46.1%     
 General Mills Cheerios Large Size Gluten-free Whole Grain Oats Cereal 12 oz box          $4.79          $2.58          46.1%     
 Sweet ' N Low Zero Calorie Sweetener For Cooking & Baking 8 oz box                       $2.66          $1.43        46.2% ***   
-Dr Pepper Zero Cherry Soda 2 L bottle                                                    $2.77          $1.00          63.9%     
 Dr Pepper Diet Soda 2 L bottle                                                           $2.77          $0.59          78.7%     
-Dr Pepper Soda 2 L bottle                                                                $2.77          $1.00          63.9%     
-Dr Pepper Zero Soda 2 L bottle                                                           $2.77          $1.00          63.9%     
-Barq's Root Beer 67.6 oz bottle                                                          $2.77          $1.00          63.9%     
-Dr Pepper Cherry Soda 2 L bottle                                                         $2.77          $1.00          63.9%     
-Fanta Pineapple Soda Soft Drink, 2 Liters Bottle                                         $2.77          $1.00          63.9%     
-Diet Coke Diet Soda Soft Drink, 2 Liters Bottle                                          $2.77          $1.00          63.9%     
-Diet Coke Caffeine Free Soda Soft Drink, 2 Liters                                        $2.77          $1.00          63.9%     
-Seagram's Caffeine-Free Ginger Ale Soda 2 L bottle                                       $2.77          $1.00          63.9%     
-Coke Zero Sugar Diet Soda Soft Drink, 2 Liters                                           $2.77          $1.00          63.9%     
-Coca-Cola Soda Soft Drink, 2 Liters Bottle                                               $2.77          $1.00          63.9%     
-Coca-Cola Zero Cherry Diet Soda Soft Drink, 2 Liters                                     $2.77          $1.00          63.9%     
-Fanta Strawberry Soda Soft Drink, 2 Liters Bottle                                        $2.77          $1.00          63.9%     
-Fanta Orange Soda Soft Drink, 2 Liters Bottle                                            $2.77          $1.00          63.9%     
-Sprite Zero Sugar Bottle, 2 Liters                                                       $2.77          $1.00          63.9%     
-Sprite soda lemon lime zero sugar - 2 Liter                                              $2.77          $1.00          63.9%     
-Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $1.00          63.9%     
-Coca-Cola Cherry Soda Soft Drink, 2 Liters                                               $2.77          $1.00          63.9%     
 ASEP ORIGINAL PC CREAMER                                                                 $5.15          $2.82          45.2%     
 In The Raw monk fruit in the raw zero calorie sweetener 40 ea                            $2.93          $1.60        45.4% ***   
 Banza Chickpea Mixed Mac and Cheese Pasta 5.5 oz box                                     $3.05          $1.52          50.2%     
@@ -76,8 +85,8 @@ Blue Diamond Bold Wasabi & Soy Sauce Almonds 6 oz can                           
 Dove Men Care Sea Salt and Citrus Exfoliating Body Wash 18 Oz                            $6.77          $3.70          45.3%     
 Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
 Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
+Gatorade Chocolate Chip Protein Bar 6 Ea                                                 $8.92          $4.46        50.0% ***   
 Oral-B Pro-Flex Stain Eraser Soft Toothbrush 2 ct package                                $8.43          $4.49          46.7%     
-Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 16.9 fl oz, 6 Pack                $5.78          $1.49          74.2%     
 STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                            $11.79         $6.39          45.8%     
 Purina Dog Chow Complete Adult Beef Flavor 18.5 Lb                                       $15.17         $6.67          56.0%     
 Purina Cat Chow Complete Dry Cat Food 15 lb bag                                          $17.59         $9.59          45.5%     
