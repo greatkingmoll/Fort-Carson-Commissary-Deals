@@ -1,4 +1,4 @@
-2026-06-26
+2026-06-27
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                                  $0.95          $0.25          73.7%     
@@ -34,7 +34,7 @@ SODA CREAMY COCONUT FE                                                          
 General Mills Cheerios Large Size Gluten-free Honey Nut Whole Grain Oats Cereal 15.4     $4.79          $2.02          57.8%     
 General Mills Reese's Family Size Sweet & Crunchy Peanut Butter Corn Puffs Cereal 16     $4.79          $2.02          57.8%     
 General Mills Large Size Cinnamon Toast Crunch Cereal 16.8 oz box                        $4.79          $2.02          57.8%     
-Kind Protein Max Sweet & Salty Caramel Peanut Crisp 2.2 Oz                               $2.08          $1.11        46.6% ***   
+Kind Protein Max Sweet & Salty Caramel Peanut Crisp 2.2 Oz                               $2.08          $1.11          46.6%     
 Unilever Dove Go Fresh Cool Moisture Cucumber & Green Tea Scent Beauty Soap Bars 3.7     $4.22          $2.19          48.1%     
 MEAL MS GREEN BEAN CASSEROLE SIDE                                                        $4.67          $2.29          51.0%     
 Freedom's Choice Catfish Nugget 24 OZ                                                    $4.88          $2.44          50.0%     
@@ -42,25 +42,25 @@ Tazo Organic Tea Chai Latte Black Tea Concentrate 32 oz carton                  
 General Mills Cheerios Gluten-free Multi Grain Cereal 12 oz box                          $4.79          $2.58          46.1%     
 General Mills Cheerios Large Size Gluten-free Whole Grain Oats Cereal 12 oz box          $4.79          $2.58          46.1%     
 Sweet ' N Low Zero Calorie Sweetener For Cooking & Baking 8 oz box                       $2.66          $1.43        46.2% ***   
-Dr Pepper Zero Cherry Soda 2 L bottle                                                    $2.77          $1.00        63.9% ***   
+Dr Pepper Zero Cherry Soda 2 L bottle                                                    $2.77          $1.00          63.9%     
 Dr Pepper Diet Soda 2 L bottle                                                           $2.77          $0.59          78.7%     
-Dr Pepper Soda 2 L bottle                                                                $2.77          $1.00        63.9% ***   
-Dr Pepper Zero Soda 2 L bottle                                                           $2.77          $1.00        63.9% ***   
+Dr Pepper Soda 2 L bottle                                                                $2.77          $1.00          63.9%     
+Dr Pepper Zero Soda 2 L bottle                                                           $2.77          $1.00          63.9%     
 Barq's Root Beer 67.6 oz bottle                                                          $2.77          $1.00          63.9%     
-Dr Pepper Cherry Soda 2 L bottle                                                         $2.77          $1.00        63.9% ***   
+Dr Pepper Cherry Soda 2 L bottle                                                         $2.77          $1.00          63.9%     
 Fanta Pineapple Soda Soft Drink, 2 Liters Bottle                                         $2.77          $1.00          63.9%     
-Diet Coke Diet Soda Soft Drink, 2 Liters Bottle                                          $2.77          $1.00        63.9% ***   
+Diet Coke Diet Soda Soft Drink, 2 Liters Bottle                                          $2.77          $1.00          63.9%     
 Diet Coke Caffeine Free Soda Soft Drink, 2 Liters                                        $2.77          $1.00          63.9%     
 Seagram's Caffeine-Free Ginger Ale Soda 2 L bottle                                       $2.77          $1.00          63.9%     
-Coke Zero Sugar Diet Soda Soft Drink, 2 Liters                                           $2.77          $1.00        63.9% ***   
-Coca-Cola Soda Soft Drink, 2 Liters Bottle                                               $2.77          $1.00        63.9% ***   
-Coca-Cola Zero Cherry Diet Soda Soft Drink, 2 Liters                                     $2.77          $1.00        63.9% ***   
-Fanta Strawberry Soda Soft Drink, 2 Liters Bottle                                        $2.77          $1.00        63.9% ***   
+Coke Zero Sugar Diet Soda Soft Drink, 2 Liters                                           $2.77          $1.00          63.9%     
+Coca-Cola Soda Soft Drink, 2 Liters Bottle                                               $2.77          $1.00          63.9%     
+Coca-Cola Zero Cherry Diet Soda Soft Drink, 2 Liters                                     $2.77          $1.00          63.9%     
+Fanta Strawberry Soda Soft Drink, 2 Liters Bottle                                        $2.77          $1.00          63.9%     
 Fanta Orange Soda Soft Drink, 2 Liters Bottle                                            $2.77          $1.00          63.9%     
 Sprite Zero Sugar Bottle, 2 Liters                                                       $2.77          $1.00          63.9%     
 Sprite soda lemon lime zero sugar - 2 Liter                                              $2.77          $1.00          63.9%     
 Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 2 Liters                          $2.77          $1.00          63.9%     
-Coca-Cola Cherry Soda Soft Drink, 2 Liters                                               $2.77          $1.00        63.9% ***   
+Coca-Cola Cherry Soda Soft Drink, 2 Liters                                               $2.77          $1.00          63.9%     
 ASEP ORIGINAL PC CREAMER                                                                 $5.15          $2.82          45.2%     
 In The Raw monk fruit in the raw zero calorie sweetener 40 ea                            $2.93          $1.60        45.4% ***   
 Banza Chickpea Mixed Mac and Cheese Pasta 5.5 oz box                                     $3.05          $1.52          50.2%     
