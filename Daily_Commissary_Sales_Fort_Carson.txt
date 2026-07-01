@@ -1,6 +1,8 @@
 2026-07-01
 Items discounted by 45% or more:
 SPRITE ZERO SUGAR + TEA 20OZ                                                             $1.83          $0.08          95.6%     
+Dr Pepper Cream Soda 2 L bottle                                                          $2.77          $0.09          96.8%     
+Dr Pepper Diet Soda 2 L bottle                                                           $2.77          $0.09          96.8%     
 SODA CREAMY COCONUT FE                                                                   $2.00          $0.19          90.5%     
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                                  $0.95          $0.25          73.7%     
@@ -11,9 +13,7 @@ Cousin Willie's Buttery Explosion Microwave Popcorn 8.7 Oz                      
 Sweet & Salty Kettle Corn 3 Pack                                                         $1.86          $0.50          73.1%     
 Kraft Jalapeno Mac & Cheese 7.25 oz                                                      $1.34          $0.55          59.0%     
 Nestle Toll House Chocolate Chip Frozen Cookie Sandwich 6 fl oz package                  $2.33          $0.59          74.7%     
-Dr Pepper Cream Soda 2 L bottle                                                          $2.77          $0.09          96.8%     
 Knorr Pasta Sides Chicken Flavor Broccoli Fettucini Dry Pasta Mix 4.2 oz bag             $1.16          $0.60          48.3%     
-Knorr Pasta Sides Parmesan Fettuccini & Spinach Pasta in Parmesan Cheese Flavored Sa     $1.16          $0.60          48.3%     
 Knorr spiral pasta buffalo chicken flavor 4.2 oz                                         $1.16          $0.60          48.3%     
 Knorr pasta sides marinara penne 4.4 oz                                                  $1.16          $0.60          48.3%     
 Annies Disney Cheddar Mac & Cheese 6 oz                                                  $1.38          $0.72          47.8%     
@@ -31,18 +31,17 @@ Nature Valley Crunchy Oats and Honey Granola Bars 1.49 oz package 6 ct          
 Nature Valley Sweet & Salty Nut Almond Chewy Granola Bars 1.2 oz package 6 ct            $2.72          $1.39          48.9%     
 Ball Lids for Regular Mouth Jars 12 ct box                                               $2.99          $1.49          50.2%     
 BLACK CHERRY                                                                             $2.89          $1.50          48.1%     
-Stur All Natural Orange Mango Liquid Water Enhancer 1.4 fl oz bottle                     $2.89          $1.50          48.1%     
 Stur All Natural Lovely Lemonade Liquid Water Enhancer 1.62 fl oz bottle                 $2.89          $1.50          48.1%     
 Stur All Natural Perfectly Pomegranate Cranberry Liquid Water Enhancer 1.62 fl oz bo     $2.89          $1.50          48.1%     
 Home Base 30 gal Flap Top Trash Bags 20 ct                                               $3.02          $1.50          50.3%     
 MEAL SIDES MASHED POTATOES                                                               $3.14          $1.56          50.3%     
 LEMON GREEN TEA                                                                          $2.98          $1.59          46.6%     
 JUICE PINEAPPLE PASSIONFRUIT                                                             $3.29          $1.68          48.9%     
-Mott's Non-GMO 100% Apple Mango Juice 64 fl oz bottle                                    $3.29          $1.68          48.9%     
 Old El Paso spicy queso blanco sauce 9 oz                                                $3.49          $1.74          50.1%     
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
 Violife Just like Cream Cheese 100 % Dairy Free 8 Oz                                     $3.49          $1.75          50.0%     
 Natrataste Blue Zero Calorie Sweetener 250 ct 8.82 oz box                                $3.48          $1.76          49.4%     
+Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 16.9 fl oz, 6 Pack                $5.78          $1.79          69.0%     
 Violife Cheese Substitute Cheddar Slices 7.05 Oz                                         $3.69          $1.84          50.0%     
 Violife Mexican Style Shreds 8 oz                                                        $3.69          $1.84          50.0%     
 Violife Cheese Sub Sandwich With Shredded Mozzarella Vegan 8 Oz                          $3.69          $1.84          50.0%     
@@ -57,12 +56,12 @@ Unilever Dove Go Fresh Cool Moisture Cucumber & Green Tea Scent Beauty Soap Bars
 Nestle Carnation Original Powdered Malted Milk 13 oz jar                                 $4.29          $2.24        47.8% ***   
 MEAL MS GREEN BEAN CASSEROLE SIDE                                                        $4.67          $2.29          51.0%     
 Freedom's Choice Catfish Nugget 24 OZ                                                    $4.88          $2.44          50.0%     
+Watermelon cut                                                                           $4.67          $2.50        46.5% ***   
 Tazo Organic Tea Chai Latte Black Tea Concentrate 32 oz carton                           $4.98          $2.56          48.6%     
 General Mills Cheerios Gluten-free Multi Grain Cereal 12 oz box                          $4.79          $2.58          46.1%     
 General Mills Cheerios Large Size Gluten-free Whole Grain Oats Cereal 12 oz box          $4.79          $2.58          46.1%     
 Sweet ' N Low Zero Calorie Sweetener For Cooking & Baking 8 oz box                       $2.66          $1.43          46.2%     
 Tacor dinner kit hard soft 2 kits                                                        $5.52          $2.76          50.0%     
-Dr Pepper Diet Soda 2 L bottle                                                           $2.77          $0.09          96.8%     
 ASEP ORIGINAL PC CREAMER                                                                 $5.15          $2.82          45.2%     
 In The Raw monk fruit in the raw zero calorie sweetener 40 ea                            $2.93          $1.60          45.4%     
 Annie's Homegrown Microwavable Deluxe Rich & Creamy Shells & Classic Cheddar Macaron     $5.98          $2.99          50.0%     
@@ -78,7 +77,6 @@ Truwell Kids Strawberry Dentiwash 11.65 oz                                      
 Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
 Gatorade Chocolate Chip Protein Bar 6 Ea                                                 $8.92          $4.46          50.0%     
 Oral-B Pro-Flex Stain Eraser Soft Toothbrush 2 ct package                                $8.43          $4.49          46.7%     
-Watermelon cut                                                                           $4.67          $2.50        46.5% ***   
 Ball Regular Mouth Half Pint Jars 12 ct case                                             $11.43         $5.71          50.0%     
 Ball Quilted Crystal Jelly Jars 12 ct pack                                               $11.66         $5.83          50.0%     
 Ball Regular Mouth Mason Jars 12 ct box                                                  $12.12         $6.37          47.4%     
@@ -88,7 +86,5 @@ Purina Dog Chow Complete Adult Beef Flavor 18.5 Lb                              
 Ball Regular Mouth Quart Jars 12 ct case                                                 $14.48         $7.24          50.0%     
 Ball Wide Mouth Pint Jars 12 ct box                                                      $13.92         $7.40          46.8%     
 Ball Wide Mouth Quart Jars 12 ct case                                                    $16.19         $8.24          49.1%     
-Purina Cat Chow Complete Dry Cat Food 15 lb bag                                          $17.59         $9.59          45.5%     
-Purina Cat Chow Indoor Dry Cat Food 15 lb bag                                            $17.59         $9.59          45.5%     
 
 Elapsed Time: N/A
