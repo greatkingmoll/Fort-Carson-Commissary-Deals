@@ -1,4 +1,4 @@
-2026-07-09
+2026-07-10
 Items discounted by 45% or more:
 SPRITE ZERO SUGAR + TEA 20OZ                                                             $1.92          $0.17          91.1%     
 SODA CREAMY COCONUT FE                                                                   $2.00          $0.19          90.5%     
@@ -16,7 +16,6 @@ Nestle Toll House Chocolate Chip Frozen Cookie Sandwich 6 fl oz package         
 Annies Disney Cheddar Mac & Cheese 6 oz                                                  $1.38          $0.72          47.8%     
 Annies Spidey Shapes Cheddar Mac & Cheese 6 oz                                           $1.38          $0.72          47.8%     
 Topcare Pregnancy Test Early 2 Ct                                                        $5.19          $1.25          75.9%     
-TERIYAKI NOODLES CUP 2.6OZ                                                               $2.40          $1.27          47.1%     
 Ortega yellow corn mini taco slider shells 18 ea                                         $2.55          $1.27          50.2%     
 Ortega Original Thick & Smooth Hot Taco Sauce 16 oz bottle                               $2.49          $1.29          48.2%     
 Nestle carnation half and half creamer 24 ea                                             $2.58          $1.31          49.2%     
@@ -26,6 +25,7 @@ Nature Valley Crunchy Peanut Butter Granola Bars 1.49 oz package 6 ct           
 Nature Valley Sweet & Salty Nut Peanut Chewy Granola Bars 1.2 oz package 6 ct            $2.72          $1.39          48.9%     
 Nature Valley Crunchy Oats and Honey Granola Bars 1.49 oz package 6 ct                   $2.72          $1.39          48.9%     
 Nature Valley Sweet & Salty Nut Almond Chewy Granola Bars 1.2 oz package 6 ct            $2.72          $1.39          48.9%     
+SYRUP STRAWBERRY SUGAR FREE                                                              $2.79          $1.47        47.3% ***   
 Ball Lids for Regular Mouth Jars 12 ct box                                               $2.99          $1.49          50.2%     
 Home Base 30 gal Flap Top Trash Bags 20 ct                                               $3.02          $1.50          50.3%     
 BLACK CHERRY                                                                             $2.89          $1.50          48.1%     
@@ -56,16 +56,20 @@ Sweet ' N Low Zero Calorie Sweetener For Cooking & Baking 8 oz box              
 Tacor dinner kit hard soft 2 kits                                                        $5.52          $2.76          50.0%     
 ASEP ORIGINAL PC CREAMER                                                                 $5.15          $2.82          45.2%     
 Annie's Homegrown Microwavable Deluxe Rich & Creamy Shells & Classic Cheddar Macaron     $5.98          $2.99          50.0%     
+Welchs Zero Sugar Concord Grape 64 Oz                                                    $3.09          $1.68        45.6% ***   
+Welchs Zero Sugar Tropical Punch Juice 64 fl oz                                          $3.09          $1.68        45.6% ***   
+DRINK STRAWBERRY ZERO                                                                    $3.09          $1.68        45.6% ***   
+Welchs Concord Grape Cocktail Juice 64 fl oz bottle                                      $3.09          $1.68        45.6% ***   
 CANNING JAR MINI 4 PK                                                                    $6.59          $3.29          50.1%     
 Nestle Rich Milk Chocolate Flavor Hot Cocoa Drink Mix 27.7 oz canister                   $6.79          $3.40          49.9%     
 Pompeian Smooth Extra Virgin Olive Oil 16 fl oz bottle                                   $6.29          $3.45          45.2%     
 Violife Cheese Substitute Cream Original 7.05 Oz                                         $3.49          $1.75          50.0%     
 Violife Cheese Substitute Vegan Smoked Provolone Slice 7.05 Oz                           $3.69          $1.84          50.0%     
 Dove Men Care Sea Salt and Citrus Exfoliating Body Wash 18 Oz                            $6.77          $3.70          45.3%     
-PIZZA SS FRENCH BREAD PEPPERONI 6 PACK                                                   $7.82          $3.89          50.3%     
 Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
 Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
 Gatorade Chocolate Chip Protein Bar 6 Ea                                                 $8.92          $4.46          50.0%     
+Welchs Fiber 100 % Concord Grape Juice 64 fl oz bottle                                   $4.49          $2.39        46.8% ***   
 Oral-B Pro-Flex Stain Eraser Soft Toothbrush 2 ct package                                $8.43          $4.49          46.7%     
 Ball Regular Mouth Half Pint Jars 12 ct case                                             $11.43         $5.71          50.0%     
 Ball Quilted Crystal Jelly Jars 12 ct pack                                               $11.66         $5.83          50.0%     
