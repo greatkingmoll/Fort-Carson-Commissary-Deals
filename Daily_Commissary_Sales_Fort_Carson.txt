@@ -4,8 +4,8 @@ SPRITE ZERO SUGAR + TEA 20OZ                                                    
 SODA CREAMY COCONUT FE                                                                   $2.00          $0.19          90.5%     
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                                  $0.95          $0.25          73.7%     
-Sprite + Tea Bottle, 20 fl oz                                                            $2.00          $0.25          87.5%     
 SODA ZERO SUGAR CREAMY COCONUT FE                                                        $2.00          $0.25          87.5%     
+Sprite + Tea Bottle, 20 fl oz                                                            $2.00          $0.25          87.5%     
 Ortega taco seasoning mix 1 oz                                                           $0.72          $0.38          47.2%     
 Ortega original taco seasoning mix 1 oz                                                  $0.72          $0.38          47.2%     
 Cousin Willie's Microwave Popcorm, Movie Theater Butter 8.7 Oz                           $1.86          $0.50          73.1%     
@@ -34,6 +34,7 @@ Nature Valley Sweet & Salty Nut Peanut Chewy Granola Bars 1.2 oz package 6 ct   
 Nature Valley Crunchy Oats and Honey Granola Bars 1.49 oz package 6 ct                   $2.72          $1.39          48.9%     
 Nature Valley Sweet & Salty Nut Almond Chewy Granola Bars 1.2 oz package 6 ct            $2.72          $1.39          48.9%     
 Nature Valley Crunchy Peanut Butter Granola Bars 1.49 oz package 6 ct                    $2.72          $1.39          48.9%     
+Sweet ' N Low Zero Calorie Sweetener For Cooking & Baking 8 oz box                       $2.66          $1.43          46.2%     
 Mott's Gluten-free Veggie Juice Assorted Fruit Flavored Snacks 0.8 oz pouch 10 ct        $2.72          $1.45          46.7%     
 SYRUP STRAWBERRY SUGAR FREE                                                              $2.79          $1.47          47.3%     
 Home Base 30 gal Flap Top Trash Bags 20 ct                                               $3.02          $1.50          50.3%     
@@ -46,6 +47,7 @@ Carefree Acti-Fresh Body Shape Extra Long to Go Unscented Pantiliners 36 ct pack
 Carefree Thong Regular Unscented Liners with Stay Put Wings 49 ea                        $3.22          $1.61          50.0%     
 Carefree Acti-Fresh Perfectly Thin to Go Unscented Pantiliners 60 ct package             $3.22          $1.61          50.0%     
 Jimmy Dean 60% Less Fat Fully Cooked Turkey Sausage Crumbles 9.6 oz resealable bag       $4.26          $1.64          61.5%     
+Twinings Of London 100% Pure Black Tea Irish Breakfast Tea Bags 20 ct 1.41 oz box        $3.49          $1.74        50.1% ***   
 Old El Paso spicy queso blanco sauce 9 oz                                                $3.49          $1.74          50.1%     
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
 Natrataste Blue Zero Calorie Sweetener 250 ct 8.82 oz box                                $3.48          $1.76          49.4%     
@@ -83,11 +85,11 @@ Carefree Acti-Fresh Long Unscented Daily Liners 92 ct                           
 Johnson & Johnson Carefree Acti-Fresh Extra Long to Go Unscented Body Shape Pantilin     $6.62          $3.40          48.6%     
 Nestle Rich Milk Chocolate Flavor Hot Cocoa Drink Mix 27.7 oz canister                   $6.79          $3.40          49.9%     
 Pompeian Smooth Extra Virgin Olive Oil 16 fl oz bottle                                   $6.29          $3.45          45.2%     
+Twinings Of London Irish Breakfast Tea Bags 50 ct 3.53 oz box                            $6.99          $3.46        50.5% ***   
 O.B. MULTIPACK 40 CT                                                                     $6.77          $3.48          48.6%     
 O.B. ULTRA 40 CT                                                                         $6.77          $3.48          48.6%     
 Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55          49.6%     
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55          49.6%     
-Dove Men Care Sea Salt and Citrus Exfoliating Body Wash 18 Oz                            $6.77          $3.70          45.3%     
 Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
 Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
 Welchs Fiber 100 % Concord Grape Juice 64 fl oz bottle                                   $4.49          $2.39          46.8%     
