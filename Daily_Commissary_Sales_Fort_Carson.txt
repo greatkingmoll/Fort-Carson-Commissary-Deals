@@ -2,6 +2,7 @@
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Freedom's Choice Chili Style Diced Tomatoes 14.5 oz can                                  $0.95          $0.25          73.7%     
+Sprite + Tea Bottle, 20 fl oz                                                            $2.00          $0.25          87.5%     
 Ortega taco seasoning mix 1 oz                                                           $0.72          $0.38          47.2%     
 Ortega original taco seasoning mix 1 oz                                                  $0.72          $0.38          47.2%     
 Cousin Willie's Microwave Popcorm, Movie Theater Butter 8.7 Oz                           $1.86          $0.50          73.1%     
@@ -46,6 +47,7 @@ Twinings Of London 100% Pure Black Tea Irish Breakfast Tea Bags 20 ct 1.41 oz bo
 Old El Paso spicy queso blanco sauce 9 oz                                                $3.49          $1.74          50.1%     
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
 Natrataste Blue Zero Calorie Sweetener 250 ct 8.82 oz box                                $3.48          $1.76          49.4%     
+Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 16.9 fl oz, 6 Pack                $5.78          $1.79          69.0%     
 PLAYTEX SPORT SUPER 18 CT                                                                $4.22          $1.82          56.9%     
 PLAYTEX SPORT REGULR 18 CT                                                               $4.22          $1.82          56.9%     
 Tazo organic awake english breakfast black tea 16 ea                                     $3.55          $1.88          47.0%     
@@ -73,6 +75,7 @@ O.B. MULTIPACK 40 CT                                                            
 O.B. ULTRA 40 CT                                                                         $6.77          $3.48          48.6%     
 Billie Malibu Razor Starter Kit 1 ct                                                     $7.04          $3.55          49.6%     
 Billie Razor Blade Refills 4 ct                                                          $7.04          $3.55          49.6%     
+Horizon Organic Low Fat Milk 8 fl oz box 6 pack                                          $7.62          $3.86          49.3%     
 Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
 Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
 Welchs Fiber 100 % Concord Grape Juice 64 fl oz bottle                                   $4.49          $2.39          46.8%     
@@ -84,7 +87,6 @@ STOUFFERS CHICKEN PARMESAN FAM SZ 52.5 OZ BOX                                   
 Schick Hydro Sensitive Cartridges 6 ct                                                   $11.96         $6.53          45.4%     
 Schick Intuition Sensitive Care Lather & Shave Women's Razor Blades Refill Cartridge     $11.96         $6.53          45.4%     
 Schick Hydro Silk Women's Razor Blades Refill 4 ct box                                   $11.96         $6.53          45.4%     
-Horizon Organic Low Fat Milk 8 fl oz box 6 pack                                          $7.59          $3.86          49.1%     
 Persil Ultra Pacs Intense Fresh 42 ea                                                    $12.32         $5.38          56.3%     
 
 Elapsed Time: N/A
