@@ -1,10 +1,7 @@
-2026-08-01
+2026-08-02
 Items discounted by 45% or more:
-Fresca Grapefruit Citrus Sparkling Soda Water Bottles, 16.9 fl oz, 6 Pack                $5.78          $0.13          97.8%     
-Sprite Bottles, 16.9 fl oz, 6 Pack                                                       $5.78          $0.13          97.8%     
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Sprite + Tea Bottle, 20 fl oz                                                            $2.00          $0.25          87.5%     
-Ortega original taco seasoning mix 1 oz                                                  $0.72          $0.38          47.2%     
 Ortega taco seasoning mix 1 oz                                                           $0.72          $0.38          47.2%     
 Annies Spidey Shapes Cheddar Mac & Cheese 6 oz                                           $1.38          $0.54          60.9%     
 Annies Disney Cheddar Mac & Cheese 6 oz                                                  $1.38          $0.54          60.9%     
@@ -18,7 +15,6 @@ General Mills Cinnamon Toast Crunch Cereal 12 oz box                            
 Arm & Hammer Fresh and Soft Tropical Burst Fabric Softener Sheets 100 ct box             $2.69          $1.19          55.8%     
 Betty Crocker Fruit by the Foot Berry Tie-Dye Fruit Flavored Snacks 4.5 oz box           $2.72          $1.23          54.8%     
 Ortega yellow corn mini taco slider shells 18 ea                                         $2.55          $1.27          50.2%     
-Ortega Original Thick & Smooth Hot Taco Sauce 16 oz bottle                               $2.49          $1.29          48.2%     
 General Mills Cheerios Gluten-free Whole Grain Oat Honey Nut Corn Cereal 10.8 oz box     $3.45          $1.36          60.6%     
 Nature Valley Sweet & Salty Nut Peanut Chewy Granola Bars 1.2 oz package 6 ct            $2.72          $1.39          48.9%     
 Nature Valley Crunchy Oats and Honey Granola Bars 1.49 oz package 6 ct                   $2.72          $1.39          48.9%     
@@ -32,7 +28,7 @@ SYRUP STRAWBERRY SUGAR FREE                                                     
 Home Base 30 gal Flap Top Trash Bags 20 ct                                               $3.02          $1.50          50.3%     
 Stur All Natural Lovely Lemonade Liquid Water Enhancer 1.62 fl oz bottle                 $2.89          $1.50          48.1%     
 BLACK CHERRY                                                                             $2.89          $1.50          48.1%     
-Maple Grove Farms Sugar Free Low Calorie Maple Flavor Syrup 24 fl oz bottle              $2.89          $1.55        46.4% ***   
+Maple Grove Farms Sugar Free Low Calorie Maple Flavor Syrup 24 fl oz bottle              $2.89          $1.55          46.4%     
 DRINK STRAWBERRY ZERO                                                                    $2.99          $1.58          47.2%     
 Carefree Acti-Fresh Body Shape Regular to Go Unscented Pantiliners 54 ct package         $3.22          $1.61          50.0%     
 Carefree Acti-Fresh Body Shape Extra Long to Go Unscented Pantiliners 36 ct package      $3.22          $1.61          50.0%     
