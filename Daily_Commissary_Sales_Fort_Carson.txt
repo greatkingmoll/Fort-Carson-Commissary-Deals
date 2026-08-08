@@ -23,10 +23,10 @@ Nature Valley Crunchy Peanut Butter Granola Bars 1.49 oz package 6 ct           
 Nature Valley Fruit and Nut Chewy Trail Mix Granola Bars 6 ct 1.2 oz box                 $2.72          $1.39          48.9%     
 Nature Valley Sweet & Salty Nut Cashews Chewy Granola Bars 1.2 oz package 6 ct           $2.72          $1.39          48.9%     
 Home Base 30 gal Flap Top Trash Bags 20 ct                                               $3.02          $1.50          50.3%     
-Stur All Natural Lovely Lemonade Liquid Water Enhancer 1.62 fl oz bottle                 $2.89          $1.50          48.1%     
 General Mills Cheerios Gluten-free Whole Grain Oats Cereal 8.9 oz box                    $3.12          $1.61          48.4%     
 General Mills Trix Natural Classic Sweetened Corn Puffs Cereal 10.7 oz box               $3.13          $1.62          48.2%     
 Sabra dip guacamole classic 7 lb                                                         $3.25          $1.64        49.5% ***   
+Henkel Purex Crystals Cherry Blossom & Ginger in-Wash Fragrance Booster 21 oz bottle     $3.49          $1.74        50.1% ***   
 Natrataste Blue Zero Calorie Sweetener 250 ct 8.82 oz box                                $3.48          $1.76          49.4%     
 Nestle Pure Life Purified Water 16.9 fl oz bottle 28 pack                                $4.54          $1.77          61.0%     
 Hormel Black Label Original Fully Cooked Smoked Bacon Slices 10 ct 2.52 oz box           $3.73          $1.96          47.5%     
@@ -35,12 +35,15 @@ Kelloggs cereal raisin bran 16.1 oz                                             
 Kellogg's Special K Red Berries Cereal 11.4 oz                                           $3.69          $1.99          46.1%     
 Kellogg's Special K Fruit & Yogurt Cereal 12.6 oz                                        $3.69          $1.99          46.1%     
 Kelloggs cereal frosted mini wheats 16 fl oz                                             $3.69          $1.99          46.1%     
+Jennieo Turkey Breast                                                                    $4.43          $2.22          49.9%     
 Arm&Hammer Fabric Scent Booster Maui Sunset                                              $4.39          $2.39          45.6%     
 Arm&Hammer Fabric Scent Booster Maui Sunset                                              $4.39          $2.39          45.6%     
+JennieoGronndTurkey                                                                      $4.92          $2.46          50.0%     
 Domino Organic Raw Cane Sugar 24 oz bag                                                  $2.79          $1.39          50.2%     
 Rubbermaid Take Alongs Meal Prep Containers 5 ct                                         $5.35          $2.83          47.1%     
 Diet Coke Diet Soda Soft Drink Fridge Pack, 7.5 fl oz Mini Cans, 10 Pack                 $6.60          $2.99          54.7%     
 Dr Pepper soda blackberry 12 pk                                                          $7.49          $2.99          60.1%     
+Jennieo Ground Turkey Breast                                                             $6.42          $3.21          50.0%     
 Newmans Own Peanut Butter Biscuits Dog Treat 10 Oz                                       $3.39          $1.79          47.2%     
 Nestle Rich Milk Chocolate Flavor Hot Cocoa Drink Mix 27.7 oz canister                   $6.79          $3.40          49.9%     
 Horizon Organic Low Fat Milk 8 fl oz box 6 pack                                          $7.64          $3.86          49.5%     
@@ -49,7 +52,6 @@ Truwell Adult Dentiwash 11.65 oz                                                
 UNDERWEAR PERIOD BRIEF XL                                                                $9.64          $4.96          48.5%     
 COCOA MIX HERSHEY MILK CHOCOLATE                                                         $5.55          $2.80          49.5%     
 Fresca Grapefruit Citrus Sparkling Soda Water, 12 fl oz, 12 Pack                         $7.49          $2.99          60.1%     
-Dr Pepper Zero Soda 12 ct                                                                $7.49          $0.49          93.5%     
 Sprite Zero Soda Lemon-Lime - 12-12 Fl. Oz.                                              $7.49          $2.99          60.1%     
 
 Elapsed Time: N/A
