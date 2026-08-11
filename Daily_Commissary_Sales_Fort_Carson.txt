@@ -2,18 +2,18 @@
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Sprite + Tea Bottle, 20 fl oz                                                            $2.00          $0.25          87.5%     
-CoCa-Cola Chery Float Soda 20 Fl Oz                                                      $2.00          $0.29          85.5%     
 Coca Cola soda dieat coke lime 20 oz                                                     $2.00          $0.29          85.5%     
 Sprite Caffeine-free Tropical Mix Soda 20 fl oz bottle                                   $2.00          $0.29          85.5%     
+CoCa-Cola Chery Float Soda 20 Fl Oz                                                      $2.00          $0.29          85.5%     
+DARK CHOCOLATE                                                                           $0.68          $0.36          47.1%     
 Nestle Toll House Chocolate Chip Frozen Cookie Sandwich 6 fl oz package                  $2.33          $0.59          74.7%     
 Cocoa classics raspberry chocolate cocoa mix 1.25 oz                                     $0.68          $0.36          47.1%     
 Cocoa Classics caramel chocolate cocoa mix 1.25 oz                                       $0.68          $0.36          47.1%     
-DARK CHOCOLATE                                                                           $0.68          $0.36          47.1%     
 White Seedless Grapes                                                                    $1.98          $0.99        50.0% ***   
 Red Seedless Grapes                                                                      $1.98          $0.99        50.0% ***   
 Black Seedless Grapes                                                                    $1.98          $0.99        50.0% ***   
-General Mills Lucky Charms Gluten-free Marshmallow Oat Cereal 10.5 oz box                $3.13          $1.04          66.8%     
 General Mills Cinnamon Toast Crunch Cereal 12 oz box                                     $3.13          $1.04          66.8%     
+General Mills Lucky Charms Gluten-free Marshmallow Oat Cereal 10.5 oz box                $3.13          $1.04          66.8%     
 General Mills Reese's Sweet & Crunchy Peanut Butter Corn Puffs Cereal 11.5 oz box        $3.13          $1.04          66.8%     
 Arm & Hammer Fresh and Soft Tropical Burst Fabric Softener Sheets 100 ct box             $2.69          $1.19          55.8%     
 Betty Crocker Fruit by the Foot Berry Tie-Dye Fruit Flavored Snacks 4.5 oz box           $2.72          $1.23          54.8%     
@@ -21,9 +21,9 @@ General Mills Cheerios Gluten-free Whole Grain Oat Honey Nut Corn Cereal 10.8 oz
 Nature Valley Sweet & Salty Nut Peanut Chewy Granola Bars 1.2 oz package 6 ct            $2.72          $1.39          48.9%     
 Nature Valley Crunchy Oats and Honey Granola Bars 1.49 oz package 6 ct                   $2.72          $1.39          48.9%     
 Nature Valley Sweet & Salty Nut Almond Chewy Granola Bars 1.2 oz package 6 ct            $2.72          $1.39          48.9%     
-Nature Valley Crunchy Peanut Butter Granola Bars 1.49 oz package 6 ct                    $2.72          $1.39          48.9%     
 Nature Valley Fruit and Nut Chewy Trail Mix Granola Bars 6 ct 1.2 oz box                 $2.72          $1.39          48.9%     
 Nature Valley Sweet & Salty Nut Cashews Chewy Granola Bars 1.2 oz package 6 ct           $2.72          $1.39          48.9%     
+Nature Valley Crunchy Peanut Butter Granola Bars 1.49 oz package 6 ct                    $2.72          $1.39          48.9%     
 Home Base 30 gal Flap Top Trash Bags 20 ct                                               $3.02          $1.50          50.3%     
 Del Monte SunFresh No Sugar Added Red Grapefruit in Artificially Sweetened Water 19.     $2.99          $1.59        46.8% ***   
 Del Monte SunFresh Red Grapefruit in Extra Light Syrup 20 oz glass jar                   $2.99          $1.59        46.8% ***   
@@ -57,7 +57,5 @@ Truwell Kids Strawberry Dentiwash 11.65 oz                                      
 Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
 UNDERWEAR PERIOD BRIEF XL                                                                $9.64          $4.96          48.5%     
 COCOA MIX HERSHEY MILK CHOCOLATE                                                         $5.55          $2.80          49.5%     
-Fresca Grapefruit Citrus Sparkling Soda Water, 12 fl oz, 12 Pack                         $7.49          $2.99          60.1%     
-Sprite Zero Soda Lemon-Lime - 12-12 Fl. Oz.                                              $7.49          $2.99          60.1%     
 
 Elapsed Time: N/A
