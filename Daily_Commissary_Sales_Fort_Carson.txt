@@ -1,4 +1,4 @@
-2026-08-13
+2026-08-14
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Sprite + Tea Bottle, 20 fl oz                                                            $2.00          $0.25          87.5%     
@@ -38,7 +38,7 @@ I Can't Belive It's Not Butter! Light 25% Vegetable Oil Spread 15 oz tub        
 I Can't Belive It's Not Butter! Original 45% Vegetable Oil Spread 15 oz tub              $3.59          $1.79          50.0%     
 Del Monte SunFresh Mandarin Oranges in Extra Light Syrup 24 oz glass jar                 $3.58          $1.92          46.4%     
 Hormel Black Label Original Fully Cooked Smoked Bacon Slices 10 ct 2.52 oz box           $3.73          $1.96          47.5%     
-Kelloggs Corn Flakes 9.6 Oz                                                              $3.69          $1.99        46.1% ***   
+Kelloggs Corn Flakes 9.6 Oz                                                              $3.69          $1.99          46.1%     
 Rubbermaid take alongs medium bowls 3 ea                                                 $3.95          $2.09          47.1%     
 Arm&Hammer Fabric Scent Booster Maui Sunset                                              $4.39          $2.39          45.6%     
 Arm&Hammer Fabric Scent Booster Maui Sunset                                              $4.39          $2.39          45.6%     
@@ -46,15 +46,14 @@ Rubbermaid Take Alongs Serving Bowls 15.7 oz 4 ct package                       
 Domino Organic Raw Cane Sugar 24 oz bag                                                  $2.79          $1.39          50.2%     
 Rubbermaid Take Alongs Meal Prep Containers 5 ct                                         $5.35          $2.83          47.1%     
 Diet Coke Diet Soda Soft Drink Fridge Pack, 7.5 fl oz Mini Cans, 10 Pack                 $6.60          $2.99          54.7%     
-Dr Pepper soda blackberry 12 pk                                                          $7.49          $2.99          60.1%     
 Newmans Own Peanut Butter Biscuits Dog Treat 10 Oz                                       $3.39          $1.79          47.2%     
 Nestle Rich Milk Chocolate Flavor Hot Cocoa Drink Mix 27.7 oz canister                   $6.79          $3.40          49.9%     
-Kellogg's Special K Original Rice Cereal 9.6 oz                                          $3.69          $1.99        46.1% ***   
+Kellogg's Special K Original Rice Cereal 9.6 oz                                          $3.69          $1.99          46.1%     
 Horizon Organic Low Fat Milk 8 fl oz box 6 pack                                          $7.64          $3.86          49.5%     
 Truwell Kids Strawberry Dentiwash 11.65 oz                                               $8.23          $4.23          48.6%     
 Truwell Adult Dentiwash 11.65 oz                                                         $8.23          $4.23          48.6%     
-CLEANER PROBIOTIC MLTI PURPOSE                                                           $4.76          $2.23        53.2% ***   
+CLEANER PROBIOTIC MLTI PURPOSE                                                           $4.76          $2.23          53.2%     
 UNDERWEAR PERIOD BRIEF XL                                                                $9.64          $4.96          48.5%     
-DEGREASER PROBIOTIC MLTI SRFCE                                                           $5.15          $2.81        45.4% ***   
+DEGREASER PROBIOTIC MLTI SRFCE                                                           $5.15          $2.81          45.4%     
 
 Elapsed Time: N/A
