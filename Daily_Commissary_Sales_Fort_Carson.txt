@@ -1,4 +1,4 @@
-2026-08-23
+2026-08-24
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Nestle Toll House Chocolate Chip Frozen Cookie Sandwich 6 fl oz package                  $2.33          $0.59          74.7%     
@@ -32,7 +32,7 @@ Lean Cuisine Features Steak Portabella Mushrooms in Savory Beef Sauce with Brocc
 General Mills Cheerios Gluten-free Whole Grain Oats Cereal 8.9 oz box                    $3.12          $1.61          48.4%     
 General Mills Trix Natural Classic Sweetened Corn Puffs Cereal 10.7 oz box               $3.13          $1.62          48.2%     
 Sabra dip guacamole classic 7 lb                                                         $3.25          $1.64          49.5%     
-NJ JUICE SMOOTHIE STRAW LEMON GING                                                       $3.68          $1.67        54.6% ***   
+NJ JUICE SMOOTHIE STRAW LEMON GING                                                       $3.68          $1.67          54.6%     
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
 Rubbermaid take alongs 32 oz 3 ea                                                        $3.39          $1.79          47.2%     
 Dr Pepper Diet Soda 16.9 fl oz bottle 6 pack                                             $5.78          $1.79          69.0%     
@@ -48,24 +48,24 @@ FLEX 5 TRIM AND SHAVE                                                           
 MEAL SIDES CHEESY BACON POTATOES                                                         $4.79          $2.39          50.1%     
 Bic Soleil Twilight Razor 4 ct package                                                   $5.26          $2.45          53.4%     
 Bic Soleil Women's Disposable Razors 4 ct package                                        $5.26          $2.45          53.4%     
-Mountain Dew Diet Low Calorie Soda 16.9 fl oz bottle 6 pack                              $4.93          $2.50        49.3% ***   
-Pepsi Caffeine Free Diet Soda 16.9 fl oz bottle 6 pack                                   $4.93          $2.50        49.3% ***   
-SODA WILD CHERRY ZRO SGR 6PK                                                             $4.93          $2.50        49.3% ***   
-Mountain Dew Zero Sugar Soda 16.9 fl oz bottle 6 pack                                    $4.93          $2.50        49.3% ***   
-MOUNTAIN DEW SPARK 6PK BO                                                                $4.93          $2.50        49.3% ***   
-Pepsi Mango Soda 16.9 fl oz bottle 6 pack                                                $4.93          $2.50        49.3% ***   
-MOUTAIN DEW SPARK 6PK                                                                    $4.93          $2.50        49.3% ***   
-SODA PITCH BLACK LTO 6PK                                                                 $4.93          $2.50        49.3% ***   
-SUMMER FREEZE LTO 6PK                                                                    $4.93          $2.50        49.3% ***   
-Pepsi Cola 16.9 fl oz bottle 6 pack                                                      $4.93          $2.50        49.3% ***   
-Schweppes Ginger Ale Soda 16.9 oz bottle 6 ct                                            $4.93          $2.50        49.3% ***   
-SODA LEMON LIME 6PK                                                                      $4.93          $2.50        49.3% ***   
-Mountain Dew Baja Blast Tropical Lime Flavor Soda 16.9 fl oz bottle 6 pack               $4.93          $2.50        49.3% ***   
-Pepsi Wild Cherry Soda 16.9 fl oz bottle 6 pack                                          $4.93          $2.50        49.3% ***   
-Crush Orange Soda 16.9 fl oz bottle 6 pack                                               $4.93          $2.50        49.3% ***   
-Pepsi Diet Cola 16.9 fl oz bottle 6 pack                                                 $4.93          $2.50        49.3% ***   
-Pepsi Zero Sugar Cola 16 oz bottle                                                       $4.93          $2.50        49.3% ***   
-Mountain Dew Citrus Soda 16.9 fl oz bottle 6 pack                                        $4.93          $2.50        49.3% ***   
+Mountain Dew Diet Low Calorie Soda 16.9 fl oz bottle 6 pack                              $4.93          $2.50          49.3%     
+Pepsi Caffeine Free Diet Soda 16.9 fl oz bottle 6 pack                                   $4.93          $2.50          49.3%     
+SODA WILD CHERRY ZRO SGR 6PK                                                             $4.93          $2.50          49.3%     
+Mountain Dew Zero Sugar Soda 16.9 fl oz bottle 6 pack                                    $4.93          $2.50          49.3%     
+MOUNTAIN DEW SPARK 6PK BO                                                                $4.93          $2.50          49.3%     
+Pepsi Mango Soda 16.9 fl oz bottle 6 pack                                                $4.93          $2.50          49.3%     
+MOUTAIN DEW SPARK 6PK                                                                    $4.93          $2.50          49.3%     
+SODA PITCH BLACK LTO 6PK                                                                 $4.93          $2.50          49.3%     
+SUMMER FREEZE LTO 6PK                                                                    $4.93          $2.50          49.3%     
+Pepsi Cola 16.9 fl oz bottle 6 pack                                                      $4.93          $2.50          49.3%     
+Schweppes Ginger Ale Soda 16.9 oz bottle 6 ct                                            $4.93          $2.50          49.3%     
+SODA LEMON LIME 6PK                                                                      $4.93          $2.50          49.3%     
+Mountain Dew Baja Blast Tropical Lime Flavor Soda 16.9 fl oz bottle 6 pack               $4.93          $2.50          49.3%     
+Pepsi Wild Cherry Soda 16.9 fl oz bottle 6 pack                                          $4.93          $2.50          49.3%     
+Crush Orange Soda 16.9 fl oz bottle 6 pack                                               $4.93          $2.50          49.3%     
+Pepsi Diet Cola 16.9 fl oz bottle 6 pack                                                 $4.93          $2.50          49.3%     
+Pepsi Zero Sugar Cola 16 oz bottle                                                       $4.93          $2.50          49.3%     
+Mountain Dew Citrus Soda 16.9 fl oz bottle 6 pack                                        $4.93          $2.50          49.3%     
 Rubbermaid Take Alongs Serving Bowls 15.7 oz 4 ct package                                $5.39          $2.69          50.1%     
 Rubbermaid Take Alongs Large Rectangle Food Storage Containers 2 ct package              $5.39          $2.69          50.1%     
 Rubbermaid Take Along Containers 2 Ct                                                    $5.39          $2.69          50.1%     
