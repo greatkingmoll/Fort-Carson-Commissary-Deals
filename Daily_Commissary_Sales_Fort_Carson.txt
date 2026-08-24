@@ -2,9 +2,6 @@
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Nestle Toll House Chocolate Chip Frozen Cookie Sandwich 6 fl oz package                  $2.33          $0.59          74.7%     
-General Mills Reese's Sweet & Crunchy Peanut Butter Corn Puffs Cereal 11.5 oz box        $3.13          $1.04          66.8%     
-General Mills Cinnamon Toast Crunch Cereal 12 oz box                                     $3.13          $1.04          66.8%     
-General Mills Lucky Charms Gluten-free Marshmallow Oat Cereal 10.5 oz box                $3.13          $1.04          66.8%     
 RIDGE RUSH SODA                                                                          $2.29          $1.16          49.3%     
 CLASSIC ROOT BEER SODA                                                                   $2.29          $1.16          49.3%     
 CREAM SODA                                                                               $2.29          $1.16          49.3%     
@@ -13,7 +10,6 @@ STRAWBERRY VANILLA SODA                                                         
 CRISP APPLE SODA                                                                         $2.29          $1.16          49.3%     
 CLASSIC GRAPE SODA                                                                       $2.29          $1.16          49.3%     
 Stouffer's Spinach Souffle Frozen Meal 12 oz box                                         $2.43          $1.19          51.0%     
-General Mills Cheerios Gluten-free Whole Grain Oat Honey Nut Corn Cereal 10.8 oz box     $3.45          $1.36          60.6%     
 Freedom's Choice Hot Dog Buns 11 Oz                                                      $1.38          $0.50          63.8%     
 Stouffer's Classics Stuffed Pepper Frozen Meal 10 oz box                                 $2.84          $1.39          51.1%     
 Stouffer's Turkey tetrazzini casserole 12 oz                                             $2.84          $1.39          51.1%     
@@ -29,48 +25,31 @@ Home Base 30 gal Flap Top Trash Bags 20 ct                                      
 Del Monte SunFresh No Sugar Added Red Grapefruit in Artificially Sweetened Water 19.     $2.99          $1.59          46.8%     
 Del Monte SunFresh Red Grapefruit in Extra Light Syrup 20 oz glass jar                   $2.99          $1.59          46.8%     
 Lean Cuisine Features Steak Portabella Mushrooms in Savory Beef Sauce with Broccoli      $3.29          $1.59          51.7%     
-General Mills Cheerios Gluten-free Whole Grain Oats Cereal 8.9 oz box                    $3.12          $1.61          48.4%     
-General Mills Trix Natural Classic Sweetened Corn Puffs Cereal 10.7 oz box               $3.13          $1.62          48.2%     
 Sabra dip guacamole classic 7 lb                                                         $3.25          $1.64          49.5%     
 NJ JUICE SMOOTHIE STRAW LEMON GING                                                       $3.68          $1.67          54.6%     
+Rubbermaid take alongs 32 oz 3 ea                                                        $3.39          $1.69          50.1%     
 MEAL SS MELTFULLS GRILLED CHICKEN PARMESAN                                               $3.52          $1.75          50.3%     
-Rubbermaid take alongs 32 oz 3 ea                                                        $3.39          $1.79          47.2%     
 Dr Pepper Diet Soda 16.9 fl oz bottle 6 pack                                             $5.78          $1.79          69.0%     
 Coca-Cola Zero Sugar Cherry Diet Soda Soft Drink, 16.9 fl oz, 6 Pack                     $5.78          $1.79          69.0%     
 Rubbermaid Take Alongs Deep Square Containers 4 ct package                               $3.49          $1.79          48.7%     
 Coca-Cola Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                                    $5.78          $1.79          69.0%     
-I Can't Belive It's Not Butter! Light 25% Vegetable Oil Spread 15 oz tub                 $3.59          $1.79          50.0%     
-I Can't Belive It's Not Butter! Original 45% Vegetable Oil Spread 15 oz tub              $3.59          $1.79          50.0%     
 Del Monte SunFresh Mandarin Oranges in Extra Light Syrup 24 oz glass jar                 $3.58          $1.92          46.4%     
-Rubbermaid take alongs medium bowls 3 ea                                                 $3.95          $2.09          47.1%     
+Rubbermaid take alongs medium bowls 3 ea                                                 $3.95          $1.97          50.1%     
+Kelloggs cereal raisin bran crunch 15.4 oz                                               $3.69          $1.99          46.1%     
+Kelloggs cereal frosted mini wheats 16 fl oz                                             $3.69          $1.99          46.1%     
+Kellogg's Special K Fruit & Yogurt Cereal 12.6 oz                                        $3.69          $1.99          46.1%     
+Kellogg's Special K Red Berries Cereal 11.4 oz                                           $3.69          $1.99          46.1%     
+Kelloggs cereal raisin bran 16.1 oz                                                      $3.69          $1.99          46.1%     
 Jennieo Turkey Breast                                                                    $4.43          $2.22          49.9%     
 FLEX 5 TRIM AND SHAVE                                                                    $5.37          $2.37          55.9%     
 MEAL SIDES CHEESY BACON POTATOES                                                         $4.79          $2.39          50.1%     
 Bic Soleil Twilight Razor 4 ct package                                                   $5.26          $2.45          53.4%     
 Bic Soleil Women's Disposable Razors 4 ct package                                        $5.26          $2.45          53.4%     
-Mountain Dew Diet Low Calorie Soda 16.9 fl oz bottle 6 pack                              $4.93          $2.50          49.3%     
-Pepsi Caffeine Free Diet Soda 16.9 fl oz bottle 6 pack                                   $4.93          $2.50          49.3%     
-SODA WILD CHERRY ZRO SGR 6PK                                                             $4.93          $2.50          49.3%     
-Mountain Dew Zero Sugar Soda 16.9 fl oz bottle 6 pack                                    $4.93          $2.50          49.3%     
-MOUNTAIN DEW SPARK 6PK BO                                                                $4.93          $2.50          49.3%     
-Pepsi Mango Soda 16.9 fl oz bottle 6 pack                                                $4.93          $2.50          49.3%     
-MOUTAIN DEW SPARK 6PK                                                                    $4.93          $2.50          49.3%     
-SODA PITCH BLACK LTO 6PK                                                                 $4.93          $2.50          49.3%     
-SUMMER FREEZE LTO 6PK                                                                    $4.93          $2.50          49.3%     
-Pepsi Cola 16.9 fl oz bottle 6 pack                                                      $4.93          $2.50          49.3%     
-Schweppes Ginger Ale Soda 16.9 oz bottle 6 ct                                            $4.93          $2.50          49.3%     
-SODA LEMON LIME 6PK                                                                      $4.93          $2.50          49.3%     
-Mountain Dew Baja Blast Tropical Lime Flavor Soda 16.9 fl oz bottle 6 pack               $4.93          $2.50          49.3%     
-Pepsi Wild Cherry Soda 16.9 fl oz bottle 6 pack                                          $4.93          $2.50          49.3%     
-Crush Orange Soda 16.9 fl oz bottle 6 pack                                               $4.93          $2.50          49.3%     
-Pepsi Diet Cola 16.9 fl oz bottle 6 pack                                                 $4.93          $2.50          49.3%     
-Pepsi Zero Sugar Cola 16 oz bottle                                                       $4.93          $2.50          49.3%     
-Mountain Dew Citrus Soda 16.9 fl oz bottle 6 pack                                        $4.93          $2.50          49.3%     
 Rubbermaid Take Alongs Serving Bowls 15.7 oz 4 ct package                                $5.39          $2.69          50.1%     
-Rubbermaid Take Alongs Large Rectangle Food Storage Containers 2 ct package              $5.39          $2.69          50.1%     
-Rubbermaid Take Along Containers 2 Ct                                                    $5.39          $2.69          50.1%     
 Domino Organic Raw Cane Sugar 24 oz bag                                                  $2.79          $1.39          50.2%     
 Rubbermaid Take Alongs Meal Prep Containers 5 ct                                         $5.35          $2.83          47.1%     
+Rubbermaid Take Alongs Large Rectangle Food Storage Containers 2 ct package              $5.39          $2.83          47.5%     
+Rubbermaid Take Along Containers 2 Ct                                                    $5.39          $2.83          47.5%     
 BIC Flex Titanium Sensitive Razors, 3 Count                                              $6.16          $3.16          48.7%     
 Jennieo Ground Turkey Breast                                                             $6.42          $3.21          50.0%     
 Nestle Rich Milk Chocolate Flavor Hot Cocoa Drink Mix 27.7 oz canister                   $6.79          $3.40          49.9%     
