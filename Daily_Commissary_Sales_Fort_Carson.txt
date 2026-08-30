@@ -1,4 +1,4 @@
-2026-08-29
+2026-08-30
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
 Nestle Toll House Chocolate Chip Frozen Cookie Sandwich 6 fl oz package                  $2.33          $0.59          74.7%     
@@ -79,7 +79,7 @@ PORK TENDERLOIN SSND STKHOUSE                                                   
 TERIYAKI BNLS CHICKEN THIGHS                                                             $6.54          $3.04          53.5%     
 Similac 360 Total Care Milk-Based Ready to Feed Infant Formula 6 ea                      $17.25         $8.69          49.6%     
 Tyson Ground Beef Patties 80% 10 Pk 40 Oz                                                $16.63         $8.71          47.6%     
-PET DOG TREAT JERKY HLTH & WELLNS CHKN                                                   $23.69         $8.96        62.2% ***   
+PET DOG TREAT JERKY HLTH & WELLNS CHKN                                                   $23.69         $8.96          62.2%     
 Tyson Ground Beef Pork Loaf                                                              $9.32          $4.81          48.4%     
 
 Elapsed Time: N/A
