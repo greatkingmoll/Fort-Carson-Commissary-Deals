@@ -1,6 +1,8 @@
-2026-09-01
+2026-09-02
 Items discounted by 45% or more:
 Freedom's Choice Parsley Flakes Spice 0.25 oz jar                                        $0.96          $0.25          74.0%     
+Betty Crocker Super Moist Butter Pecan Cake Mix 15.25 oz box                             $1.67          $0.64        61.7% ***   
+Betty Crocker Super Moist Delights Carrot Cake Mix 15.25 oz box                          $1.67          $0.64        61.7% ***   
 Arm & Hammer Fresh Scensations Island Mist Carpet Odor Eliminator 30 oz                  $1.84          $0.84          54.3%     
 Bolthouse Farms C-BOOST Smoothie 15.2 fl oz bottle                                       $2.75          $0.89          67.6%     
 Bolthousef Juice Green Immunity 15.2 Oz Ea                                               $2.75          $0.89          67.6%     
@@ -8,6 +10,7 @@ SUPER SMOOTHIE STRAWBERRY DRAGON FRUIT                                          
 Bolthousef Juice Protein Plus Straw 15.2 Oz Ea                                           $2.75          $0.89        67.6% ***   
 Bolthouse Farms Green Goodness Fruit Smoothie 15.2 fl oz bottle                          $2.75          $0.89          67.6%     
 Bolthouse Farms Vanilla Bean Protein Plus Shake 15.2 fl oz bottle                        $2.75          $0.89          67.6%     
+Blueberry                                                                                $2.00          $0.99        50.5% ***   
 GTS juice kombucha island bliss 16 fl oz                                                 $2.99          $1.01        66.2% ***   
 GT's Enlightened Synergy Organic Gingerberry Kombucha Drink 16 fl oz bottle              $2.99          $1.01        66.2% ***   
 Suja Organic Coffee Fruit & Reishi Energy Shot 2 fl oz bottle                            $2.29          $1.16        49.3% ***   
@@ -24,6 +27,7 @@ Clean Shower Daily Shower Cleaner 32 fl oz bottle                               
 Muir Glen Organic Fire Roasted Diced Tomatoes 14.5 oz can                                $2.50          $1.32        47.2% ***   
 Stouffer's Classics Stuffed Pepper Frozen Meal 10 oz box                                 $2.84          $1.39          51.1%     
 Stouffer's Turkey tetrazzini casserole 12 oz                                             $2.84          $1.39          51.1%     
+General Mills Chex Gluten-free Corn Cereal 12 oz box                                     $3.79          $1.46        61.5% ***   
 Home Base 30 gal Flap Top Trash Bags 20 ct                                               $3.02          $1.50          50.3%     
 Del Monte SunFresh No Sugar Added Red Grapefruit in Artificially Sweetened Water 19.     $2.99          $1.59          46.8%     
 Del Monte SunFresh Red Grapefruit in Extra Light Syrup 20 oz glass jar                   $2.99          $1.59          46.8%     
@@ -35,15 +39,18 @@ DEO STICK FFC CHERRY                                                            
 DEO STICK FFC MELON                                                                      $4.47          $1.81          59.5%     
 Del Monte SunFresh Mandarin Oranges in Extra Light Syrup 24 oz glass jar                 $3.58          $1.92          46.4%     
 Rubbermaid take alongs medium bowls 3 ea                                                 $3.95          $1.97          50.1%     
+CHEERIOS GRANOLA CHOCOLATE POUCH                                                         $4.39          $2.28        48.1% ***   
+CHEERIOS GRANOLA HONEY NUT POUCH                                                         $4.39          $2.28        48.1% ***   
 Degree Men UltraClear Black and White MotionSense 48H Antiperspirant Deodorant Stick     $4.48          $2.36          47.3%     
 Degree Men Cool Rush MotionSense 48H Antiperspirant Deodorant Stick 2.7 oz tube          $4.48          $2.36          47.3%     
 Degree Shower Clean MotionSense Invisible Solid Antiperspirant Deodorant Stick 2.6 o     $4.48          $2.36          47.3%     
 FLEX 5 TRIM AND SHAVE                                                                    $5.37          $2.37          55.9%     
 MEAL SIDES CHEESY BACON POTATOES                                                         $4.79          $2.39          50.1%     
 Bic Soleil Women's Disposable Razors 4 ct package                                        $5.26          $2.45          53.4%     
-Tyson classic garlic and herb boneless pork chops 12 oz                                  $4.89          $2.45          49.9%     
 Bic Soleil Twilight Razor 4 ct package                                                   $5.26          $2.45          53.4%     
 SPORTCARE FRESH                                                                          $6.27          $2.57          59.0%     
+GRANOLA NSA APPLE CINNAMON                                                               $5.50          $2.69        51.1% ***   
+GRANOLA NSA TRIPPLE BERRY                                                                $5.50          $2.69        51.1% ***   
 Rubbermaid Take Alongs Serving Bowls 15.7 oz 4 ct package                                $5.39          $2.69          50.1%     
 WATER FRENCH KISS MANGO COCO                                                             $5.58          $2.81        49.6% ***   
 Perrier French Kiss Peach Cherry Water 66,9 Oz                                           $5.58          $2.81        49.6% ***   
@@ -56,17 +63,9 @@ ALUM FREE DEO STICK VC+NIAC EVEN TONE                                           
 Suja Organic Celery Juice Drink 46 fl oz bottle                                          $7.99          $4.04        49.4% ***   
 TEA LEMONADE RASPBERRY 6PK                                                               $4.04          $1.19          70.5%     
 TSD and Distribution Beef Ground Lean 16 oz package                                      $8.48          $4.25          49.9%     
-PORK TENDERLOIN TERIYAKI                                                                 $4.59          $2.27          50.5%     
-Tyson savory campfire pork chops 12 oz                                                   $4.89          $2.45          49.9%     
-PORK CHOPS SMOKEY CHILI BTTR                                                             $4.89          $2.45          49.9%     
 TERIYAKI CHICKEN BREAST FILETS                                                           $5.24          $2.62          50.0%     
 GARLIC HRB CHCKN BREAST FILETS                                                           $5.24          $2.62          50.0%     
 STEAKHOUSE CHCKN BREAST FILETS                                                           $5.24          $2.62          50.0%     
-PORK TENDERLOIN GARLIC HERB                                                              $5.50          $2.46          55.3%     
-BEEF STEAKS SW RANCHERO                                                                  $5.89          $2.59          56.0%     
-Tyson garlic pepper beef steaks 12 oz                                                    $5.89          $2.59          56.0%     
-STEAK BITES GARLIC BTTR                                                                  $5.89          $2.59          56.0%     
-PORK TENDERLOIN SSND STKHOUSE                                                            $5.89          $2.85          51.6%     
 TERIYAKI BNLS CHICKEN THIGHS                                                             $6.54          $3.04          53.5%     
 
 Elapsed Time: N/A
