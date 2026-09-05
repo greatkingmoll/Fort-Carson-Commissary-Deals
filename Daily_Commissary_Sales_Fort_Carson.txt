@@ -1,8 +1,8 @@
-2026-09-04
+2026-09-05
 Items discounted by 45% or more:
 Betty Crocker Super Moist Butter Pecan Cake Mix 15.25 oz box                             $1.67          $0.64          61.7%     
 Betty Crocker Super Moist Delights Carrot Cake Mix 15.25 oz box                          $1.67          $0.64          61.7%     
-Freedom's Choice Wheat Bread, 20 Oz                                                      $1.45          $0.75        48.3% ***   
+Freedom's Choice Wheat Bread, 20 Oz                                                      $1.45          $0.75          48.3%     
 Arm & Hammer Fresh Scensations Island Mist Carpet Odor Eliminator 30 oz                  $1.84          $0.84          54.3%     
 Bolthouse Farms C-BOOST Smoothie 15.2 fl oz bottle                                       $2.75          $0.89          67.6%     
 Bolthousef Juice Green Immunity 15.2 Oz Ea                                               $2.75          $0.89          67.6%     
@@ -13,7 +13,6 @@ Bolthouse Farms Vanilla Bean Protein Plus Shake 15.2 fl oz bottle               
 Blueberry                                                                                $2.00          $0.99          50.5%     
 GTS juice kombucha island bliss 16 fl oz                                                 $2.99          $1.01          66.2%     
 GT's Enlightened Synergy Organic Gingerberry Kombucha Drink 16 fl oz bottle              $2.99          $1.01          66.2%     
-Suja Organic Coffee Fruit & Reishi Energy Shot 2 fl oz bottle                            $2.29          $1.16          49.3%     
 TEA LEMONADE RASPBERRY                                                                   $1.16          $0.56          51.7%     
 RIDGE RUSH SODA                                                                          $2.29          $1.16          49.3%     
 CREAM SODA                                                                               $2.29          $1.16          49.3%     
@@ -26,8 +25,8 @@ Stouffer's Spinach Souffle Frozen Meal 12 oz box                                
 Clean Shower Daily Shower Cleaner 32 fl oz bottle                                        $2.22          $1.22          45.0%     
 Muir Glen Organic Fire Roasted Diced Tomatoes 14.5 oz can                                $2.50          $1.32          47.2%     
 Stouffer's Turkey tetrazzini casserole 12 oz                                             $2.84          $1.39          51.1%     
-Rebbl Organic Protein Dark Chocolate Drink 12 fl oz bottle                               $3.59          $1.42        60.4% ***   
-Rebbl juice protein vanilla 12 fl oz                                                     $3.59          $1.42        60.4% ***   
+Rebbl Organic Protein Dark Chocolate Drink 12 fl oz bottle                               $3.59          $1.42          60.4%     
+Rebbl juice protein vanilla 12 fl oz                                                     $3.59          $1.42          60.4%     
 Sabra ?Non-GMO Breakfast Avocado Toast Spread 2.7 oz package                             $2.88          $1.45        49.7% ***   
 General Mills Chex Gluten-free Corn Cereal 12 oz box                                     $3.79          $1.46          61.5%     
 TEA LEMONADE RASPBERRY 6PK                                                               $4.39          $1.54          64.9%     
@@ -42,9 +41,9 @@ Del Monte SunFresh Mandarin Oranges in Extra Light Syrup 24 oz glass jar        
 Rubbermaid take alongs medium bowls 3 ea                                                 $3.95          $1.97          50.1%     
 Coca Cola soda dieat coke lime 20 oz                                                     $2.00          $0.89          55.5%     
 Dr Pepper soda blackberry 20 fl oz                                                       $2.00          $0.89          55.5%     
-Sabra Pretzels Roasted Red Pepper Hummus Snackers Dip 4.56 oz cup                        $2.13          $1.08        49.3% ***   
-Sabra Pretzels Roasted Garlic Hummus Snackers Dip 4.56 oz cup                            $2.13          $1.08        49.3% ***   
-Sabra Pretzels Classic Hummus Snackers Dip 4.56 oz cup                                   $2.13          $1.08        49.3% ***   
+Sabra Pretzels Roasted Red Pepper Hummus Snackers Dip 4.56 oz cup                        $2.13          $1.08          49.3%     
+Sabra Pretzels Roasted Garlic Hummus Snackers Dip 4.56 oz cup                            $2.13          $1.08          49.3%     
+Sabra Pretzels Classic Hummus Snackers Dip 4.56 oz cup                                   $2.13          $1.08          49.3%     
 CHEERIOS GRANOLA CHOCOLATE POUCH                                                         $4.39          $2.28          48.1%     
 CHEERIOS GRANOLA HONEY NUT POUCH                                                         $4.39          $2.28          48.1%     
 Degree Men UltraClear Black and White MotionSense 48H Antiperspirant Deodorant Stick     $4.48          $2.36          47.3%     
@@ -61,6 +60,8 @@ WATER FRENCH KISS MANGO COCO                                                    
 Perrier French Kiss Peach Cherry Water 66,9 Oz                                           $5.58          $2.81          49.6%     
 Rubbermaid Take Alongs Large Rectangle Food Storage Containers 2 ct package              $5.39          $2.83          47.5%     
 Rubbermaid Take Along Containers 2 Ct                                                    $5.39          $2.83          47.5%     
+Wrigley's Orbit Wintermint Sugarfree Gum 42 ct package                                   $2.88          $1.50        47.9% ***   
+Wrigley's Eclipse Sugar Free Spearmint Chewing Gum 54 ct package                         $2.88          $1.50        47.9% ***   
 WATER SPARKLING FOREVER PEACH FLAVORED                                                   $5.98          $3.02          49.5%     
 BIC Flex Titanium Sensitive Razors, 3 Count                                              $6.16          $3.16          48.7%     
 Nestle Rich Milk Chocolate Flavor Hot Cocoa Drink Mix 27.7 oz canister                   $6.79          $3.40          49.9%     
@@ -191,10 +192,6 @@ COLA PREBIOTIC 96OZ                                                             
 Mug Caffeine Free Root Beer Soda 12 fl oz can 12 pack                                    $6.98          $3.50          49.9%     
 Cheerwine Legend Diet Soft Drink 12 fl oz can 12 pack                                    $6.98          $3.50        49.9% ***   
 ICE CREAM SUNDAE 12PK                                                                    $6.98          $3.50          49.9%     
-Suja Organic Celery Juice Drink 46 fl oz bottle                                          $7.99          $4.04          49.4%     
-TSD and Distribution Beef Ground Lean 16 oz package                                      $8.48          $4.25          49.9%     
-TERIYAKI CHICKEN BREAST FILETS                                                           $5.24          $2.62          50.0%     
-GARLIC HRB CHCKN BREAST FILETS                                                           $5.24          $2.62          50.0%     
-STEAKHOUSE CHCKN BREAST FILETS                                                           $5.24          $2.62          50.0%     
+CANDY MINIS ORGINAL SHARING                                                              $4.98          $2.53        49.2% ***   
 
 Elapsed Time: N/A
