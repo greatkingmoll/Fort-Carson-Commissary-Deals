@@ -1,5 +1,7 @@
 2026-09-16
 Items discounted by 45% or more:
+Sprite Bottles, 16.9 fl oz, 6 Pack                                                       $5.78          $0.33          94.3%     
+Coca-Cola Zero Sugar Cherry Diet Soda Soft Drink, 16.9 fl oz, 6 Pack                     $5.78          $0.33          94.3%     
 Sprite Caffeine-free Tropical Mix Soda 20 fl oz bottle                                   $2.00          $0.50          75.0%     
 Coca Cola soda dieat coke lime 20 oz                                                     $2.00          $0.50          75.0%     
 Dr Pepper soda blackberry 20 fl oz                                                       $2.00          $0.50          75.0%     
@@ -17,6 +19,10 @@ TEA LEMONADE RASPBERRY                                                          
 Clean Shower Daily Shower Cleaner 32 fl oz bottle                                        $2.22          $1.22          45.0%     
 Muir Glen Organic Fire Roasted Diced Tomatoes 14.5 oz can                                $2.50          $1.32          47.2%     
 Sabra ?Non-GMO Breakfast Avocado Toast Spread 2.7 oz package                             $2.88          $1.45          49.7%     
+Quest Protein Taco Chips 1.1 oz                                                          $2.78          $1.45        47.8% ***   
+Quest Protein Hot and Spicy Chips 1.1OZ                                                  $2.78          $1.45        47.8% ***   
+Quest Tortilla Style Chili Lime Flavor Protein Chips 1.1 Ounce                           $2.78          $1.45        47.8% ***   
+Quest Protein Nacho Cheese Chips                                                         $2.78          $1.45        47.8% ***   
 General Mills Chex Gluten-free Corn Cereal 12 oz box                                     $3.79          $1.46          61.5%     
 TEA LEMONADE RASPBERRY 6PK                                                               $4.39          $1.54          64.9%     
 Del Monte SunFresh No Sugar Added Red Grapefruit in Artificially Sweetened Water 19.     $2.99          $1.59          46.8%     
@@ -27,11 +33,14 @@ Kelloggs Corn Flakes 9.6 Oz                                                     
 DEO STICK FFC CHERRY                                                                     $4.47          $1.81          59.5%     
 DEO STICK FFC MELON                                                                      $4.47          $1.81          59.5%     
 Del Monte SunFresh Mandarin Oranges in Extra Light Syrup 24 oz glass jar                 $3.58          $1.92          46.4%     
+Philadelphia Lemon Cream Cheese Frosting 16 Oz                                           $3.75          $2.00        46.7% ***   
+HILLSHIRE FARM Beef Smoked Sausage, 6 Links, 12 oz                                       $4.09          $2.03        50.4% ***   
 Sabra Pretzels Roasted Red Pepper Hummus Snackers Dip 4.56 oz cup                        $2.13          $1.08          49.3%     
 Sabra Pretzels Roasted Garlic Hummus Snackers Dip 4.56 oz cup                            $2.13          $1.08          49.3%     
 Sabra Pretzels Classic Hummus Snackers Dip 4.56 oz cup                                   $2.13          $1.08          49.3%     
 CHEERIOS GRANOLA CHOCOLATE POUCH                                                         $4.39          $2.28          48.1%     
 CHEERIOS GRANOLA HONEY NUT POUCH                                                         $4.39          $2.28          48.1%     
+Welchs Fiber 100 % Concord Grape Juice 64 fl oz bottle                                   $4.45          $2.35          47.2%     
 Degree Men UltraClear Black and White MotionSense 48H Antiperspirant Deodorant Stick     $4.48          $2.36          47.3%     
 Degree Men Cool Rush MotionSense 48H Antiperspirant Deodorant Stick 2.7 oz tube          $4.48          $2.36          47.3%     
 Degree Shower Clean MotionSense Invisible Solid Antiperspirant Deodorant Stick 2.6 o     $4.48          $2.36          47.3%     
@@ -40,7 +49,9 @@ Bic Soleil Women's Disposable Razors 4 ct package                               
 Bic Soleil Twilight Razor 4 ct package                                                   $5.26          $2.45          53.4%     
 SPORTCARE FRESH                                                                          $6.27          $2.57          59.0%     
 BASE VEGETABLE FLAVOR                                                                    $5.00          $2.59        48.2% ***   
+Jimmy Dean Burrito Breakfast Sausage 17 Oz                                               $5.36          $2.59        51.7% ***   
 General Mills Reese's Family Size Sweet & Crunchy Peanut Butter Corn Puffs Cereal 16     $4.79          $2.59          45.9%     
+Jimmy Dean Burrito Breakfast Meat Lovers 17 Oz                                           $5.36          $2.59        51.7% ***   
 General Mills Cheerios Large Size Gluten-free Honey Nut Whole Grain Oats Cereal 15.4     $4.79          $2.59          45.9%     
 General Mills Lucky Charms Large Size Gluten-free Marshmallow Oat Cereal 14.9 oz box     $4.79          $2.59          45.9%     
 General Mills Large Size Cinnamon Toast Crunch Cereal 16.8 oz box                        $4.79          $2.59          45.9%     
@@ -52,8 +63,8 @@ CHIP MORSELS SSWEET ALLERGEN FREE                                               
 WATER SPARKLING FOREVER PEACH FLAVORED                                                   $5.98          $3.02          49.5%     
 BIC Flex Titanium Sensitive Razors, 3 Count                                              $6.16          $3.16          48.7%     
 Nestle Rich Milk Chocolate Flavor Hot Cocoa Drink Mix 27.7 oz canister                   $6.79          $3.40          49.9%     
-Philadelphia Lemon Cream Cheese Frosting 16 Oz                                           $3.75          $2.00        46.7% ***   
-HILLSHIRE FARM Beef Smoked Sausage, 6 Links, 12 oz                                       $4.09          $2.03        50.4% ***   
+Hillshire Farm Ultra Thin Sliced Honey Ham Sandwich Meat 22 oz                           $7.68          $3.72        51.6% ***   
+Hillshire farm oven roasted turkey breast 22 oz                                          $7.68          $3.72        51.6% ***   
 Dr Pepper Cream Soda 12 fl oz can 12 pack                                                $7.49          $4.00          46.6%     
 Dr Pepper Zero Soda 12 ct                                                                $7.49          $4.00          46.6%     
 Dr Pepper Zero Cherry Soda 12 ct                                                         $7.49          $4.00          46.6%     
@@ -69,9 +80,5 @@ SODA ZERO SUGAR CREAMY COCONUT 12PK                                             
 Dr Pepper soda strawberry and cream 12 pk                                                $7.49          $4.00          46.6%     
 Dr Pepper soda blackberry zero sugar 12 pk                                               $7.49          $4.00          46.6%     
 FRUIT COCKTAIL ECOMM                                                                     $8.00          $4.17        47.9% ***   
-Jimmy Dean Burrito Breakfast Sausage 17 Oz                                               $5.36          $2.59        51.7% ***   
-Jimmy Dean Burrito Breakfast Meat Lovers 17 Oz                                           $5.36          $2.59        51.7% ***   
-Hillshire Farm Ultra Thin Sliced Honey Ham Sandwich Meat 22 oz                           $7.68          $3.72        51.6% ***   
-Hillshire farm oven roasted turkey breast 22 oz                                          $7.68          $3.72        51.6% ***   
 
 Elapsed Time: N/A
