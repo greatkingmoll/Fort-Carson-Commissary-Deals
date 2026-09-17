@@ -1,7 +1,5 @@
 2026-09-17
 Items discounted by 45% or more:
-Sprite Bottles, 16.9 fl oz, 6 Pack                                                       $5.78          $0.33          94.3%     
-Coca-Cola Zero Sugar Cherry Diet Soda Soft Drink, 16.9 fl oz, 6 Pack                     $5.78          $0.33          94.3%     
 Sprite Caffeine-free Tropical Mix Soda 20 fl oz bottle                                   $2.00          $0.50          75.0%     
 Coca Cola soda dieat coke lime 20 oz                                                     $2.00          $0.50          75.0%     
 Dr Pepper soda blackberry 20 fl oz                                                       $2.00          $0.50          75.0%     
@@ -30,6 +28,7 @@ Del Monte SunFresh Red Grapefruit in Extra Light Syrup 20 oz glass jar          
 Kellogg's Special K Original Rice Cereal 9.6 oz                                          $3.69          $1.69          54.2%     
 Kelloggs Corn Flakes 9.6 Oz                                                              $3.69          $1.69          54.2%     
 Kellogg's Special K Red Berries Cereal 11.4 oz                                           $3.69          $1.69          54.2%     
+Newmans Own Peanut Butter Biscuits Dog Treat 10 Oz                                       $3.39          $1.79          47.2%     
 DEO STICK FFC CHERRY                                                                     $4.47          $1.81          59.5%     
 DEO STICK FFC MELON                                                                      $4.47          $1.81          59.5%     
 Del Monte SunFresh Mandarin Oranges in Extra Light Syrup 24 oz glass jar                 $3.58          $1.92          46.4%     
@@ -40,8 +39,6 @@ Sabra Pretzels Roasted Garlic Hummus Snackers Dip 4.56 oz cup                   
 Sabra Pretzels Classic Hummus Snackers Dip 4.56 oz cup                                   $2.13          $1.08          49.3%     
 CHEERIOS GRANOLA CHOCOLATE POUCH                                                         $4.39          $2.28          48.1%     
 CHEERIOS GRANOLA HONEY NUT POUCH                                                         $4.39          $2.28          48.1%     
-Welchs Fiber 100 % Concord Grape Juice 64 fl oz bottle                                   $4.45          $2.35          47.2%     
-Degree Men UltraClear Black and White MotionSense 48H Antiperspirant Deodorant Stick     $4.48          $2.36          47.3%     
 Degree Men Cool Rush MotionSense 48H Antiperspirant Deodorant Stick 2.7 oz tube          $4.48          $2.36          47.3%     
 Degree Shower Clean MotionSense Invisible Solid Antiperspirant Deodorant Stick 2.6 o     $4.48          $2.36          47.3%     
 FLEX 5 TRIM AND SHAVE                                                                    $5.37          $2.37          55.9%     
@@ -57,10 +54,7 @@ General Mills Reese's Family Size Sweet & Crunchy Peanut Butter Corn Puffs Cerea
 General Mills Lucky Charms Large Size Gluten-free Marshmallow Oat Cereal 14.9 oz box     $4.79          $2.59          45.9%     
 GRANOLA NSA APPLE CINNAMON                                                               $5.50          $2.69          51.1%     
 GRANOLA NSA TRIPPLE BERRY                                                                $5.50          $2.69          51.1%     
-WATER FRENCH KISS MANGO COCO                                                             $5.58          $2.81          49.6%     
-Perrier French Kiss Peach Cherry Water 66,9 Oz                                           $5.58          $2.81          49.6%     
 CHIP MORSELS SSWEET ALLERGEN FREE                                                        $6.42          $2.98        53.6% ***   
-WATER SPARKLING FOREVER PEACH FLAVORED                                                   $5.98          $3.02          49.5%     
 BIC Flex Titanium Sensitive Razors, 3 Count                                              $6.16          $3.16          48.7%     
 Nestle Rich Milk Chocolate Flavor Hot Cocoa Drink Mix 27.7 oz canister                   $6.79          $3.40          49.9%     
 Hillshire Farm Ultra Thin Sliced Honey Ham Sandwich Meat 22 oz                           $7.68          $3.72        51.6% ***   
@@ -80,5 +74,11 @@ Dr Pepper Zero Cream Soda 12 ct                                                 
 SODA ZERO SUGAR CREAMY COCONUT 12PK                                                      $7.49          $4.00          46.6%     
 Dr Pepper soda blackberry 12 pk                                                          $7.49          $4.00          46.6%     
 FRUIT COCKTAIL ECOMM                                                                     $8.00          $4.17        47.9% ***   
+WATER FRENCH KISS MANGO COCO                                                             $5.58          $2.81          49.6%     
+Perrier French Kiss Peach Cherry Water 66,9 Oz                                           $5.58          $2.81          49.6%     
+Diet Coke Diet Soda Soft Drink, 16.9 fl oz Bottles, 6 Pack                               $5.78          $1.99          65.6%     
+Sprite Bottles, 16.9 fl oz, 6 Pack                                                       $5.78          $1.99          65.6%     
+Coca-Cola Zero Sugar Cherry Diet Soda Soft Drink, 16.9 fl oz, 6 Pack                     $5.78          $1.99          65.6%     
+WATER SPARKLING FOREVER PEACH FLAVORED                                                   $5.98          $3.02          49.5%     
 
 Elapsed Time: N/A
