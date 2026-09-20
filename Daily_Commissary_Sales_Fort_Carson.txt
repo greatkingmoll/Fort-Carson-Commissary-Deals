@@ -1,4 +1,4 @@
-2026-09-19
+2026-09-20
 Items discounted by 45% or more:
 Sprite Caffeine-free Tropical Mix Soda 20 fl oz bottle                                   $2.00          $0.50          75.0%     
 Coca Cola soda dieat coke lime 20 oz                                                     $2.00          $0.50          75.0%     
@@ -12,7 +12,7 @@ NOS energy drink zero sugar 16 fl oz                                            
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can                          $1.89          $0.99          47.6%     
 DRINK ENERGY RED APPLE                                                                   $1.89          $0.99          47.6%     
 DRINK ENERGY GRAND PRIX GUAVA                                                            $1.89          $0.99          47.6%     
-Freedom's Choice Orange Tangerine Fruit Punch Concentrate 1.62 oz bottle                 $2.24          $0.99        55.8% ***   
+Freedom's Choice Orange Tangerine Fruit Punch Concentrate 1.62 oz bottle                 $2.24          $0.99          55.8%     
 Full Throttle Citrus Energy Drink 16 fl oz can                                           $1.90          $0.99          47.9%     
 TEA LEMONADE RASPBERRY                                                                   $1.16          $0.56          51.7%     
 Clean Shower Daily Shower Cleaner 32 fl oz bottle                                        $2.22          $1.22          45.0%     
@@ -36,7 +36,6 @@ HILLSHIRE FARM Beef Smoked Sausage, 6 Links, 12 oz                              
 CHEERIOS GRANOLA CHOCOLATE POUCH                                                         $4.39          $2.28          48.1%     
 CHEERIOS GRANOLA HONEY NUT POUCH                                                         $4.39          $2.28          48.1%     
 Degree Men Cool Rush MotionSense 48H Antiperspirant Deodorant Stick 2.7 oz tube          $4.48          $2.36          47.3%     
-Degree Shower Clean MotionSense Invisible Solid Antiperspirant Deodorant Stick 2.6 o     $4.48          $2.36          47.3%     
 FLEX 5 TRIM AND SHAVE                                                                    $5.37          $2.37          55.9%     
 Bic Soleil Women's Disposable Razors 4 ct package                                        $5.26          $2.45          53.4%     
 Bic Soleil Twilight Razor 4 ct package                                                   $5.26          $2.45          53.4%     
