@@ -1,7 +1,7 @@
-2026-10-02
+2026-10-03
 Items discounted by 45% or more:
-Fleischmann's Pizza Crust Yeast 3 ct package                                             $1.22          $0.57        53.3% ***   
-Betty Crocker Gluten-free Rich & Creamy Coconut Pecan Frosting 15.5 oz tub               $2.12          $0.94        55.7% ***   
+Fleischmann's Pizza Crust Yeast 3 ct package                                             $1.22          $0.57          53.3%     
+Betty Crocker Gluten-free Rich & Creamy Coconut Pecan Frosting 15.5 oz tub               $2.12          $0.94          55.7%     
 Betty Crocker Oreo Whipped Frosting Creme 13.6 oz                                        $2.12          $0.94          55.7%     
 Progresso Italian Style Bread Crumbs 15 oz tub                                           $2.28          $1.10          51.8%     
 Progresso Garlic & Herb Bread Crumbs 15 oz tub                                           $2.28          $1.10          51.8%     
@@ -14,8 +14,8 @@ Quest Protein Nacho Cheese Chips                                                
 Quest Protein Taco Chips 1.1 oz                                                          $2.78          $1.45          47.8%     
 Quest Protein Hot and Spicy Chips 1.1OZ                                                  $2.78          $1.45          47.8%     
 Quest Tortilla Style Chili Lime Flavor Protein Chips 1.1 Ounce                           $2.78          $1.45          47.8%     
-General Mills Chex Wheat Cereal 14 oz box                                                $3.79          $1.61        57.5% ***   
-General Mills Chex Gluten-free Rice Cereal 12 oz box                                     $3.79          $1.61        57.5% ***   
+General Mills Chex Wheat Cereal 14 oz box                                                $3.79          $1.61          57.5%     
+General Mills Chex Gluten-free Rice Cereal 12 oz box                                     $3.79          $1.61          57.5%     
 General Mills Chex Gluten-free Corn Cereal 12 oz box                                     $3.79          $1.61          57.5%     
 Violife Just like Cream Cheese 100 % Dairy Free 8 Oz                                     $3.49          $1.75          50.0%     
 Rubbermaid take alongs 32 oz 3 ea                                                        $3.39          $1.79          47.2%     
@@ -42,8 +42,8 @@ BIC Flex Titanium Sensitive Razors, 3 Count                                     
 Violife Cheese Substitute Cream Original 7.05 Oz                                         $3.49          $1.75          50.0%     
 Frank's RedHot Buffalo Wings Sauce 12 fl oz bottle                                       $3.50          $1.15          67.1%     
 Violife Cheese Substitute Vegan Smoked Provolone Slice 7.05 Oz                           $3.69          $1.84          50.0%     
-Pure Harmony Chicken & Rice Recipe Dry Dog Food 3.5 lb                                   $8.49          $4.25        49.9% ***   
-Pure Harmony Grain Free Pet Senior Dry Dog Food                                          $9.68          $4.84        50.0% ***   
+Pure Harmony Chicken & Rice Recipe Dry Dog Food 3.5 lb                                   $8.49          $4.25          49.9%     
+Pure Harmony Grain Free Pet Senior Dry Dog Food                                          $9.68          $4.84          50.0%     
 Diet Coke Lime Soda Soft Drink Fridge Pack Cans, 12 fl oz, 12 Pack                       $7.49          $4.00        46.6% ***   
 Purina Dog Chow Complete Adult Beef Flavor 18.5 Lb                                       $15.17         $7.59          50.0%     
 
