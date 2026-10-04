@@ -1,4 +1,4 @@
-2026-10-03
+2026-10-04
 Items discounted by 45% or more:
 Fleischmann's Pizza Crust Yeast 3 ct package                                             $1.22          $0.57          53.3%     
 Betty Crocker Gluten-free Rich & Creamy Coconut Pecan Frosting 15.5 oz tub               $2.12          $0.94          55.7%     
@@ -26,13 +26,13 @@ Violife Cheese Substitute Cheddar Slices 7.05 Oz                                
 Rubbermaid Take Alongs Deep Square Containers 4 ct package                               $3.49          $1.89          45.8%     
 Philadelphia Lemon Cream Cheese Frosting 16 Oz                                           $3.75          $2.00          46.7%     
 Coca Cola soda dieat coke lime 20 oz                                                     $2.00          $0.79          60.5%     
-Suja Organic Ginger & Probiotics Digestion Shot 2 fl oz bottle                           $2.29          $1.16        49.3% ***   
+Suja Organic Ginger & Probiotics Digestion Shot 2 fl oz bottle                           $2.29          $1.16          49.3%     
 FLEX 5 TRIM AND SHAVE                                                                    $5.37          $2.37          55.9%     
 Bic Soleil Twilight Razor 4 ct package                                                   $5.26          $2.45          53.4%     
 Bic Soleil Women's Disposable Razors 4 ct package                                        $5.26          $2.45          53.4%     
 Lawry's Natural Flavors Steak & Chop 30 Minute Marinade 12 fl oz bottle                  $2.55          $0.56          78.0%     
-Lawry's Natural Flavors Teriyaki 30 Minute Marinade 12 fl oz bottle                      $2.55          $0.64        74.9% ***   
-Lawry's Natural Flavors Herb & Garlic 30 Minute Marinade 12 fl oz bottle                 $2.55          $0.64        74.9% ***   
+Lawry's Natural Flavors Teriyaki 30 Minute Marinade 12 fl oz bottle                      $2.55          $0.64          74.9%     
+Lawry's Natural Flavors Herb & Garlic 30 Minute Marinade 12 fl oz bottle                 $2.55          $0.64          74.9%     
 BASE VEGETABLE FLAVOR                                                                    $5.00          $2.59          48.2%     
 General Mills Reese's Family Size Sweet & Crunchy Peanut Butter Corn Puffs Cereal 16     $4.79          $2.59          45.9%     
 General Mills Large Size Cinnamon Toast Crunch Cereal 16.8 oz box                        $4.79          $2.59          45.9%     
@@ -45,7 +45,7 @@ Frank's RedHot Buffalo Wings Sauce 12 fl oz bottle                              
 Violife Cheese Substitute Vegan Smoked Provolone Slice 7.05 Oz                           $3.69          $1.84          50.0%     
 Pure Harmony Chicken & Rice Recipe Dry Dog Food 3.5 lb                                   $8.49          $4.25          49.9%     
 Pure Harmony Grain Free Pet Senior Dry Dog Food                                          $9.68          $4.84          50.0%     
-Diet Coke Lime Soda Soft Drink Fridge Pack Cans, 12 fl oz, 12 Pack                       $7.49          $4.00        46.6% ***   
+Diet Coke Lime Soda Soft Drink Fridge Pack Cans, 12 fl oz, 12 Pack                       $7.49          $4.00          46.6%     
 Purina Dog Chow Complete Adult Beef Flavor 18.5 Lb                                       $15.17         $7.59          50.0%     
 
 Elapsed Time: N/A
