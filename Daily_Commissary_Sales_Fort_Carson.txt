@@ -1,4 +1,4 @@
-2026-10-06
+2026-10-07
 Items discounted by 45% or more:
 Lawry's Natural Flavors Steak & Chop 30 Minute Marinade 12 fl oz bottle                  $2.55          $0.56          78.0%     
 Fleischmann's Pizza Crust Yeast 3 ct package                                             $1.22          $0.57          53.3%     
@@ -7,7 +7,7 @@ Betty Crocker Gluten-free Rich & Creamy Coconut Pecan Frosting 15.5 oz tub      
 Betty Crocker Oreo Whipped Frosting Creme 13.6 oz                                        $2.12          $0.94          55.7%     
 Progresso Italian Style Bread Crumbs 15 oz tub                                           $2.28          $1.10          51.8%     
 Progresso Plain Bread Crumbs 15 oz tub                                                   $2.28          $1.10          51.8%     
-Frank's RedHot Original Cayenne Pepper Sauce 12 fl oz bottle                             $3.50          $1.15        67.1% ***   
+Frank's RedHot Original Cayenne Pepper Sauce 12 fl oz bottle                             $3.50          $1.15          67.1%     
 General Mills Cocoa Puffs Frosted Corn Puffs Cereal 10.4 oz box                          $3.13          $1.26          59.7%     
 Muir Glen Organic Fire Roasted Diced Tomatoes 14.5 oz can                                $2.50          $1.32          47.2%     
 Perrier French Kiss Peach Cherry Water 66,9 Oz                                           $5.58          $1.40          74.9%     
@@ -20,6 +20,7 @@ General Mills Chex Wheat Cereal 14 oz box                                       
 General Mills Chex Gluten-free Rice Cereal 12 oz box                                     $3.79          $1.61          57.5%     
 General Mills Chex Gluten-free Corn Cereal 12 oz box                                     $3.79          $1.61          57.5%     
 Philadelphia Lemon Cream Cheese Frosting 16 Oz                                           $3.75          $2.00          46.7%     
+Chicken of the Sea Fancy Smoked Oysters in Oil 3.75 oz box                               $2.05          $1.10        46.3% ***   
 Progresso Garlic & Herb Bread Crumbs 15 oz tub                                           $2.28          $1.10          51.8%     
 Suja Organic Ginger & Probiotics Digestion Shot 2 fl oz bottle                           $2.29          $1.16          49.3%     
 FLEX 5 TRIM AND SHAVE                                                                    $5.37          $2.37          55.9%     
