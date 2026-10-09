@@ -1,4 +1,4 @@
-2026-10-08
+2026-10-09
 Items discounted by 45% or more:
 Lawry's Natural Flavors Steak & Chop 30 Minute Marinade 12 fl oz bottle                  $2.55          $0.56          78.0%     
 Fleischmann's Pizza Crust Yeast 3 ct package                                             $1.22          $0.57          53.3%     
@@ -10,6 +10,7 @@ Progresso Plain Bread Crumbs 15 oz tub                                          
 Frank's RedHot Original Cayenne Pepper Sauce 12 fl oz bottle                             $3.50          $1.15          67.1%     
 General Mills Cocoa Puffs Frosted Corn Puffs Cereal 10.4 oz box                          $3.13          $1.26          59.7%     
 Muir Glen Organic Fire Roasted Diced Tomatoes 14.5 oz can                                $2.50          $1.32          47.2%     
+Capri-Sun Tropical Punch Flavored Juice Drink Blend 6 fl oz pouch 10 pack                $2.95          $1.32        55.3% ***   
 Quest Protein Nacho Cheese Chips                                                         $2.78          $1.45          47.8%     
 Quest Protein Taco Chips 1.1 oz                                                          $2.78          $1.45          47.8%     
 Quest Protein Hot and Spicy Chips 1.1OZ                                                  $2.78          $1.45          47.8%     
@@ -18,8 +19,14 @@ GT's Enlightened Synergy Organic Gingerberry Kombucha Drink 16 fl oz bottle     
 General Mills Chex Wheat Cereal 14 oz box                                                $3.79          $1.61          57.5%     
 General Mills Chex Gluten-free Rice Cereal 12 oz box                                     $3.79          $1.61          57.5%     
 General Mills Chex Gluten-free Corn Cereal 12 oz box                                     $3.79          $1.61          57.5%     
+Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can                          $1.89          $0.99          47.6%     
+DRINK ENERGY RED APPLE                                                                   $1.89          $0.99          47.6%     
+DRINK ENERGY GRAND PRIX GUAVA                                                            $1.89          $0.99          47.6%     
+Full Throttle Citrus Energy Drink 16 fl oz can                                           $1.90          $0.99          47.9%     
+NOS energy drink zero sugar 16 fl oz                                                     $1.94          $0.99          49.0%     
 Philadelphia Lemon Cream Cheese Frosting 16 Oz                                           $3.75          $2.00          46.7%     
-Chicken of the Sea Fancy Smoked Oysters in Oil 3.75 oz box                               $2.05          $1.10        46.3% ***   
+Dr Pepper soda blackberry 20 fl oz                                                       $2.00          $0.49          75.5%     
+Progresso Lentil Soup 19 oz can                                                          $2.09          $1.00          52.2%     
 Progresso Garlic & Herb Bread Crumbs 15 oz tub                                           $2.28          $1.10          51.8%     
 Suja Organic Ginger & Probiotics Digestion Shot 2 fl oz bottle                           $2.29          $1.16          49.3%     
 FLEX 5 TRIM AND SHAVE                                                                    $5.37          $2.37          55.9%     
@@ -42,6 +49,21 @@ Rubbermaid Take Alongs Large Rectangle Food Storage Containers 2 ct package     
 WATER FRENCH KISS MANGO COCO                                                             $5.58          $1.46          73.8%     
 BLEACH EXTREME ODOR ELIMINATING LAUNDRY BOOSTER                                          $6.98          $3.49        50.0% ***   
 Diet Coke Lime Soda Soft Drink Fridge Pack Cans, 12 fl oz, 12 Pack                       $7.49          $4.00          46.6%     
+Dr Pepper Cream Soda 12 fl oz can 12 pack                                                $7.49          $4.00          46.6%     
+Dr Pepper Zero Soda 12 ct                                                                $7.49          $4.00          46.6%     
+Dr Pepper Zero Cream Soda 12 ct                                                          $7.49          $4.00          46.6%     
+Dr Pepper Zero Cherry Soda 12 ct                                                         $7.49          $4.00          46.6%     
+Dr Pepper strawberries and cream zero sugar 12 pk                                        $7.49          $4.00          46.6%     
+SODA ZERO SUGAR CREAMY COCONUT 12PK                                                      $7.49          $4.00          46.6%     
+Dr Pepper soda blackberry zero sugar 12 pk                                               $7.49          $4.00          46.6%     
+Dr Pepper Diet Original Soda 12 fl oz can 12 pack                                        $7.49          $4.00          46.6%     
+Dr Pepper Cherry Soda 12 fl oz can 12 pack                                               $7.49          $4.00          46.6%     
+Dr Pepper Caffeine Free Diet Soda 12 fl oz can 12 pack                                   $7.49          $4.00          46.6%     
+Dr Pepper soda strawberry and cream 12 pk                                                $7.49          $4.00          46.6%     
+SODA CREAMY COCONUT 12PK                                                                 $7.49          $4.00          46.6%     
+Dr Pepper Soda 12 fl oz can 12 pack                                                      $7.49          $4.00          46.6%     
+Dr Pepper soda blackberry 12 pk                                                          $7.49          $4.00          46.6%     
 Purina Dog Chow Complete Adult Beef Flavor 18.5 Lb                                       $15.17         $7.59          50.0%     
+NOS ENERGY 12PK                                                                          $22.67         $9.99        55.9% ***   
 
 Elapsed Time: N/A
