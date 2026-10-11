@@ -1,4 +1,4 @@
-2026-10-10
+2026-10-11
 Items discounted by 45% or more:
 Lawry's Natural Flavors Steak & Chop 30 Minute Marinade 12 fl oz bottle                  $2.55          $0.56          78.0%     
 Fleischmann's Pizza Crust Yeast 3 ct package                                             $1.22          $0.57          53.3%     
@@ -69,6 +69,6 @@ SODA CREAMY COCONUT 12PK                                                        
 Dr Pepper Soda 12 fl oz can 12 pack                                                      $7.49          $4.00          46.6%     
 Dr Pepper soda blackberry 12 pk                                                          $7.49          $4.00          46.6%     
 Purina Dog Chow Complete Adult Beef Flavor 18.5 Lb                                       $15.17         $7.59          50.0%     
-NOS ENERGY 12PK                                                                          $22.67         $9.99        55.9% ***   
+NOS ENERGY 12PK                                                                          $22.67         $9.99          55.9%     
 
 Elapsed Time: N/A
