@@ -1,4 +1,4 @@
-2026-10-11
+2026-10-12
 Items discounted by 45% or more:
 Lawry's Natural Flavors Steak & Chop 30 Minute Marinade 12 fl oz bottle                  $2.55          $0.56          78.0%     
 Fleischmann's Pizza Crust Yeast 3 ct package                                             $1.22          $0.57          53.3%     
@@ -31,13 +31,13 @@ Bic Soleil Twilight Razor 4 ct package                                          
 Bic Soleil Women's Disposable Razors 4 ct package                                        $5.26          $2.45          53.4%     
 Lawry's Natural Flavors Teriyaki 30 Minute Marinade 12 fl oz bottle                      $2.55          $0.64          74.9%     
 Lawry's Natural Flavors Herb & Garlic 30 Minute Marinade 12 fl oz bottle                 $2.55          $0.64          74.9%     
-MEAL NT CHICKPEA CHANA MASALA WITH BROWN RICE                                            $5.98          $2.99        50.0% ***   
-MEAL NT MEDITERRANEAN VEG AND GRAIN HARVEST BOWL                                         $6.58          $3.55        46.0% ***   
-Freedom Choice Homestyle Creamy Pesto Chicken Pasta 12 Oz                                $5.98          $2.99        50.0% ***   
-Freedom's Choice Pollo Asado Bowl                                                        $5.98          $2.99        50.0% ***   
-Freedom Choice Homestyle Creamy Beef with Egg Noodles 12 Oz                              $5.98          $2.99        50.0% ***   
-Freedom Choice Homestyle Chicken Marsala with Penne Pasta 12 Oz                          $5.98          $2.99        50.0% ***   
-Freedom Choice Lemon Herb Chicken Grain Bowl 12 Oz                                       $5.98          $2.99        50.0% ***   
+MEAL NT CHICKPEA CHANA MASALA WITH BROWN RICE                                            $5.98          $2.99          50.0%     
+MEAL NT MEDITERRANEAN VEG AND GRAIN HARVEST BOWL                                         $6.58          $3.55          46.0%     
+Freedom Choice Homestyle Creamy Pesto Chicken Pasta 12 Oz                                $5.98          $2.99          50.0%     
+Freedom's Choice Pollo Asado Bowl                                                        $5.98          $2.99          50.0%     
+Freedom Choice Homestyle Creamy Beef with Egg Noodles 12 Oz                              $5.98          $2.99          50.0%     
+Freedom Choice Homestyle Chicken Marsala with Penne Pasta 12 Oz                          $5.98          $2.99          50.0%     
+Freedom Choice Lemon Herb Chicken Grain Bowl 12 Oz                                       $5.98          $2.99          50.0%     
 BIC Flex Titanium Sensitive Razors, 3 Count                                              $6.16          $3.16          48.7%     
 Rubbermaid take alongs 32 oz 3 ea                                                        $3.39          $1.79          47.2%     
 Rubbermaid Take Alongs Deep Square Containers 4 ct package                               $3.49          $1.89          45.8%     
@@ -45,7 +45,7 @@ Frank's RedHot Buffalo Wings Sauce 12 fl oz bottle                              
 Rubbermaid take alongs medium bowls 3 ea                                                 $3.95          $1.97          50.1%     
 Pure Harmony Chicken & Rice Recipe Dry Dog Food 3.5 lb                                   $8.49          $4.25          49.9%     
 Pure Harmony Grain Free Pet Senior Dry Dog Food                                          $9.68          $4.84          50.0%     
-MEAL MS FAMILY SIZE MACARONI AND CHEESE                                                  $9.49          $4.46        53.0% ***   
+MEAL MS FAMILY SIZE MACARONI AND CHEESE                                                  $9.49          $4.46          53.0%     
 Rubbermaid Take Alongs Meal Prep Containers 5 ct                                         $5.35          $2.67          50.1%     
 Rubbermaid Take Alongs Serving Bowls 15.7 oz 4 ct package                                $5.39          $2.69          50.1%     
 Rubbermaid Take Along Containers 2 Ct                                                    $5.39          $2.69          50.1%     
