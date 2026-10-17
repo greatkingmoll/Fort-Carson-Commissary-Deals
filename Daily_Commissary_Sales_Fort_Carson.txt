@@ -1,4 +1,4 @@
-2026-10-16
+2026-10-17
 Items discounted by 45% or more:
 Lawry's Natural Flavors Steak & Chop 30 Minute Marinade 12 fl oz bottle                  $2.55          $0.56          78.0%     
 Fleischmann's Pizza Crust Yeast 3 ct package                                             $1.22          $0.57          53.3%     
@@ -78,10 +78,10 @@ Tyson garlic pepper beef steaks 12 oz                                           
 STEAK BITES GARLIC BTTR                                                                  $5.89          $2.59          56.0%     
 PORK TENDERLOIN SSND STKHOUSE                                                            $5.89          $2.85          51.6%     
 TERIYAKI BNLS CHICKEN THIGHS                                                             $6.54          $3.04          53.5%     
-TOASTER PASTRIES S'MORES 4CT                                                             $7.12          $3.56        50.0% ***   
-TOASTER PASTRIES CINNAMON BROWN SUGAR 4CT                                                $7.12          $3.56        50.0% ***   
-TOASTER PASTRIES FROSTED STRAWBERRY 4CT                                                  $7.12          $3.56        50.0% ***   
-Preferred Name: Fanta Crimson Sour Cherry Soda Soft Drink Fridge Pack Cans, 12 fl oz     $7.49          $2.99        60.1% ***   
+TOASTER PASTRIES S'MORES 4CT                                                             $7.12          $3.56          50.0%     
+TOASTER PASTRIES CINNAMON BROWN SUGAR 4CT                                                $7.12          $3.56          50.0%     
+TOASTER PASTRIES FROSTED STRAWBERRY 4CT                                                  $7.12          $3.56          50.0%     
+Preferred Name: Fanta Crimson Sour Cherry Soda Soft Drink Fridge Pack Cans, 12 fl oz     $7.49          $2.99          60.1%     
 Dr Pepper Cream Soda 12 fl oz can 12 pack                                                $7.49          $4.00          46.6%     
 Dr Pepper Zero Soda 12 ct                                                                $7.49          $4.00          46.6%     
 Dr Pepper Zero Cream Soda 12 ct                                                          $7.49          $4.00          46.6%     
