@@ -1,4 +1,4 @@
-2026-10-27
+2026-10-28
 Items discounted by 45% or more:
 Dr Pepper soda blackberry 20 fl oz                                                       $2.00          $0.49          75.5%     
 Wrigley's Orbit Wintermint Sugarfree Gum 14 ct package                                   $1.10          $0.50          54.5%     
@@ -19,6 +19,7 @@ Freedom's Choice Paprika Spice 2.12 oz jar                                      
 Progresso Italian Style Bread Crumbs 15 oz tub                                           $2.28          $1.10          51.8%     
 Progresso Garlic & Herb Bread Crumbs 15 oz tub                                           $2.28          $1.10          51.8%     
 Progresso Plain Bread Crumbs 15 oz tub                                                   $2.28          $1.10          51.8%     
+Chicken of the Sea Fancy Smoked Oysters in Oil 3.75 oz box                               $2.05          $1.10          46.3%     
 PROTEIN BAR PEANUT BUTTER CUP                                                            $2.19          $1.11          49.3%     
 Built Puff Protein Bar, Mint Chip, Single Puff Protein Bar 1.44 Oz                       $2.19          $1.11          49.3%     
 Frank's RedHot Original Cayenne Pepper Sauce 12 fl oz bottle                             $3.50          $1.15          67.1%     
@@ -27,16 +28,11 @@ TEA LEMONADE RASPBERRY                                                          
 Arm & Hammer Fresh and Soft Tropical Burst Fabric Softener Sheets 100 ct box             $2.69          $1.19          55.8%     
 Clean Shower Daily Shower Cleaner 32 fl oz bottle                                        $2.44          $1.22          50.0%     
 Muir Glen Organic Fire Roasted Diced Tomatoes 14.5 oz can                                $2.50          $1.32          47.2%     
-Bolthouse Farms Peach Parfait Breakfast Smoothie 15.2 fl oz bottle                       $2.75          $1.39          49.5%     
-Bolthouse Farms C-BOOST Smoothie 15.2 fl oz bottle                                       $2.75          $1.39          49.5%     
-Bolthouse Farms Strawberry Parfait Yogurt 15.2. fl oz bottle                             $2.75          $1.39          49.5%     
-Bolthouse Farms Vanilla Chai Tea 15.2 fl oz bottle                                       $2.75          $1.39          49.5%     
-Bolthouse Farms Strawberry Banana Fruit Smoothie 15.2 fl oz bottle                       $2.79          $1.41          49.5%     
-GT's Enlightened Synergy Organic Watermelon Wonder Kombucha Drink 16 fl oz bottle        $2.99          $1.51          49.5%     
 General Mills Chex Wheat Cereal 14 oz box                                                $3.79          $1.61          57.5%     
 General Mills Chex Gluten-free Corn Cereal 12 oz box                                     $3.79          $1.61          57.5%     
 General Mills Chex Gluten-free Rice Cereal 12 oz box                                     $3.79          $1.61          57.5%     
 Rubbermaid take alongs 32 oz 3 ea                                                        $3.39          $1.79          47.2%     
+Freedom's Choice Hickory Smoked Bacon 16 oz                                              $3.76          $1.83          51.3%     
 ACTIVE ENERGY TOP PUNCH 4PK                                                              $3.57          $1.88        47.3% ***   
 Rubbermaid Take Alongs Deep Square Containers 4 ct package                               $3.49          $1.89          45.8%     
 Kellogg's Froot Loops Cereal 8.9 oz                                                      $3.69          $1.99          46.1%     
@@ -53,9 +49,9 @@ SPARKLING WATER ISLAND PUNCH                                                    
 Preferred Name: Fanta Crimson Sour Cherry Soda Soft Drink Fridge Pack Cans, 12 fl oz     $7.49          $2.99          60.1%     
 Diet Coke Lime Soda Soft Drink Fridge Pack Cans, 12 fl oz, 12 Pack                       $7.49          $2.99          60.1%     
 BIC Flex Titanium Sensitive Razors, 3 Count                                              $6.16          $3.16          48.7%     
+Bolthouse Farms Chunky Blue Cheese Yogurt Dressing & Dip.                                $3.25          $1.65          49.2%     
 BLEACH EXTREME ODOR ELIMINATING LAUNDRY BOOSTER                                          $6.98          $3.49          50.0%     
 EVERYTHING BAGEL THICK CUT BACON                                                         $7.18          $3.74          47.9%     
-Freedom's Choice Hickory Smoked Bacon 16 oz                                              $3.76          $1.83          51.3%     
 ACTIVE ENERGY TROP PUNCH 10PK                                                            $7.42          $3.77        49.2% ***   
 Materne GoGo Squeez Non-GMO Variety Pack Apple and Gimme Five Applesauce 3.2 oz pouc     $7.46          $3.77        49.5% ***   
 Dr Pepper Zero Soda 12 ct                                                                $7.49          $4.00          46.6%     
@@ -69,18 +65,21 @@ Dr Pepper soda blackberry zero sugar 12 pk                                      
 Dr Pepper soda strawberry and cream 12 pk                                                $7.49          $4.00          46.6%     
 Dr Pepper soda blackberry 12 pk                                                          $7.49          $4.00          46.6%     
 Evamor Natural Artesian Water Drink 64 fl oz bottle 4 pack                               $8.08          $4.17          48.4%     
-Pure Harmony Chicken & Rice Recipe Dry Dog Food 3.5 lb                                   $8.49          $4.25          49.9%     
 Arm&Hammer Fabric Scent Booster Maui Sunset                                              $4.39          $2.39          45.6%     
 Arm&Hammer Fabric Scent Booster Maui Sunset                                              $4.39          $2.39          45.6%     
 TEA LEMONADE RASPBERRY 6PK                                                               $4.39          $1.54          64.9%     
 Pure Harmony Grain Free Pet Senior Dry Dog Food                                          $9.68          $4.84          50.0%     
-FRUIT VARIETY DISCOVERY 20PK                                                             $9.98          $5.05        49.4% ***   
+TERIYAKI CHICKEN BREAST FILETS                                                           $5.24          $2.62          50.0%     
 WATER FRENCH KISS MANGO COCO                                                             $5.58          $1.46          73.8%     
 Kandoo Sensitive Baby Wipes with Flip Top 3 packs 48 ct                                  $5.76          $3.14          45.5%     
+Tyson garlic pepper beef steaks 12 oz                                                    $5.89          $2.59          56.0%     
+TERIYAKI BNLS CHICKEN THIGHS                                                             $6.54          $3.04          53.5%     
 Dr Pepper Zero Cream Soda 12 ct                                                          $7.49          $4.00          46.6%     
 Dr Pepper strawberries and cream zero sugar 12 pk                                        $7.49          $4.00          46.6%     
 Dr Pepper Diet Original Soda 12 fl oz can 12 pack                                        $7.49          $4.00          46.6%     
 SODA CREAMY COCONUT 12PK                                                                 $7.49          $4.00          46.6%     
+BEEF BRISKET BURGERS                                                                     $9.78          $4.89          50.0%     
+RIBEYE BEEF STEAK BURGERS                                                                $11.76         $5.89          49.9%     
 NOS ENERGY 12PK                                                                          $22.67         $9.99          55.9%     
 
 Elapsed Time: N/A
