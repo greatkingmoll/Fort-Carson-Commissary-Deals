@@ -11,10 +11,10 @@ Arm & Hammer Fresh Scensations Island Mist Carpet Odor Eliminator 30 oz         
 Betty Crocker Gluten-free Rich & Creamy Coconut Pecan Frosting 15.5 oz tub               $2.12          $0.94          55.7%     
 Betty Crocker Oreo Whipped Frosting Creme 13.6 oz                                        $2.12          $0.94          55.7%     
 NOS energy drink zero sugar 16 fl oz                                                     $1.94          $0.99          49.0%     
-Full Throttle Citrus Energy Drink 16 fl oz can                                           $1.90          $0.99          47.9%     
 DRINK ENERGY RED APPLE                                                                   $1.89          $0.99          47.6%     
 DRINK ENERGY GRAND PRIX GUAVA                                                            $1.89          $0.99          47.6%     
 Nos Caffeine Taurine High Performance Energy Drink 16 fl oz can                          $1.89          $0.99          47.6%     
+Progresso Lentil Soup 19 oz can                                                          $2.09          $1.00          52.2%     
 Freedom's Choice Paprika Spice 2.12 oz jar                                               $1.85          $1.00          45.9%     
 Progresso Italian Style Bread Crumbs 15 oz tub                                           $2.28          $1.10          51.8%     
 Progresso Garlic & Herb Bread Crumbs 15 oz tub                                           $2.28          $1.10          51.8%     
@@ -24,36 +24,37 @@ Built Puff Protein Bar, Mint Chip, Single Puff Protein Bar 1.44 Oz              
 Frank's RedHot Original Cayenne Pepper Sauce 12 fl oz bottle                             $3.50          $1.15          67.1%     
 Frank's RedHot Buffalo Wings Sauce 12 fl oz bottle                                       $3.50          $1.15          67.1%     
 TEA LEMONADE RASPBERRY                                                                   $1.16          $0.56          51.7%     
-Butterball Premium Turkey                                                                $2.07          $0.89          57.0%     
-Butterball all Natural Premium Frozen Turkey                                             $2.07          $0.89          57.0%     
-Butterball all Natural Premium Frozen Turkey                                             $2.07          $0.89          57.0%     
-Butterball all Natural Premium Turkey                                                    $2.07          $0.89          57.0%     
 Arm & Hammer Fresh and Soft Tropical Burst Fabric Softener Sheets 100 ct box             $2.69          $1.19          55.8%     
-Butterball all natural premium frozen turkey (24lbs & up)                                $2.10          $0.88          58.0%     
 Clean Shower Daily Shower Cleaner 32 fl oz bottle                                        $2.44          $1.22          50.0%     
+Butterball Premium Turkey                                                                $2.07          $0.77          63.0%     
+Butterball all Natural Premium Turkey                                                    $2.07          $0.77          63.0%     
+Butterball all Natural Premium Frozen Turkey                                             $2.07          $0.77          63.0%     
+Butterball all Natural Premium Frozen Turkey                                             $2.07          $0.77          63.0%     
 Muir Glen Organic Fire Roasted Diced Tomatoes 14.5 oz can                                $2.50          $1.32          47.2%     
-Honeysuckle Tender & Juicy Frozen Turkey                                                 $1.93          $0.62          68.0%     
+Butterball all natural premium frozen turkey (24lbs & up)                                $2.10          $0.76          64.0%     
+Honeysuckle Tender & Juicy Frozen Turkey                                                 $1.93          $0.52          73.0%     
 Rubbermaid take alongs 32 oz 3 ea                                                        $3.39          $1.79          47.2%     
 Freedom's Choice Hickory Smoked Bacon 16 oz                                              $3.76          $1.83          51.3%     
 ACTIVE ENERGY TOP PUNCH 4PK                                                              $3.57          $1.88          47.3%     
 Rubbermaid Take Alongs Deep Square Containers 4 ct package                               $3.49          $1.89          45.8%     
-Shady Brook Farms all natural young turkey 20-24 lb                                      $2.80          $0.90          68.0%     
-Shady Brook Farms all natural young turkey 16-20 lb                                      $2.80          $0.90          68.0%     
-Shady Brook Farms all natural young turkey 24-26 lb                                      $2.80          $0.90          68.0%     
-Honeysuckle Tender & Juicy Frozen Turkey 20-24lb                                         $2.80          $0.90          68.0%     
-Honeysuckle Tender & Juicy Frozen Turkey 24-26 lb                                        $2.80          $0.90          68.0%     
-Honeysuckle Tender & Juicy Frozen Turkey 26 - 28 lb                                      $2.80          $0.90          68.0%     
-Shady Brook Farms all natural young turkey 16-20 lb                                      $2.80          $0.90          68.0%     
-Shady Brook Farms all natural young turkey 10-16 lb                                      $2.80          $0.90          68.0%     
-Honeysuckle Tender & Juicy Frozen Turkey 10 - 16 lb                                      $2.82          $0.90          68.0%     
 Kellogg's Froot Loops Cereal 8.9 oz                                                      $3.69          $1.99          46.1%     
 Kellogg's Frosted Flakes Cereal 12 oz                                                    $3.69          $1.99          46.1%     
 Kellogg's Corn Pops Cereal 8.8 oz                                                        $3.69          $1.99          46.1%     
 Kellogg's Apple Jacks Cereal 8.9 oz                                                      $3.69          $1.99          46.1%     
-Progresso Lentil Soup 19 oz can                                                          $2.09          $1.00          52.2%     
+SODA ZERO SUGAR CREAMY COCONUT 12PK                                                      $7.49          $1.99          73.4%     
+Shady Brook Farms all natural young turkey 20-24 lb                                      $2.80          $0.76          73.0%     
+Shady Brook Farms all natural young turkey 16-20 lb                                      $2.80          $0.76          73.0%     
+Shady Brook Farms all natural young turkey 24-26 lb                                      $2.80          $0.76          73.0%     
+Honeysuckle Tender & Juicy Frozen Turkey 20-24lb                                         $2.80          $0.76          73.0%     
+Honeysuckle Tender & Juicy Frozen Turkey 24-26 lb                                        $2.80          $0.76          73.0%     
+Honeysuckle Tender & Juicy Frozen Turkey 26 - 28 lb                                      $2.80          $0.76          73.0%     
+Shady Brook Farms all natural young turkey 16-20 lb                                      $2.80          $0.76          73.0%     
+Shady Brook Farms all natural young turkey 10-16 lb                                      $2.80          $0.76          73.0%     
+Honeysuckle Tender & Juicy Frozen Turkey 10 - 16 lb                                      $2.82          $0.76          73.0%     
 FLEX 5 TRIM AND SHAVE                                                                    $5.37          $2.37          55.9%     
 Bic Soleil Twilight Razor 4 ct package                                                   $5.26          $2.47          53.0%     
 Bic Soleil Women's Disposable Razors 4 ct package                                        $5.26          $2.47          53.0%     
+DESSERT MILK CHOCOLATE BANANA BITES                                                      $5.59          $2.92        47.8% ***   
 SPARKLING WATER NOJITO                                                                   $5.96          $2.96          50.3%     
 SPARKLING WATER GRAPEADE                                                                 $5.96          $2.96          50.3%     
 SPARKLING WATER ISLAND PUNCH                                                             $5.96          $2.96          50.3%     
@@ -69,7 +70,6 @@ Dr Pepper Zero Soda 12 ct                                                       
 Dr Pepper Zero Cherry Soda 12 ct                                                         $7.49          $4.00          46.6%     
 Dr Pepper Soda 12 fl oz can 12 pack                                                      $7.49          $4.00          46.6%     
 Dr Pepper Caffeine Free Diet Soda 12 fl oz can 12 pack                                   $7.49          $4.00          46.6%     
-SODA ZERO SUGAR CREAMY COCONUT 12PK                                                      $7.49          $4.00          46.6%     
 Dr Pepper Cream Soda 12 fl oz can 12 pack                                                $7.49          $4.00          46.6%     
 Dr Pepper Cherry Soda 12 fl oz can 12 pack                                               $7.49          $4.00          46.6%     
 Dr Pepper soda blackberry zero sugar 12 pk                                               $7.49          $4.00          46.6%     
@@ -87,7 +87,6 @@ Jennie O Turkey patty 16 oz                                                     
 WATER FRENCH KISS MANGO COCO                                                             $5.58          $1.46          73.8%     
 DESSERT MILK CHOCOLATE BANANA HALVES                                                     $5.59          $2.92          47.8%     
 DESSERT DARK CHOCOLATE BANANA HALVES                                                     $5.59          $2.92          47.8%     
-DESSERT MILK CHOCOLATE BANANA BITES                                                      $5.59          $2.92        47.8% ***   
 Bolthouse Farms Strawberry Banana Fruit Smoothie 52 fl oz bottle                         $5.69          $2.88          49.4%     
 Kandoo Sensitive Baby Wipes with Flip Top 3 packs 48 ct                                  $5.76          $3.14          45.5%     
 Tyson garlic pepper beef steaks 12 oz                                                    $5.89          $2.59          56.0%     
