@@ -1,9 +1,9 @@
-2026-11-10
+2026-11-11
 Items discounted by 45% or more:
-Diet Coke Cherry Diet Soda Soft Drink Bottle, 20 fl oz                                   $2.00          $0.39          80.5%     
 SODA CREAMY COCONUT FE                                                                   $2.00          $0.39          80.5%     
 Coca Cola soda dieat coke lime 20 oz                                                     $2.00          $0.39          80.5%     
 SODA ZERO SUGAR CREAMY COCONUT FE                                                        $2.00          $0.39          80.5%     
+Diet Coke Cherry Diet Soda Soft Drink Bottle, 20 fl oz                                   $2.00          $0.39          80.5%     
 Dr Pepper soda blackberry 20 fl oz                                                       $2.00          $0.49          75.5%     
 Wrigley's Orbit Wintermint Sugarfree Gum 14 ct package                                   $1.10          $0.50          54.5%     
 Imperial 53% Vegetable Oil Spread 16 oz box                                              $1.29          $0.65          50.0%     
@@ -69,7 +69,7 @@ Cheese Lovers Stone-fired Cauliflower Crust Pizza, 11.1 oz.                     
 Violife Cheese Substitute Cream Original 7.05 Oz                                         $3.49          $1.75          50.0%     
 Pure Harmony Grain Free Pet Senior Dry Dog Food                                          $9.68          $3.50          63.8%     
 Violife Cheese Substitute Vegan Smoked Provolone Slice 7.05 Oz                           $3.69          $1.84          50.0%     
-Heluva Good! French Onion Cream Dip 24 oz                                                $3.72          $1.22        67.2% ***   
+Heluva Good! French Onion Cream Dip 24 oz                                                $3.72          $1.22          67.2%     
 Dr Pepper Zero Soda 12 ct                                                                $7.49          $4.00          46.6%     
 Dr Pepper Zero Cherry Soda 12 ct                                                         $7.49          $4.00          46.6%     
 Dr Pepper Caffeine Free Diet Soda 12 fl oz can 12 pack                                   $7.49          $4.00          46.6%     
@@ -94,6 +94,6 @@ Persil detergent liquid advanced clean oxi power 84 fl oz                       
 Persil Instense Fresh Detergent 64 Loads 84 Fl Oz                                        $11.54         $5.94          48.5%     
 CHICKEN & RICE RECIPE DRY DOG FOOD                                                       $23.28         $11.64         50.0%     
 Pure Harmony Salmon Sweet Potato and Apple Dry Dog Food 12 lb bag                        $25.85         $12.93         50.0%     
-SLEEP ADULT FAST ACTING                                                                  $15.00         $7.72        48.5% ***   
+SLEEP ADULT FAST ACTING                                                                  $15.00         $7.72          48.5%     
 
 Elapsed Time: N/A
