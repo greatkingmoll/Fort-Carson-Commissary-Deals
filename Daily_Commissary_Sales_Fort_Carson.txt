@@ -34,7 +34,7 @@ Country Crock drizzle Butter Squeeze 14 oz                                      
 Violife Just like Cream Cheese 100 % Dairy Free 8 Oz                                     $3.49          $1.75          50.0%     
 Axe Clean Cut Look Signature Hair Styling Classic Pomade 2.64 oz jar                     $6.44          $1.77        72.5% ***   
 I can't believe it's not butter sticks 4 ea                                              $3.59          $1.79          50.0%     
-Dove Men + Care Extra Fresh Soap Bar 4 oz 2 ct box                                       $4.53          $1.84        59.4% ***   
+Dove Men + Care Extra Fresh Soap Bar 4 oz 2 ct box                                       $4.89          $1.84        62.4% ***   
 Violife Cheese Sub Sandwich With Shredded Mozzarella Vegan 8 Oz                          $3.69          $1.84          50.0%     
 Violife Cheese Substitute Cheddar Slices 7.05 Oz                                         $3.69          $1.84          50.0%     
 Violife Cheese Sub With Shredded Cheddar Vegan 8 Oz                                      $3.69          $1.84          50.0%     
@@ -60,9 +60,9 @@ MEAL NT BOWL RISOTTO CHICKEN                                                    
 FLEX 5 TRIM AND SHAVE                                                                    $5.37          $2.37          55.9%     
 Arm&Hammer Fabric Scent Booster Maui Sunset                                              $4.39          $2.39          45.6%     
 Arm&Hammer Fabric Scent Booster Maui Sunset                                              $4.39          $2.39          45.6%     
-Bic Soleil Twilight Razor 4 ct package                                                   $5.26          $2.47          53.0%     
-Bic Soleil Women's Disposable Razors 4 ct package                                        $5.26          $2.47          53.0%     
 Cauliflower Peperoni Pizza 11.3 Oz                                                       $6.82          $2.59          62.0%     
+Bic Soleil Twilight Razor 4 ct package                                                   $5.68          $2.68          52.8%     
+Bic Soleil Women's Disposable Razors 4 ct package                                        $5.68          $2.68          52.8%     
 General Mills Cheerios Giant Size Gluten-free Whole Grain Oats Cereal 20 oz box          $5.35          $2.72          49.2%     
 DESSERT MILK CHOCOLATE BANANA BITES                                                      $5.59          $2.92          47.8%     
 Vegolutionary Foods Caulipower New Chick on the Block Gluten-free All-Natural Rice F     $7.25          $2.97          59.0%     
@@ -111,6 +111,5 @@ Persil Liquid Detergent, Activewear Clean 84 Oz                                 
 Persil detergent liquid advanced clean oxi power 84 fl oz                                $11.54         $5.94          48.5%     
 Persil Instense Fresh Detergent 64 Loads 84 Fl Oz                                        $11.54         $5.94          48.5%     
 CHICKEN & RICE RECIPE DRY DOG FOOD                                                       $23.28         $11.64         50.0%     
-Pure Harmony Salmon Sweet Potato and Apple Dry Dog Food 12 lb bag                        $25.85         $12.93         50.0%     
 
 Elapsed Time: N/A
