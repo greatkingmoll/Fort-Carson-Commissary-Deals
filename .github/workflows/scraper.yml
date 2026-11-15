@@ -1,37 +1,51 @@
 name: Daily_Commissary_Scraper
 
 permissions:
-  contents: write   # allow write access to repository contents
+  contents: write
+
 on:
   schedule:
-    - cron: '30 10,14 * * *'  
-  workflow_dispatch:     # Allows manual trigger
+    - cron: '30 10,14 * * *'
+  workflow_dispatch:
+
+# Prevent overlapping runs from trying to push changes simultaneously.
+concurrency:
+  group: daily-commissary-scraper-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
           python-version: '3.9'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install selenium requests webdriver-manager
+          python -m pip install selenium requests webdriver-manager
 
-      - name: Install Chrome and Chromedriver
+      - name: Check Chrome and ChromeDriver
         run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium-browser
-          wget -N https://chromedriver.storage.googleapis.com/$(curl -sS chromedriver.storage.googleapis.com/LATEST_RELEASE)/chromedriver_linux64.zip
-          unzip chromedriver_linux64.zip
-          sudo mv chromedriver /usr/local/bin/
+          google-chrome --version
+          chromedriver --version
+          echo "Chrome location:"
+          command -v google-chrome
+          echo "ChromeDriver location:"
+          command -v chromedriver
+
+      - name: Ensure ChromeDriver is available at the previous location
+        run: |
+          DRIVER_PATH="$(command -v chromedriver)"
+          if [ "$DRIVER_PATH" != "/usr/local/bin/chromedriver" ]; then
+            sudo ln -sf "$DRIVER_PATH" /usr/local/bin/chromedriver
+          fi
 
       - name: Run scraper
         env:
@@ -43,10 +57,17 @@ jobs:
         run: |
           echo "=== Files in directory ==="
           ls -la
+
           echo "=== Git status ==="
           git status
+
           echo "=== Contents of seen_items.json ==="
-          cat seen_items.json
+          if [ -f seen_items.json ]; then
+            cat seen_items.json
+          else
+            echo "seen_items.json does not exist."
+          fi
+
           echo "=== Git diff ==="
           git diff
 
@@ -54,7 +75,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+
           git add seen_items.json Daily_Commissary_Sales_*.html Daily_Commissary_Sales_*.txt
+
           if ! git diff --cached --quiet; then
             git commit -m "Automated update of Commissary deals"
             git push
