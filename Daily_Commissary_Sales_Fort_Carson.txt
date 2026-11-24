@@ -1,4 +1,4 @@
-2026-11-23
+2026-11-24
 Items discounted by 45% or more:
 Wrigley's Orbit Wintermint Sugarfree Gum 14 ct package                                   $1.10          $0.50          54.5%     
 Cesar Canine Cuisine Classic Loaf in Sauce Porterhouse Steak Flavor Wet Dog Food 3.5     $1.09          $0.49          55.0%     
@@ -7,9 +7,9 @@ Cesar Classic Loaf Grilled Steak and Eggs Flavor Wet Dog Food 28 fl oz          
 Cesar Canine Cuisine Grilled Chicken Flavor Classic Loaf in Sauce Wet Dog Food 3.5 o     $1.09          $0.49          55.0%     
 Axe Dark Temptation 48 Hours Antiperspirant and Deodorant 2.7 oz tube                    $4.34          $1.10          74.7%     
 Progresso Garlic & Herb Bread Crumbs 15 oz tub                                           $2.28          $1.10          51.8%     
-Progresso Plain Bread Crumbs 15 oz tub                                                   $2.28          $1.10          51.8%     
 Progresso Italian Style Bread Crumbs 15 oz tub                                           $2.28          $1.10          51.8%     
 Axe Phoenix All Day Dry Antiperspirant and Deodorant 2.7 oz tube                         $4.34          $1.10          74.7%     
+Progresso Plain Bread Crumbs 15 oz tub                                                   $2.28          $1.10          51.8%     
 PROTEIN BAR PEANUT BUTTER CUP                                                            $2.19          $1.11          49.3%     
 Built Puff Protein Bar, Mint Chip, Single Puff Protein Bar 1.44 Oz                       $2.19          $1.11          49.3%     
 Axe Clean and Relaxed Dark Temptation Body Wash 16 fl oz bottle                          $4.47          $1.14          74.5%     
@@ -20,8 +20,8 @@ CREAM SODA                                                                      
 TEA LEMONADE RASPBERRY                                                                   $1.16          $0.56          51.7%     
 CHERRY COLA SODA                                                                         $2.29          $1.16          49.3%     
 STRAWBERRY VANILLA SODA                                                                  $2.29          $1.16          49.3%     
-RIDGE RUSH SODA                                                                          $2.29          $1.16          49.3%     
 CLASSIC ROOT BEER SODA                                                                   $2.29          $1.16          49.3%     
+RIDGE RUSH SODA                                                                          $2.29          $1.16          49.3%     
 Butterball Premium Turkey                                                                $2.07          $0.77          63.0%     
 Butterball all Natural Premium Frozen Turkey                                             $2.07          $0.77          63.0%     
 Butterball all Natural Premium Turkey                                                    $2.07          $0.77          63.0%     
@@ -32,6 +32,9 @@ Butterball all natural premium frozen turkey (24lbs & up)                       
 Honeysuckle Tender & Juicy Frozen Turkey                                                 $1.93          $0.52          73.0%     
 BODYSPRAY PHOENIX                                                                        $5.45          $1.47          73.0%     
 BODYSPRAY DARK TEMPTATION                                                                $5.46          $1.48          72.9%     
+Tyson savory campfire pork chops 12 oz                                                   $3.94          $1.50          61.9%     
+PORK CHOPS SMOKEY CHILI BTTR                                                             $3.94          $1.50          61.9%     
+Tyson classic garlic and herb boneless pork chops 12 oz                                  $3.94          $1.50          61.9%     
 Rubbermaid take alongs 32 oz 3 ea                                                        $3.39          $1.69          50.1%     
 Axe Clean Cut Look Signature Hair Styling Classic Pomade 2.64 oz jar                     $6.44          $1.77          72.5%     
 Rubbermaid Take Alongs Deep Square Containers 4 ct package                               $3.49          $1.79          48.7%     
@@ -63,25 +66,31 @@ Rubbermaid Take Along Containers 2 Ct                                           
 Rubbermaid Take Alongs Large Rectangle Food Storage Containers 2 ct package              $5.39          $2.83          47.5%     
 DESSERT MILK CHOCOLATE BANANA BITES                                                      $5.59          $2.92          47.8%     
 HAIR SPRAY EXTRA HOLD                                                                    $5.82          $2.98          48.8%     
+TERIYAKI BNLS CHICKEN THIGHS                                                             $6.54          $3.04          53.5%     
 Pure Harmony Salmon & Brown Rice Recipe Cat Food 48 oz bag                               $6.29          $3.15          49.9%     
 BIC Flex Titanium Sensitive Razors, 3 Count                                              $6.16          $3.16          48.7%     
 MOUSSE EXTRA HOLD                                                                        $6.42          $3.31          48.4%     
 STYLING AID LAMELLAR GLOSS OIL                                                           $6.49          $3.32          48.8%     
 STYLING AID LAMELLAR GLOSS SPRAY                                                         $6.49          $3.32          48.8%     
 STYLING AID LAMELLAR GLOSS SERUM                                                         $6.49          $3.32          48.8%     
+BEEF STEAKS SW RANCHERO                                                                  $6.62          $3.32          49.8%     
+Tyson garlic pepper beef steaks 12 oz                                                    $6.62          $3.32          49.8%     
 Lotus Biscoff Vanilla Sandwich Cookies 15 ct 150 g package                               $3.39          $1.79          47.2%     
 HOT PREMIUM BACON                                                                        $3.42          $1.71          50.0%     
 CH STYLING GEL                                                                           $6.79          $3.49          48.6%     
 Pure Harmony Grain Free Pet Senior Dry Dog Food                                          $9.68          $3.50          63.8%     
 Pure Harmony Beef & Brown Rice Recipe Dog Food 4 lb bag                                  $8.49          $4.25          49.9%     
+Tyson Ground Beef Pork Loaf                                                              $8.80          $4.29          51.3%     
 TEA LEMONADE RASPBERRY 6PK                                                               $4.39          $1.54          64.9%     
 Dove Men + Care Extra Fresh Soap Bar 3.75 oz 8 ct box                                    $12.42         $4.50          63.8%     
 CURL STRETCH STYLING SPRAY                                                               $9.17          $4.72          48.5%     
 SHAMPOO CURL STRETCH                                                                     $9.17          $4.72          48.5%     
 CONDITIONER CURL STRETCH                                                                 $9.17          $4.72          48.5%     
 CURL STRTCH ELONGATING CREAM                                                             $9.17          $4.72          48.5%     
+BEEF BRISKET BURGERS                                                                     $9.78          $4.89          50.0%     
 DESSERT MILK CHOCOLATE BANANA HALVES                                                     $5.59          $2.92          47.8%     
 DESSERT DARK CHOCOLATE BANANA HALVES                                                     $5.59          $2.92          47.8%     
+RIBEYE BEEF STEAK BURGERS                                                                $11.76         $5.89          49.9%     
 Dove Men+Care Hydrating Clean Comfort Body Wash 18 Oz                                    $6.77          $3.70          45.3%     
 Men+Care Refreshing Extra Fresh Body + Face Wash 18 Fl Oz                                $6.77          $3.70          45.3%     
 Men+Care Purifying Charcoal+Clay Body and Face Wash 18 Oz                                $6.77          $3.70          45.3%     
