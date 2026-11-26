@@ -1,4 +1,4 @@
-2026-11-25
+2026-11-26
 Items discounted by 45% or more:
 Wrigley's Orbit Wintermint Sugarfree Gum 14 ct package                                   $1.10          $0.50          54.5%     
 Cesar Canine Cuisine Classic Loaf in Sauce Porterhouse Steak Flavor Wet Dog Food 3.5     $1.09          $0.49          55.0%     
@@ -39,6 +39,9 @@ Rubbermaid take alongs 32 oz 3 ea                                               
 Axe Clean Cut Look Signature Hair Styling Classic Pomade 2.64 oz jar                     $6.44          $1.77          72.5%     
 Rubbermaid Take Alongs Deep Square Containers 4 ct package                               $3.49          $1.79          48.7%     
 Dove Men + Care Extra Fresh Soap Bar 4 oz 2 ct box                                       $4.89          $1.84          62.4%     
+Cousin Willie's Microwave Popcorm, Movie Theater Butter 8.7 Oz                           $1.86          $0.95          48.9%     
+Cousin Willie's Buttery Explosion Microwave Popcorn 8.7 Oz                               $1.86          $0.95          48.9%     
+Sweet & Salty Kettle Corn 3 Pack                                                         $1.86          $0.95          48.9%     
 SH 2N1 FRESH CLEAN                                                                       $6.72          $1.93          71.3%     
 Hetbahn cupbahn stir fried kimchi 8.72 oz                                                $4.89          $2.01          58.9%     
 Hillshire Farm Beef Smoked Sausage 12 oz package                                         $4.42          $2.02          54.3%     
@@ -57,7 +60,6 @@ SHAMPOO MOISTURE RICH                                                           
 Betty Crocker Gluten-free Rich & Creamy Coconut Pecan Frosting 15.5 oz tub               $2.12          $0.94          55.7%     
 Betty Crocker Oreo Whipped Frosting Creme 13.6 oz                                        $2.12          $0.94          55.7%     
 Full circle organic pure honey 12 oz                                                     $4.38          $2.20          49.8%     
-Kevita Organic Lemon Cayenne Sparkling Probiotic Drink 15.2 fl oz bottle                 $2.30          $1.17          49.1%     
 Rubbermaid Take Alongs Meal Prep Containers 5 ct                                         $5.35          $2.67          50.1%     
 Bic Soleil Twilight Razor 4 ct package                                                   $5.68          $2.68          52.8%     
 Bic Soleil Women's Disposable Razors 4 ct package                                        $5.68          $2.68          52.8%     
@@ -94,5 +96,11 @@ RIBEYE BEEF STEAK BURGERS                                                       
 Dove Men+Care Hydrating Clean Comfort Body Wash 18 Oz                                    $6.77          $3.70          45.3%     
 Men+Care Refreshing Extra Fresh Body + Face Wash 18 Fl Oz                                $6.77          $3.70          45.3%     
 Men+Care Purifying Charcoal+Clay Body and Face Wash 18 Oz                                $6.77          $3.70          45.3%     
+DRY SHAMPOO REFRESHING MIST                                                              $13.28         $7.18          45.9%     
+SHAMPOO DRY ADVANCED CLEAN                                                               $13.28         $7.18          45.9%     
+PRPK MT TURKEY MEATBALLS                                                                 $7.34          $3.75        48.9% ***   
+Tyson Ground Beef Patties 80% 10 Pk 40 Oz                                                $15.68         $7.76          50.5%     
+Purina Beneful Healthy Weight With Farm Raised Chicken Adult Dog Food 14 lb bag          $15.59         $7.80        50.0% ***   
+Purina Beneful Originals With Farm Raised Beef Adult DogFood 14lbbag                     $15.59         $7.80        50.0% ***   
 
 Elapsed Time: N/A
